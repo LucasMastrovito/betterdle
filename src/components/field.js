@@ -27,7 +27,7 @@ function Field(props) {
     const text = typeof(props.name) === "string" ? props.name.replace(/;/g, " ") : props.name ;
     console.log(0.5*props.index)
     return (
-        <div className={`outline field ${getMatchStatus(
+        <div className={`outline scale field ${getMatchStatus(
                 props.field.type,
                 props.name,
                 props.random[props.field.key],
