@@ -1,5 +1,3 @@
-
-
 .classic {
     display: flex;
     flex-direction: column;
@@ -68,6 +66,7 @@
     color: white;
     inline-size: 5vw;
     overflow-wrap: break-word;
+    opacity: 0;
 }
 
 .field.match {

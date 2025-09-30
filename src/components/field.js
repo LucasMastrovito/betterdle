@@ -25,14 +25,15 @@ function getMatchStatus(type, guessValue, answerValue, order) {
 
 function Field(props) {
     const text = typeof(props.name) === "string" ? props.name.replace(/;/g, " ") : props.name ;
-
+    console.log(0.5*props.index)
     return (
         <div className={`outline field ${getMatchStatus(
                 props.field.type,
                 props.name,
                 props.random[props.field.key],
                 props.field.order
-            )}`}>
+            )}`}
+            style={{animation: "fadeIn 0.5s forwards linear 1", animationDelay: `${0.5*props.index}s`}}>
             { typeof props.name === "string" && props.name.includes(".png") ?
             <img alt={props.name} src={props.name} style={{height: "5vw", width: "5vw"}} /> :
             <p>{ text }</p> }
