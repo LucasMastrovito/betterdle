@@ -93,7 +93,7 @@ function Classic(props) {
     return (
         <div className="classic">
             <form className="form" onSubmit={submit}>
-                <input type="text" value={search} onChange={update}></input>
+                <input type="text" className="searchbar" placeholder="Type a name or alias" value={search} onChange={update}></input>
                 { btns }
             </form>
             <div className="row">
