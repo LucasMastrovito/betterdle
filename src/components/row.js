@@ -2,7 +2,6 @@ import Field from "./field";
 
 function Row(props) {
     const data = props.data;
-    console.log(props.field)
 
     return (
         <div className="row">
