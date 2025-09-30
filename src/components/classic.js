@@ -86,7 +86,7 @@ function Classic(props) {
         });
         setSearch("");
         setBtns([]);
-        setRows([...rows, <Row key={e.nativeEvent.submitter.value} data={newObj} field={fields} random={random} />]);
+        setRows([<Row key={e.nativeEvent.submitter.value} data={newObj} field={fields} random={random} />, ...rows]);
         data.splice(index, 1);
     };
 
