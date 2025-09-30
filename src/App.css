@@ -39,6 +39,9 @@ p {
 }
 
 #onepiece {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   background-image: url("assets/onepiece-bg.jpg");
   background-size: cover;
   height: 100vh;

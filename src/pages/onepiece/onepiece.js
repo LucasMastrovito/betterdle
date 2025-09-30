@@ -6,7 +6,7 @@ import logo from "../../assets/onepiece-logo.png";
 function Onepiece() {
     return (
         <div id="onepiece">
-            <img alt="logo" className="scale" src={logo} style={{maxWidth: "30vw"}} />
+            <img alt="logo" className="scale" src={logo} style={{maxWidth: "30vw", maxHeight: "20vh"}} />
             <Classic data={data} fields={fields} />
         </div>
     )
