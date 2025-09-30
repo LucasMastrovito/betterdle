@@ -3,6 +3,48 @@
     flex-direction: column;
     align-items: center;
     gap: 3vh;
+    padding: 2vw;
+}
+
+.form {
+    width: 25vw;
+}
+
+.submit {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    height: 5vh;
+    width: 100%;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: darkgray;
+}
+
+.submit:hover {
+    background-color: lightgray;
+}
+
+.submit-input {
+    border: none;
+    background: none;
+}
+
+.submit-text {
+    width: 80%;
+}
+
+.submit-img {
+    height: 5vh;
+    width: 5vh;
+}
+
+.field-name {
+    height: 2vw;
+    width: 5vw;
+    padding: 2px;
+    color: aliceblue;
+    border-bottom: aliceblue 2px solid;
 }
 
 .row {
@@ -11,9 +53,52 @@
 }
 
 .field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8vw;
     height: 5vw;
     width: 5vw;
     border: 2px solid white;
     border-radius: 5px;
-    background-color: lightslategrey
+    background-color: lightslategrey;
+    color: white;
+    inline-size: 5vw;
+    overflow-wrap: break-word;
+}
+
+.field.match {
+  background-color: rgb(12, 180, 12);
+}
+
+.field.partial {
+  background-color: orange;
+}
+
+.field.wrong {
+  background-color: red;
+}
+
+.field.superior {
+  background-color: red;
+  background-image: url("../assets/down-arrow.png");
+  background-size: contain;
+}
+
+.field.inferior {
+  background-color: red;
+  background-image: url("../assets/up-arrow.png");
+  background-size: contain;
+}
+
+.field.before {
+  background-color: red;
+  background-image: url("../assets/right-arrow.png");
+  background-size: contain;
+}
+
+.field.after {
+  background-color: red;
+  background-image: url("../assets/left-arrow.png");
+  background-size: contain;
 }

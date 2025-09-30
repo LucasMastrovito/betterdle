@@ -2,7 +2,7 @@ import Onepiece from "./onepiece/onepiece";
 
 function Home() {
     return (
-        <div>
+        <div className="home">
             <Onepiece></Onepiece>
         </div>
     )
