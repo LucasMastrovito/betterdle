@@ -35,7 +35,7 @@ function Field(props) {
             )}`}
             style={{animation: "fadeIn 0.5s forwards linear 1", animationDelay: `${0.5*props.index}s`}}>
             { typeof props.name === "string" && props.name.includes(".png") ?
-            <img alt={props.name} src={props.name} style={{height: "5vw", width: "5vw"}} /> :
+            <img alt={props.name} className="field-img" src={props.name} /> :
             <p>{ text }</p> }
         </div>
     )

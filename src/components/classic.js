@@ -96,12 +96,14 @@ function Classic(props) {
                 <input name="search" type="text" className="searchbar" placeholder="Type a name or alias" value={search} onChange={update}></input>
                 { btns }
             </form>
-            <div className="row">
-                { fields.map((field, index) => (
-                    <p key={index} className="field-name outline">{ field.title }</p>
-                ))}
+            <div className="grid">
+                <div className="row">
+                    { fields.map((field, index) => (
+                        <p key={index} className="field-name outline">{ field.title }</p>
+                    ))}
+                </div>
+                { rows }
             </div>
-            { rows }
         </div>
     )
 }
