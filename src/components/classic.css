@@ -80,8 +80,19 @@
     opacity: 0;
 }
 
+.submit-text input {
+    font-size: clamp(0.2rem, 2.5vw, 0.8rem);
+    margin: 0;
+}
+
+.submit-text p {
+    font-size: clamp(0.2rem, 2vw, 0.8rem);
+    margin: 0;
+    font-style: italic;
+}
+
 .field p {
-  font-size: clamp(0.2rem, 1vw, 0.8rem);
+  font-size: clamp(0.2rem, 2vw, 0.8rem);
   line-height: 1.2;
   word-wrap: break-word;
   overflow-wrap: break-word;

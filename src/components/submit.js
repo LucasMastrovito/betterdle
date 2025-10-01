@@ -4,7 +4,7 @@ function Submit(props) {
             <img className="submit-img" src={props.item.image_url} alt={props.item.name} />
             <div className="submit-text">
                 <input id={props.item.name} className="submit-input" type="submit" value={props.item.name}></input>
-                <p style={{margin: "0", fontSize: "small"}}>
+                <p>
                     {props.item.aliases ? props.item.aliases.replace(/;/g, " -") : ""}
                 </p>
             </div>
