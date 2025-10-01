@@ -80,6 +80,7 @@
     font-weight: bold;
     overflow-wrap: break-word;
     opacity: 0;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
 .submit-text input {
@@ -229,4 +230,20 @@
     .field-name {
         width: 100%;
     }
+}
+
+.legend {
+    width: 60%;
+    border: #f5f5f5 solid 2px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.field-indicator {
+    height: 64px;
+    width: 64px;
 }

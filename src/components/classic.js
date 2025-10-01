@@ -127,6 +127,40 @@ function Classic(props) {
                 </div>
                 { rows }
             </div>
+            <div className="legend" style={{display: 'none'}}>
+                <h2>Indicators</h2>
+                <div className="row" style={{gap: "2em"}}>
+                    <div className="field-indicator">
+                        <div className="field match" style={{opacity: '1'}}></div>
+                        <p>Correct</p>
+                    </div>
+                    <div className="field-indicator">
+                        <div className="field wrong" style={{opacity: '1'}}></div>
+                        <p>Wrong</p>
+                    </div>
+                    <div className="field-indicator">
+                        <div className="field partial" style={{opacity: '1'}}></div>
+                        <p>Partial</p>
+                    </div>
+                    <div className="field-indicator">
+                        <div className="field after" style={{opacity: '1'}}></div>
+                        <p>Before</p>
+                    </div>
+                    <div className="field-indicator">
+                        <div className="field before" style={{opacity: '1'}}></div>
+                        <p>After</p>
+                    </div>
+                    <div className="field-indicator">
+                        <div className="field superior" style={{opacity: '1'}}></div>
+                        <p>Inferior</p>
+                    </div>
+                    <div className="field-indicator">
+                        <div className="field inferior" style={{opacity: '1'}}></div>
+                        <p>Superior</p>
+                    </div>
+                </div>
+                
+            </div>
             { find ? <Win data={random}></Win> : <span></span> }
         </div>
     )
