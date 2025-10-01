@@ -38,6 +38,7 @@
 .submit-img {
     height: 5vh;
     width: 5vh;
+    object-fit: cover; 
 }
 
 .field-name {

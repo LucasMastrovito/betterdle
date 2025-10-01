@@ -38,14 +38,30 @@ function getIndexByName(data, name) {
     return data.findIndex((item) => item.name === name);
 }
 
+function hashStringToNumber(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = (hash << 5) - hash + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash);
+}
+
+function seededShuffle(array, seed) {
+  const arr = [...array];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = (seed + i) % arr.length;
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 function getRandomCharacter(data) {
-    const startDate = new Date("2023-01-01");
-    const today = new Date();
-    const diffDays = Math.floor(
-        (today - startDate) / (1000 * 60 * 60 * 24)
-    );
-    const index = diffDays % data.length;
-    return data[index];
+    const today = new Date().toISOString().slice(0, 10);
+    const seed = hashStringToNumber(today);
+
+    const shuffled = seededShuffle(data, seed);
+    return shuffled[0];
 }
 
 function Classic(props) {
