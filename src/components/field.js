@@ -26,7 +26,6 @@ function getMatchStatus(type, guessValue, answerValue, order) {
 function Field(props) {
     const text = typeof(props.name) === "string" ? props.name.replace(/;/g, " ") : props.name ;
 
-    console.log(props.random)
     return (
         <div className={`outline scale field ${getMatchStatus(
                 props.field.type,

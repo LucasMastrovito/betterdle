@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Submit from "./submit";
 import Row from "./row";
 import "./classic.css";
+import Win from "./win";
 
 function filterByNameOrAlias(arr, search) {
   const lowerSearch = search.toLowerCase();
@@ -71,6 +72,7 @@ function Classic(props) {
     const [btns, setBtns] = useState([]);
     const [rows, setRows] = useState([]);
     const [random, setRandom] = useState(null);
+    const [find, setFind] = useState(false);
 
     useEffect(() => {
         setRandom(getRandomCharacter(data));
@@ -95,6 +97,11 @@ function Classic(props) {
         const index = getIndexByName(data, e.nativeEvent.submitter.value);
 
         e.preventDefault();
+
+        if (e.nativeEvent.submitter.value === random.name) {
+            setFind(true);
+        }
+
         fields.forEach(key => {
             if (data[index].hasOwnProperty(key.key)) {
                 newObj[key.key] = data[index][key.key];
@@ -109,7 +116,7 @@ function Classic(props) {
     return (
         <div className="classic">
             <form className="form" onSubmit={submit}>
-                <input name="search" type="text" className="searchbar" placeholder="Type a name or alias" value={search} onChange={update}></input>
+                <input name="search" type="text" className="searchbar" placeholder="Type a name or alias" value={search} onChange={update} disabled={find}></input>
                 { btns }
             </form>
             <div className="grid">
@@ -120,6 +127,7 @@ function Classic(props) {
                 </div>
                 { rows }
             </div>
+            { find ? <Win data={random}></Win> : <span></span> }
         </div>
     )
 }
