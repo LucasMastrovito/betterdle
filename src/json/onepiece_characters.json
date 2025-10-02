@@ -1148,20 +1148,6 @@
     "aliases": "Death God; Grim Reaper"
   },
   {
-    "name": "Doc Q",
-    "sex": "Male",
-    "affiliation": "Blackbeard Pirates",
-    "devil_fruit_type": "Paramecia",
-    "haki": "None",
-    "bounty": 72000000,
-    "height": 342,
-    "origin": "North Blue",
-    "first_arc": "Jaya",
-    "first_episode": 146,
-    "image_url": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Doc_Q_Anime_Infobox.png",
-    "aliases": "Death God; Grim Reaper"
-  },
-  {
     "name": "Donquixote Doflamingo",
     "sex": "Male",
     "affiliation": "Donquixote Pirates",
@@ -1891,12 +1877,12 @@
   },
   {
     "name": "Imu",
-    "sex": null,
+    "sex": "Unknown",
     "affiliation": "World Government",
     "devil_fruit_type": "None",
     "haki": "Conqueror",
     "bounty": 0,
-    "height": null,
+    "height": 80,
     "origin": "Unknown",
     "first_arc": "Levely",
     "first_episode": 885,
@@ -1905,7 +1891,7 @@
   },
   {
     "name": "Inazuma",
-    "sex": "",
+    "sex": "Male",
     "affiliation": "Kamabakka Kingdom",
     "devil_fruit_type": "Paramecia",
     "haki": "None",
@@ -3094,20 +3080,6 @@
     "aliases": "God of the Sea; Great Knight of the Sea; Umi no Dai-kishi"
   },
   {
-    "name": "Neptune",
-    "sex": null,
-    "affiliation": "Neptune Family",
-    "devil_fruit_type": "None",
-    "haki": "None",
-    "bounty": 0,
-    "height": 1220,
-    "origin": "Grand Line",
-    "first_arc": "Fish-Man Island",
-    "first_episode": 530,
-    "image_url": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png",
-    "aliases": "God of the Sea; Great Knight of the Sea; Umi no Dai-kishi"
-  },
-  {
     "name": "Nico Olvia",
     "sex": "Female",
     "affiliation": "Oharahaeologists",
@@ -3208,7 +3180,7 @@
   {
     "name": "Page One",
     "sex": "Male",
-    "affiliation": "Yamato",
+    "affiliation": "Beasts Pirates",
     "devil_fruit_type": "Ancient Zoan",
     "haki": "Armament;Observation",
     "bounty": 290000000,
@@ -3292,7 +3264,7 @@
   {
     "name": "Perona",
     "sex": "Female",
-    "affiliation": "Dracule Mihawk",
+    "affiliation": "Thriller Bark Pirates",
     "devil_fruit_type": "Paramecia",
     "haki": "None",
     "bounty": 0,

@@ -115,6 +115,9 @@ function Classic(props) {
 
     return (
         <div className="classic">
+            <div className="tips">
+                
+            </div>
             <form className="form" onSubmit={submit}>
                 <input name="search" type="text" className="searchbar" placeholder="Type a name or alias" value={search} onChange={update} disabled={find}></input>
                 { btns }
