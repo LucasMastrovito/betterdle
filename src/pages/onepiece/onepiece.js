@@ -7,7 +7,7 @@ function Onepiece() {
     return (
         <div id="onepiece">
             <img alt="logo" className="scale" src={logo} style={{maxWidth: "30vw", maxHeight: "20vh"}} />
-            <Classic data={data} fields={fields} />
+            <Classic data={data} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />
         </div>
     )
 }

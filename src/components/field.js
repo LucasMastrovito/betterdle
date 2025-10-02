@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 function getMatchStatus(type, guessValue, answerValue, order) {
   if (type === "number") {
     return guessValue > answerValue ? "superior" : guessValue === answerValue ? "match" : "inferior";
@@ -25,9 +27,16 @@ function getMatchStatus(type, guessValue, answerValue, order) {
 
 function Field(props) {
     const text = typeof(props.name) === "string" ? props.name.replace(/;/g, " ") : props.name ;
+    const [name, setName] = useState(false);
+
+    const displayName = (e) => {
+      if (typeof props.name === "string" && props.name.includes(".png")) {
+        setName(!name);
+      }
+    }
 
     return (
-        <div className={`outline scale field ${getMatchStatus(
+        <div onMouseEnter={displayName} onMouseLeave={displayName} className={`outline scale field ${getMatchStatus(
                 props.field.type,
                 props.name,
                 props.random[props.field.key],
@@ -37,6 +46,7 @@ function Field(props) {
             { typeof props.name === "string" && props.name.includes(".png") ?
             <img alt={props.name} className="field-img" src={props.name} /> :
             <p>{ text }</p> }
+            <p style={{zIndex: "10"}}>{name ? props.character : ''}</p>
         </div>
     )
 }

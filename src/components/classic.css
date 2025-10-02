@@ -4,10 +4,12 @@
     align-items: center;
     width: 80%;
     gap: 0.5rem;
+    margin-bottom: 2vh;
 }
 
 .form {
     width: 50%;
+    padding-top: 3vh;
 }
 
 .submit {
@@ -252,4 +254,15 @@
 .field-indicator {
     height: 64px;
     width: 64px;
+}
+
+.tips-container {
+    color: white;
+}
+
+.tips {
+    background-color: rgb(18, 49, 77);
+    border: white 2px solid;
+    border-radius: 15px;
+    padding: 0.5em;
 }

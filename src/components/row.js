@@ -6,7 +6,7 @@ function Row(props) {
     return (
         <div className="row">
             { Object.entries(data).map(([key, value], index) => (
-                <Field key={index} index={index} name={value} field={props.field[index]} random={props.random} />
+                <Field key={index} index={index} character={props.character} name={value} field={props.field[index]} random={props.random} />
             ))}
         </div>
     )

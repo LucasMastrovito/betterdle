@@ -3,6 +3,7 @@ import Submit from "./submit";
 import Row from "./row";
 import "./classic.css";
 import Win from "./win";
+import Tips from "./tips";
 
 function filterByNameOrAlias(arr, search) {
   const lowerSearch = search.toLowerCase();
@@ -73,6 +74,8 @@ function Classic(props) {
     const [rows, setRows] = useState([]);
     const [random, setRandom] = useState(null);
     const [find, setFind] = useState(false);
+    const [tries, setTries] = useState(0);
+    const [showTips, setShowTips] = useState(false);
 
     useEffect(() => {
         setRandom(getRandomCharacter(data));
@@ -109,14 +112,20 @@ function Classic(props) {
         });
         setSearch("");
         setBtns([]);
-        setRows([<Row key={e.nativeEvent.submitter.value} data={newObj} field={fields} random={random} />, ...rows]);
+        setRows([<Row key={e.nativeEvent.submitter.value} character={data[index].name} data={newObj} field={fields} random={random} />, ...rows]);
+        setTries(tries + 1);
         data.splice(index, 1);
     };
 
     return (
         <div className="classic">
-            <div className="tips">
-
+            <div className="tips-container card">
+                <h3 className="outline" style={{marginTop: '0'}}>Tips</h3>
+                <div style={{display: showTips ? "flex" : "none", gap: "3em", paddingBottom: "1em"}}>
+                    <Tips name={props.first_tips.name} tips={random ? random[props.first_tips.key] : ""} tries={5 - tries}></Tips>
+                    <Tips name={props.second_tips.name} tips={random ? random[props.second_tips.key] : ""} tries={10 - tries}></Tips>
+                </div>
+                <button onClick={(e) => setShowTips(!showTips)}>{!showTips ? 'Show' : 'Hide'}</button>
             </div>
             <form className="form" onSubmit={submit}>
                 <input name="search" type="text" className="searchbar" autoComplete="off" placeholder="Type a name or alias" value={search} onChange={update} disabled={find}></input>
