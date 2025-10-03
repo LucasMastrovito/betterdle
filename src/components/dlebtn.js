@@ -6,8 +6,8 @@ function Dlebtn(props) {
         navigate(props.link);
     }
     return (
-        <div className="dlebtn" onClick={click}>
-            <img alt="logo" className="scale" src={props.logo} style={{maxWidth: "30vw", maxHeight: "20vh"}} />
+        <div className="dlebtn">
+            <img alt="logo" className="scale" onClick={click} src={props.logo} style={{maxWidth: "30vw", maxHeight: "20vh", cursor: 'pointer'}} />
         </div>
     )
 }
