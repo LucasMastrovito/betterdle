@@ -1,0 +1,38 @@
+[
+    {
+        "key" : "image_url",
+        "title" : "Character",
+        "type" : "none"
+    },
+    {
+        "key" : "sex",
+        "title" : "Gender",
+        "type" : "equal"
+    },
+    {
+        "key" : "affiliation",
+        "title" : "Affiliation",
+        "type" : "equal"
+    },
+    {
+        "key" : "race",
+        "title" : "Race",
+        "type" : "equal"
+    },
+    {
+        "key" : "height",
+        "title" : "Height",
+        "type" : "number"
+    },
+    {
+        "key" : "origin",
+        "title" : "Origin",
+        "type" : "equal"
+    },
+    {
+        "key" : "first_arc",
+        "title" : "First Arc",
+        "type" : "order",
+        "order" : [ "Debut" ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Goku",
+    "sex": "Male",
+    "affiliation": "Z",
+    "race": "Saiyan",
+    "height": 195,
+    "origin": "Planet Vegeta",
+    "first_arc": "Debut",
+    "first_episode": 1,
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/ba/Goku_anime_profile.png",
+    "aliases": "Kakarot"
+  },
+  {
+    "name": "Vegeta",
+    "sex": "Male",
+    "affiliation": "Z",
+    "race": "Saiyan",
+    "height": 195,
+    "origin": "Planet Vegeta",
+    "first_arc": "Debut",
+    "first_episode": 100,
+    "image_url": "https://static.wikia.nocookie.net/dragonball/images/9/94/Vegeta_anime_profile.png",
+    "aliases": null
+  }
+]

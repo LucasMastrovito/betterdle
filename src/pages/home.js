@@ -1,4 +1,4 @@
-import Onepiece from "./onepiece/onepiece";
+import Onepiece from "./onepiece";
 
 function Home() {
     return (

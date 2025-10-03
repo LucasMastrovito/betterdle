@@ -33,6 +33,7 @@ p {
   overflow: hidden;
   background-color: #33415eb7;
   backdrop-filter: blur(8px);
+  color: white;
   border: 2px solid #ffffff80;
   border-radius: 10px;
   padding: 1em 2em;
@@ -83,31 +84,30 @@ button:hover {
   overflow: hidden;
 }
 
-#onepiece {
+.dle {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("assets/onepiece-bg.jpg");
   background-size: cover;
   height: 100vh;
   padding: 1vh;
   overflow: auto;
 }
 
-#onepiece::-webkit-scrollbar-track
+::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
 	border-radius: 10px;
 	background-color: #F5F5F5;
 }
 
-#onepiece::-webkit-scrollbar
+::-webkit-scrollbar
 {
 	width: 12px;
 	background-color: #f5f5f500;
 }
 
-#onepiece::-webkit-scrollbar-thumb
+::-webkit-scrollbar-thumb
 {
 	border-radius: 10px;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);

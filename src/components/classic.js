@@ -4,6 +4,7 @@ import Row from "./row";
 import "./classic.css";
 import Win from "./win";
 import Tips from "./tips";
+import Indicator from "./indicator";
 
 function filterByNameOrAlias(arr, search) {
   const lowerSearch = search.toLowerCase();
@@ -87,7 +88,7 @@ function Classic(props) {
         setSearch(e.target.value);
         if (e.target.value !== "") {
             setBtns(
-                results.slice(0, 10).map((element, index) => (
+                results.map((element, index) => (
                 <Submit key={index} item={element} />
             )));
         } else {
@@ -129,7 +130,7 @@ function Classic(props) {
             </div>
             <form className="form" onSubmit={submit}>
                 <input name="search" type="text" className="searchbar" autoComplete="off" placeholder="Type a name or alias" value={search} onChange={update} disabled={find}></input>
-                { btns }
+                <div className="submit-container">{ btns }</div>
             </form>
             <div className="grid">
                 <div className="row">
@@ -139,40 +140,7 @@ function Classic(props) {
                 </div>
                 { rows }
             </div>
-            <div className="legend" style={{display: 'none'}}>
-                <h2>Indicators</h2>
-                <div className="row" style={{gap: "2em"}}>
-                    <div className="field-indicator">
-                        <div className="field match" style={{opacity: '1'}}></div>
-                        <p>Correct</p>
-                    </div>
-                    <div className="field-indicator">
-                        <div className="field wrong" style={{opacity: '1'}}></div>
-                        <p>Wrong</p>
-                    </div>
-                    <div className="field-indicator">
-                        <div className="field partial" style={{opacity: '1'}}></div>
-                        <p>Partial</p>
-                    </div>
-                    <div className="field-indicator">
-                        <div className="field after" style={{opacity: '1'}}></div>
-                        <p>Before</p>
-                    </div>
-                    <div className="field-indicator">
-                        <div className="field before" style={{opacity: '1'}}></div>
-                        <p>After</p>
-                    </div>
-                    <div className="field-indicator">
-                        <div className="field superior" style={{opacity: '1'}}></div>
-                        <p>Inferior</p>
-                    </div>
-                    <div className="field-indicator">
-                        <div className="field inferior" style={{opacity: '1'}}></div>
-                        <p>Superior</p>
-                    </div>
-                </div>
-                
-            </div>
+            <Indicator></Indicator>
             { find ? <Win data={random}></Win> : <span></span> }
         </div>
     )
