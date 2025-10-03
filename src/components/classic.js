@@ -5,6 +5,7 @@ import "./classic.css";
 import Win from "./win";
 import Tips from "./tips";
 import Indicator from "./indicator";
+import { useNavigate } from "react-router-dom";
 
 function filterByNameOrAlias(arr, search) {
   const lowerSearch = search.toLowerCase();
@@ -68,6 +69,7 @@ function getRandomCharacter(data) {
 }
 
 function Classic(props) {
+    const navigate = useNavigate();
     const data = props.data;
     const fields = props.fields;
     const [search, setSearch] = useState("");
@@ -96,6 +98,10 @@ function Classic(props) {
         }
     };
 
+    const home = (e) => {
+      navigate('/');
+    }
+
     const submit = (e) => {
         const newObj = {};
         const index = getIndexByName(data, e.nativeEvent.submitter.value);
@@ -120,6 +126,7 @@ function Classic(props) {
 
     return (
         <div className="classic">
+          <button className="home-btn" onClick={home}>Home</button>
             <div className="tips-container card">
                 <h3 className="outline" style={{marginTop: '0'}}>Tips</h3>
                 <div style={{display: showTips ? "flex" : "none", gap: "3em", paddingBottom: "1em"}}>

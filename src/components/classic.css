@@ -12,6 +12,13 @@
     padding-top: 3vh;
 }
 
+.home-btn {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 2em;
+}
+
 .submit {
     display: flex;
     align-items: center;
