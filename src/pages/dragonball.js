@@ -8,7 +8,7 @@ function Dragonball() {
     return (
         <div className="dle" style={{backgroundImage: `url(${bg})`}}>
             <img alt="logo" className="scale" src={logo} style={{maxWidth: "30vw", maxHeight: "20vh"}} />
-            <Classic data={data} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />
+            <Classic name={"dragonball"} data={data} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />
         </div>
     )
 }
