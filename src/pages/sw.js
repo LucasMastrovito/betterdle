@@ -8,7 +8,7 @@ function Sw() {
     return (
         <div className="dle" style={{backgroundImage: `url(${bg})`}}>
             <img alt="logo" className="scale" src={logo} style={{maxWidth: "30vw", maxHeight: "20vh"}} />
-            <Classic name={"sw"} data={data} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />
+            <Classic name={"sw"} data={data} fields={fields} first_tips={{name: "Type", key: "type"}} second_tips={{name: "Family", key: "family"}} />
         </div>
     )
 }
