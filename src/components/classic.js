@@ -107,7 +107,6 @@ function Classic(props) {
     const loadGame = () => {
       const load = getTries(props.name);
       const rowsBuffer = [];
-      console.log(random)
 
       load.forEach((el) => {
         const newObj = {};
