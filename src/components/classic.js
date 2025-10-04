@@ -126,7 +126,6 @@ function Classic(props) {
       setTries(rowsBuffer.length);
       setLoading(false);
     }
-    //localStorage.clear();
     if (loading && random) {
       loadGame();
     }

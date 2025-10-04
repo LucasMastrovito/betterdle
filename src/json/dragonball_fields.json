@@ -5,12 +5,12 @@
         "type" : "none"
     },
     {
-        "key" : "sex",
+        "key" : "gender",
         "title" : "Gender",
         "type" : "equal"
     },
     {
-        "key" : "affiliation",
+        "key" : "allegiance",
         "title" : "Affiliation",
         "type" : "equal"
     },
@@ -25,13 +25,13 @@
         "type" : "number"
     },
     {
-        "key" : "origin",
-        "title" : "Origin",
+        "key" : "universe",
+        "title" : "Universe",
         "type" : "equal"
     },
     {
-        "key" : "first_arc",
-        "title" : "First Arc",
+        "key" : "first_arc_or_film",
+        "title" : "First Appearance",
         "type" : "order",
         "order" : [ "Debut" ]
     }
