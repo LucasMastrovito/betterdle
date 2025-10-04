@@ -5,7 +5,7 @@ import "./classic.css";
 import Win from "./win";
 import Tips from "./tips";
 import Indicator from "./indicator";
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 
 function filterByNameOrAlias(arr, search) {
   const lowerSearch = search.toLowerCase();
@@ -89,7 +89,7 @@ function getTries(game) {
 
 function Classic(props) {
   const navigate = useNavigate();
-  const data = props.data;
+  const [data, setData] = useState(props.data);
   const fields = props.fields;
   const [search, setSearch] = useState("");
   const [btns, setBtns] = useState([]);
@@ -107,28 +107,30 @@ function Classic(props) {
     const loadGame = () => {
       const load = getTries(props.name);
       const rowsBuffer = [];
+      const dataBuffer = Object.assign([{}], props.data);
 
       load.forEach((el) => {
         const newObj = {};
-        if (data[el].name === random.name) {
+        if (dataBuffer[el].name === random.name) {
           setFind(true);
         }
         fields.forEach(key => {
-          if (data[el].hasOwnProperty(key.key)) {
-            newObj[key.key] = data[el][key.key];
+          if (dataBuffer[el].hasOwnProperty(key.key)) {
+            newObj[key.key] = dataBuffer[el][key.key];
           }
         });
-        rowsBuffer.push(<Row key={data[el].name} character={data[el].name} data={newObj} field={fields} random={random} />);
-        data.splice(el, 1);
+        rowsBuffer.push(<Row key={dataBuffer[el].name} character={dataBuffer[el].name} data={newObj} field={fields} random={random} />);
+        dataBuffer.splice(el, 1);
       });
       setRows(rowsBuffer.reverse());
       setTries(rowsBuffer.length);
       setLoading(false);
+      setData(dataBuffer);
     }
     if (loading && random) {
       loadGame();
     }
-  }, [loading, random, props.name, data, fields]);
+  }, [loading, random, props.name, props.data, data, fields]);
 
   const update = (e) => {
     const results = filterByNameOrAlias(data, e.target.value);

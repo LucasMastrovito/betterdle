@@ -6,7 +6,6 @@ function Win(props) {
     const click = (e) => {
         setDisplay("none");
     }
-    console.log(props.data)
     return (
         <div className="win" style={{display: display}}>
             <div className="modal">
