@@ -23,5 +23,25 @@
         "key" : "family",
         "title" : "Family",
         "type" : "equal"
+    },
+    {
+        "key" : "base_speed",
+        "title" : "Speed",
+        "type" : "number"
+    },
+    {
+        "key" : "usage_list",
+        "title" : "Usage",
+        "type" : "equal"
+    },
+    {
+        "key" : "awaken_bonus",
+        "title" : "Awaken",
+        "type" : "equal"
+    },
+    {
+        "key" : "skill_up",
+        "title" : "Skill Up",
+        "type" : "number"
     }
 ]

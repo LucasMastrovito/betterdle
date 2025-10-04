@@ -4,9 +4,9 @@ function getMatchStatus(type, guessValue, answerValue, order) {
   if (type === "number") {
     return guessValue > answerValue ? "superior" : guessValue === answerValue ? "match" : "inferior";
   }
-
-  const guess = guessValue.split(";");
-  const answer = answerValue.split(";");
+  
+  const guess = typeof(guessValue) === "string" ? guessValue.split(";") : guessValue;
+  const answer = typeof(guessValue) === "string" ? answerValue.split(";") : answerValue;
 
   if (type === "equal") {
     if (guessValue === answerValue) {
