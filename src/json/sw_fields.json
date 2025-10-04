@@ -1,0 +1,27 @@
+[
+    {
+        "key" : "image_url",
+        "title" : "Monster",
+        "type" : "none"
+    },
+    {
+        "key" : "star_grade",
+        "title" : "Grade",
+        "type" : "number"
+    },
+    {
+        "key" : "element",
+        "title" : "Element",
+        "type" : "equal"
+    },
+    {
+        "key" : "type",
+        "title" : "Type",
+        "type" : "equal"
+    },
+    {
+        "key" : "family",
+        "title" : "Family",
+        "type" : "equal"
+    }
+]

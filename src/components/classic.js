@@ -5,7 +5,7 @@ import "./classic.css";
 import Win from "./win";
 import Tips from "./tips";
 import Indicator from "./indicator";
-import { useLocation, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 function filterByNameOrAlias(arr, search) {
   const lowerSearch = search.toLowerCase();

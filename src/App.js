@@ -3,6 +3,7 @@ import './App.css';
 import Home from './pages/home';
 import Onepiece from './pages/onepiece';
 import Dragonball from './pages/dragonball';
+import Sw from './pages/sw';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/onepiece' element={<Onepiece />} />
           <Route path='/dragonball' element={<Dragonball />} />
+          <Route path='/sw' element={<Sw />} />
         </Routes>
       </BrowserRouter>
     </div>
