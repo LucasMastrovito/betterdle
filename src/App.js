@@ -4,8 +4,19 @@ import Home from './pages/home';
 import Onepiece from './pages/onepiece';
 import Dragonball from './pages/dragonball';
 import Sw from './pages/sw';
+import { useEffect } from 'react';
 
 function App() {
+  useEffect(() => {
+  const today = new Date().toDateString();
+  const lastReset = localStorage.getItem("lastReset");
+
+  if (lastReset !== today) {
+    localStorage.clear();
+    localStorage.setItem("lastReset", today);
+  }
+}, []);
+
   return (
     <div className="App">
       <BrowserRouter>
