@@ -1828,7 +1828,7 @@
       "Farming"
     ],
     "base_speed": 102,
-    "awaken_bonus": "Increases Defense of ally monsters with the Wind element by 40%",
+    "awaken_bonus": "Increases Defense",
     "skill_up": 15
   },
   {
@@ -7572,7 +7572,7 @@
       "Real Time Arena"
     ],
     "base_speed": 103,
-    "awaken_bonus": "Increases Attack Power of ally monsters in Guild content by 33%",
+    "awaken_bonus": "Increases Attack Power",
     "skill_up": 10
   },
   {
@@ -7676,7 +7676,7 @@
       "Guild Content"
     ],
     "base_speed": 103,
-    "awaken_bonus": "Increases HP of ally monsters in Guild content by 33%",
+    "awaken_bonus": "Increases HP",
     "skill_up": 10
   },
   {
@@ -10689,7 +10689,7 @@
       "Farming"
     ],
     "base_speed": 103,
-    "awaken_bonus": "Increases Defense of ally monsters in Guild content by 33%",
+    "awaken_bonus": "Increases Defense",
     "skill_up": 10
   },
   {
@@ -12036,7 +12036,7 @@
       "Farming"
     ],
     "base_speed": 102,
-    "awaken_bonus": "Increases Defense of ally monsters with the Water element by 40%",
+    "awaken_bonus": "Increases Defense",
     "skill_up": 15
   },
   {
