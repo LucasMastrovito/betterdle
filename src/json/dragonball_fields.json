@@ -20,19 +20,18 @@
         "type" : "equal"
     },
     {
-        "key" : "height",
+        "key" : "height_cm_estimate",
         "title" : "Height",
         "type" : "number"
     },
     {
-        "key" : "universe",
-        "title" : "Universe",
-        "type" : "equal"
+        "key" : "transformation_count",
+        "title" : "Transformations",
+        "type" : "number"
     },
     {
         "key" : "first_arc_or_film",
         "title" : "First Appearance",
-        "type" : "order",
-        "order" : [ "Debut" ]
+        "type" : "equal"
     }
 ]
