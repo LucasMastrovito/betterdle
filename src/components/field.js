@@ -30,7 +30,7 @@ function Field(props) {
     const [name, setName] = useState(false);
 
     const displayName = (e) => {
-      if (typeof props.name === "string" && props.name.includes(".png")) {
+      if (typeof props.name === "string" && (props.name.includes(".png") || props.name.includes(".jpg"))) {
         setName(!name);
       }
     }
@@ -43,7 +43,7 @@ function Field(props) {
                 props.field.order
             )}`}
             style={{animation: "fadeIn 0.5s forwards linear 1", animationDelay: `${0.5*props.index}s`}}>
-            { typeof props.name === "string" && props.name.includes(".png") ?
+            { typeof props.name === "string" && (props.name.includes(".png") || props.name.includes(".jpg")) ?
             <img alt={props.name} className="field-img" src={props.name} /> :
             <p>{ text }</p> }
             <p style={{zIndex: "10"}}>{name ? props.character : ''}</p>
