@@ -20,7 +20,7 @@
         "type" : "equal"
     },
     {
-        "key" : "height_cm_estimate",
+        "key" : "height",
         "title" : "Height",
         "type" : "number"
     },
