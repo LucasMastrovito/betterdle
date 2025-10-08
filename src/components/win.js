@@ -15,6 +15,7 @@ function Win(props) {
                     <img alt="img" src={props.data.image_url} className="win-img" />
                     <h2>{props.data.name}</h2>
                 </div>
+                <p>{props.tries} tries</p>
                 <button className="btn" onClick={click}>Next</button>
             </div>
         </div>
