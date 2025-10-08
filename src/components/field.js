@@ -1,6 +1,9 @@
 import { useState } from "react";
 
 function getMatchStatus(type, guessValue, answerValue, order) {
+  if (type === "none") {
+    return "";
+  }
   if (type === "number") {
     return guessValue > answerValue ? "superior" : guessValue === answerValue ? "match" : "inferior";
   }
