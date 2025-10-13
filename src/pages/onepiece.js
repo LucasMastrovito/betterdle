@@ -30,8 +30,7 @@ function Onepiece() {
     };
     const modes = [
         <Classic name={"onepiece"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode name={"onepiece"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />,
-        <Findmode />
+        <Findmode name={"onepiece"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
     ];
 
     return (

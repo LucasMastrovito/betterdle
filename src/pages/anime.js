@@ -1,17 +1,18 @@
 import Classic from "../components/classic";
-import data from "../json/sw_characters.json";
-import fields from "../json/sw_fields.json";
-import bg from "../assets/sw-bg.jpg";
-import logo from "../assets/sw-logo.png";
-import { useNavigate } from "react-router-dom";
+import data from "../json/anime_characters.json";
+import fields from "../json/anime_fields.json";
+import bg from "../assets/anime-bg.jpg";
+import logo from "../assets/anime-logo.png";
 import Findmode from "../components/findmode";
 import Modemenu from "../components/modemenu";
-import Modebtn from "../components/modebtn";
 import { useState } from "react";
+import Modebtn from "../components/modebtn";
 import { getRandomCharacter } from "../components/getrandom";
+import { useNavigate } from "react-router-dom";
 import Homebtn from "../components/homebtn";
 
-function Sw() {
+
+function Anime() {
     const navigate = useNavigate();
     const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture")];
     const [current, setCurrent] = useState(0);
@@ -28,8 +29,8 @@ function Sw() {
         }
     };
     const modes = [
-        <Classic name={"sw"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "Type", key: "type"}} second_tips={{name: "Family", key: "family"}} />,
-        <Findmode name={"sw"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
+        <Classic name={"anime"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
+        <Findmode name={"anime"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
     ];
 
     return (
@@ -47,4 +48,4 @@ function Sw() {
     )
 }
 
-export default Sw;
+export default Anime;

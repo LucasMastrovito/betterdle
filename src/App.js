@@ -5,6 +5,7 @@ import Onepiece from './pages/onepiece';
 import Dragonball from './pages/dragonball';
 import Sw from './pages/sw';
 import { useEffect } from 'react';
+import Anime from './pages/anime';
 
 function App() {
   useEffect(() => {
@@ -23,6 +24,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home />} />
+          <Route path='/anime' element={<Anime />} />
           <Route path='/onepiece' element={<Onepiece />} />
           <Route path='/dragonball' element={<Dragonball />} />
           <Route path='/sw' element={<Sw />} />

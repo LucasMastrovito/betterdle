@@ -29,8 +29,7 @@ function Dragonball() {
     };
     const modes = [
         <Classic name={"dragonball"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode name={"dragonball"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />,
-        <Findmode />
+        <Findmode name={"dragonball"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
     ];
 
     return (
