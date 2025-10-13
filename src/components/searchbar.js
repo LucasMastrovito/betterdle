@@ -65,7 +65,7 @@ function Searchbar(props) {
     };
 
     return (
-        <div style={{width: '50%'}}>
+        <div className="searchbar-container">
             <form className="form" onSubmit={submit}>
                 <input name="search" type="text" className="searchbar" autoComplete="off" placeholder="Type a name or alias" value={search} onChange={update} disabled={props.find}></input>
                 <div className="submit-container">{btns}</div>

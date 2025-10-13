@@ -9,6 +9,7 @@ import { useState } from "react";
 import Modemenu from "../components/modemenu";
 import Modebtn from "../components/modebtn";
 import { useNavigate } from "react-router-dom";
+import Homebtn from "../components/homebtn";
 
 function Dragonball() {
     const navigate = useNavigate();
@@ -32,14 +33,10 @@ function Dragonball() {
         <Findmode />
     ];
 
-    const home = (e) => {
-        navigate('/');
-    };
-
     return (
         <div className="dle" style={{backgroundImage: `url(${bg})`}}>
-            <button className="home-btn" onClick={home}>Home</button>
-            <img alt="logo" className="scale" src={logo} style={{maxWidth: "30vw", maxHeight: "20vh"}} />
+            <Homebtn />
+            <img alt="logo" className="scale logo" src={logo} />
             <Modemenu
                 buttons={[
                     <Modebtn key={1} name="Classic" index={0} click={changeMode} />,

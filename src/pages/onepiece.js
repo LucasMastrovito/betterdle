@@ -9,6 +9,7 @@ import { useState } from "react";
 import Modebtn from "../components/modebtn";
 import { getRandomCharacter } from "../components/getrandom";
 import { useNavigate } from "react-router-dom";
+import Homebtn from "../components/homebtn";
 
 
 function Onepiece() {
@@ -33,14 +34,10 @@ function Onepiece() {
         <Findmode />
     ];
 
-    const home = (e) => {
-        navigate('/');
-    };
-
     return (
         <div className="dle" style={{backgroundImage: `url(${bg})`}}>
-            <button className="home-btn" onClick={home}>Home</button>
-            <img alt="logo" className="scale" src={logo} style={{maxWidth: "30vw", maxHeight: "20vh"}} />
+            <Homebtn />
+            <img alt="logo" className="scale logo" src={logo} />
             {modes[current]}
             <Modemenu
                 buttons={[

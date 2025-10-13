@@ -7,7 +7,7 @@ function Dlebtn(props) {
     }
     return (
         <div className="dlebtn">
-            <img alt="logo" className="scale" onClick={click} src={props.logo} style={{maxWidth: "30vw", maxHeight: "20vh", cursor: 'pointer'}} />
+            <img alt="logo" className="scale logo" onClick={click} src={props.logo} style={{cursor: 'pointer'}} />
         </div>
     )
 }

@@ -77,6 +77,12 @@ button:hover {
      1px  1px 0 black;
 }
 
+.logo {
+  min-width: 180px;
+  max-width: 30vw;
+  max-height: 20vh;
+}
+
 .App {
   text-align: center;
   height: 100vh;

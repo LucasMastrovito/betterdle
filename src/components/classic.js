@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Row from "./row";
 import "./classic.css";
 import Win from "./win";
@@ -16,6 +16,19 @@ function Classic(props) {
   const [tries, setTries] = useState(0);
   const [showTips, setShowTips] = useState(false);
   const [loading, setLoading] = useState(true);
+  const rowRef = useRef(null);
+  const [hasScroll, setHasScroll] = useState(false);
+  
+  useEffect(() => {
+    const checkScroll = () => {
+      const el = rowRef.current;
+      if (!el) return;
+      setHasScroll(el.scrollWidth > el.clientWidth);
+    };
+    checkScroll();
+    window.addEventListener("resize", checkScroll);
+    return () => window.removeEventListener("resize", checkScroll);
+  }, []);
 
   useEffect(() => {
     const loadGame = () => {
@@ -76,7 +89,7 @@ function Classic(props) {
       </div>
       <Searchbar data={data} submit={submit} find={find} />
       <div className="grid">
-        <div className="row">
+        <div ref={rowRef} className={`row ${hasScroll ? "has-scroll" : ""}`}>
           {fields.map((field, index) => (
             <p key={index} className="field-name outline">{field.title}</p>
           ))}

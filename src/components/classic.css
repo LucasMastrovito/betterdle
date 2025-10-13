@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 80%;
+    width: 90%;
     gap: 0.5rem;
     margin-bottom: 2vh;
 }
@@ -16,6 +16,7 @@
     top: 0;
     left: 0;
     margin: 2em;
+    z-index: 10;
 }
 
 .submit {
@@ -81,6 +82,10 @@
     grid-template-columns: repeat(auto-fit, minmax(60px, 80px));
     gap: 1rem;
     width: 100%;
+}
+
+.row.has-scroll {
+    justify-content: start;
 }
 
 .field {
@@ -222,6 +227,20 @@
     overflow-y: auto;
 }
 
+.searchbar-container {
+    width: 50%;
+}
+
+.homebtn-text {
+    display: inline;
+}
+
+.homebtn-icon {
+    display: none;
+    width: 32px;
+    height: 32px;
+}
+
 @media (max-width: 1000px) {
     .grid {
         overflow-x: auto;
@@ -230,15 +249,14 @@
     .row {
         display: flex;
         gap: 0.5rem;
-        justify-content: flex-start;
     }
 
     .modal {
         width: 50vw;
     }
 
-    .form {
-        width: 50%;
+    .searchbar-container {
+        width: 100%;
     }
 
     .field, .field-name {
@@ -253,6 +271,19 @@
 
     .field-name {
         width: 100%;
+    }
+
+    .home-btn {
+        margin: 1em;
+        padding: 0.5em;
+    }
+
+    .homebtn-text {
+        display: none;
+    }
+
+    .homebtn-icon {
+        display: block;
     }
 }
 
@@ -323,5 +354,5 @@
 .modemenu {
     height: 10vh;
     padding: 2em;
-    margin: 2em;
+    margin-bottom: 2em;
 }
