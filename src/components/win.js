@@ -4,10 +4,15 @@ function Win(props) {
     const [display, setDisplay] = useState("flex");
 
     const click = (e) => {
+        props.next(-1);
+        setDisplay("none");
+    }
+
+    const back = (e) => {
         setDisplay("none");
     }
     return (
-        <div className="win" style={{display: display}}>
+        <div className="win" style={{display: display, animationDelay: `${props.delay}`}}>
             <div className="modal">
                 <h2>Gratz !</h2>
                 <p>You found the daily character</p>
@@ -16,6 +21,7 @@ function Win(props) {
                     <h2>{props.data.name}</h2>
                 </div>
                 <p>{props.tries} tries</p>
+                <button className="btn" onClick={back}>Back</button>
                 <button className="btn" onClick={click}>Next</button>
             </div>
         </div>

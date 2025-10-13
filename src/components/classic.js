@@ -84,7 +84,7 @@ function Classic(props) {
         {rows}
       </div>
       <Indicator />
-      {find ? <Win data={random} tries={tries}></Win> : <span></span>}
+      {find ? <Win data={random} tries={tries} next={props.next} delay="5s"></Win> : <span></span>}
     </div>
   )
 }

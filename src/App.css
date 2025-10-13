@@ -30,7 +30,6 @@ p {
   align-items: center;
   justify-content: center;
   min-width: 25%;
-  overflow: hidden;
   background-color: #33415eb7;
   backdrop-filter: blur(8px);
   color: white;

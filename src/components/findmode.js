@@ -102,7 +102,7 @@ function Findmode(props) {
                 </div>
                 {rows}
             </div>
-            {find ? <Win data={random} tries={tries}></Win> : <span></span>}
+            {find ? <Win data={random} tries={tries} next={props.next} delay="1s"></Win> : <span></span>}
         </div>
     )
 }

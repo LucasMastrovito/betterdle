@@ -202,7 +202,6 @@
     align-items: center;
     z-index: 1000;
     animation: fadeIn 0.5s forwards linear 1;
-    animation-delay: 5s;
 }
 
 .win-img {
@@ -319,4 +318,10 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+}
+
+.modemenu {
+    height: 10vh;
+    padding: 2em;
+    margin: 2em;
 }

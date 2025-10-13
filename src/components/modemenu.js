@@ -1,6 +1,11 @@
 function Modemenu(props) {
     return (
-        <div>{props.buttons}</div>
+        <div className="card modemenu">
+            <h2 className="outline" style={{marginTop: '0'}}>Modes</h2>
+            <div style={{display: "flex", gap: "1em"}}>
+                {props.buttons}
+            </div>
+        </div>
     )
 }
 
