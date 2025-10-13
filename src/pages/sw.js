@@ -37,13 +37,13 @@ function Sw() {
         <div className="dle" style={{backgroundImage: `url(${bg})`}}>
             <Homebtn />
             <img alt="logo" className="scale logo" src={logo} />
+            {modes[current]}
             <Modemenu
                 buttons={[
                     <Modebtn key={1} name="Classic" index={0} click={changeMode} />,
                     <Modebtn key={2} name="Picture" index={1} click={changeMode} />
                 ]}
             />
-            {modes[current]}
         </div>
     )
 }
