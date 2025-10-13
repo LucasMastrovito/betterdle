@@ -8,14 +8,15 @@ import { useEffect } from 'react';
 
 function App() {
   useEffect(() => {
-  const today = new Date().toDateString();
-  const lastReset = localStorage.getItem("lastReset");
+    const today = new Date().toDateString();
+    const lastReset = localStorage.getItem("lastReset");
 
-  if (lastReset !== today) {
-    localStorage.clear();
-    localStorage.setItem("lastReset", today);
-  }
-}, []);
+    if (lastReset !== today) {
+      localStorage.clear();
+      localStorage.setItem("lastReset", today);
+      window.location.reload();
+    }
+  }, []);
 
   return (
     <div className="App">

@@ -83,6 +83,13 @@ button:hover {
   overflow: hidden;
 }
 
+.home {
+  background: url("../public/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
 .dle {
   display: flex;
   flex-direction: column;

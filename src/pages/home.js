@@ -6,10 +6,12 @@ import sw from "../assets/sw-logo.png";
 function Home() {
     return (
         <div className="home">
-            <h1>Betterdle</h1>
-            <Dlebtn logo={op} link={'/onepiece'}></Dlebtn>
-            <Dlebtn logo={db} link={'/dragonball'}></Dlebtn>
-            <Dlebtn logo={sw} link={'/sw'}></Dlebtn>
+            <img alt="title" src="/title.png" style={{maxWidth: "50vw", maxHeight: "30vh", margin: "3em"}} />
+            <div>
+                <Dlebtn logo={op} link={'/onepiece'}></Dlebtn>
+                <Dlebtn logo={db} link={'/dragonball'}></Dlebtn>
+                <Dlebtn logo={sw} link={'/sw'}></Dlebtn>
+            </div>
         </div>
     )
 }
