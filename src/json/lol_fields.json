@@ -1,0 +1,37 @@
+[
+    {
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
+    },
+    {
+        "key": "roles",
+        "title": "Roles",
+        "type": "equal"
+    },
+    {
+        "key": "class",
+        "title": "Class",
+        "type": "equal"
+    },
+    {
+        "key": "adaptative_type",
+        "title": "Type",
+        "type": "equal"
+    },
+    {
+        "key": "ressource",
+        "title": "Ressource",
+        "type": "equal"
+    },
+    {
+        "key": "range_type",
+        "title": "Range",
+        "type": "equal"
+    },
+    {
+        "key": "realease_year",
+        "title": "Release Year",
+        "type": "number"
+    }
+]

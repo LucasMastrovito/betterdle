@@ -23,8 +23,9 @@ function Findmode(props) {
     const [pic, setPic] = useState(false);
     //images
     const [grey, setGrey] = useState(true);
-    const [blur, setBlur] = useState("10px");
+    const [blur, setBlur] = useState("8px");
     const [activeBlur, setActiveBlur] = useState(true);
+    const [zoom, setZoom] = useState(true);
     const [scale, setScale] = useState("2");
 
     useEffect(() => {
@@ -50,14 +51,6 @@ function Findmode(props) {
         }
         setPic(filter.includes(".png") || filter.includes(".jpg"));
     }, [loading, random, props.name, props.data, props.mode, data, filter]);
-
-    const updateGrayscale = (e) => {
-        setGrey(!grey);
-    }
-
-    const updateBlur = (e) => {
-        setActiveBlur(!activeBlur);
-    }
     
     const submit = (index) => {
         if (data[index].name === random.name) {
@@ -77,17 +70,22 @@ function Findmode(props) {
                 pic ?
                 <span style={{display: "flex", flexDirection: "column", alignItems: "center", gap: "2em"}}>
                     <div className="img-container">
-                        <img alt="img" src={filter} className="img-to-find" style={{filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${scale})`}} />
+                        <img alt="img" src={filter} className="img-to-find" style={{filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${zoom ? scale : 1})`}} />
                     </div>
                     <div className="card findmode-card" style={{display: "flex"}}>
                         <h3>Grayscale</h3>
                         <label className="switch">
-                            <input type="checkbox" checked={grey} onChange={updateGrayscale} />
+                            <input type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
                             <span className="slider"></span>
                         </label>
                         <h3>Blur</h3>
                         <label className="switch">
-                            <input type="checkbox" checked={activeBlur} onChange={updateBlur} />
+                            <input type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
+                            <span className="slider"></span>
+                        </label>
+                        <h3>Zoom</h3>
+                        <label className="switch">
+                            <input type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
                             <span className="slider"></span>
                         </label>
                     </div>
