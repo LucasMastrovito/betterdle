@@ -58,7 +58,7 @@ function Findmode(props) {
         }
         saveTry(props.name, props.mode, index);
         setBlur(`${clamp(parseFloat(blur) - 1, 0, 10)}px`);
-        setScale(`${clamp(parseFloat(scale) - 0.1, 0, 5)}`);
+        setScale(`${clamp(parseFloat(scale) - 0.1, 1, 5)}`);
         setRows([<CharacterRow key={data[index].name} class={data[index].name === random.name ? 'match' : 'wrong'} name={data[index].name} img={data[index].image_url} />, ...rows]);
         setTries(tries + 1);
         data.splice(index, 1);
