@@ -21,8 +21,10 @@ function Win(props) {
                     <h2>{props.data.name}</h2>
                 </div>
                 <p>{props.tries} tries</p>
-                <button className="btn" onClick={back}>Back</button>
-                <button className="btn" onClick={click}>Next</button>
+                <div style={{display:"flex", justifyContent: "center", gap: "1em"}}>
+                    <button className="btn" onClick={back}>Back</button>
+                    <button className="btn" onClick={click}>Next</button>
+                </div>
             </div>
         </div>
     )
