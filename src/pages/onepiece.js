@@ -16,6 +16,7 @@ function Onepiece() {
     const navigate = useNavigate();
     const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture"), getRandomCharacter(filterByField(data, "fruit_name"), "fruit")];
     const [current, setCurrent] = useState(0);
+    const [remount, setRemount] = useState(0);
     const maxModes = 2;
     const changeMode = (index) => {
         if (index === -1) {
@@ -25,13 +26,14 @@ function Onepiece() {
                 setCurrent(current + 1);
             }
         } else {
+            setRemount(remount + 1);
             setCurrent(index);
         }
     };
     const modes = [
-        <Classic name={"onepiece"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode name={"onepiece"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />,
-        <Findmode name={"onepiece"} mode="fruit" data={filterByField(data, "fruit_name")} random={random[2]} next={changeMode} filter="fruit_name" />
+        <Classic key={'classic-' + remount} name={"onepiece"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
+        <Findmode key={'picture-' + remount} name={"onepiece"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" remount={remount} />,
+        <Findmode key={'fruit-' + remount} name={"onepiece"} mode="fruit" data={filterByField(data, "fruit_name")} random={random[2]} next={changeMode} filter="fruit_name" remount={remount} first_tips={{name: "Fruit Type", key: "devil_fruit_type"}} second_tips={{name: "Traduction", key: "english_name"}} />
     ];
 
     return (

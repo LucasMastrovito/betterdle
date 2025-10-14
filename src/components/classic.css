@@ -324,6 +324,7 @@
     border-radius: 5px;
     align-items: center;
     color: white;
+    animation: fadeIn 0.5s forwards linear 1;
 }
 
 .img-container {

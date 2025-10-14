@@ -15,6 +15,7 @@ function Sw() {
     const navigate = useNavigate();
     const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture")];
     const [current, setCurrent] = useState(0);
+    const [remount, setRemount] = useState(0);
     const maxModes = 2;
     const changeMode = (index) => {
         if (index === -1) {
@@ -24,12 +25,13 @@ function Sw() {
                 setCurrent(current + 1);
             }
         } else {
+            setRemount(remount + 1);
             setCurrent(index);
         }
     };
     const modes = [
-        <Classic name={"sw"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "Type", key: "type"}} second_tips={{name: "Family", key: "family"}} />,
-        <Findmode name={"sw"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
+        <Classic key={'classic-' + remount} name={"sw"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "Type", key: "type"}} second_tips={{name: "Family", key: "family"}} />,
+        <Findmode key={'picture-' + remount} name={"sw"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
     ];
 
     return (

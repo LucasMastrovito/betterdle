@@ -2,10 +2,10 @@ import { useEffect, useRef, useState } from "react";
 import Row from "./row";
 import "./classic.css";
 import Win from "./win";
-import Tips from "./tips";
 import Indicator from "./indicator";
 import { getTries, saveTry } from "./save";
 import Searchbar from "./searchbar";
+import Tipscard from "./tipscard";
 
 function Classic(props) {
   const random = props.random;
@@ -14,7 +14,6 @@ function Classic(props) {
   const [rows, setRows] = useState([]);
   const [find, setFind] = useState(false);
   const [tries, setTries] = useState(0);
-  const [showTips, setShowTips] = useState(false);
   const [loading, setLoading] = useState(true);
   const rowRef = useRef(null);
   const [hasScroll, setHasScroll] = useState(false);
@@ -79,14 +78,7 @@ function Classic(props) {
 
   return (
     <div className="classic">
-      <div className="tips-container card">
-        <h3 className="outline" style={{ marginTop: '0' }}>Tips</h3>
-        <div style={{ display: showTips ? "flex" : "none", gap: "3em", paddingBottom: "1em" }}>
-          <Tips name={props.first_tips.name} tips={random ? random[props.first_tips.key] : ""} tries={5 - tries}></Tips>
-          <Tips name={props.second_tips.name} tips={random ? random[props.second_tips.key] : ""} tries={10 - tries}></Tips>
-        </div>
-        <button onClick={(e) => setShowTips(!showTips)}>{!showTips ? 'Show' : 'Hide'}</button>
-      </div>
+      <Tipscard random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
       <Searchbar data={data} submit={submit} find={find} />
       <div className="grid">
         <div ref={rowRef} className={`row ${hasScroll ? "has-scroll" : ""}`}>

@@ -3,6 +3,7 @@ import { getTries, saveTry } from "./save";
 import Searchbar from "./searchbar";
 import Win from "./win";
 import CharacterRow from "./characterRow";
+import Tipscard from "./tipscard";
 
 function clamp(num, min, max) {
   return num <= min 
@@ -13,7 +14,6 @@ function clamp(num, min, max) {
 }
 
 function Findmode(props) {
-    console.log(props.data)
     const [loading, setLoading] = useState(true);
     const random = props.random;
     const filter = random[props.filter];
@@ -92,8 +92,11 @@ function Findmode(props) {
                     </div>
                 </span>
                 :
-                <div className="card">
-                    <h1 className="outline">{filter}</h1>
+                <div style={{display: "flex", flexDirection: "column", gap: "1em"}}>
+                    <div className="card">
+                        <h1 className="outline">{filter}</h1>
+                    </div>
+                    <Tipscard random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                 </div>
             }
             <Searchbar data={data} submit={submit} />

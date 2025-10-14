@@ -15,6 +15,7 @@ function Dragonball() {
     const navigate = useNavigate();
     const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture")];
     const [current, setCurrent] = useState(0);
+    const [remount, setRemount] = useState(0);
     const maxModes = 2;
     const changeMode = (index) => {
         if (index === -1) {
@@ -24,12 +25,13 @@ function Dragonball() {
                 setCurrent(current + 1);
             }
         } else {
+            setRemount(remount + 1);
             setCurrent(index);
         }
     };
     const modes = [
-        <Classic name={"dragonball"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode name={"dragonball"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
+        <Classic key={'classic-' + remount} name={"dragonball"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
+        <Findmode key={'picutre-' + remount} name={"dragonball"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
     ];
 
     return (
