@@ -17,7 +17,7 @@ function Onepiece() {
     const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture"), getRandomCharacter(filterByField(data, "fruit_name"), "fruit")];
     const [current, setCurrent] = useState(0);
     const [remount, setRemount] = useState(0);
-    const maxModes = 2;
+    const maxModes = 3;
     const changeMode = (index) => {
         if (index === -1) {
             if (current + 1 >= maxModes) {
