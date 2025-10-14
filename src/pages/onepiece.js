@@ -7,14 +7,14 @@ import Findmode from "../components/findmode";
 import Modemenu from "../components/modemenu";
 import { useState } from "react";
 import Modebtn from "../components/modebtn";
-import { getRandomCharacter } from "../components/getrandom";
+import { filterByField, getRandomCharacter } from "../components/getrandom";
 import { useNavigate } from "react-router-dom";
 import Homebtn from "../components/homebtn";
 
 
 function Onepiece() {
     const navigate = useNavigate();
-    const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture")];
+    const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture"), getRandomCharacter(filterByField(data, "fruit_name"), "fruit")];
     const [current, setCurrent] = useState(0);
     const maxModes = 2;
     const changeMode = (index) => {
@@ -30,7 +30,8 @@ function Onepiece() {
     };
     const modes = [
         <Classic name={"onepiece"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode name={"onepiece"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
+        <Findmode name={"onepiece"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />,
+        <Findmode name={"onepiece"} mode="fruit" data={filterByField(data, "fruit_name")} random={random[2]} next={changeMode} filter="fruit_name" />
     ];
 
     return (
@@ -41,7 +42,8 @@ function Onepiece() {
             <Modemenu
                 buttons={[
                     <Modebtn key={1} name="Classic" index={0} click={changeMode} />,
-                    <Modebtn key={2} name="Picture" index={1} click={changeMode} />
+                    <Modebtn key={2} name="Picture" index={1} click={changeMode} />,
+                    <Modebtn key={3} name="Fruit" index={2} click={changeMode} />
                 ]}
             />
         </div>

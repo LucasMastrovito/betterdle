@@ -13,6 +13,7 @@ function clamp(num, min, max) {
 }
 
 function Findmode(props) {
+    console.log(props.data)
     const [loading, setLoading] = useState(true);
     const random = props.random;
     const filter = random[props.filter];
@@ -91,7 +92,9 @@ function Findmode(props) {
                     </div>
                 </span>
                 :
-                <p>{filter}</p>
+                <div className="card">
+                    <h1 className="outline">{filter}</h1>
+                </div>
             }
             <Searchbar data={data} submit={submit} />
             <div className="grid">
