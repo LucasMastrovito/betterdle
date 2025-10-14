@@ -9,7 +9,7 @@ function Home() {
         <div className="home">
             <img alt="title" src="/title.png" style={{maxWidth: "50vw", maxHeight: "30vh", margin: "3em"}} />
             <div>
-                {/* <Dlebtn logo={anime} link={'/anime'} /> */}
+                <Dlebtn logo={anime} link={'/anime'} />
                 <Dlebtn logo={op} link={'/onepiece'} />
                 <Dlebtn logo={db} link={'/dragonball'} />
                 <Dlebtn logo={sw} link={'/sw'} />

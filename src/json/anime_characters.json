@@ -1,7 +1,7 @@
 [
     {
         "name": "Monkey D. Luffy",
-        "image_url": "https://www.animecharactersdatabase.com/images%20of/Monkey%20D%20Luffy/from/One%20Piece/uploads/chars/38889-1319772844.png",
+        "image_url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png",
         "role": "Protagonist",
         "gender": "Male",
         "race": "Human",
@@ -10,11 +10,11 @@
         "age": 19,
         "height": 172,
         "anime": "One Piece",
-        "year": 1998
+        "year": 1999
     },
     {
         "name": "Roronoa Zoro",
-        "image_url": "https://www.animecharactersdatabase.com/images%20of/Roronoa%20Zoro/from/One%20Piece/uploads/chars/5457-1977266515.png",
+        "image_url": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png",
         "role": "Protagonist",
         "gender": "Male",
         "race": "Human",
@@ -23,11 +23,11 @@
         "age": 21,
         "height": 178,
         "anime": "One Piece",
-        "year": 1998
+        "year": 1999
     },
     {
         "name": "Nami",
-        "image_url": "https://www.animecharactersdatabase.com/images%20of/Nami/from/One%20Piece/uploads/chars/36226-113189741.png",
+        "image_url": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png",
         "role": "Protagonist",
         "gender": "Female",
         "race": "Human",
@@ -36,11 +36,11 @@
         "age": 18,
         "height": 169,
         "anime": "One Piece",
-        "year": 1998
+        "year": 1999
     },
     {
         "name": "Sanji",
-        "image_url": "https://www.animecharactersdatabase.com/images%20of/Sanji/from/One%20Piece/uploads/chars/69246-670103640.jpg",
+        "image_url": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png",
         "role": "Protagonist",
         "gender": "Male",
         "race": "Human",
@@ -49,7 +49,33 @@
         "age": 19,
         "height": 177,
         "anime": "One Piece",
-        "year": 1998
+        "year": 1999
+    },
+    {
+        "name": "Marshall D. Teach",
+        "image_url": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "Sword",
+        "age": 38,
+        "height": 344,
+        "anime": "One Piece",
+        "year": 1999
+    },
+    {
+        "name": "Charlotte Linlin",
+        "image_url": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png",
+        "role": "Antagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "Pink",
+        "weapon": "Sword",
+        "age": 68,
+        "height": 880,
+        "anime": "One Piece",
+        "year": 1999
     },
     {
         "name": "Satoru Gojo",
@@ -113,6 +139,45 @@
         "weapon": "None",
         "age": 16,
         "height": 175,
+        "anime": "Jujutsu Kaisen",
+        "year": 2020
+    },
+    {
+        "name": "Jogo",
+        "image_url": "https://www.animecharactersdatabase.com/images%20of/Jougo/from/Jujutsu%20Kaisen/uploads/chars/67712-982421882.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Curse",
+        "hair_color": "None",
+        "weapon": "None",
+        "age": 100,
+        "height": 180,
+        "anime": "Jujutsu Kaisen",
+        "year": 2020
+    },
+    {
+        "name": "Mahito",
+        "image_url": "https://www.animecharactersdatabase.com/images%20of/Mahito/from/Jujutsu%20Kaisen/uploads/chars/67712-1533081899.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Curse",
+        "hair_color": "Gray",
+        "weapon": "None",
+        "age": 3,
+        "height": 180,
+        "anime": "Jujutsu Kaisen",
+        "year": 2020
+    },
+    {
+        "name": "Suguru Geto",
+        "image_url": "https://www.animecharactersdatabase.com/images%20of/Suguru%20Geto/from/Jujutsu%20Kaisen/uploads/chars/67712-1574612181.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human Curse",
+        "hair_color": "Black",
+        "weapon": "None",
+        "age": 28,
+        "height": 190,
         "anime": "Jujutsu Kaisen",
         "year": 2020
     },
@@ -219,5 +284,109 @@
         "height": 165,
         "anime": "Dragon Ball",
         "year": 1986
+    },
+    {
+        "name": "Cell",
+        "image_url": "https://ami.animecharactersdatabase.com/uploads/thumbs/1207622142.jpg",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Cyborg",
+        "hair_color": "None",
+        "weapon": "None",
+        "age": 20,
+        "height": 213,
+        "anime": "Dragon Ball",
+        "year": 1986
+    },
+    {
+        "name": "Frieza",
+        "image_url": "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/5688-775447392.jpg",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Alien",
+        "hair_color": "None",
+        "weapon": "None",
+        "age": 30,
+        "height": 158,
+        "anime": "Dragon Ball",
+        "year": 1986
+    },
+    {
+        "name": "Buu",
+        "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/32/MajinBuuSuperVsGohan02.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Demon",
+        "hair_color": "None",
+        "weapon": "None",
+        "age": 30,
+        "height": 250,
+        "anime": "Dragon Ball",
+        "year": 1986
+    },
+    {
+        "name": "Yugi Muto",
+        "image_url": "https://www.animecharactersdatabase.com/images%20of/Yuugi%20Mutou/from/YuGiOh/uploads/chars/5688-1110064783.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "Cards",
+        "age": 16,
+        "height": 153,
+        "anime": "Yu-gi-oh",
+        "year": 2000
+    },
+    {
+        "name": "Seto Kaiba",
+        "image_url": "https://ami.animecharactersdatabase.com/uploads/thumbs/1353956990.gif",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Brown",
+        "weapon": "Cards",
+        "age": 23,
+        "height": 186,
+        "anime": "Yu-gi-oh",
+        "year": 2000
+    },
+    {
+        "name": "Light Yagami",
+        "image_url": "https://ami.animecharactersdatabase.com/images/DeathNote/Light_Yagami_thumb.jpg",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Brown",
+        "weapon": "Book",
+        "age": 23,
+        "height": 179,
+        "anime": "Death Note",
+        "year": 2006
+    },
+    {
+        "name": "L",
+        "image_url": "https://www.animecharactersdatabase.com/images%20of/L%20Lawliet/from/Death%20Note/uploads/chars/70928-1546933814.jpg",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "None",
+        "age": 25,
+        "height": 179,
+        "anime": "Death Note",
+        "year": 2006
+    },
+    {
+        "name": "Ryuk",
+        "image_url": "https://ami.animecharactersdatabase.com/images/DeathNote/Ryuk_thumb.jpg",
+        "role": "Neutral",
+        "gender": "Male",
+        "race": "God",
+        "hair_color": "Blue",
+        "weapon": "None",
+        "age": 10000,
+        "height": 200,
+        "anime": "Death Note",
+        "year": 2006
     }
 ]
