@@ -15,12 +15,12 @@
         "type": "equal"
     },
     {
-        "key": "adaptative_type",
+        "key": "adaptive_type",
         "title": "Type",
         "type": "equal"
     },
     {
-        "key": "ressource",
+        "key": "resource",
         "title": "Ressource",
         "type": "equal"
     },
@@ -30,7 +30,7 @@
         "type": "equal"
     },
     {
-        "key": "realease_year",
+        "key": "release_year",
         "title": "Release Year",
         "type": "number"
     }

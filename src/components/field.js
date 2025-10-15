@@ -9,8 +9,8 @@ function getMatchStatus(type, guessValue, answerValue, order) {
   }
   
   const guess = typeof(guessValue) === "string" ? guessValue.split(";") : guessValue;
-  const answer = typeof(guessValue) === "string" ? answerValue.split(";") : answerValue;
-
+  const answer = typeof(answerValue) === "string" ? answerValue.split(";") : answerValue;
+  console.log(answerValue + "  " + answer)
   if (type === "equal") {
     if (guessValue === answerValue) {
         return "match";
@@ -37,7 +37,8 @@ function Field(props) {
         setName(!name);
       }
     }
-
+    console.log(props.random.name)
+    console.log(props.field)
     return (
         <div onMouseEnter={displayName} onMouseLeave={displayName} className={`outline scale field ${getMatchStatus(
                 props.field.type,
