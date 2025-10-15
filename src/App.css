@@ -183,3 +183,10 @@ input:focus + .slider {
 input:checked + .slider:before {
  transform: translateX(1.9em);
 }
+
+.dlebtn-container {
+  overflow: auto;
+  display: flex;
+  height: 80vh;
+  flex-direction: column;
+}

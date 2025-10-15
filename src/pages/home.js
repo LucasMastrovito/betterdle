@@ -9,7 +9,7 @@ function Home() {
     return (
         <div className="home">
             <img alt="title" src="/title.png" style={{maxWidth: "50vw", maxHeight: "30vh", margin: "3em"}} />
-            <div style={{overflowY: "auto"}}>
+            <div className="dlebtn-container">
                 <Dlebtn logo={anime} link={'/anime'} />
                 <Dlebtn logo={op} link={'/onepiece'} />
                 <Dlebtn logo={db} link={'/dragonball'} />
