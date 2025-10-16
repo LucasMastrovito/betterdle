@@ -37,8 +37,6 @@ function Field(props) {
         setName(!name);
       }
     }
-    console.log(props.random.name)
-    console.log(props.field)
     return (
         <div onMouseEnter={displayName} onMouseLeave={displayName} className={`outline scale field ${getMatchStatus(
                 props.field.type,

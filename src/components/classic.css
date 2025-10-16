@@ -358,3 +358,26 @@
     padding: 2em;
     margin-bottom: 2em;
 }
+
+.dlemenu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 2em;
+    padding: 2vw;
+}
+
+.dlemenubtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    max-width: 400px;
+    color: white;
+    background-color: #242424;
+    border: 3px solid aliceblue;
+    border-radius: 15px;
+    cursor: pointer;
+}

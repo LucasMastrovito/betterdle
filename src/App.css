@@ -81,6 +81,7 @@ button:hover {
   min-width: 180px;
   max-width: 30vw;
   max-height: 20vh;
+  cursor: pointer;
 }
 
 .App {
