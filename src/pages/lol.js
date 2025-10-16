@@ -30,7 +30,7 @@ function Lol() {
         }
     };
     const modes = [
-        <Classic key={'classic-' + remount} name={"lol"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "Class", key: "class"}} second_tips={{name: "Roles", key: "roles"}} />,
+        <Classic key={'classic-' + remount} name={"lol"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "Class", key: "class"}} second_tips={{name: "Regions", key: "regions"}} />,
         <Findmode key={'picture-' + remount} name={"lol"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
     ];
 
