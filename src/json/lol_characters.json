@@ -9,7 +9,10 @@
         "release_year": 2013,
         "resource": "Manaless(Blood Well)",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Darkin",
+        "regions": "Runeterra;Shurima"
     },
     {
         "name": "Ahri",
@@ -21,7 +24,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Vastayan",
+        "regions": "Ionia"
     },
     {
         "name": "Akali",
@@ -33,7 +39,10 @@
         "release_year": 2010,
         "resource": "Energy",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Ionia"
     },
     {
         "name": "Akshan",
@@ -45,7 +54,10 @@
         "release_year": 2021,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Shurima"
     },
     {
         "name": "Alistar",
@@ -57,7 +69,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Minotaur",
+        "regions": "Runeterra;Noxus"
     },
     {
         "name": "Ambessa",
@@ -69,7 +84,10 @@
         "release_year": 2024,
         "resource": "Energy",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Noxus;Piltover"
     },
     {
         "name": "Amumu",
@@ -81,7 +99,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Undead;Yordle",
+        "regions": "Shurima"
     },
     {
         "name": "Anivia",
@@ -93,7 +114,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "God;Spirit",
+        "regions": "Freljord"
     },
     {
         "name": "Annie",
@@ -105,7 +129,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Runeterra;Noxus"
     },
     {
         "name": "Aphelios",
@@ -117,7 +144,10 @@
         "release_year": 2019,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Spiritualist",
+        "regions": "Targon"
     },
     {
         "name": "Ashe",
@@ -129,7 +159,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Iceborn",
+        "regions": "Freljord"
     },
     {
         "name": "Aurelion Sol",
@@ -141,7 +174,10 @@
         "release_year": 2016,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Celestial;Dragon",
+        "regions": "Runeterra;Targon"
     },
     {
         "name": "Aurora",
@@ -153,7 +189,10 @@
         "release_year": 2024,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Vastayan",
+        "regions": "Freljord"
     },
     {
         "name": "Azir",
@@ -165,7 +204,10 @@
         "release_year": 2014,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "God-Warrior",
+        "regions": "Shurima"
     },
     {
         "name": "Bard",
@@ -177,7 +219,10 @@
         "release_year": 2015,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Celestial",
+        "regions": "Runeterra"
     },
     {
         "name": "Bel'Veth",
@@ -189,7 +234,10 @@
         "release_year": 2022,
         "resource": "Manaless",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Void-Being",
+        "regions": "Void"
     },
     {
         "name": "Blitzcrank",
@@ -201,7 +249,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Golem",
+        "regions": "Zaun"
     },
     {
         "name": "Brand",
@@ -213,7 +264,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Freljord;Runeterra"
     },
     {
         "name": "Braum",
@@ -225,7 +279,10 @@
         "release_year": 2014,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Iceborn",
+        "regions": "Freljord"
     },
     {
         "name": "Briar",
@@ -237,7 +294,10 @@
         "release_year": 2023,
         "resource": "Frenzy",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Golem",
+        "regions": "Noxus"
     },
     {
         "name": "Caitlyn",
@@ -249,7 +309,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Piltover"
     },
     {
         "name": "Camille",
@@ -261,7 +324,10 @@
         "release_year": 2016,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Cyborg",
+        "regions": "Piltover"
     },
     {
         "name": "Cassiopeia",
@@ -273,7 +339,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magically Altered",
+        "regions": "Noxus;Shurima"
     },
     {
         "name": "Cho'Gath",
@@ -285,7 +354,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Void-Being",
+        "regions": "Void"
     },
     {
         "name": "Corki",
@@ -297,7 +369,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Bandle City;Piltover"
     },
     {
         "name": "Darius",
@@ -309,7 +384,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Noxus"
     },
     {
         "name": "Diana",
@@ -321,7 +399,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Aspect",
+        "regions": "Targon"
     },
     {
         "name": "Dr. Mundo",
@@ -333,7 +414,10 @@
         "release_year": 2009,
         "resource": "Health costs",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Chemically Altered",
+        "regions": "Zaun"
     },
     {
         "name": "Draven",
@@ -345,7 +429,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Noxus"
     },
     {
         "name": "Ekko",
@@ -357,7 +444,10 @@
         "release_year": 2015,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Zaun"
     },
     {
         "name": "Elise",
@@ -369,7 +459,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magically Altered",
+        "regions": "Noxus;Shadow Isles"
     },
     {
         "name": "Evelynn",
@@ -381,7 +474,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magically Altered",
+        "regions": "Shadow Isles"
     },
     {
         "name": "Ezreal",
@@ -393,7 +489,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Magicborn",
+        "regions": "Piltover"
     },
     {
         "name": "Fiddlesticks",
@@ -405,7 +504,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Demon;Spirit",
+        "regions": "Runeterra"
     },
     {
         "name": "Fiora",
@@ -417,7 +519,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Demacia"
     },
     {
         "name": "Fizz",
@@ -429,7 +534,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Bilgewater"
     },
     {
         "name": "Galio",
@@ -441,7 +549,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Golem",
+        "regions": "Demacia"
     },
     {
         "name": "Gangplank",
@@ -453,7 +564,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Bilgewater"
     },
     {
         "name": "Garen",
@@ -465,7 +579,10 @@
         "release_year": 2010,
         "resource": "Manaless",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Demacia"
     },
     {
         "name": "Gnar",
@@ -477,7 +594,10 @@
         "release_year": 2014,
         "resource": "Rage",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Freljord"
     },
     {
         "name": "Gragas",
@@ -489,7 +609,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Iceborn",
+        "regions": "Freljord"
     },
     {
         "name": "Graves",
@@ -501,7 +624,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Bilgewater"
     },
     {
         "name": "Gwen",
@@ -513,7 +639,10 @@
         "release_year": 2021,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magically Altered",
+        "regions": "Camavor;Shadow Isles"
     },
     {
         "name": "Hecarim",
@@ -525,7 +654,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Undead",
+        "regions": "Camavor;Shadow Isles"
     },
     {
         "name": "Heimerdinger",
@@ -537,7 +669,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Piltover"
     },
     {
         "name": "Hwei",
@@ -549,7 +684,10 @@
         "release_year": 2023,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magicborn",
+        "regions": "Ionia"
     },
     {
         "name": "Illaoi",
@@ -561,7 +699,10 @@
         "release_year": 2015,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Spiritualist",
+        "regions": "Bilgewater"
     },
     {
         "name": "Irelia",
@@ -573,7 +714,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Spiritualist",
+        "regions": "Ionia"
     },
     {
         "name": "Ivern",
@@ -585,7 +729,10 @@
         "release_year": 2016,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Freljord;Ionia"
     },
     {
         "name": "Janna",
@@ -597,7 +744,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "God;Spirit",
+        "regions": "Shurima;Zaun"
     },
     {
         "name": "Jarvan IV",
@@ -609,7 +759,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Demacia"
     },
     {
         "name": "Jax",
@@ -621,7 +774,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Unknown",
+        "regions": "Icathia;Runeterra;Shurima"
     },
     {
         "name": "Jayce",
@@ -632,8 +788,11 @@
         "class": "Artillery",
         "release_year": 2012,
         "resource": "Mana",
-        "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "range_type": "Melee;Ranged",
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Piltover"
     },
     {
         "name": "Jhin",
@@ -645,7 +804,10 @@
         "release_year": 2016,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Spiritualist",
+        "regions": "Ionia"
     },
     {
         "name": "Jinx",
@@ -657,7 +819,10 @@
         "release_year": 2013,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Chemically Altered",
+        "regions": "Zaun"
     },
     {
         "name": "K'Sante",
@@ -669,7 +834,10 @@
         "release_year": 2022,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Shurima"
     },
     {
         "name": "Kai'Sa",
@@ -681,7 +849,10 @@
         "release_year": 2018,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Void-Being",
+        "regions": "Shurima;Void"
     },
     {
         "name": "Kalista",
@@ -693,7 +864,10 @@
         "release_year": 2014,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Undead",
+        "regions": "Camavor;Shadow Isles"
     },
     {
         "name": "Karma",
@@ -705,7 +879,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Spiritualist",
+        "regions": "Ionia"
     },
     {
         "name": "Karthus",
@@ -717,7 +894,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Undead",
+        "regions": "Noxus;Shadow Isles"
     },
     {
         "name": "Kassadin",
@@ -729,7 +909,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Void-Being",
+        "regions": "Shurima;Void"
     },
     {
         "name": "Katarina",
@@ -741,7 +924,10 @@
         "release_year": 2009,
         "resource": "Manaless",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Noxus"
     },
     {
         "name": "Kayle",
@@ -753,7 +939,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Aspect;Human;Magically Altered",
+        "regions": "Demacia;Targon"
     },
     {
         "name": "Kayn",
@@ -765,7 +954,10 @@
         "release_year": 2017,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Darkin;Human;Magically Altered",
+        "regions": "Ionia;Noxus;Runeterra;Shurima"
     },
     {
         "name": "Kennen",
@@ -777,7 +969,10 @@
         "release_year": 2010,
         "resource": "Energy",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Ionia"
     },
     {
         "name": "Kha'Zix",
@@ -789,7 +984,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Void-Being",
+        "regions": "Void"
     },
     {
         "name": "Kindred",
@@ -801,10 +999,13 @@
         "release_year": 2015,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Other",
+        "race": "God;Spirit",
+        "regions": "Runeterra"
     },
     {
-        "name": "Kled & Skaarl",
+        "name": "Kled",
         "aliases": "the Cantankerous Cavalier",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kled",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kled_OriginalSquare.png/42px-Kled_OriginalSquare.png?353e8",
@@ -813,7 +1014,10 @@
         "release_year": 2016,
         "resource": "Courage",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Noxus"
     },
     {
         "name": "Kog'Maw",
@@ -825,7 +1029,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Void-Being",
+        "regions": "Void"
     },
     {
         "name": "LeBlanc",
@@ -837,7 +1044,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magically Altered",
+        "regions": "Noxus"
     },
     {
         "name": "Lee Sin",
@@ -849,7 +1059,10 @@
         "release_year": 2011,
         "resource": "Energy",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Spiritualist",
+        "regions": "Ionia"
     },
     {
         "name": "Leona",
@@ -861,7 +1074,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Aspect;Human",
+        "regions": "Targon"
     },
     {
         "name": "Lillia",
@@ -873,7 +1089,10 @@
         "release_year": 2020,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Spirit",
+        "regions": "Ionia"
     },
     {
         "name": "Lissandra",
@@ -885,7 +1104,10 @@
         "release_year": 2013,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Iceborn",
+        "regions": "Freljord"
     },
     {
         "name": "Lucian",
@@ -897,7 +1119,10 @@
         "release_year": 2013,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Demacia;Shadow Isles"
     },
     {
         "name": "Lulu",
@@ -909,7 +1134,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Yordle",
+        "regions": "Bandle City"
     },
     {
         "name": "Lux",
@@ -921,7 +1149,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Demacia"
     },
     {
         "name": "Malphite",
@@ -933,7 +1164,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Golem",
+        "regions": "Ixtal;Shurima"
     },
     {
         "name": "Malzahar",
@@ -945,7 +1179,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Void-Being",
+        "regions": "Shurima;Void"
     },
     {
         "name": "Maokai",
@@ -957,7 +1194,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Golem",
+        "regions": "Shadow Isles"
     },
     {
         "name": "Master Yi",
@@ -969,7 +1209,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Spiritualist",
+        "regions": "Ionia"
     },
     {
         "name": "Mel",
@@ -981,7 +1224,10 @@
         "release_year": 2025,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magically Altered",
+        "regions": "Noxus;Piltover"
     },
     {
         "name": "Milio",
@@ -993,7 +1239,10 @@
         "release_year": 2023,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magicborn",
+        "regions": "Ixtal"
     },
     {
         "name": "Miss Fortune",
@@ -1005,7 +1254,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Bilgewater"
     },
     {
         "name": "Mordekaiser",
@@ -1017,7 +1269,10 @@
         "release_year": 2010,
         "resource": "Shield",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Revenant",
+        "regions": "Noxus;Shadow Isles"
     },
     {
         "name": "Morgana",
@@ -1029,7 +1284,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Aspect;Human;Magically Altered",
+        "regions": "Demacia;Targon"
     },
     {
         "name": "Naafiri",
@@ -1041,7 +1299,10 @@
         "release_year": 2023,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Darkin;Dog",
+        "regions": "Shurima"
     },
     {
         "name": "Nami",
@@ -1053,7 +1314,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Vastayan",
+        "regions": "Bilgewater;Runeterra"
     },
     {
         "name": "Nasus",
@@ -1065,7 +1329,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "God-Warrior",
+        "regions": "Shurima"
     },
     {
         "name": "Nautilus",
@@ -1077,7 +1344,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Revenant",
+        "regions": "Bilgewater"
     },
     {
         "name": "Neeko",
@@ -1089,7 +1359,10 @@
         "release_year": 2018,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Vastayan",
+        "regions": "Ixtal"
     },
     {
         "name": "Nidalee",
@@ -1101,7 +1374,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Spiritualist",
+        "regions": "Ixtal"
     },
     {
         "name": "Nilah",
@@ -1113,7 +1389,10 @@
         "release_year": 2022,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Magically Altered",
+        "regions": "Bilgewater"
     },
     {
         "name": "Nocturne",
@@ -1125,7 +1404,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Demon;Spirit",
+        "regions": "Runeterra"
     },
     {
         "name": "Nunu & Willump",
@@ -1137,7 +1419,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Yeti",
+        "regions": "Freljord"
     },
     {
         "name": "Olaf",
@@ -1149,7 +1434,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Iceborn",
+        "regions": "Freljord"
     },
     {
         "name": "Orianna",
@@ -1161,7 +1449,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Golem",
+        "regions": "Piltover"
     },
     {
         "name": "Ornn",
@@ -1173,7 +1464,10 @@
         "release_year": 2017,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "God;Spirit",
+        "regions": "Freljord"
     },
     {
         "name": "Pantheon",
@@ -1185,7 +1479,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Aspect;Human",
+        "regions": "Targon"
     },
     {
         "name": "Poppy",
@@ -1197,7 +1494,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Yordle",
+        "regions": "Demacia"
     },
     {
         "name": "Pyke",
@@ -1209,7 +1509,10 @@
         "release_year": 2018,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Revenant",
+        "regions": "Bilgewater"
     },
     {
         "name": "Qiyana",
@@ -1221,7 +1524,10 @@
         "release_year": 2019,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Ixtal"
     },
     {
         "name": "Quinn",
@@ -1233,7 +1539,10 @@
         "release_year": 2013,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Demacia"
     },
     {
         "name": "Rakan",
@@ -1245,7 +1554,10 @@
         "release_year": 2017,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Vastayan",
+        "regions": "Ionia"
     },
     {
         "name": "Rammus",
@@ -1257,7 +1569,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Unknown",
+        "regions": "Shurima"
     },
     {
         "name": "Rek'Sai",
@@ -1269,7 +1584,10 @@
         "release_year": 2014,
         "resource": "Rage",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Void-Being",
+        "regions": "Shurima;Void"
     },
     {
         "name": "Rell",
@@ -1281,7 +1599,10 @@
         "release_year": 2020,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magically Altered;Magicborn",
+        "regions": "Noxus"
     },
     {
         "name": "Renata Glasc",
@@ -1293,7 +1614,10 @@
         "release_year": 2022,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Chemically Altered",
+        "regions": "Zaun"
     },
     {
         "name": "Renekton",
@@ -1305,7 +1629,10 @@
         "release_year": 2011,
         "resource": "Fury",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "God-Warrior",
+        "regions": "Shurima"
     },
     {
         "name": "Rengar",
@@ -1317,7 +1644,10 @@
         "release_year": 2012,
         "resource": "Ferocity",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Vastayan",
+        "regions": "Ixtal;Shurima"
     },
     {
         "name": "Riven",
@@ -1329,7 +1659,10 @@
         "release_year": 2011,
         "resource": "Manaless",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Ionia;Noxus"
     },
     {
         "name": "Rumble",
@@ -1341,7 +1674,10 @@
         "release_year": 2011,
         "resource": "Heat",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Bandle City"
     },
     {
         "name": "Ryze",
@@ -1353,7 +1689,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Runeterra"
     },
     {
         "name": "Samira",
@@ -1365,7 +1704,10 @@
         "release_year": 2020,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Noxus;Shurima"
     },
     {
         "name": "Sejuani",
@@ -1377,7 +1719,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Iceborn",
+        "regions": "Freljord"
     },
     {
         "name": "Senna",
@@ -1389,7 +1734,10 @@
         "release_year": 2019,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Undead",
+        "regions": "Shadow Isles"
     },
     {
         "name": "Seraphine",
@@ -1401,7 +1749,10 @@
         "release_year": 2020,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Piltover;Zaun"
     },
     {
         "name": "Sett",
@@ -1413,7 +1764,10 @@
         "release_year": 2020,
         "resource": "Grit",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Vastayan",
+        "regions": "Ionia"
     },
     {
         "name": "Shaco",
@@ -1425,7 +1779,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Spirit",
+        "regions": "Runeterra"
     },
     {
         "name": "Shen",
@@ -1437,7 +1794,10 @@
         "release_year": 2010,
         "resource": "Energy",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Spiritualist",
+        "regions": "Ionia"
     },
     {
         "name": "Shyvana",
@@ -1449,7 +1809,10 @@
         "release_year": 2011,
         "resource": "Fury",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Dragon;Magically Altered",
+        "regions": "Demacia"
     },
     {
         "name": "Singed",
@@ -1461,7 +1824,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Chemically Altered",
+        "regions": "Piltover;Zaun"
     },
     {
         "name": "Sion",
@@ -1473,7 +1839,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Revenant",
+        "regions": "Noxus"
     },
     {
         "name": "Sivir",
@@ -1485,7 +1854,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Shurima"
     },
     {
         "name": "Skarner",
@@ -1497,7 +1869,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Brackern",
+        "regions": "Ixtal"
     },
     {
         "name": "Smolder",
@@ -1509,7 +1884,10 @@
         "release_year": 2024,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Dragon",
+        "regions": "Camavor;Noxus"
     },
     {
         "name": "Sona",
@@ -1521,7 +1899,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Demacia;Ionia"
     },
     {
         "name": "Soraka",
@@ -1533,7 +1914,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Celestial",
+        "regions": "Ionia;Targon"
     },
     {
         "name": "Swain",
@@ -1545,7 +1929,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Noxus"
     },
     {
         "name": "Sylas",
@@ -1557,7 +1944,10 @@
         "release_year": 2019,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magicborn",
+        "regions": "Demacia;Freljord"
     },
     {
         "name": "Syndra",
@@ -1569,7 +1959,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Ionia"
     },
     {
         "name": "Tahm Kench",
@@ -1581,7 +1974,10 @@
         "release_year": 2015,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Demon;Spirit",
+        "regions": "Bilgewater;Runeterra"
     },
     {
         "name": "Taliyah",
@@ -1593,7 +1989,10 @@
         "release_year": 2016,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Shurima"
     },
     {
         "name": "Talon",
@@ -1605,7 +2004,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Noxus"
     },
     {
         "name": "Taric",
@@ -1617,7 +2019,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Aspect;Human",
+        "regions": "Demacia;Targon"
     },
     {
         "name": "Teemo",
@@ -1629,7 +2034,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Bandle City"
     },
     {
         "name": "Thresh",
@@ -1641,7 +2049,10 @@
         "release_year": 2013,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Undead",
+        "regions": "Shadow Isles"
     },
     {
         "name": "Tristana",
@@ -1653,7 +2064,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Yordle",
+        "regions": "Bandle City"
     },
     {
         "name": "Trundle",
@@ -1665,7 +2079,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Iceborn;Troll",
+        "regions": "Freljord"
     },
     {
         "name": "Tryndamere",
@@ -1677,7 +2094,10 @@
         "release_year": 2009,
         "resource": "Fury",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Freljord"
     },
     {
         "name": "Twisted Fate",
@@ -1689,7 +2109,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magicborn",
+        "regions": "Bilgewater"
     },
     {
         "name": "Twitch",
@@ -1701,7 +2124,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Rat;Chemically Altered",
+        "regions": "Zaun"
     },
     {
         "name": "Udyr",
@@ -1713,7 +2139,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Spiritualist",
+        "regions": "Freljord;Ionia"
     },
     {
         "name": "Urgot",
@@ -1725,7 +2154,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Chemically Altered;Cyborg",
+        "regions": "Noxus;Zaun"
     },
     {
         "name": "Varus",
@@ -1737,7 +2169,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Darkin",
+        "regions": "Ionia;Runeterra;Shurima"
     },
     {
         "name": "Vayne",
@@ -1749,7 +2184,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Demacia"
     },
     {
         "name": "Veigar",
@@ -1761,7 +2199,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Bandle City;Runeterra;Shadow Isles"
     },
     {
         "name": "Vel'Koz",
@@ -1773,7 +2214,10 @@
         "release_year": 2014,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Void-Being",
+        "regions": "Void"
     },
     {
         "name": "Vex",
@@ -1785,7 +2229,10 @@
         "release_year": 2021,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Yordle",
+        "regions": "Bandle City;Shadow Isles"
     },
     {
         "name": "Vi",
@@ -1797,7 +2244,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human",
+        "regions": "Piltover;Zaun"
     },
     {
         "name": "Viego",
@@ -1809,7 +2259,10 @@
         "release_year": 2021,
         "resource": "Manaless",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Undead",
+        "regions": "Camavor;Shadow Isles"
     },
     {
         "name": "Viktor",
@@ -1821,7 +2274,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Cyborg",
+        "regions": "Piltover;Zaun"
     },
     {
         "name": "Vladimir",
@@ -1833,7 +2289,10 @@
         "release_year": 2010,
         "resource": "Crimson Rush",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Camavor;Noxus;Shadow Isles"
     },
     {
         "name": "Volibear",
@@ -1845,7 +2304,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "God;Spirit",
+        "regions": "Freljord"
     },
     {
         "name": "Warwick",
@@ -1857,7 +2319,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Chemically Altered;Cyborg",
+        "regions": "Zaun"
     },
     {
         "name": "Wukong",
@@ -1869,7 +2334,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Vastayan",
+        "regions": "Ionia"
     },
     {
         "name": "Xayah",
@@ -1881,7 +2349,10 @@
         "release_year": 2017,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Vastayan",
+        "regions": "Ionia"
     },
     {
         "name": "Xerath",
@@ -1893,7 +2364,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Baccal",
+        "regions": "Shurima"
     },
     {
         "name": "Xin Zhao",
@@ -1905,7 +2379,10 @@
         "release_year": 2010,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human",
+        "regions": "Demacia;Ionia;Noxus"
     },
     {
         "name": "Yasuo",
@@ -1917,7 +2394,10 @@
         "release_year": 2013,
         "resource": "Flow",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Magicborn",
+        "regions": "Ionia"
     },
     {
         "name": "Yone",
@@ -1929,7 +2409,10 @@
         "release_year": 2020,
         "resource": "Flow",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Ionia"
     },
     {
         "name": "Yorick",
@@ -1941,7 +2424,10 @@
         "release_year": 2011,
         "resource": "Mana",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Shadow Isles"
     },
     {
         "name": "Yunara",
@@ -1953,7 +2439,10 @@
         "release_year": 2025,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Spiritualist",
+        "regions": "Ionia"
     },
     {
         "name": "Yuumi",
@@ -1965,7 +2454,10 @@
         "release_year": 2019,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Cat;Magically Altered",
+        "regions": "Bandle City"
     },
     {
         "name": "Zac",
@@ -1977,7 +2469,10 @@
         "release_year": 2013,
         "resource": "Health costs",
         "range_type": "Melee",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Golem",
+        "regions": "Zaun"
     },
     {
         "name": "Zed",
@@ -1989,7 +2484,10 @@
         "release_year": 2012,
         "resource": "Energy",
         "range_type": "Melee",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Male",
+        "race": "Human;Magically Altered",
+        "regions": "Ionia"
     },
     {
         "name": "Zeri",
@@ -2001,7 +2499,10 @@
         "release_year": 2022,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Physical"
+        "adaptive_type": "Physical",
+        "gender": "Female",
+        "race": "Human;Magicborn",
+        "regions": "Zaun"
     },
     {
         "name": "Ziggs",
@@ -2013,7 +2514,10 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Yordle",
+        "regions": "Zaun"
     },
     {
         "name": "Zilean",
@@ -2025,7 +2529,10 @@
         "release_year": 2009,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Male",
+        "race": "Human;Magicborn",
+        "regions": "Icathia;Runeterra;Shurima"
     },
     {
         "name": "Zoe",
@@ -2037,7 +2544,10 @@
         "release_year": 2017,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Aspect;Human",
+        "regions": "Targon"
     },
     {
         "name": "Zyra",
@@ -2049,6 +2559,9 @@
         "release_year": 2012,
         "resource": "Mana",
         "range_type": "Ranged",
-        "adaptive_type": "Magic"
+        "adaptive_type": "Magic",
+        "gender": "Female",
+        "race": "Human;Plant",
+        "regions": "Ixtal"
     }
 ]

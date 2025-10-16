@@ -5,13 +5,18 @@
         "type": "none"
     },
     {
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
+    },
+    {
         "key": "roles",
         "title": "Roles",
         "type": "equal"
     },
     {
-        "key": "class",
-        "title": "Class",
+        "key": "race",
+        "title": "Species",
         "type": "equal"
     },
     {
@@ -27,6 +32,11 @@
     {
         "key": "range_type",
         "title": "Range",
+        "type": "equal"
+    },
+    {
+        "key": "regions",
+        "title": "Regions",
         "type": "equal"
     },
     {
