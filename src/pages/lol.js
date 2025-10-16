@@ -8,13 +8,13 @@ import Dle from "../components/dle/dle";
 
 function Lol() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} index={1} />,
-        <Dlemenubtn key={2} menu={true} name={"Title"} desc={"Guess by the champion's title"} index={2} />,
-        <Dlemenubtn key={3} menu={true} name={"Picture"} desc={"Guess from a filtered image"} index={3} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Title"} desc={"Guess by the champion's title"} logo="classic" index={2} />,
+        <Dlemenubtn key={3} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={3} />
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} menu={true} buttons={buttons} />,
+        <Dlemenu key={'menu'} title="Guess the daily champion" menu={true} buttons={buttons} />,
         <Classic key={'classic'} name={"lol"} mode="classic" data={data} fields={fields} first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
         <Findmode key={'title'} name={"lol"} mode="title" data={data} filter="title" first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
         <Findmode key={'picture'} name={"lol"} mode="picture" data={data} filter="image_url" />

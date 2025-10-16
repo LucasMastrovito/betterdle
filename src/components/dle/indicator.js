@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-function Indicator() {
+function Indicator(props) {
     const [show, setShow] = useState(false);
     const rowRef = useRef(null);
     const [hasScroll, setHasScroll] = useState(false);
@@ -17,7 +17,7 @@ function Indicator() {
     }, [show]);
 
     return (
-         <div className="card" style={{width: show ? '50%' : '30%', marginTop: '5vh'}}>
+         <div className={`card card-${props.name}`} style={{width: show ? '50%' : '30%', marginTop: '5vh'}}>
             <h2 className="outline">Indicators</h2>
             <div className="grid" style={{marginBlock: "1em"}}>
                 <div className={`row ${hasScroll ? "has-scroll" : ""}`} style={{display: show ? 'flex' : 'none'}}>

@@ -75,18 +75,18 @@ function Findmode(props) {
                         <div className="img-container">
                             <img alt="img" src={filter} className="img-to-find" style={{ filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${zoom ? scale : 1})` }} />
                         </div>
-                        <div className="card findmode-card" style={{ display: "flex" }}>
-                            <h3>Grayscale</h3>
+                        <div className={`card card-${props.name} findmode-card`} style={{ display: "flex" }}>
+                            <h3 className="outline">Grayscale</h3>
                             <label className="switch">
                                 <input type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
                                 <span className="slider"></span>
                             </label>
-                            <h3>Blur</h3>
+                            <h3 className="outline">Blur</h3>
                             <label className="switch">
                                 <input type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
                                 <span className="slider"></span>
                             </label>
-                            <h3>Zoom</h3>
+                            <h3 className="outline">Zoom</h3>
                             <label className="switch">
                                 <input type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
                                 <span className="slider"></span>

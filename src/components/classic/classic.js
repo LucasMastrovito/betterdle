@@ -79,7 +79,7 @@ function Classic(props) {
 
   return (
     <div className="classic">
-      <Tipscard random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
+      <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
       <Searchbar data={data} submit={submit} find={find} />
       <div className="grid">
         <div ref={rowRef} className={`row ${hasScroll ? "has-scroll" : ""}`}>
@@ -89,7 +89,7 @@ function Classic(props) {
         </div>
         {rows}
       </div>
-      <Indicator />
+      <Indicator name={props.name} />
       {find ? <Win data={random} tries={tries} delay="5s"></Win> : <span></span>}
     </div>
   )

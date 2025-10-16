@@ -1,3 +1,3 @@
 .dle-onepiece {
-    background-image: url("../assets/onepiece-bg.jpg");
+    background-image: radial-gradient(circle, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0) 70%), url("../assets/onepiece-bg.jpg");
 }

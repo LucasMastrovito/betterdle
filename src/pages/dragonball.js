@@ -8,12 +8,12 @@ import Dlemenu from "../components/dle/dlemenu";
 
 function Dragonball() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} index={1} />,
-        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} index={2} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={2} />
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} menu={true} buttons={buttons} />,
+        <Dlemenu key={'menu'} title="Guess the Dragon Ball character" menu={true} buttons={buttons} />,
         <Classic key={'classic'} name={"dragonball"} mode="classic" data={data} fields={fields} first_tips={{ name: "First Arc", key: "first_arc" }} second_tips={{ name: "First Episode", key: "first_episode" }} />,
         <Findmode key={'picutre'} name={"dragonball"} mode="picture" data={data} filter="image_url" />
     ];

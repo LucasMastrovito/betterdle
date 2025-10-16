@@ -6,16 +6,15 @@ function Dlemenubtn(props) {
     return (
          props.menu ?
             <div className="dlemenubtn scale" onClick={() => changeMode(props.index)}>
-                <img alt="logo" src={props.logo} />
-                <div>
+                <img alt="logo" className="dlebtn-icon" style={{maxWidth: "80px", marginLeft: "15px"}} src={`/assets/${props.logo}.png`} />
+                <div style={{width: "65%"}}>
                     <h2>{props.name}</h2>
                     <p>{props.desc}</p>
                 </div>
             </div>
         :
-            <div className="dlebtn">
-                <p>{props.name}</p>
-                <img alt="logo" className="scale logo" onClick={() => changeMode(props.index)} src={props.logo} style={{cursor: 'pointer'}} />
+            <div className={`dlebtn ${props.current === props.index ? 'dlebtn-current' : ''}`}>
+                <img alt="logo" className="scale dlebtn-icon" onClick={() => changeMode(props.index)} src={`/assets/${props.logo}.png`} style={{cursor: 'pointer'}} />
             </div>
     )
 }

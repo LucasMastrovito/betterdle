@@ -9,12 +9,12 @@ import Dle from "../components/dle/dle";
 
 function Anime() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} index={1} />,
-        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} index={2} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={2} />
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} menu={true} buttons={buttons} />,
+        <Dlemenu key={'menu'} title="Guess the daily anime character" menu={true} buttons={buttons} />,
         <Classic key={'classic'} name={"anime"} mode="classic" data={data} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
         <Findmode key={'picture'} name={"anime"} mode="picture" data={data} filter="image_url" />
     ];

@@ -1,38 +1,61 @@
+.dle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover;
+  height: 100vh;
+  padding: 1vh;
+  overflow: auto;
+}
+
 .modemenu {
-    height: 10vh;
-    padding: 2em;
-    margin-bottom: 2em;
+  width: 60%;
+  height: 10vh;
+  margin: 3em;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
 }
 
 .dlemenu {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    gap: 2em;
-    padding: 2vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 2em;
+  padding: 2vw;
+  color: white;
 }
 
 .dlemenubtn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50%;
-    max-width: 400px;
-    color: white;
-    background-color: #242424;
-    border: 3px solid aliceblue;
-    border-radius: 15px;
-    cursor: pointer;
+  display: flex;
+  align-items: center;
+  width: 50%;
+  max-width: 400px;
+  color: white;
+  background-color: #242424;
+  border: 3px solid aliceblue;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.dlebtn-icon {
+  width: 40%;
+  max-width: 200px;
+}
+
+.dlebtn-current {
+  border-bottom: aliceblue solid 2px;
 }
 
 .form {
-    padding-top: 3vh;
+  padding-top: 3vh;
 }
 
 .searchbar-container {
-    width: 50%;
+  width: 50%;
 }
 
 .searchbar {
@@ -94,28 +117,28 @@
 }
 
 .win {
-    opacity: 0;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, 0.25);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
-    animation: fadeIn 0.5s forwards linear 1;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: fadeIn 0.5s forwards linear 1;
 }
 
 .win-img {
-    width: 40%;
-    border: 2px solid black;
-    border-radius: 8px;
+  width: 40%;
+  border: 2px solid black;
+  border-radius: 8px;
 }
 
 @media (max-width: 1000px) {
-    .searchbar-container {
-        width: 100%;
-    }
+  .searchbar-container {
+    width: 100%;
+  }
 }

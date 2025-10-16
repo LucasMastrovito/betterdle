@@ -4,24 +4,28 @@ function Dlemenu(props) {
     return (
         props.menu ?
             <div className="dlemenu">
-                 {props.buttons.map((btn, i) =>
+                <h1 className="outline">{props.title}</h1>
+                {props.buttons.map((btn, i) =>
                     React.cloneElement(btn, {
                         key: i,
+                        current: props.current,
                         menu: props.menu
                     })
                 )}
             </div>
-        :
-            <div className="card modemenu" style={{display: props.current === 0 ? "none" : "flex"}}>
-                <h2 className="outline" style={{marginTop: '0'}}>Modes</h2>
-                <div style={{display: "flex", gap: "1em"}}>
+            :
+            <div className={`modemenu`} style={{ display: props.current === 0 ? "none" : "flex" }}>
+                <h2 className="outline">{props.current > 0 ? props.buttons[props.current - 1].props.name : ''}</h2>
+                <div style={{ display: "flex", gap: "1em" }}>
                     {props.buttons.map((btn, i) =>
-                    React.cloneElement(btn, {
-                        key: i,
-                        menu: props.menu
-                    })
-                )}
+                        React.cloneElement(btn, {
+                            key: i,
+                            current: props.current,
+                            menu: props.menu
+                        })
+                    )}
                 </div>
+                <h3 className="outline">{props.current > 0 ? props.buttons[props.current - 1].props.desc : ''}</h3>
             </div>
     )
 }
