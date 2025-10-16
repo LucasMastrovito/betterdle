@@ -1,0 +1,54 @@
+.home-btn {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 2em;
+    z-index: 10;
+}
+
+.homebtn-text {
+    display: inline;
+}
+
+.homebtn-icon {
+    display: none;
+    width: 32px;
+    height: 32px;
+}
+
+.tips-container {
+    color: white;
+}
+
+.tips {
+    background-color: rgb(18, 49, 77);
+    border: white 2px solid;
+    border-radius: 15px;
+    padding: 0.5em;
+}
+
+.legend {
+    width: 60%;
+    border: #f5f5f5 solid 2px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+@media (max-width: 1000px) {
+    .home-btn {
+        margin: 1em;
+        padding: 0.5em;
+    }
+
+    .homebtn-text {
+        display: none;
+    }
+
+    .homebtn-icon {
+        display: block;
+    }
+}

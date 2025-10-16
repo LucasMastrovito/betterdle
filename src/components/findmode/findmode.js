@@ -1,21 +1,23 @@
 import { useEffect, useState } from "react";
-import { getTries, saveTry } from "./save";
-import Searchbar from "./searchbar";
-import Win from "./win";
+import { getTries, saveTry } from "../utils/save";
+import Searchbar from "../dle/searchbar";
+import Win from "../dle/win";
 import CharacterRow from "./characterRow";
-import Tipscard from "./tipscard";
+import Tipscard from "../dle/tipscard";
+import "./findmode.css";
+import { getRandomCharacter } from "../utils/getrandom";
 
 function clamp(num, min, max) {
-  return num <= min 
-    ? min 
-    : num >= max 
-      ? max 
-      : num
+    return num <= min
+        ? min
+        : num >= max
+            ? max
+            : num
 }
 
 function Findmode(props) {
     const [loading, setLoading] = useState(true);
-    const random = props.random;
+    const random = getRandomCharacter(props.data, props.mode);
     const filter = random[props.filter];
     const [data, setData] = useState(props.data);
     const [rows, setRows] = useState([]);
@@ -52,7 +54,7 @@ function Findmode(props) {
         }
         setPic(filter.includes(".png") || filter.includes(".jpg"));
     }, [loading, random, props.name, props.data, props.mode, data, filter]);
-    
+
     const submit = (index) => {
         if (data[index].name === random.name) {
             setFind(true);
@@ -69,35 +71,35 @@ function Findmode(props) {
         <div className="classic">
             {
                 pic ?
-                <span style={{display: "flex", flexDirection: "column", alignItems: "center", gap: "2em"}}>
-                    <div className="img-container">
-                        <img alt="img" src={filter} className="img-to-find" style={{filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${zoom ? scale : 1})`}} />
+                    <span style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "2em" }}>
+                        <div className="img-container">
+                            <img alt="img" src={filter} className="img-to-find" style={{ filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${zoom ? scale : 1})` }} />
+                        </div>
+                        <div className="card findmode-card" style={{ display: "flex" }}>
+                            <h3>Grayscale</h3>
+                            <label className="switch">
+                                <input type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
+                                <span className="slider"></span>
+                            </label>
+                            <h3>Blur</h3>
+                            <label className="switch">
+                                <input type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
+                                <span className="slider"></span>
+                            </label>
+                            <h3>Zoom</h3>
+                            <label className="switch">
+                                <input type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
+                                <span className="slider"></span>
+                            </label>
+                        </div>
+                    </span>
+                    :
+                    <div style={{ display: "flex", flexDirection: "column", gap: "1em" }}>
+                        <div className="card">
+                            <h1 className="outline">{filter}</h1>
+                        </div>
+                        <Tipscard random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                     </div>
-                    <div className="card findmode-card" style={{display: "flex"}}>
-                        <h3>Grayscale</h3>
-                        <label className="switch">
-                            <input type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
-                            <span className="slider"></span>
-                        </label>
-                        <h3>Blur</h3>
-                        <label className="switch">
-                            <input type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
-                            <span className="slider"></span>
-                        </label>
-                        <h3>Zoom</h3>
-                        <label className="switch">
-                            <input type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
-                            <span className="slider"></span>
-                        </label>
-                    </div>
-                </span>
-                :
-                <div style={{display: "flex", flexDirection: "column", gap: "1em"}}>
-                    <div className="card">
-                        <h1 className="outline">{filter}</h1>
-                    </div>
-                    <Tipscard random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
-                </div>
             }
             <Searchbar data={data} submit={submit} />
             <div className="grid">

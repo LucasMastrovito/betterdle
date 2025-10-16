@@ -1,14 +1,15 @@
 import { useEffect, useRef, useState } from "react";
 import Row from "./row";
 import "./classic.css";
-import Win from "./win";
-import Indicator from "./indicator";
-import { getTries, saveTry } from "./save";
-import Searchbar from "./searchbar";
-import Tipscard from "./tipscard";
+import Win from "../dle/win";
+import Indicator from "../dle/indicator";
+import { getTries, saveTry } from "../utils/save";
+import Searchbar from "../dle/searchbar";
+import Tipscard from "../dle/tipscard";
+import { getRandomCharacter } from "../utils/getrandom";
 
 function Classic(props) {
-  const random = props.random;
+  const random = getRandomCharacter(props.data, props.mode);
   const [data, setData] = useState(props.data);
   const fields = props.fields;
   const [rows, setRows] = useState([]);
@@ -17,7 +18,7 @@ function Classic(props) {
   const [loading, setLoading] = useState(true);
   const rowRef = useRef(null);
   const [hasScroll, setHasScroll] = useState(false);
-  
+
   useEffect(() => {
     const checkScroll = () => {
       const el = rowRef.current;
@@ -89,7 +90,7 @@ function Classic(props) {
         {rows}
       </div>
       <Indicator />
-      {find ? <Win data={random} tries={tries} next={props.next} delay="5s"></Win> : <span></span>}
+      {find ? <Win data={random} tries={tries} delay="5s"></Win> : <span></span>}
     </div>
   )
 }

@@ -1,10 +1,13 @@
 import { useState } from "react";
+import { useMode } from "../utils/modesContext";
 
 function Win(props) {
     const [display, setDisplay] = useState("flex");
 
+    const { changeMode } = useMode();
+
     const click = (e) => {
-        props.next(-1);
+        changeMode(-1);
         setDisplay("none");
     }
 

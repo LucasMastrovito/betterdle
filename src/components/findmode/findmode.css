@@ -1,0 +1,37 @@
+.characterrow {
+    position: relative;
+    display: flex;
+    width: 40%;
+    padding: 0.5em;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    align-items: center;
+    color: white;
+    animation: fadeIn 0.5s forwards linear 1;
+}
+
+.img-container {
+    border: #242424 solid 3px;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    width: 10vw;
+    height: 10vw;
+    min-height: 200px;
+    min-width: 200px;
+    overflow: hidden;
+}
+
+.img-to-find {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.findmode-card {
+    display: flex;
+    gap: 1.5em;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

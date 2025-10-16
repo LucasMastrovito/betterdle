@@ -1,49 +1,29 @@
-import Classic from "../components/classic";
 import data from "../json/dragonball_characters.json";
+import Classic from "../components/classic/classic";
 import fields from "../json/dragonball_fields.json";
-import logo from "../assets/dragonball-logo.png";
-import bg from "../assets/dragonball-bg.jpg";
-import Findmode from "../components/findmode";
-import { getRandomCharacter } from "../components/getrandom";
-import { useState } from "react";
-import Modemenu from "../components/modemenu";
-import Modebtn from "../components/modebtn";
-import { useNavigate } from "react-router-dom";
-import Homebtn from "../components/homebtn";
+import Findmode from "../components/findmode/findmode";
+import Dlemenubtn from "../components/dle/dlemenubtn";
+import Dle from "../components/dle/dle";
+import Dlemenu from "../components/dle/dlemenu";
 
 function Dragonball() {
-    const navigate = useNavigate();
-    const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture")];
-    const [current, setCurrent] = useState(0);
-    const [remount, setRemount] = useState(0);
-    const maxModes = 2;
-    const changeMode = (index) => {
-        if (index === -1) {
-            if (current + 1 >= maxModes) {
-                navigate('/');
-            } else {
-                setCurrent(current + 1);
-            }
-        } else {
-            setRemount(remount + 1);
-            setCurrent(index);
-        }
-    };
+    const buttons = [
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} index={2} />
+    ];
+
     const modes = [
-        <Classic key={'classic-' + remount} name={"dragonball"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode key={'picutre-' + remount} name={"dragonball"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
+        <Dlemenu key={'menu'} menu={true} buttons={buttons} />,
+        <Classic key={'classic'} name={"dragonball"} mode="classic" data={data} fields={fields} first_tips={{ name: "First Arc", key: "first_arc" }} second_tips={{ name: "First Episode", key: "first_episode" }} />,
+        <Findmode key={'picutre'} name={"dragonball"} mode="picture" data={data} filter="image_url" />
     ];
 
     return (
-        <div className="dle" style={{backgroundImage: `url(${bg})`}}>
-            <Homebtn />
-            <img alt="logo" className="scale logo" src={logo} />
-            {modes[current]}
-            <Modemenu
-                buttons={[
-                    <Modebtn key={1} name="Classic" index={0} click={changeMode} />,
-                    <Modebtn key={2} name="Picture" index={1} click={changeMode} />
-                ]}
+        <div>
+            <Dle
+                name="dragonball"
+                buttons={buttons}
+                modes={modes}
             />
         </div>
     )

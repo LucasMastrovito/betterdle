@@ -38,6 +38,24 @@ p {
   padding: 1em 2em;
 }
 
+.modal {
+    background-color: rgb(209, 212, 214);
+    padding: 0.5rem;
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 20vw;
+    max-width: 90%;
+    max-height: 90%;
+    box-shadow: 0 4px 10px rgba(109, 109, 109, 0.3);
+    overflow-y: auto;
+}
+
+@media (max-width: 1000px) {
+  .modal {
+        width: 50vw;
+    }
+}
+
 .margin-no {
   margin: 0;
 }

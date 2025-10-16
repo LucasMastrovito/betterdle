@@ -1,20 +1,15 @@
-import Dlebtn from "../components/dlebtn";
-import anime from "../assets/anime-logo.png";
-import op from "../assets/onepiece-logo.png";
-import db from "../assets/dragonball-logo.png";
-import lol from "../assets/lol-logo.png";
-import sw from "../assets/sw-logo.png";
+import Dlebtn from "../components/dle/dlebtn.js";
 
 function Home() {
     return (
         <div className="home">
             <img alt="title" src="/title.png" style={{maxWidth: "50vw", maxHeight: "30vh", margin: "3em"}} />
             <div className="dlebtn-container">
-                <Dlebtn logo={anime} link={'/anime'} />
-                <Dlebtn logo={op} link={'/onepiece'} />
-                <Dlebtn logo={db} link={'/dragonball'} />
-                <Dlebtn logo={lol} link={'/lol'} />
-                <Dlebtn logo={sw} link={'/sw'} />
+                <Dlebtn link={'/anime'} logo='anime' />
+                <Dlebtn link={'/onepiece'} logo='onepiece' />
+                <Dlebtn link={'/dragonball'} logo='dragonball' />
+                <Dlebtn link={'/lol'} logo='lol' />
+                <Dlebtn link={'/sw'} logo='sw' />
             </div>
         </div>
     )
