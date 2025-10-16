@@ -13,10 +13,10 @@ import Homebtn from "../components/homebtn";
 
 function Lol() {
     const navigate = useNavigate();
-    const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture")];
+    const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "title"), getRandomCharacter(data, "picture")];
     const [current, setCurrent] = useState(0);
     const [remount, setRemount] = useState(0);
-    const maxModes = 2;
+    const maxModes = 3;
     const changeMode = (index) => {
         if (index === -1) {
             if (current + 1 >= maxModes) {
@@ -31,7 +31,8 @@ function Lol() {
     };
     const modes = [
         <Classic key={'classic-' + remount} name={"lol"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "Class", key: "class"}} second_tips={{name: "Regions", key: "regions"}} />,
-        <Findmode key={'picture-' + remount} name={"lol"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
+        <Findmode key={'title-' + remount} name={"lol"} mode="title" data={data} random={random[1]} next={changeMode} filter="title" first_tips={{name: "Class", key: "class"}} second_tips={{name: "Regions", key: "regions"}} />,
+        <Findmode key={'picture-' + remount} name={"lol"} mode="picture" data={data} random={random[2]} next={changeMode} filter="image_url" />
     ];
 
     return (
@@ -42,7 +43,8 @@ function Lol() {
             <Modemenu
                 buttons={[
                     <Modebtn key={1} name="Classic" index={0} click={changeMode} />,
-                    <Modebtn key={2} name="Picture" index={1} click={changeMode} />
+                    <Modebtn key={2} name="Title" index={1} click={changeMode} />,
+                    <Modebtn key={3} name="Picture" index={2} click={changeMode} />
                 ]}
             />
         </div>
