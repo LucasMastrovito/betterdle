@@ -10,9 +10,9 @@ import Dlemenu from "../components/dle/dlemenu";
 
 function Onepiece() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic" index={1} />,
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic-onepiece" index={1} />,
         <Dlemenubtn key={2} menu={true} name={"Fruit"} desc={"Guess by the champion's title"} logo="fruit" index={2} />,
-        <Dlemenubtn key={3} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={3} />
+        <Dlemenubtn key={3} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture-onepiece" index={3} />
     ];
 
     const modes = [

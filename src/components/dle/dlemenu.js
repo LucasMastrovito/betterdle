@@ -15,8 +15,7 @@ function Dlemenu(props) {
             </div>
             :
             <div className={`modemenu`} style={{ display: props.current === 0 ? "none" : "flex" }}>
-                <h2 className="outline">{props.current > 0 ? props.buttons[props.current - 1].props.name : ''}</h2>
-                <div style={{ display: "flex", gap: "1em" }}>
+                <div className="modemenu-btns">
                     {props.buttons.map((btn, i) =>
                         React.cloneElement(btn, {
                             key: i,
