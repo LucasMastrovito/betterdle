@@ -13,7 +13,7 @@ function Dlemenubtn(props) {
                 </div>
             </div>
         :
-            <div className={`dlebtn ${props.current === props.index ? 'dlebtn-current' : ''}`}>
+            <div className={`modebtn ${props.current === props.index ? 'dlebtn-current' : ''}`}>
                 <p className="outline" style={{color: props.current === props.index ? "#ecf076ff" : "white"}}>{props.name}</p>
                 <img alt="logo" className="scale dlebtn-icon" onClick={() => changeMode(props.index)} src={`/assets/${props.logo}.png`} style={{cursor: 'pointer'}} />
             </div>

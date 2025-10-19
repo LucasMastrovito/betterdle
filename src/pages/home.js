@@ -10,6 +10,7 @@ function Home() {
                 <Dlebtn link={'/dragonball'} logo='dragonball' />
                 <Dlebtn link={'/lol'} logo='lol' />
                 <Dlebtn link={'/sw'} logo='sw' />
+                <Dlebtn link={'/gacha'} logo='gacha' />
             </div>
         </div>
     )
