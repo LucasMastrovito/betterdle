@@ -117,7 +117,7 @@
     "skin": "Red",
     "eyes": "Blue",
     "affiliation": "Sonic Team",
-    "skills": ""
+    "skills": "None"
   },
   {
     "name": "Cosmo",
@@ -128,7 +128,7 @@
     "gender": "Female",
     "skin": "Green",
     "eyes": "Blue",
-    "affiliation": "",
+    "affiliation": "None",
     "skills": "Plant Empathy;Enhanced Jump;Endurance;Agility;Piloting Skills"
   },
   {
@@ -186,7 +186,7 @@
     "age": 17,
     "species": "Chameleon",
     "gender": "Male",
-    "skin": "",
+    "skin": "None",
     "eyes": "Gold",
     "affiliation": "Chaotix Detective Agency;Team Chaotix;Resistance",
     "skills": "Super speed;Enhanced strength;Enhanced durability;Camouflage"
@@ -234,9 +234,9 @@
     "age": 7,
     "species": "Raccoon",
     "gender": "Female",
-    "skin": "Blue",
+    "skin": "Brown;Yellow",
     "eyes": "Blue",
-    "affiliation": "",
+    "affiliation": "None",
     "skills": "Sailing;Enhanced speed"
   },
   {
@@ -248,7 +248,7 @@
     "gender": "Male",
     "skin": "Gray;black;Green",
     "eyes": "Green",
-    "affiliation": "",
+    "affiliation": "None",
     "skills": "Speed"
   },
   {
@@ -368,8 +368,8 @@
     "gender": "Female",
     "skin": "Peach",
     "eyes": "Brown",
-    "affiliation": "",
-    "skills": ""
+    "affiliation": "None",
+    "skills": "None"
   },
   {
     "name": "Vector the Crocodile",
@@ -429,7 +429,7 @@
     "skin": "Green",
     "eyes": "Blue;yellow sclera",
     "affiliation": "Deadly Six",
-    "skills": ""
+    "skills": "None"
   },
   {
     "name": "Zor",
