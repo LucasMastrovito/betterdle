@@ -9,6 +9,7 @@ import Anime from './pages/anime';
 import Lol from './pages/lol';
 import Gacha from './pages/gacha';
 import Sonic from './pages/sonic';
+import Valorant from './pages/valorant';
 
 function App() {
   useEffect(() => {
@@ -31,6 +32,7 @@ function App() {
           <Route path='/onepiece' element={<Onepiece />} />
           <Route path='/dragonball' element={<Dragonball />} />
           <Route path='/lol' element={<Lol />} />
+          <Route path='/valorant' element={<Valorant />} />
           <Route path='/sw' element={<Sw />} />
           <Route path='/gacha' element={<Gacha />} />
           <Route path='/sonic' element={<Sonic />} />

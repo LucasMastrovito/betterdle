@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Brimstone",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/4/4d/Brimstone_icon.png",
+    "role": "Controller",
+    "origin": "United States",
+    "release_patch": "Beta",
+    "real_name": "Liam Byrne",
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Viper",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/5/5f/Viper_icon.png",
+    "role": "Controller",
+    "origin": "United States",
+    "release_patch": "Beta",
+    "real_name": "Sabine Callas",
+    "gender": "Female",
+    "race": "Human"
+  },
+  {
+    "name": "Omen",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b0/Omen_icon.png",
+    "role": "Controller",
+    "origin": "Unknown",
+    "release_patch": "Beta",
+    "real_name": "Unknown",
+    "gender": "Male",
+    "race": "Radiant"
+  },
+  {
+    "name": "Killjoy",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/1/15/Killjoy_icon.png",
+    "role": "Sentinel",
+    "origin": "Germany",
+    "release_patch": "1.05",
+    "real_name": "Klara Böhringer",
+    "gender": "Female",
+    "race": "Human"
+  },
+  {
+    "name": "Cypher",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/8/88/Cypher_icon.png",
+    "role": "Sentinel",
+    "origin": "Morocco",
+    "release_patch": "Beta",
+    "real_name": "Amir El Amari",
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Sova",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/4/49/Sova_icon.png",
+    "role": "Initiator",
+    "origin": "Russia",
+    "release_patch": "Beta",
+    "real_name": "Alexander (Sasha) Novikov",
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Sage",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/7/74/Sage_icon.png",
+    "role": "Sentinel",
+    "origin": "China",
+    "release_patch": "Beta",
+    "real_name": "Wei Ling Ying",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Phoenix",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/1/14/Phoenix_icon.png",
+    "role": "Duelist",
+    "origin": "England",
+    "release_patch": "Beta",
+    "real_name": "Jamie Adeyemi",
+    "gender": "Male",
+    "race": "Radiant"
+  },
+  {
+    "name": "Jett",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/3/35/Jett_icon.png",
+    "role": "Duelist",
+    "origin": "South Korea",
+    "release_patch": "Beta",
+    "real_name": "Han Sunwoo (Sunwoo Han)",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Reyna",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b0/Reyna_icon.png",
+    "role": "Duelist",
+    "origin": "Mexico",
+    "release_patch": "1.0",
+    "real_name": "Zyanya Mondragón",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Raze",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png",
+    "role": "Duelist",
+    "origin": "Brazil",
+    "release_patch": "Beta",
+    "real_name": "Tayane Alves",
+    "gender": "Female",
+    "race": "Human"
+  },
+  {
+    "name": "Breach",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/5/53/Breach_icon.png",
+    "role": "Initiator",
+    "origin": "Sweden",
+    "release_patch": "Beta",
+    "real_name": "Erik Torsten",
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Skye",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/3/33/Skye_icon.png",
+    "role": "Initiator",
+    "origin": "Australia",
+    "release_patch": "1.11",
+    "real_name": "Kirra Foster",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Yoru",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d4/Yoru_icon.png",
+    "role": "Duelist",
+    "origin": "Japan",
+    "release_patch": "2.0",
+    "real_name": "Kiritani Ryo",
+    "gender": "Male",
+    "race": "Radiant"
+  },
+  {
+    "name": "Astra",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/0/08/Astra_icon.png",
+    "role": "Controller",
+    "origin": "Ghana",
+    "release_patch": "2.04",
+    "real_name": "Efia Danso",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "KAY/O",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f0/KAYO_icon.png",
+    "role": "Initiator",
+    "origin": "Alternate Timeline Earth",
+    "release_patch": "3.0",
+    "real_name": null,
+    "gender": "Male",
+    "race": "Cybernetic"
+  },
+  {
+    "name": "Chamber",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/0/09/Chamber_icon.png",
+    "role": "Sentinel",
+    "origin": "France",
+    "release_patch": "3.10",
+    "real_name": "Vincent Fabron",
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Neon",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/d/d0/Neon_icon.png",
+    "role": "Duelist",
+    "origin": "Philippines",
+    "release_patch": "4.0",
+    "real_name": "Tala Nicole Dimaapi Valdez",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Fade",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/a/a6/Fade_icon.png",
+    "role": "Initiator",
+    "origin": "Türkiye",
+    "release_patch": "4.08",
+    "real_name": "Hazal Eyletmez",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Harbor",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/f/f3/Harbor_icon.png",
+    "role": "Controller",
+    "origin": "India",
+    "release_patch": "5.08",
+    "real_name": "Varun Batra",
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Gekko",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/6/66/Gekko_icon.png",
+    "role": "Initiator",
+    "origin": "United States",
+    "release_patch": "6.04",
+    "real_name": "Mateo Armendáriz De la Fuente",
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Deadlock",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/e/eb/Deadlock_icon.png",
+    "role": "Sentinel",
+    "origin": "Norway",
+    "release_patch": "7.0",
+    "real_name": "Iselin Solem",
+    "gender": "Female",
+    "race": "Human"
+  },
+  {
+    "name": "Iso",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/b/b7/Iso_icon.png",
+    "role": "Duelist",
+    "origin": "China",
+    "release_patch": "7.09",
+    "real_name": "Li Zhao Yu",
+    "gender": "Male",
+    "race": "Radiant"
+  },
+  {
+    "name": "Clove",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/3/30/Clove_icon.png",
+    "role": "Controller",
+    "origin": "Scotland",
+    "release_patch": "8.05",
+    "real_name": "Ollie Baird",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Vyse",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/2/21/Vyse_icon.png",
+    "role": "Sentinel",
+    "origin": "Unknown",
+    "release_patch": "9.04",
+    "real_name": null,
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Tejo",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/9/90/Tejo_icon.png",
+    "role": "Initiator",
+    "origin": "Colombia",
+    "release_patch": "10.00",
+    "real_name": null,
+    "gender": "Male",
+    "race": "Human"
+  },
+  {
+    "name": "Waylay",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/3/3d/Waylay_icon.png",
+    "role": "Duelist",
+    "origin": "Thailand",
+    "release_patch": "10.04",
+    "real_name": "Ariya Saengkaew",
+    "gender": "Female",
+    "race": "Radiant"
+  },
+  {
+    "name": "Veto",
+    "image_url": "https://static.wikia.nocookie.net/valorant/images/4/4e/Veto_icon.png",
+    "role": "Sentinel",
+    "origin": "Senegal",
+    "release_patch": "11.07b",
+    "real_name": null,
+    "gender": "Male",
+    "race": "Radiant"
+  }
+]
