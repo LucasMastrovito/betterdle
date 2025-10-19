@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Filter from './Filter';
 import reportWebVitals from './reportWebVitals';
-import App from './App';
+import Match from './Match';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Match />
   </React.StrictMode>
 );
 

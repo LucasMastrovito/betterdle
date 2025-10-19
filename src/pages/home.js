@@ -11,6 +11,7 @@ function Home() {
                 <Dlebtn link={'/lol'} logo='lol' />
                 <Dlebtn link={'/sw'} logo='sw' />
                 <Dlebtn link={'/gacha'} logo='gacha' />
+                <Dlebtn link={'/sonic'} logo='sonic' />
             </div>
         </div>
     )

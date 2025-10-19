@@ -1,0 +1,48 @@
+[
+    {
+        "key" : "image_url",
+        "title" : "Character",
+        "type" : "none"
+    },
+    
+    {
+        "key" : "affiliation",
+        "title" : "Affiliation",
+        "type" : "equal"
+    },
+    {
+        "key" : "gender",
+        "title" : "Gender",
+        "type" : "equal"
+    },
+    {
+        "key" : "age",
+        "title" : "Age",
+        "type" : "number"
+    },
+    {
+        "key" : "species",
+        "title" : "Species",
+        "type" : "equal"
+    },
+    {
+        "key" : "skin",
+        "title" : "Skin Color",
+        "type" : "equal"
+    },
+    {
+        "key" : "eyes",
+        "title" : "Eyes",
+        "type" : "equal"
+    },
+    {
+        "key" : "skills",
+        "title" : "Skills",
+        "type" : "equal"
+    },
+    {
+        "key" : "first_appearance",
+        "title" : "First Appearance",
+        "type" : "equal"
+    }
+]

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { isImg } from "../utils/utils";
 
 function getMatchStatus(type, guessValue, answerValue, order) {
   if (type === "none") {
@@ -29,11 +30,11 @@ function getMatchStatus(type, guessValue, answerValue, order) {
 }
 
 function Field(props) {
-  const text = typeof (props.name) === "string" ? props.name.replace(/;/g, " ") : props.name;
+  const text = typeof (props.name) === "string" ? props.name.replace(/;/g, ", ") : props.name !== null ? props.name : "Unknown";
   const [name, setName] = useState(false);
 
   const displayName = (e) => {
-    if (typeof props.name === "string" && (props.name.includes(".png") || props.name.includes(".jpg"))) {
+    if (typeof props.name === "string" && isImg(props.name)) {
       setName(!name);
     }
   }
@@ -45,7 +46,7 @@ function Field(props) {
       props.field.order
     )}`}
       style={{ animation: "fadeIn 0.5s forwards linear 1", animationDelay: `${0.5 * props.index}s` }}>
-      {typeof props.name === "string" && (props.name.includes(".png") || props.name.includes(".jpg")) ?
+      {typeof props.name === "string" && isImg(props.name) ?
         <img alt={props.name} className="field-img" src={props.name} /> :
         <p>{text}</p>}
       <p style={{ zIndex: "10" }}>{name ? props.character : ''}</p>

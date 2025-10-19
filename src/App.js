@@ -8,6 +8,7 @@ import { useEffect } from 'react';
 import Anime from './pages/anime';
 import Lol from './pages/lol';
 import Gacha from './pages/gacha';
+import Sonic from './pages/sonic';
 
 function App() {
   useEffect(() => {
@@ -32,6 +33,7 @@ function App() {
           <Route path='/lol' element={<Lol />} />
           <Route path='/sw' element={<Sw />} />
           <Route path='/gacha' element={<Gacha />} />
+          <Route path='/sonic' element={<Sonic />} />
         </Routes>
       </BrowserRouter>
     </div>
