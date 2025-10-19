@@ -78,27 +78,27 @@ function Findmode(props) {
                         <div className={`card card-${props.name} findmode-card`} style={{ display: "flex" }}>
                             <h3 className="outline">Grayscale</h3>
                             <label className="switch">
-                                <input type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
+                                <input name="grey" type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
                                 <span className="slider"></span>
                             </label>
                             <h3 className="outline">Blur</h3>
                             <label className="switch">
-                                <input type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
+                                <input name="blur" type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
                                 <span className="slider"></span>
                             </label>
                             <h3 className="outline">Zoom</h3>
                             <label className="switch">
-                                <input type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
+                                <input name="zoom" type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
                                 <span className="slider"></span>
                             </label>
                         </div>
                     </span>
                     :
                     <div style={{ display: "flex", flexDirection: "column", gap: "1em" }}>
-                        <div className="card">
+                        <div className={`card card-${props.name}`}>
                             <h1 className="outline">{filter}</h1>
                         </div>
-                        <Tipscard random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
+                        <Tipscard random={random} name={props.name} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                     </div>
             }
             <Searchbar data={data} submit={submit} />

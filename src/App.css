@@ -8,6 +8,50 @@
   }
 }
 
+/* Taille de base responsive */
+html {
+  font-size: clamp(10px, 1vw, 14px); /* min 10px, max 14px, fluide */
+}
+
+/* Police globale */
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem; /* 1rem = font-size du html */
+  line-height: 1.4;
+  margin: 0;
+  padding: 0;
+  color: #111;
+}
+
+/* Titres plus raisonnables */
+h1 {
+  font-size: clamp(1.5rem, 3vw, 2rem); /* ~24px max */
+  margin: 1rem 0;
+}
+
+h2 {
+  font-size: clamp(1.25rem, 2.5vw, 1.5rem); /* ~20px max */
+  margin: 0.8rem 0;
+}
+
+h3 {
+  font-size: clamp(1.1rem, 2vw, 1.25rem); /* ~16px max */
+  margin: 0.5rem 0;
+}
+
+/* Paragraphes et texte normal */
+p, span, li, a {
+  font-size: 1rem; /* suit la base du html */
+}
+
+/* Pour très petits écrans */
+@media (max-width: 480px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+
 header, body {
   background-color: #282c34;
 }
@@ -176,8 +220,8 @@ button:hover {
 .slider:before {
  position: absolute;
  content: "";
- height: 1.4em;
- width: 1.4em;
+ height: 80%;
+ width: 50%;
  border-radius: 20px;
  left: 0.2em;
  bottom: 0.2em;

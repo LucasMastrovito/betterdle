@@ -9,7 +9,8 @@ function Dlemenu(props) {
                     React.cloneElement(btn, {
                         key: i,
                         current: props.current,
-                        menu: props.menu
+                        menu: props.menu,
+                        game: props.name
                     })
                 )}
             </div>
@@ -20,7 +21,8 @@ function Dlemenu(props) {
                         React.cloneElement(btn, {
                             key: i,
                             current: props.current,
-                            menu: props.menu
+                            menu: props.menu,
+                            game: props.name
                         })
                     )}
                 </div>

@@ -1,4 +1,5 @@
 function Submit(props) {
+    console.log(props)
     return (
         <div className="submit" onClick={() => document.getElementById(props.item.name).click()}>
             <img className="submit-img" src={props.item.image_url} alt={props.item.name} />

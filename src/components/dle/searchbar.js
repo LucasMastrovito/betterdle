@@ -37,41 +37,41 @@ function filterByNameOrAlias(arr, search) {
 }
 
 function Searchbar(props) {
-    const data = props.data;
-    const [search, setSearch] = useState("");
-    const [btns, setBtns] = useState([]);
+  const data = props.data;
+  const [search, setSearch] = useState("");
+  const [btns, setBtns] = useState([]);
 
-    const update = (e) => {
-        const results = filterByNameOrAlias(data, e.target.value);
+  const update = (e) => {
+    const results = filterByNameOrAlias(data, e.target.value);
 
-        setSearch(e.target.value);
-        if (e.target.value !== "") {
-        setBtns(
-            results.map((element, index) => (
-            <Submit key={index} item={element} />
-            )));
-        } else {
-        setBtns([]);
-        }
-    };
+    setSearch(e.target.value);
+    if (e.target.value !== "") {
+      setBtns(
+        results.map((element, index) => (
+          <Submit key={index} item={element} />
+        )));
+    } else {
+      setBtns([]);
+    }
+  };
 
-    const submit = (e) => {
-        const index = getIndexByName(data, e.nativeEvent.submitter.value);
+  const submit = (e) => {
+    const index = getIndexByName(data, e.nativeEvent.submitter.value);
 
-        e.preventDefault();
-        props.submit(index);
-        setSearch("");
-        setBtns([]);
-    };
+    e.preventDefault();
+    props.submit(index);
+    setSearch("");
+    setBtns([]);
+  };
 
-    return (
-        <div className="searchbar-container">
-            <form className="form" onSubmit={submit}>
-                <input name="search" type="text" className="searchbar" autoComplete="off" placeholder="Type a name or alias" value={search} onChange={update} disabled={props.find}></input>
-                <div className="submit-container">{btns}</div>
-            </form>
-        </div>
-    )
+  return (
+    <div className="searchbar-container">
+      <form className="form" onSubmit={submit}>
+        <input name="search" type="text" className="searchbar" autoComplete="off" placeholder="Type a name or alias" value={search} onChange={update} disabled={props.find}></input>
+        <div className="submit-container">{btns}</div>
+      </form>
+    </div>
+  )
 }
 
 export default Searchbar;

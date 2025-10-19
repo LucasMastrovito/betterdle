@@ -1,3 +1,57 @@
+@font-face {
+    font-family: Lol;
+    src: url("../assets/fonts/BeaufortforLOL-Regular.otf");
+}
+
+:root {
+    --light-yellow: #EDDC91;
+    --okra: #C4A15B;
+    --blue: #548CB4;
+    --darkblue: #1a1825;
+}
+
 .dle-lol {
-    background-image: radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 70%), url("../assets/lol-bg.jpg");
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 70%), url("../assets/lol-bg.jpg");
+    font-family: Lol;
+}
+
+.card-lol {
+    background-color: var(--darkblue);
+    border-color: var(--okra);
+}
+
+.dlemenubtn-lol {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    max-width: 30%;
+    max-height: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+.dlemenubtn-icon-lol {
+    border: var(--light-yellow) solid 1px;
+    border-radius: 50%;
+    background-color: var(--darkblue);
+    z-index: 2;
+    max-width: 22%;
+    max-height: none;
+}
+
+.dlebtn-icon-lol {
+    border: var(--light-yellow) solid 1px;
+    border-radius: 50%;
+    background-color: var(--darkblue);
+}
+
+.dlemenubtn-text-lol {
+    height: 75%;
+    border: var(--okra) 2px solid;
+    border-radius: 5px;
+    transform: translate(-40px);
+    background: black;
+}
+
+.dlemenubtn-text-lol h2 {
+    margin-top: 0.6em;
 }

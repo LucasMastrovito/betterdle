@@ -8,10 +8,10 @@ function Homebtn() {
         navigate('/');
     };
     return (
-        <button className="home-btn" onClick={home}>
-            <p className="homebtn-text">Home</p>
+        <div className="home-btn scale" onClick={home}>
+            <img alt="home" src={"/title.png"} className="homebtn-text" />
             <img alt="home" src={icon} className="homebtn-icon" />
-        </button>
+        </div>
     )
 }
 

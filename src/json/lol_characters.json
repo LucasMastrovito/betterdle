@@ -1,7 +1,7 @@
 [
     {
         "name": "Aatrox",
-        "title": "the Darkin Blade",
+        "title": "The Darkin Blade",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Aatrox",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Aatrox_OriginalSquare.png/42px-Aatrox_OriginalSquare.png?c0f58",
         "roles": "Top",
@@ -16,7 +16,7 @@
     },
     {
         "name": "Ahri",
-        "title": "the Nine-Tailed Fox",
+        "title": "The Nine-Tailed Fox",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Ahri",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ahri_OriginalSquare.png/42px-Ahri_OriginalSquare.png?d60a2",
         "roles": "Middle",
@@ -31,7 +31,7 @@
     },
     {
         "name": "Akali",
-        "title": "the Rogue Assassin",
+        "title": "The Rogue Assassin",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Akali",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Akali_OriginalSquare.png/42px-Akali_OriginalSquare.png?55774",
         "roles": "Top",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Akshan",
-        "title": "the Rogue Sentinel",
+        "title": "The Rogue Sentinel",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Akshan",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Akshan_OriginalSquare.png/42px-Akshan_OriginalSquare.png?f8657",
         "roles": "Middle",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Alistar",
-        "title": "the Minotaur",
+        "title": "The Minotaur",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Alistar",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Alistar_OriginalSquare.png/42px-Alistar_OriginalSquare.png?12536",
         "roles": "Support",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Amumu",
-        "title": "the Sad Mummy",
+        "title": "The Sad Mummy",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Amumu",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Amumu_OriginalSquare.png/42px-Amumu_OriginalSquare.png?3fa85",
         "roles": "Jungle",
@@ -106,7 +106,7 @@
     },
     {
         "name": "Anivia",
-        "title": "the Cryophoenix",
+        "title": "The Cryophoenix",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Anivia",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Anivia_OriginalSquare.png/42px-Anivia_OriginalSquare.png?dda87",
         "roles": "Middle",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Annie",
-        "title": "the Dark Child",
+        "title": "The Dark Child",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Annie",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Annie_OriginalSquare.png/42px-Annie_OriginalSquare.png?5e95f",
         "roles": "Middle",
@@ -136,7 +136,7 @@
     },
     {
         "name": "Aphelios",
-        "title": "the Weapon of the Faithful",
+        "title": "The Weapon of the Faithful",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Aphelios",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Aphelios_OriginalSquare.png/42px-Aphelios_OriginalSquare.png?4ae88",
         "roles": "Bottom",
@@ -151,7 +151,7 @@
     },
     {
         "name": "Ashe",
-        "title": "the Frost Archer",
+        "title": "The Frost Archer",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Ashe",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ashe_OriginalSquare.png/42px-Ashe_OriginalSquare.png?55e1d",
         "roles": "Bottom",
@@ -181,7 +181,7 @@
     },
     {
         "name": "Aurora",
-        "title": "the Witch Between Worlds",
+        "title": "The Witch Between Worlds",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Aurora",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Aurora_OriginalSquare.png/42px-Aurora_OriginalSquare.png?5dac9",
         "roles": "Middle",
@@ -196,7 +196,7 @@
     },
     {
         "name": "Azir",
-        "title": "the Emperor of the Sands",
+        "title": "The Emperor of the Sands",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Azir",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Azir_OriginalSquare.png/42px-Azir_OriginalSquare.png?95417",
         "roles": "Middle",
@@ -211,7 +211,7 @@
     },
     {
         "name": "Bard",
-        "title": "the Wandering Caretaker",
+        "title": "The Wandering Caretaker",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Bard",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Bard_OriginalSquare.png/42px-Bard_OriginalSquare.png?d0233",
         "roles": "Support",
@@ -226,7 +226,7 @@
     },
     {
         "name": "Bel'Veth",
-        "title": "the Empress of the Void",
+        "title": "The Empress of the Void",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Bel%27Veth",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Bel%27Veth_OriginalSquare.png/42px-Bel%27Veth_OriginalSquare.png?88288",
         "roles": "Jungle",
@@ -241,7 +241,7 @@
     },
     {
         "name": "Blitzcrank",
-        "title": "the Great Steam Golem",
+        "title": "The Great Steam Golem",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Blitzcrank",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Blitzcrank_OriginalSquare.png/42px-Blitzcrank_OriginalSquare.png?af7dd",
         "roles": "Support",
@@ -256,7 +256,7 @@
     },
     {
         "name": "Brand",
-        "title": "the Burning Vengeance",
+        "title": "The Burning Vengeance",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Brand",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Brand_OriginalSquare.png/42px-Brand_OriginalSquare.png?336d6",
         "roles": "Jungle",
@@ -271,7 +271,7 @@
     },
     {
         "name": "Braum",
-        "title": "the Heart of the Freljord",
+        "title": "The Heart of the Freljord",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Braum",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Braum_OriginalSquare.png/42px-Braum_OriginalSquare.png?96d05",
         "roles": "Support",
@@ -286,7 +286,7 @@
     },
     {
         "name": "Briar",
-        "title": "the Restrained Hunger",
+        "title": "The Restrained Hunger",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Briar",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Briar_OriginalSquare.png/42px-Briar_OriginalSquare.png?37f17",
         "roles": "Jungle",
@@ -301,7 +301,7 @@
     },
     {
         "name": "Caitlyn",
-        "title": "the Sheriff of Piltover",
+        "title": "The Sheriff of Piltover",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Caitlyn",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Caitlyn_OriginalSquare.png/42px-Caitlyn_OriginalSquare.png?818cf",
         "roles": "Bottom",
@@ -316,7 +316,7 @@
     },
     {
         "name": "Camille",
-        "title": "the Steel Shadow",
+        "title": "The Steel Shadow",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Camille",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Camille_OriginalSquare.png/42px-Camille_OriginalSquare.png?aba4a",
         "roles": "Top",
@@ -331,7 +331,7 @@
     },
     {
         "name": "Cassiopeia",
-        "title": "the Serpent's Embrace",
+        "title": "The Serpent's Embrace",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Cassiopeia",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Cassiopeia_OriginalSquare.png/42px-Cassiopeia_OriginalSquare.png?56ef7",
         "roles": "Middle;Top",
@@ -346,7 +346,7 @@
     },
     {
         "name": "Cho'Gath",
-        "title": "the Terror of the Void",
+        "title": "The Terror of the Void",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Cho%27Gath",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Cho%27Gath_OriginalSquare.png/42px-Cho%27Gath_OriginalSquare.png?70f42",
         "roles": "Top;Middle",
@@ -361,7 +361,7 @@
     },
     {
         "name": "Corki",
-        "title": "the Daring Bombardier",
+        "title": "The Daring Bombardier",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Corki",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Corki_OriginalSquare.png/42px-Corki_OriginalSquare.png?8bc1a",
         "roles": "Middle;Bottom",
@@ -376,7 +376,7 @@
     },
     {
         "name": "Darius",
-        "title": "the Hand of Noxus",
+        "title": "The Hand of Noxus",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Darius",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Darius_OriginalSquare.png/42px-Darius_OriginalSquare.png?aca4c",
         "roles": "Top;Jungle",
@@ -406,7 +406,7 @@
     },
     {
         "name": "Dr. Mundo",
-        "title": "the Madman of Zaun",
+        "title": "The Madman of Zaun",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Dr._Mundo",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Dr._Mundo_OriginalSquare.png/42px-Dr._Mundo_OriginalSquare.png?5756a",
         "roles": "Top",
@@ -421,7 +421,7 @@
     },
     {
         "name": "Draven",
-        "title": "the Glorious Executioner",
+        "title": "The Glorious Executioner",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Draven",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Draven_OriginalSquare.png/42px-Draven_OriginalSquare.png?63957",
         "roles": "Bottom",
@@ -436,7 +436,7 @@
     },
     {
         "name": "Ekko",
-        "title": "the Boy Who Shattered Time",
+        "title": "The Boy Who Shattered Time",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Ekko",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ekko_OriginalSquare.png/42px-Ekko_OriginalSquare.png?15376",
         "roles": "Jungle;Middle",
@@ -451,7 +451,7 @@
     },
     {
         "name": "Elise",
-        "title": "the Spider Queen",
+        "title": "The Spider Queen",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Elise",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Elise_OriginalSquare.png/42px-Elise_OriginalSquare.png?b97b0",
         "roles": "Jungle;Support",
@@ -481,7 +481,7 @@
     },
     {
         "name": "Ezreal",
-        "title": "the Prodigal Explorer",
+        "title": "The Prodigal Explorer",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Ezreal",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ezreal_OriginalSquare.png/42px-Ezreal_OriginalSquare.png?fc667",
         "roles": "Bottom",
@@ -496,7 +496,7 @@
     },
     {
         "name": "Fiddlesticks",
-        "title": "the Ancient Fear",
+        "title": "The Ancient Fear",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Fiddlesticks",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Fiddlesticks_OriginalSquare.png/42px-Fiddlesticks_OriginalSquare.png?1082b",
         "roles": "Jungle;Support",
@@ -511,7 +511,7 @@
     },
     {
         "name": "Fiora",
-        "title": "the Grand Duelist",
+        "title": "The Grand Duelist",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Fiora",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Fiora_OriginalSquare.png/42px-Fiora_OriginalSquare.png?0b643",
         "roles": "Top",
@@ -526,7 +526,7 @@
     },
     {
         "name": "Fizz",
-        "title": "the Tidal Trickster",
+        "title": "The Tidal Trickster",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Fizz",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Fizz_OriginalSquare.png/42px-Fizz_OriginalSquare.png?44c3d",
         "roles": "Middle",
@@ -541,7 +541,7 @@
     },
     {
         "name": "Galio",
-        "title": "the Colossus",
+        "title": "The Colossus",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Galio",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Galio_OriginalSquare.png/42px-Galio_OriginalSquare.png?698b3",
         "roles": "Middle",
@@ -556,7 +556,7 @@
     },
     {
         "name": "Gangplank",
-        "title": "the Saltwater Scourge",
+        "title": "The Saltwater Scourge",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Gangplank",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Gangplank_OriginalSquare.png/42px-Gangplank_OriginalSquare.png?6b5cf",
         "roles": "Top",
@@ -586,7 +586,7 @@
     },
     {
         "name": "Gnar",
-        "title": "the Missing Link",
+        "title": "The Missing Link",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Gnar",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Gnar_OriginalSquare.png/42px-Gnar_OriginalSquare.png?11c50",
         "roles": "Top",
@@ -601,7 +601,7 @@
     },
     {
         "name": "Gragas",
-        "title": "the Rabble Rouser",
+        "title": "The Rabble Rouser",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Gragas",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Gragas_OriginalSquare.png/42px-Gragas_OriginalSquare.png?41e2d",
         "roles": "Jungle;Top",
@@ -616,7 +616,7 @@
     },
     {
         "name": "Graves",
-        "title": "the Outlaw",
+        "title": "The Outlaw",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Graves",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Graves_OriginalSquare.png/42px-Graves_OriginalSquare.png?1d234",
         "roles": "Jungle",
@@ -646,7 +646,7 @@
     },
     {
         "name": "Hecarim",
-        "title": "the Shadow of War",
+        "title": "The Shadow of War",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Hecarim",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Hecarim_OriginalSquare.png/42px-Hecarim_OriginalSquare.png?89760",
         "roles": "Jungle",
@@ -661,7 +661,7 @@
     },
     {
         "name": "Heimerdinger",
-        "title": "the Revered Inventor",
+        "title": "The Revered Inventor",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Heimerdinger",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Heimerdinger_OriginalSquare.png/42px-Heimerdinger_OriginalSquare.png?80a6b",
         "roles": "Middle;Top",
@@ -676,7 +676,7 @@
     },
     {
         "name": "Hwei",
-        "title": "the Visionary",
+        "title": "The Visionary",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Hwei",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Hwei_OriginalSquare.png/42px-Hwei_OriginalSquare.png?0c03b",
         "roles": "Middle",
@@ -691,7 +691,7 @@
     },
     {
         "name": "Illaoi",
-        "title": "the Kraken Priestess",
+        "title": "The Kraken Priestess",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Illaoi",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Illaoi_OriginalSquare.png/42px-Illaoi_OriginalSquare.png?37418",
         "roles": "Top",
@@ -706,7 +706,7 @@
     },
     {
         "name": "Irelia",
-        "title": "the Blade Dancer",
+        "title": "The Blade Dancer",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Irelia",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Irelia_OriginalSquare.png/42px-Irelia_OriginalSquare.png?fad5e",
         "roles": "Top;Middle",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Ivern",
-        "title": "the Green Father",
+        "title": "The Green Father",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Ivern",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ivern_OriginalSquare.png/42px-Ivern_OriginalSquare.png?e28f2",
         "roles": "Jungle",
@@ -736,7 +736,7 @@
     },
     {
         "name": "Janna",
-        "title": "the Storm's Fury",
+        "title": "The Storm's Fury",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Janna",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Janna_OriginalSquare.png/42px-Janna_OriginalSquare.png?ec2a0",
         "roles": "Support",
@@ -751,7 +751,7 @@
     },
     {
         "name": "Jarvan IV",
-        "title": "the Exemplar of Demacia",
+        "title": "The Exemplar of Demacia",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Jarvan_IV",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jarvan_IV_OriginalSquare.png/42px-Jarvan_IV_OriginalSquare.png?74a73",
         "roles": "Jungle",
@@ -781,7 +781,7 @@
     },
     {
         "name": "Jayce",
-        "title": "the Defender of Tomorrow",
+        "title": "The Defender of Tomorrow",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Jayce",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jayce_OriginalSquare.png/42px-Jayce_OriginalSquare.png?02706",
         "roles": "Top",
@@ -796,7 +796,7 @@
     },
     {
         "name": "Jhin",
-        "title": "the Virtuoso",
+        "title": "The Virtuoso",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Jhin",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jhin_OriginalSquare.png/42px-Jhin_OriginalSquare.png?893f1",
         "roles": "Bottom",
@@ -811,7 +811,7 @@
     },
     {
         "name": "Jinx",
-        "title": "the Loose Cannon",
+        "title": "The Loose Cannon",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Jinx",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Jinx_OriginalSquare.png/42px-Jinx_OriginalSquare.png?95e74",
         "roles": "Bottom",
@@ -826,7 +826,7 @@
     },
     {
         "name": "K'Sante",
-        "title": "the Pride of Nazumah",
+        "title": "The Pride of Nazumah",
         "page_url": "https://wiki.leagueoflegends.com/en-us/K%27Sante",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/K%27Sante_OriginalSquare.png/42px-K%27Sante_OriginalSquare.png?6c0c1",
         "roles": "Top",
@@ -856,7 +856,7 @@
     },
     {
         "name": "Kalista",
-        "title": "the Spear of Vengeance",
+        "title": "The Spear of Vengeance",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kalista",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kalista_OriginalSquare.png/42px-Kalista_OriginalSquare.png?e5c71",
         "roles": "Bottom",
@@ -871,7 +871,7 @@
     },
     {
         "name": "Karma",
-        "title": "the Enlightened One",
+        "title": "The Enlightened One",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Karma",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Karma_OriginalSquare.png/42px-Karma_OriginalSquare.png?46695",
         "roles": "Middle",
@@ -886,7 +886,7 @@
     },
     {
         "name": "Karthus",
-        "title": "the Deathsinger",
+        "title": "The Deathsinger",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Karthus",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Karthus_OriginalSquare.png/42px-Karthus_OriginalSquare.png?46df2",
         "roles": "Jungle",
@@ -901,7 +901,7 @@
     },
     {
         "name": "Kassadin",
-        "title": "the Void Walker",
+        "title": "The Void Walker",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kassadin",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kassadin_OriginalSquare.png/42px-Kassadin_OriginalSquare.png?d6b88",
         "roles": "Middle",
@@ -916,7 +916,7 @@
     },
     {
         "name": "Katarina",
-        "title": "the Sinister Blade",
+        "title": "The Sinister Blade",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Katarina",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Katarina_OriginalSquare.png/42px-Katarina_OriginalSquare.png?e11e0",
         "roles": "Middle",
@@ -931,7 +931,7 @@
     },
     {
         "name": "Kayle",
-        "title": "the Righteous",
+        "title": "The Righteous",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kayle",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kayle_OriginalSquare.png/42px-Kayle_OriginalSquare.png?4677c",
         "roles": "Top",
@@ -946,7 +946,7 @@
     },
     {
         "name": "Kayn",
-        "title": "the Shadow Reaper",
+        "title": "The Shadow Reaper",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kayn",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kayn_OriginalSquare.png/42px-Kayn_OriginalSquare.png?37607",
         "roles": "Jungle",
@@ -961,7 +961,7 @@
     },
     {
         "name": "Kennen",
-        "title": "the Heart of the Tempest",
+        "title": "The Heart of the Tempest",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kennen",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kennen_OriginalSquare.png/42px-Kennen_OriginalSquare.png?f8fad",
         "roles": "Top;Middle",
@@ -976,7 +976,7 @@
     },
     {
         "name": "Kha'Zix",
-        "title": "the Voidreaver",
+        "title": "The Voidreaver",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kha%27Zix",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kha%27Zix_OriginalSquare.png/42px-Kha%27Zix_OriginalSquare.png?a0597",
         "roles": "Jungle",
@@ -1006,7 +1006,7 @@
     },
     {
         "name": "Kled",
-        "title": "the Cantankerous Cavalier",
+        "title": "The Cantankerous Cavalier",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kled",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kled_OriginalSquare.png/42px-Kled_OriginalSquare.png?353e8",
         "roles": "Top",
@@ -1021,7 +1021,7 @@
     },
     {
         "name": "Kog'Maw",
-        "title": "the Mouth of the Abyss",
+        "title": "The Mouth of the Abyss",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Kog%27Maw",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kog%27Maw_OriginalSquare.png/42px-Kog%27Maw_OriginalSquare.png?1f3d5",
         "roles": "Bottom",
@@ -1036,7 +1036,7 @@
     },
     {
         "name": "LeBlanc",
-        "title": "the Deceiver",
+        "title": "The Deceiver",
         "page_url": "https://wiki.leagueoflegends.com/en-us/LeBlanc",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/LeBlanc_OriginalSquare.png/42px-LeBlanc_OriginalSquare.png?4031b",
         "roles": "Middle",
@@ -1051,7 +1051,7 @@
     },
     {
         "name": "Lee Sin",
-        "title": "the Blind Monk",
+        "title": "The Blind Monk",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Lee_Sin",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lee_Sin_OriginalSquare.png/42px-Lee_Sin_OriginalSquare.png?f1618",
         "roles": "Jungle",
@@ -1066,7 +1066,7 @@
     },
     {
         "name": "Leona",
-        "title": "the Radiant Dawn",
+        "title": "The Radiant Dawn",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Leona",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Leona_OriginalSquare.png/42px-Leona_OriginalSquare.png?9c355",
         "roles": "Support",
@@ -1081,7 +1081,7 @@
     },
     {
         "name": "Lillia",
-        "title": "the Bashful Bloom",
+        "title": "The Bashful Bloom",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Lillia",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lillia_OriginalSquare.png/42px-Lillia_OriginalSquare.png?16dff",
         "roles": "Jungle",
@@ -1096,7 +1096,7 @@
     },
     {
         "name": "Lissandra",
-        "title": "the Ice Witch",
+        "title": "The Ice Witch",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Lissandra",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lissandra_OriginalSquare.png/42px-Lissandra_OriginalSquare.png?fe62c",
         "roles": "Middle",
@@ -1111,7 +1111,7 @@
     },
     {
         "name": "Lucian",
-        "title": "the Purifier",
+        "title": "The Purifier",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Lucian",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lucian_OriginalSquare.png/42px-Lucian_OriginalSquare.png?514f2",
         "roles": "Bottom",
@@ -1126,7 +1126,7 @@
     },
     {
         "name": "Lulu",
-        "title": "the Fae Sorceress",
+        "title": "The Fae Sorceress",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Lulu",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lulu_OriginalSquare.png/42px-Lulu_OriginalSquare.png?18777",
         "roles": "Support",
@@ -1141,7 +1141,7 @@
     },
     {
         "name": "Lux",
-        "title": "the Lady of Luminosity",
+        "title": "The Lady of Luminosity",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Lux",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lux_OriginalSquare.png/42px-Lux_OriginalSquare.png?285c1",
         "roles": "Middle;Support",
@@ -1171,7 +1171,7 @@
     },
     {
         "name": "Malzahar",
-        "title": "the Prophet of the Void",
+        "title": "The Prophet of the Void",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Malzahar",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Malzahar_OriginalSquare.png/42px-Malzahar_OriginalSquare.png?0d05f",
         "roles": "Middle",
@@ -1186,7 +1186,7 @@
     },
     {
         "name": "Maokai",
-        "title": "the Twisted Treant",
+        "title": "The Twisted Treant",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Maokai",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Maokai_OriginalSquare.png/42px-Maokai_OriginalSquare.png?5d15e",
         "roles": "Support",
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "Master Yi",
-        "title": "the Wuju Bladesman",
+        "title": "The Wuju Bladesman",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Master_Yi",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Master_Yi_OriginalSquare.png/42px-Master_Yi_OriginalSquare.png?3d56a",
         "roles": "Jungle",
@@ -1216,7 +1216,7 @@
     },
     {
         "name": "Mel",
-        "title": "the Soul's Reflection",
+        "title": "The Soul's Reflection",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Mel",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Mel_OriginalSquare.png/42px-Mel_OriginalSquare.png?dbac6",
         "roles": "Middle;Support",
@@ -1246,7 +1246,7 @@
     },
     {
         "name": "Miss Fortune",
-        "title": "the Bounty Hunter",
+        "title": "The Bounty Hunter",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Miss_Fortune",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Miss_Fortune_OriginalSquare.png/42px-Miss_Fortune_OriginalSquare.png?47a40",
         "roles": "Bottom",
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "Mordekaiser",
-        "title": "the Iron Revenant",
+        "title": "The Iron Revenant",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Mordekaiser",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Mordekaiser_OriginalSquare.png/42px-Mordekaiser_OriginalSquare.png?76c25",
         "roles": "Top",
@@ -1276,7 +1276,7 @@
     },
     {
         "name": "Morgana",
-        "title": "the Fallen",
+        "title": "The Fallen",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Morgana",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Morgana_OriginalSquare.png/42px-Morgana_OriginalSquare.png?03afb",
         "roles": "Support",
@@ -1291,7 +1291,7 @@
     },
     {
         "name": "Naafiri",
-        "title": "the Hound of a Hundred Bites",
+        "title": "The Hound of a Hundred Bites",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Naafiri",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Naafiri_OriginalSquare.png/42px-Naafiri_OriginalSquare.png?ccf30",
         "roles": "Middle;Jungle",
@@ -1306,7 +1306,7 @@
     },
     {
         "name": "Nami",
-        "title": "the Tidecaller",
+        "title": "The Tidecaller",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Nami",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nami_OriginalSquare.png/42px-Nami_OriginalSquare.png?b8c44",
         "roles": "Support",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "Nasus",
-        "title": "the Curator of the Sands",
+        "title": "The Curator of the Sands",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Nasus",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nasus_OriginalSquare.png/42px-Nasus_OriginalSquare.png?9a2f8",
         "roles": "Top",
@@ -1336,7 +1336,7 @@
     },
     {
         "name": "Nautilus",
-        "title": "the Titan of the Depths",
+        "title": "The Titan of the Depths",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Nautilus",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nautilus_OriginalSquare.png/42px-Nautilus_OriginalSquare.png?8b72f",
         "roles": "Support",
@@ -1351,7 +1351,7 @@
     },
     {
         "name": "Neeko",
-        "title": "the Curious Chameleon",
+        "title": "The Curious Chameleon",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Neeko",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Neeko_OriginalSquare.png/42px-Neeko_OriginalSquare.png?7667b",
         "roles": "Middle;Support",
@@ -1366,7 +1366,7 @@
     },
     {
         "name": "Nidalee",
-        "title": "the Bestial Huntress",
+        "title": "The Bestial Huntress",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Nidalee",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nidalee_OriginalSquare.png/42px-Nidalee_OriginalSquare.png?c6101",
         "roles": "Jungle",
@@ -1381,7 +1381,7 @@
     },
     {
         "name": "Nilah",
-        "title": "the Joy Unbound",
+        "title": "The Joy Unbound",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Nilah",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nilah_OriginalSquare.png/42px-Nilah_OriginalSquare.png?573d3",
         "roles": "Bottom",
@@ -1396,7 +1396,7 @@
     },
     {
         "name": "Nocturne",
-        "title": "the Eternal Nightmare",
+        "title": "The Eternal Nightmare",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Nocturne",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nocturne_OriginalSquare.png/42px-Nocturne_OriginalSquare.png?3ed03",
         "roles": "Jungle",
@@ -1411,7 +1411,7 @@
     },
     {
         "name": "Nunu & Willump",
-        "title": "the Boy and His Yeti",
+        "title": "The Boy and His Yeti",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Nunu_%26_Willump",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Nunu_OriginalSquare.png/42px-Nunu_OriginalSquare.png?ef0fa",
         "roles": "Jungle",
@@ -1426,7 +1426,7 @@
     },
     {
         "name": "Olaf",
-        "title": "the Berserker",
+        "title": "The Berserker",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Olaf",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Olaf_OriginalSquare.png/42px-Olaf_OriginalSquare.png?4841d",
         "roles": "Top",
@@ -1441,7 +1441,7 @@
     },
     {
         "name": "Orianna",
-        "title": "the Lady of Clockwork",
+        "title": "The Lady of Clockwork",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Orianna",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Orianna_OriginalSquare.png/42px-Orianna_OriginalSquare.png?ea994",
         "roles": "Middle",
@@ -1471,7 +1471,7 @@
     },
     {
         "name": "Pantheon",
-        "title": "the Unbreakable Spear",
+        "title": "The Unbreakable Spear",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Pantheon",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Pantheon_OriginalSquare.png/42px-Pantheon_OriginalSquare.png?81183",
         "roles": "Top;Jungle;Support",
@@ -1501,7 +1501,7 @@
     },
     {
         "name": "Pyke",
-        "title": "the Bloodharbor Ripper",
+        "title": "The Bloodharbor Ripper",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Pyke",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Pyke_OriginalSquare.png/42px-Pyke_OriginalSquare.png?071c0",
         "roles": "Support",
@@ -1561,7 +1561,7 @@
     },
     {
         "name": "Rammus",
-        "title": "the Armordillo",
+        "title": "The Armordillo",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Rammus",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rammus_OriginalSquare.png/42px-Rammus_OriginalSquare.png?3fbfd",
         "roles": "Jungle",
@@ -1576,7 +1576,7 @@
     },
     {
         "name": "Rek'Sai",
-        "title": "the Void Burrower",
+        "title": "The Void Burrower",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Rek%27Sai",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rek%27Sai_OriginalSquare.png/42px-Rek%27Sai_OriginalSquare.png?c597d",
         "roles": "Jungle",
@@ -1591,7 +1591,7 @@
     },
     {
         "name": "Rell",
-        "title": "the Iron Maiden",
+        "title": "The Iron Maiden",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Rell",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rell_OriginalSquare.png/42px-Rell_OriginalSquare.png?d80b8",
         "roles": "Support",
@@ -1606,7 +1606,7 @@
     },
     {
         "name": "Renata Glasc",
-        "title": "the Chem-Baroness",
+        "title": "The Chem-Baroness",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Renata_Glasc",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Renata_Glasc_OriginalSquare.png/42px-Renata_Glasc_OriginalSquare.png?1300f",
         "roles": "Support",
@@ -1621,7 +1621,7 @@
     },
     {
         "name": "Renekton",
-        "title": "the Butcher of the Sands",
+        "title": "The Butcher of the Sands",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Renekton",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Renekton_OriginalSquare.png/42px-Renekton_OriginalSquare.png?0f653",
         "roles": "Top",
@@ -1636,7 +1636,7 @@
     },
     {
         "name": "Rengar",
-        "title": "the Pridestalker",
+        "title": "The Pridestalker",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Rengar",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rengar_OriginalSquare.png/42px-Rengar_OriginalSquare.png?53142",
         "roles": "Jungle",
@@ -1651,7 +1651,7 @@
     },
     {
         "name": "Riven",
-        "title": "the Exile",
+        "title": "The Exile",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Riven",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Riven_OriginalSquare.png/42px-Riven_OriginalSquare.png?6e136",
         "roles": "Top",
@@ -1666,7 +1666,7 @@
     },
     {
         "name": "Rumble",
-        "title": "the Mechanized Menace",
+        "title": "The Mechanized Menace",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Rumble",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Rumble_OriginalSquare.png/42px-Rumble_OriginalSquare.png?26721",
         "roles": "Top",
@@ -1681,7 +1681,7 @@
     },
     {
         "name": "Ryze",
-        "title": "the Rune Mage",
+        "title": "The Rune Mage",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Ryze",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ryze_OriginalSquare.png/42px-Ryze_OriginalSquare.png?716a1",
         "roles": "Middle;Top",
@@ -1696,7 +1696,7 @@
     },
     {
         "name": "Samira",
-        "title": "the Desert Rose",
+        "title": "The Desert Rose",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Samira",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Samira_OriginalSquare.png/42px-Samira_OriginalSquare.png?b57dc",
         "roles": "Bottom",
@@ -1726,7 +1726,7 @@
     },
     {
         "name": "Senna",
-        "title": "the Redeemer",
+        "title": "The Redeemer",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Senna",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Senna_OriginalSquare.png/42px-Senna_OriginalSquare.png?98201",
         "roles": "Bottom",
@@ -1741,7 +1741,7 @@
     },
     {
         "name": "Seraphine",
-        "title": "the Starry-Eyed Songstress",
+        "title": "The Starry-Eyed Songstress",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Seraphine",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Seraphine_OriginalSquare.png/42px-Seraphine_OriginalSquare.png?a7e01",
         "roles": "Bottom",
@@ -1756,7 +1756,7 @@
     },
     {
         "name": "Sett",
-        "title": "the Boss",
+        "title": "The Boss",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Sett",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sett_OriginalSquare.png/42px-Sett_OriginalSquare.png?a9ec3",
         "roles": "Top",
@@ -1771,7 +1771,7 @@
     },
     {
         "name": "Shaco",
-        "title": "the Demon Jester",
+        "title": "The Demon Jester",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Shaco",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Shaco_OriginalSquare.png/42px-Shaco_OriginalSquare.png?dd925",
         "roles": "Jungle;Support",
@@ -1786,7 +1786,7 @@
     },
     {
         "name": "Shen",
-        "title": "the Eye of Twilight",
+        "title": "The Eye of Twilight",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Shen",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Shen_OriginalSquare.png/42px-Shen_OriginalSquare.png?7795f",
         "roles": "Top;Support",
@@ -1801,7 +1801,7 @@
     },
     {
         "name": "Shyvana",
-        "title": "the Half-Dragon",
+        "title": "The Half-Dragon",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Shyvana",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Shyvana_OriginalSquare.png/42px-Shyvana_OriginalSquare.png?2f509",
         "roles": "Jungle",
@@ -1816,7 +1816,7 @@
     },
     {
         "name": "Singed",
-        "title": "the Mad Chemist",
+        "title": "The Mad Chemist",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Singed",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Singed_OriginalSquare.png/42px-Singed_OriginalSquare.png?e9e6e",
         "roles": "Top",
@@ -1846,7 +1846,7 @@
     },
     {
         "name": "Sivir",
-        "title": "the Battle Mistress",
+        "title": "The Battle Mistress",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Sivir",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sivir_OriginalSquare.png/42px-Sivir_OriginalSquare.png?2852b",
         "roles": "Bottom",
@@ -1861,7 +1861,7 @@
     },
     {
         "name": "Skarner",
-        "title": "the Primordial Sovereign",
+        "title": "The Primordial Sovereign",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Skarner",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Skarner_OriginalSquare.png/42px-Skarner_OriginalSquare.png?76e44",
         "roles": "Jungle",
@@ -1876,7 +1876,7 @@
     },
     {
         "name": "Smolder",
-        "title": "the Fiery Fledgling",
+        "title": "The Fiery Fledgling",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Smolder",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Smolder_OriginalSquare.png/42px-Smolder_OriginalSquare.png?d6866",
         "roles": "Bottom",
@@ -1906,7 +1906,7 @@
     },
     {
         "name": "Soraka",
-        "title": "the Starchild",
+        "title": "The Starchild",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Soraka",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Soraka_OriginalSquare.png/42px-Soraka_OriginalSquare.png?0c2df",
         "roles": "Support",
@@ -1921,7 +1921,7 @@
     },
     {
         "name": "Swain",
-        "title": "the Noxian Grand General",
+        "title": "The Noxian Grand General",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Swain",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Swain_OriginalSquare.png/42px-Swain_OriginalSquare.png?b7cdb",
         "roles": "Middle;Support",
@@ -1936,7 +1936,7 @@
     },
     {
         "name": "Sylas",
-        "title": "the Unshackled",
+        "title": "The Unshackled",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Sylas",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Sylas_OriginalSquare.png/42px-Sylas_OriginalSquare.png?5939c",
         "roles": "Middle",
@@ -1951,7 +1951,7 @@
     },
     {
         "name": "Syndra",
-        "title": "the Dark Sovereign",
+        "title": "The Dark Sovereign",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Syndra",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Syndra_OriginalSquare.png/42px-Syndra_OriginalSquare.png?f6b95",
         "roles": "Middle",
@@ -1981,7 +1981,7 @@
     },
     {
         "name": "Taliyah",
-        "title": "the Stoneweaver",
+        "title": "The Stoneweaver",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Taliyah",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Taliyah_OriginalSquare.png/42px-Taliyah_OriginalSquare.png?c757b",
         "roles": "Jungle",
@@ -1996,7 +1996,7 @@
     },
     {
         "name": "Talon",
-        "title": "the Blade's Shadow",
+        "title": "The Blade's Shadow",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Talon",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Talon_OriginalSquare.png/42px-Talon_OriginalSquare.png?eb66c",
         "roles": "Middle;Jungle",
@@ -2011,7 +2011,7 @@
     },
     {
         "name": "Taric",
-        "title": "the Shield of Valoran",
+        "title": "The Shield of Valoran",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Taric",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Taric_OriginalSquare.png/42px-Taric_OriginalSquare.png?df987",
         "roles": "Support",
@@ -2026,7 +2026,7 @@
     },
     {
         "name": "Teemo",
-        "title": "the Swift Scout",
+        "title": "The Swift Scout",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Teemo",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Teemo_OriginalSquare.png/42px-Teemo_OriginalSquare.png?783d6",
         "roles": "Top",
@@ -2041,7 +2041,7 @@
     },
     {
         "name": "Thresh",
-        "title": "the Chain Warden",
+        "title": "The Chain Warden",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Thresh",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Thresh_OriginalSquare.png/42px-Thresh_OriginalSquare.png?9ef1d",
         "roles": "Support",
@@ -2056,7 +2056,7 @@
     },
     {
         "name": "Tristana",
-        "title": "the Yordle Gunner",
+        "title": "The Yordle Gunner",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Tristana",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Tristana_OriginalSquare.png/42px-Tristana_OriginalSquare.png?b2200",
         "roles": "Bottom",
@@ -2071,7 +2071,7 @@
     },
     {
         "name": "Trundle",
-        "title": "the Troll King",
+        "title": "The Troll King",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Trundle",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Trundle_OriginalSquare.png/42px-Trundle_OriginalSquare.png?4bae6",
         "roles": "Top;Jungle",
@@ -2086,7 +2086,7 @@
     },
     {
         "name": "Tryndamere",
-        "title": "the Barbarian King",
+        "title": "The Barbarian King",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Tryndamere",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Tryndamere_OriginalSquare.png/42px-Tryndamere_OriginalSquare.png?3eb36",
         "roles": "Top",
@@ -2101,7 +2101,7 @@
     },
     {
         "name": "Twisted Fate",
-        "title": "the Card Master",
+        "title": "The Card Master",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Twisted_Fate",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Twisted_Fate_OriginalSquare.png/42px-Twisted_Fate_OriginalSquare.png?72748",
         "roles": "Middle",
@@ -2116,7 +2116,7 @@
     },
     {
         "name": "Twitch",
-        "title": "the Plague Rat",
+        "title": "The Plague Rat",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Twitch",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Twitch_OriginalSquare.png/42px-Twitch_OriginalSquare.png?143e2",
         "roles": "Bottom",
@@ -2131,7 +2131,7 @@
     },
     {
         "name": "Udyr",
-        "title": "the Spirit Walker",
+        "title": "The Spirit Walker",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Udyr",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Udyr_OriginalSquare.png/42px-Udyr_OriginalSquare.png?fe8df",
         "roles": "Top",
@@ -2146,7 +2146,7 @@
     },
     {
         "name": "Urgot",
-        "title": "the Dreadnought",
+        "title": "The Dreadnought",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Urgot",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Urgot_OriginalSquare.png/42px-Urgot_OriginalSquare.png?1c3ee",
         "roles": "Top",
@@ -2161,7 +2161,7 @@
     },
     {
         "name": "Varus",
-        "title": "the Arrow of Retribution",
+        "title": "The Arrow of Retribution",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Varus",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Varus_OriginalSquare.png/42px-Varus_OriginalSquare.png?1f1e0",
         "roles": "Bottom",
@@ -2176,7 +2176,7 @@
     },
     {
         "name": "Vayne",
-        "title": "the Night Hunter",
+        "title": "The Night Hunter",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Vayne",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vayne_OriginalSquare.png/42px-Vayne_OriginalSquare.png?78bd3",
         "roles": "Bottom",
@@ -2191,7 +2191,7 @@
     },
     {
         "name": "Veigar",
-        "title": "the Tiny Master of Evil",
+        "title": "The Tiny Master of Evil",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Veigar",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Veigar_OriginalSquare.png/42px-Veigar_OriginalSquare.png?2add0",
         "roles": "Middle",
@@ -2206,7 +2206,7 @@
     },
     {
         "name": "Vel'Koz",
-        "title": "the Eye of the Void",
+        "title": "The Eye of the Void",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Vel%27Koz",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vel%27Koz_OriginalSquare.png/42px-Vel%27Koz_OriginalSquare.png?0c64b",
         "roles": "Middle;Support",
@@ -2221,7 +2221,7 @@
     },
     {
         "name": "Vex",
-        "title": "the Gloomist",
+        "title": "The Gloomist",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Vex",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vex_OriginalSquare.png/42px-Vex_OriginalSquare.png?f6345",
         "roles": "Middle",
@@ -2236,7 +2236,7 @@
     },
     {
         "name": "Vi",
-        "title": "the Piltover Enforcer",
+        "title": "The Piltover Enforcer",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Vi",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vi_OriginalSquare.png/42px-Vi_OriginalSquare.png?78709",
         "roles": "Jungle",
@@ -2266,7 +2266,7 @@
     },
     {
         "name": "Viktor",
-        "title": "the Herald of the Arcane",
+        "title": "The Herald of the Arcane",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Viktor",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Viktor_OriginalSquare.png/42px-Viktor_OriginalSquare.png?84e3d",
         "roles": "Middle",
@@ -2281,7 +2281,7 @@
     },
     {
         "name": "Vladimir",
-        "title": "the Crimson Reaper",
+        "title": "The Crimson Reaper",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Vladimir",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Vladimir_OriginalSquare.png/42px-Vladimir_OriginalSquare.png?41820",
         "roles": "Middle;Top",
@@ -2296,7 +2296,7 @@
     },
     {
         "name": "Volibear",
-        "title": "the Relentless Storm",
+        "title": "The Relentless Storm",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Volibear",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Volibear_OriginalSquare.png/42px-Volibear_OriginalSquare.png?b4f76",
         "roles": "Top;Middle",
@@ -2311,7 +2311,7 @@
     },
     {
         "name": "Warwick",
-        "title": "the Uncaged Wrath of Zaun",
+        "title": "The Uncaged Wrath of Zaun",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Warwick",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Warwick_OriginalSquare.png/42px-Warwick_OriginalSquare.png?cc8c7",
         "roles": "Jungle;Top",
@@ -2326,7 +2326,7 @@
     },
     {
         "name": "Wukong",
-        "title": "the Monkey King",
+        "title": "The Monkey King",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Wukong",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Wukong_OriginalSquare.png/42px-Wukong_OriginalSquare.png?bac3b",
         "roles": "Jungle",
@@ -2341,7 +2341,7 @@
     },
     {
         "name": "Xayah",
-        "title": "the Rebel",
+        "title": "The Rebel",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Xayah",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Xayah_OriginalSquare.png/42px-Xayah_OriginalSquare.png?17473",
         "roles": "Bottom",
@@ -2356,7 +2356,7 @@
     },
     {
         "name": "Xerath",
-        "title": "the Magus Ascendant",
+        "title": "The Magus Ascendant",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Xerath",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Xerath_OriginalSquare.png/42px-Xerath_OriginalSquare.png?ae665",
         "roles": "Middle;Support",
@@ -2371,7 +2371,7 @@
     },
     {
         "name": "Xin Zhao",
-        "title": "the Seneschal of Demacia",
+        "title": "The Seneschal of Demacia",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Xin_Zhao",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Xin_Zhao_OriginalSquare.png/42px-Xin_Zhao_OriginalSquare.png?c48eb",
         "roles": "Jungle",
@@ -2386,7 +2386,7 @@
     },
     {
         "name": "Yasuo",
-        "title": "the Unforgiven",
+        "title": "The Unforgiven",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Yasuo",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yasuo_OriginalSquare.png/42px-Yasuo_OriginalSquare.png?efb3b",
         "roles": "Top",
@@ -2401,7 +2401,7 @@
     },
     {
         "name": "Yone",
-        "title": "the Unforgotten",
+        "title": "The Unforgotten",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Yone",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yone_OriginalSquare.png/42px-Yone_OriginalSquare.png?4b7e6",
         "roles": "Top;Middle",
@@ -2431,7 +2431,7 @@
     },
     {
         "name": "Yunara",
-        "title": "the Unbroken Faith",
+        "title": "The Unbroken Faith",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Yunara",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yunara_OriginalSquare.png/42px-Yunara_OriginalSquare.png?7b5b6",
         "roles": "Bottom",
@@ -2446,7 +2446,7 @@
     },
     {
         "name": "Yuumi",
-        "title": "the Magical Cat",
+        "title": "The Magical Cat",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Yuumi",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Yuumi_OriginalSquare.png/42px-Yuumi_OriginalSquare.png?c851e",
         "roles": "Support",
@@ -2461,7 +2461,7 @@
     },
     {
         "name": "Zac",
-        "title": "the Secret Weapon",
+        "title": "The Secret Weapon",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Zac",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zac_OriginalSquare.png/42px-Zac_OriginalSquare.png?01e68",
         "roles": "Jungle",
@@ -2476,7 +2476,7 @@
     },
     {
         "name": "Zed",
-        "title": "the Master of Shadows",
+        "title": "The Master of Shadows",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Zed",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zed_OriginalSquare.png/42px-Zed_OriginalSquare.png?b08cd",
         "roles": "Middle;Jungle",
@@ -2506,7 +2506,7 @@
     },
     {
         "name": "Ziggs",
-        "title": "the Hexplosives Expert",
+        "title": "The Hexplosives Expert",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Ziggs",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Ziggs_OriginalSquare.png/42px-Ziggs_OriginalSquare.png?d44a6",
         "roles": "Bottom;Middle",
@@ -2521,7 +2521,7 @@
     },
     {
         "name": "Zilean",
-        "title": "the Chronokeeper",
+        "title": "The Chronokeeper",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Zilean",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zilean_OriginalSquare.png/42px-Zilean_OriginalSquare.png?f0cc9",
         "roles": "Support",
@@ -2536,7 +2536,7 @@
     },
     {
         "name": "Zoe",
-        "title": "the Aspect of Twilight",
+        "title": "The Aspect of Twilight",
         "page_url": "https://wiki.leagueoflegends.com/en-us/Zoe",
         "image_url": "https://wiki.leagueoflegends.com/en-us/images/thumb/Zoe_OriginalSquare.png/42px-Zoe_OriginalSquare.png?c2d6a",
         "roles": "Middle",
