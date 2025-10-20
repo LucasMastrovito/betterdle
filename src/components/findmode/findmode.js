@@ -36,16 +36,22 @@ function Findmode(props) {
             const load = getTries(props.name, props.mode);
             const rowsBuffer = [];
             const dataBuffer = Object.assign([{}], props.data);
+            var blurBuffer = 8;
+            var scaleBuffer = 2;
 
             load.forEach((el) => {
                 if (dataBuffer[el].name === random.name) {
                     setFind(true);
                 }
                 rowsBuffer.push(<CharacterRow key={dataBuffer[el].name} class={dataBuffer[el].name === random.name ? 'match' : 'wrong'} name={dataBuffer[el].name} img={dataBuffer[el].image_url} />);
+                blurBuffer = clamp(parseFloat(blurBuffer) - 1, 0, 10);
+                scaleBuffer = clamp(parseFloat(scaleBuffer) - 0.1, 1, 5);
                 dataBuffer.splice(el, 1);
             });
             setRows(rowsBuffer.reverse());
             setTries(rowsBuffer.length);
+            setBlur(`${blurBuffer}px`);
+            setScale(`${scaleBuffer}`);
             setLoading(false);
             setData(dataBuffer);
         }
@@ -72,36 +78,40 @@ function Findmode(props) {
             {
                 pic ?
                     <span style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "2em" }}>
-                        <div className="img-container">
-                            <img alt="img" src={filter} className="img-to-find" style={{ filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${zoom ? scale : 1})` }} />
-                        </div>
-                        <div className={`card card-${props.name} findmode-card`} style={{ display: "flex" }}>
-                            <h3 className="outline">Grayscale</h3>
-                            <label className="switch">
-                                <input name="grey" type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
-                                <span className="slider"></span>
-                            </label>
-                            <h3 className="outline">Blur</h3>
-                            <label className="switch">
-                                <input name="blur" type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
-                                <span className="slider"></span>
-                            </label>
-                            <h3 className="outline">Zoom</h3>
-                            <label className="switch">
-                                <input name="zoom" type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
-                                <span className="slider"></span>
-                            </label>
+                        <div className={`card card-${props.name}`}>
+                            <h2 className="margin-no outline">{props.desc}</h2>
+                            <div className={`img-container img-container-${props.name}`}>
+                                <img alt="img" src={filter} className="img-to-find" style={{ filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${zoom ? scale : 1})` }} />
+                            </div>
+                            <div className={`findmode-card`} style={{ display: "flex" }}>
+                                <h3 className="outline">Grayscale</h3>
+                                <label className="switch">
+                                    <input name="grey" type="checkbox" checked={grey} onChange={(e) => setGrey(!grey)} />
+                                    <span className="slider"></span>
+                                </label>
+                                <h3 className="outline">Blur</h3>
+                                <label className="switch">
+                                    <input name="blur" type="checkbox" checked={activeBlur} onChange={(e) => setActiveBlur(!activeBlur)} />
+                                    <span className="slider"></span>
+                                </label>
+                                <h3 className="outline">Zoom</h3>
+                                <label className="switch">
+                                    <input name="zoom" type="checkbox" checked={zoom} onChange={(e) => setZoom(!zoom)} />
+                                    <span className="slider"></span>
+                                </label>
+                            </div>
                         </div>
                     </span>
                     :
                     <div style={{ display: "flex", flexDirection: "column", gap: "1em" }}>
                         <div className={`card card-${props.name}`}>
+                            <h2 className="margin-no outline">{props.desc}</h2>
                             <h1 className="outline">{filter}</h1>
+                            <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                         </div>
-                        <Tipscard random={random} name={props.name} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                     </div>
             }
-            <Searchbar data={data} submit={submit} />
+            <Searchbar data={data} submit={submit} name={props.name} />
             <div className="grid">
                 <div className="row">
                     <p className="field-name outline">Character</p>

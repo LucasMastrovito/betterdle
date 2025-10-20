@@ -26,7 +26,6 @@ function Dlemenu(props) {
                         })
                     )}
                 </div>
-                <h3 className="outline">{props.current > 0 ? props.buttons[props.current - 1].props.desc : ''}</h3>
             </div>
     )
 }

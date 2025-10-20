@@ -98,6 +98,10 @@ p {
   .modal {
         width: 50vw;
     }
+  
+  .card {
+    max-width: 90%;
+  }
 }
 
 .margin-no {
@@ -118,7 +122,7 @@ button {
   color: white;
   background-color: #171717;
   padding: 1em 3em;
-  border: none;
+  border: 1px solid white;
   border-radius: .6rem;
   position: relative;
   cursor: pointer;
@@ -137,6 +141,10 @@ button:hover {
 
 .scale:hover {
   transform: scale(1.1);
+}
+
+.scale:active {
+  transform: scale(1.2);
 }
 
 .outline {

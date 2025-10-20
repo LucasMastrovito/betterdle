@@ -1,6 +1,6 @@
 function Submit(props) {
     return (
-        <div className="submit" onClick={() => document.getElementById(props.item.name).click()}>
+        <div className={`submit submit-${props.name}`} onClick={() => document.getElementById(props.item.name).click()}>
             <img className="submit-img" src={props.item.image_url} alt={props.item.name} />
             <div className="submit-text">
                 <input id={props.item.name} className="submit-input" type="submit" value={props.item.name}></input>

@@ -48,7 +48,7 @@ function Searchbar(props) {
     if (e.target.value !== "") {
       setBtns(
         results.map((element, index) => (
-          <Submit key={index} item={element} />
+          <Submit key={index} item={element} name={props.name} />
         )));
     } else {
       setBtns([]);

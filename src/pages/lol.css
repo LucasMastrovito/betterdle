@@ -15,6 +15,17 @@
     font-family: Lol;
 }
 
+.submit-lol {
+    background-color: #1a1825;
+}
+.submit-lol:hover {
+    background-color: #262436;
+}
+
+.submit-lol input {
+    color: white;
+}
+
 .card-lol {
     background-color: var(--darkblue);
     border-color: var(--okra);
@@ -27,6 +38,10 @@
     max-height: 25%;
     display: flex;
     justify-content: center;
+}
+
+.dlebtn-current-lol {
+    width: 100%;
 }
 
 .dlemenubtn-icon-lol {
@@ -54,4 +69,16 @@
 
 .dlemenubtn-text-lol h2 {
     margin-top: 0.6em;
+}
+
+.btn-lol {
+    background-color: var(--okra);
+}
+
+.btn-lol:hover {
+    background-color: #d6b063;
+}
+
+.img-container-lol {
+    border: 3px solid var(--blue);
 }

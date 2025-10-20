@@ -12,13 +12,14 @@
 
 .img-container {
     border: #242424 solid 3px;
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: #f5f5f5;
     width: 10vw;
     height: 10vw;
     min-height: 200px;
     min-width: 200px;
     overflow: hidden;
+    margin: 2em;
 }
 
 .img-to-find {

@@ -79,8 +79,11 @@ function Classic(props) {
 
   return (
     <div className="classic">
-      <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
-      <Searchbar data={data} submit={submit} find={find} />
+      <div className={`card card-${props.name}`}>
+        <h2 className="margin-no outline">{props.desc}</h2>
+        <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
+      </div>
+      <Searchbar data={data} submit={submit} find={find} name={props.name} />
       <div className="grid">
         <div ref={rowRef} className={`row ${hasScroll ? "has-scroll" : ""}`}>
           {fields.map((field, index) => (
