@@ -14,7 +14,7 @@ function Dlemenubtn(props) {
             </div>
         :
             <div className={`modebtn ${props.current === props.index ? 'dlebtn-current' : ''}`}>
-                <p className="outline" style={{color: props.current === props.index ? "#ffbc2aff" : "white"}}>{props.name}</p>
+                <h3 className="outline" style={{color: props.current === props.index ? "#ffbc2aff" : "white"}}>{props.name}</h3>
                 <img alt="logo" className={`scale dlebtn-icon dlebtn-icon-${props.game}`} onClick={() => changeMode(props.index)} src={`/assets/${props.logo}.png`} style={{cursor: 'pointer'}} />
             </div>
     )
