@@ -17,26 +17,26 @@ function Indicator(props) {
     }, [show]);
 
     return (
-         <div className={`card card-${props.name}`} style={{width: show ? '50%' : '30%', marginTop: '5vh'}}>
+         <div className={`card card-${props.name}`} style={{marginTop: '5vh'}}>
             <h2 className="outline">Indicators</h2>
             <div className="grid" style={{marginBlock: "1em"}}>
                 <div className={`row ${hasScroll ? "has-scroll" : ""}`} style={{display: show ? 'flex' : 'none'}}>
-                    <p className="field-name outline">Correct</p>
-                    <p className="field-name outline">Wrong</p>
-                    <p className="field-name outline">Partial</p>
-                    <p className="field-name outline">Before</p>
-                    <p className="field-name outline">After</p>
-                    <p className="field-name outline">Inferior</p>
-                    <p className="field-name outline">Superior</p>
+                    <p className="field-name outline" style={{maxWidth: "64px"}}>Correct</p>
+                    <p className="field-name outline" style={{maxWidth: "64px"}}>Wrong</p>
+                    <p className="field-name outline" style={{maxWidth: "64px"}}>Partial</p>
+                    <p className="field-name outline" style={{maxWidth: "64px"}}>Before</p>
+                    <p className="field-name outline" style={{maxWidth: "64px"}}>After</p>
+                    <p className="field-name outline" style={{maxWidth: "64px"}}>Inferior</p>
+                    <p className="field-name outline" style={{maxWidth: "64px"}}>Superior</p>
                 </div>
                 <div ref={rowRef} className={`row ${hasScroll ? "has-scroll" : ""}`} style={{display: show ? 'flex' : 'none'}}>
-                    <div className="field match" style={{opacity: '1'}}></div>
-                    <div className="field wrong" style={{opacity: '1'}}></div>
-                    <div className="field partial" style={{opacity: '1'}}></div>
-                    <div className="field after" style={{opacity: '1'}}></div>
-                    <div className="field before" style={{opacity: '1'}}></div>
-                    <div className="field superior" style={{opacity: '1'}}></div>
-                    <div className="field inferior" style={{opacity: '1'}}></div>
+                    <div className="field match" style={{opacity: '1', maxWidth: "64px"}}></div>
+                    <div className="field wrong" style={{opacity: '1', maxWidth: "64px"}}></div>
+                    <div className="field partial" style={{opacity: '1', maxWidth: "64px"}}></div>
+                    <div className="field after" style={{opacity: '1', maxWidth: "64px"}}></div>
+                    <div className="field before" style={{opacity: '1', maxWidth: "64px"}}></div>
+                    <div className="field superior" style={{opacity: '1', maxWidth: "64px"}}></div>
+                    <div className="field inferior" style={{opacity: '1', maxWidth: "64px"}}></div>
                 </div>
             </div>
             <button onClick={(e) => setShow(!show)}>{!show ? 'Show' : 'Hide'}</button>
