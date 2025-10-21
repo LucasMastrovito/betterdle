@@ -7,7 +7,7 @@ function Dlebtn(props) {
     }
     return (
         <div className="dlebtn">
-            <img alt="logo" className="scale logo" onClick={click} src={`/assets/${props.logo}-logo.png`} style={{cursor: 'pointer'}} />
+            <img alt="logo" className="scale dlebtn-logo" onClick={click} src={`/assets/${props.logo}-logo.png`} />
         </div>
     )
 }
