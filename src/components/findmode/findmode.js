@@ -6,6 +6,7 @@ import CharacterRow from "./characterRow";
 import Tipscard from "../dle/tipscard";
 import "./findmode.css";
 import { getRandomCharacter } from "../utils/getrandom";
+import { isImg } from "../utils/utils";
 
 function clamp(num, min, max) {
     return num <= min
@@ -18,7 +19,7 @@ function clamp(num, min, max) {
 function Findmode(props) {
     const [loading, setLoading] = useState(true);
     const random = getRandomCharacter(props.data, props.mode);
-    const filter = random[props.filter];
+    const filter = Array.isArray(random[props.filter]) ? getRandomCharacter(random[props.filter], props.mode) : random[props.filter];
     const [data, setData] = useState(props.data);
     const [rows, setRows] = useState([]);
     const [tries, setTries] = useState(0);
@@ -58,7 +59,7 @@ function Findmode(props) {
         if (loading && random) {
             loadGame();
         }
-        setPic(filter.includes(".png") || filter.includes(".jpg"));
+        setPic(isImg(filter));
     }, [loading, random, props.name, props.data, props.mode, data, filter]);
 
     const submit = (index) => {

@@ -25,8 +25,8 @@ function seededShuffle(array, seed) {
 export function getRandomCharacter(data, modeSeed = "") {
   const today = new Date().toISOString().slice(0, 10);
   const combinedSeed = hashStringToNumber(today + modeSeed);
-
   const shuffled = seededShuffle(data, combinedSeed);
+  
   return shuffled[0];
 }
 
