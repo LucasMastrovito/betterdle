@@ -1,7 +1,7 @@
 .characterrow {
     position: relative;
     display: flex;
-    width: 40%;
+    width: 30%;
     padding: 0.5em;
     border: 2px solid whitesmoke;
     border-radius: 5px;

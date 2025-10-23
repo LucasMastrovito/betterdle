@@ -106,7 +106,7 @@ function Findmode(props) {
                     :
                     <div style={{ display: "flex", flexDirection: "column", gap: "1em" }}>
                         <div className={`card card-${props.name}`}>
-                            <h2 className="margin-no outline">{props.desc}</h2>
+                            <h3 className="margin-no outline" style={{marginBottom: '1em'}}>{props.desc}</h3>
                             <h1 className="outline">{filter}</h1>
                             <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                         </div>
