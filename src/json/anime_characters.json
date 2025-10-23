@@ -10,7 +10,8 @@
         "age": 19,
         "height": 172,
         "anime": "One Piece",
-        "year": 1999
+        "year": 1999,
+        "power": "Yes"
     },
     {
         "name": "Roronoa Zoro",
@@ -23,7 +24,8 @@
         "age": 21,
         "height": 178,
         "anime": "One Piece",
-        "year": 1999
+        "year": 1999,
+        "power": "Yes"
     },
     {
         "name": "Nami",
@@ -36,7 +38,8 @@
         "age": 18,
         "height": 169,
         "anime": "One Piece",
-        "year": 1999
+        "year": 1999,
+        "power": "No"
     },
     {
         "name": "Sanji",
@@ -44,12 +47,13 @@
         "role": "Protagonist",
         "gender": "Male",
         "race": "Human",
-        "hair_color": "Blonde",
+        "hair_color": "Blond",
         "weapon": "None",
         "age": 19,
         "height": 177,
         "anime": "One Piece",
-        "year": 1999
+        "year": 1999,
+        "power": "Yes"
     },
     {
         "name": "Marshall D. Teach",
@@ -62,7 +66,8 @@
         "age": 38,
         "height": 344,
         "anime": "One Piece",
-        "year": 1999
+        "year": 1999,
+        "power": "Yes"
     },
     {
         "name": "Charlotte Linlin",
@@ -75,7 +80,8 @@
         "age": 68,
         "height": 880,
         "anime": "One Piece",
-        "year": 1999
+        "year": 1999,
+        "power": "Yes"
     },
     {
         "name": "Satoru Gojo",
@@ -88,7 +94,8 @@
         "age": 29,
         "height": 191,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Nobara Kugisaki",
@@ -101,20 +108,22 @@
         "age": 16,
         "height": 160,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Ryomen Sukuna",
         "image_url": "https://www.animecharactersdatabase.com/images%20of/Sukuna/from/Jujutsu%20Kaisen/uploads/chars/67712-1559561098.png",
         "role": "Antagonist",
         "gender": "Male",
-        "race": "Human",
+        "race": "Human;Curse",
         "hair_color": "Pink",
         "weapon": "None",
         "age": 1000,
         "height": 173,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Yuuji Itadori",
@@ -127,7 +136,8 @@
         "age": 15,
         "height": 173,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Megumi Fushiguro",
@@ -140,7 +150,8 @@
         "age": 16,
         "height": 175,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Jogo",
@@ -153,7 +164,8 @@
         "age": 100,
         "height": 180,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Mahito",
@@ -166,7 +178,8 @@
         "age": 3,
         "height": 180,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Suguru Geto",
@@ -179,7 +192,8 @@
         "age": 28,
         "height": 190,
         "anime": "Jujutsu Kaisen",
-        "year": 2020
+        "year": 2020,
+        "power": "Yes"
     },
     {
         "name": "Kamado Tanjirou",
@@ -192,7 +206,8 @@
         "age": 15,
         "height": 165,
         "anime": "Demon Slayer",
-        "year": 2019
+        "year": 2019,
+        "power": "No"
     },
     {
         "name": "Kamado Nezuko",
@@ -205,7 +220,8 @@
         "age": 12,
         "height": 153,
         "anime": "Demon Slayer",
-        "year": 2019
+        "year": 2019,
+        "power": "Yes"
     },
     {
         "name": "Inosuke Hashibira",
@@ -218,7 +234,8 @@
         "age": 15,
         "height": 164,
         "anime": "Demon Slayer",
-        "year": 2019
+        "year": 2019,
+        "power": "No"
     },
     {
         "name": "Zenitsu Agatsuma",
@@ -226,12 +243,13 @@
         "role": "Protagonist",
         "gender": "Male",
         "race": "Human",
-        "hair_color": "Blonde",
+        "hair_color": "Blond",
         "weapon": "Sword",
         "age": 16,
         "height": 165,
         "anime": "Demon Slayer",
-        "year": 2019
+        "year": 2019,
+        "power": "No"
     },
     {
         "name": "Muzan Kibutsuji",
@@ -244,7 +262,8 @@
         "age": 10000,
         "height": 179,
         "anime": "Demon Slayer",
-        "year": 2019
+        "year": 2019,
+        "power": "Yes"
     },
     {
         "name": "Goku",
@@ -257,7 +276,8 @@
         "age": 43,
         "height": 175,
         "anime": "Dragon Ball",
-        "year": 1986
+        "year": 1986,
+        "power": "Yes"
     },
     {
         "name": "Krillin",
@@ -270,7 +290,8 @@
         "age": 42,
         "height": 153,
         "anime": "Dragon Ball",
-        "year": 1986
+        "year": 1986,
+        "power": "Yes"
     },
     {
         "name": "Master Roshi",
@@ -283,7 +304,8 @@
         "age": 350,
         "height": 165,
         "anime": "Dragon Ball",
-        "year": 1986
+        "year": 1986,
+        "power": "Yes"
     },
     {
         "name": "Cell",
@@ -296,7 +318,8 @@
         "age": 20,
         "height": 213,
         "anime": "Dragon Ball",
-        "year": 1986
+        "year": 1986,
+        "power": "Yes"
     },
     {
         "name": "Frieza",
@@ -309,7 +332,8 @@
         "age": 30,
         "height": 158,
         "anime": "Dragon Ball",
-        "year": 1986
+        "year": 1986,
+        "power": "Yes"
     },
     {
         "name": "Buu",
@@ -322,7 +346,8 @@
         "age": 30,
         "height": 250,
         "anime": "Dragon Ball",
-        "year": 1986
+        "year": 1986,
+        "power": "Yes"
     },
     {
         "name": "Yugi Muto",
@@ -335,7 +360,8 @@
         "age": 16,
         "height": 153,
         "anime": "Yu-gi-oh",
-        "year": 2000
+        "year": 2000,
+        "power": "No"
     },
     {
         "name": "Seto Kaiba",
@@ -348,7 +374,8 @@
         "age": 23,
         "height": 186,
         "anime": "Yu-gi-oh",
-        "year": 2000
+        "year": 2000,
+        "power": "No"
     },
     {
         "name": "Light Yagami",
@@ -361,7 +388,8 @@
         "age": 23,
         "height": 179,
         "anime": "Death Note",
-        "year": 2006
+        "year": 2006,
+        "power": "No"
     },
     {
         "name": "L",
@@ -374,7 +402,8 @@
         "age": 25,
         "height": 179,
         "anime": "Death Note",
-        "year": 2006
+        "year": 2006,
+        "power": "No"
     },
     {
         "name": "Ryuk",
@@ -387,6 +416,539 @@
         "age": 10000,
         "height": 200,
         "anime": "Death Note",
-        "year": 2006
+        "year": 2006,
+        "power": "Yes"
+    },
+    {
+        "name": "Izuku Midoriya",
+        "image_url": "https://static.tvtropes.org/pmwiki/pub/images/izuku_midoriya_s4.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Green",
+        "weapon": "None",
+        "age": 16,
+        "height": 166,
+        "anime": "My Hero Academia",
+        "year": 2016,
+        "power": "Yes"
+    },
+    {
+        "name": "Katsuki Bakugo",
+        "image_url": "https://static.tvtropes.org/pmwiki/pub/images/bakugo.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Blond",
+        "weapon": "None",
+        "age": 16,
+        "height": 172,
+        "anime": "My Hero Academia",
+        "year": 2016,
+        "power": "Yes"
+    },
+    {
+        "name": "Ochaco Uraraka",
+        "image_url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/f/f8/Ochaco_Uraraka_Action_5.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "Brown",
+        "weapon": "None",
+        "age": 16,
+        "height": 156,
+        "anime": "My Hero Academia",
+        "year": 2016,
+        "power": "Yes"
+    },
+    {
+        "name": "Tomura Shigaraki",
+        "image_url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/4/45/Tomura_Shigaraki_Anime_Action.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "White",
+        "weapon": "None",
+        "age": 21,
+        "height": 175,
+        "anime": "My Hero Academia",
+        "year": 2016,
+        "power": "Yes"
+    },
+    {
+        "name": "All Might",
+        "image_url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/c/cd/Toshinori_Yagi_Golden_Age_Hero_Costume_%28Anime%29.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Blond",
+        "weapon": "None",
+        "age": 49,
+        "height": 220,
+        "anime": "My Hero Academia",
+        "year": 2016,
+        "power": "Yes"
+    },
+    {
+        "name": "All For One",
+        "image_url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ae/Post-War_All_For_One_Action.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "None",
+        "weapon": "None",
+        "age": 300,
+        "height": 210,
+        "anime": "My Hero Academia",
+        "year": 2016,
+        "power": "Yes"
+    },
+    {
+        "name": "Shoto Todoroki",
+        "image_url": "https://static.wikia.nocookie.net/bokunoheroacademia/images/d/d8/Shoto_Todoroki_Action_5.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Red/White",
+        "weapon": "None",
+        "age": 16,
+        "height": 176,
+        "anime": "My Hero Academia",
+        "year": 2016,
+        "power": "Yes"
+    },
+    {
+        "name": "Denji",
+        "image_url": "https://static.wikia.nocookie.net/chainsaw-man/images/b/b0/Denji_Reze_Arc_anime_design.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human;Demon",
+        "hair_color": "Blond",
+        "weapon": "None",
+        "age": 16,
+        "height": 170,
+        "anime": "Chainsaw Man",
+        "year": 2022,
+        "power": "Yes"
+    },
+    {
+        "name": "Makima",
+        "image_url": "https://static.wikia.nocookie.net/chainsaw-man/images/5/54/Makima_Reze_Arc_anime_design.png",
+        "role": "Antagonist",
+        "gender": "Female",
+        "race": "Demon;Human",
+        "hair_color": "Red",
+        "weapon": "None",
+        "age": 24,
+        "height": 165,
+        "anime": "Chainsaw Man",
+        "year": 2022,
+        "power": "Yes"
+    },
+    {
+        "name": "Aki Hayakawa",
+        "image_url": "https://static.wikia.nocookie.net/chainsaw-man/images/c/cb/Aki_Reze_Arc_anime_design.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "Sword;Gun",
+        "age": 21,
+        "height": 175,
+        "anime": "Chainsaw Man",
+        "year": 2022,
+        "power": "Yes"
+    },
+    {
+        "name": "Power",
+        "image_url": "https://static.wikia.nocookie.net/chainsaw-man/images/a/ac/Power_anime_design_2.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Demon",
+        "hair_color": "Blond",
+        "weapon": "None",
+        "age": 16,
+        "height": 158,
+        "anime": "Chainsaw Man",
+        "year": 2022,
+        "power": "Yes"
+    },
+    {
+        "name": "Reze",
+        "image_url": "https://static.wikia.nocookie.net/chainsaw-man/images/8/8a/Reze_Reze_Arc_anime_design.png",
+        "role": "Antagonist",
+        "gender": "Female",
+        "race": "Demon;Human",
+        "hair_color": "Purple",
+        "weapon": "None",
+        "age": 19,
+        "height": 160,
+        "anime": "Chainsaw Man",
+        "year": 2022,
+        "power": "Yes"
+    },
+    {
+        "name": "Momo Ayase",
+        "image_url": "https://static.wikia.nocookie.net/dandadan/images/c/ce/Momo_Ayase_Anime_Infobox_2.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "Pink",
+        "weapon": "None",
+        "age": 16,
+        "height": 158,
+        "anime": "Dan Da Dan",
+        "year": 2024,
+        "power": "Yes"
+    },
+    {
+        "name": "Ken 'Okarun' Takakura",
+        "image_url": "https://static.wikia.nocookie.net/dandadan/images/e/e0/Okarun_Anime_Infobox_2.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "None",
+        "age": 16,
+        "height": 170,
+        "anime": "Dan Da Dan",
+        "year": 2024,
+        "power": "Yes"
+    },
+    {
+        "name": "Seiko Ayase",
+        "image_url": "https://static.wikia.nocookie.net/dandadan/images/6/64/Seiko_Ayase_Anime_Infobox.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "White",
+        "weapon": "Bat",
+        "age": 50,
+        "height": 165,
+        "anime": "Dan Da Dan",
+        "year": 2024,
+        "power": "Yes"
+    },
+    {
+        "name": "Aira Shiratori",
+        "image_url": "https://static.wikia.nocookie.net/dandadan/images/9/93/Aira_Shiratori_Anime_Infobox_2.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "Pink",
+        "weapon": "None",
+        "age": 16,
+        "height": 160,
+        "anime": "Dan Da Dan",
+        "year": 2024,
+        "power": "Yes"
+    },
+    {
+        "name": "Jin 'Jiji' Enjoji",
+        "image_url": "https://static.wikia.nocookie.net/dandadan/images/3/3c/Jiji_Anime_Infobox.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Red",
+        "weapon": "None",
+        "age": 16,
+        "height": 172,
+        "anime": "Dan Da Dan",
+        "year": 2024,
+        "power": "Yes"
+    },
+    {
+        "name": "Eren Yeager",
+        "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3c/Eren_Jaeger_%28Anime%29_character_image_%28850%29.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Eldian",
+        "hair_color": "Brown",
+        "weapon": "Sword",
+        "age": 15,
+        "height": 170,
+        "anime": "Attack on Titan",
+        "year": 2013,
+        "power": "Yes"
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Eldian",
+        "hair_color": "Black",
+        "weapon": "Sword",
+        "age": 15,
+        "height": 170,
+        "anime": "Attack on Titan",
+        "year": 2013,
+        "power": "None"
+    },
+    {
+        "name": "Armin Arlert",
+        "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/f/ff/Armin_Arlelt_%28Anime%29_character_image_%28850%29.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Eldian",
+        "hair_color": "Blond",
+        "weapon": "Sword",
+        "age": 15,
+        "height": 163,
+        "anime": "Attack on Titan",
+        "year": 2013,
+        "power": "Yes"
+    },
+    {
+        "name": "Levi Ackerman",
+        "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Eldian",
+        "hair_color": "Black",
+        "weapon": "Sword",
+        "age": 30,
+        "height": 160,
+        "anime": "Attack on Titan",
+        "year": 2013,
+        "power": "None"
+    },
+    {
+        "name": "Gon Freecss",
+        "image_url": "https://static.wikia.nocookie.net/hunterxhunter/images/3/3e/HxH2011_EP147_Gon_Portrait.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "None",
+        "age": 12,
+        "height": 154,
+        "anime": "Hunter x Hunter",
+        "year": 2011,
+        "power": "Yes"
+    },
+    {
+        "name": "Killua Zoldyck",
+        "image_url": "https://static.wikia.nocookie.net/hunterxhunter/images/b/bd/HxH2011_EP147_Killua_Portrait.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Silver",
+        "weapon": "None",
+        "age": 12,
+        "height": 158,
+        "anime": "Hunter x Hunter",
+        "year": 2011,
+        "power": "Yes"
+    },
+    {
+        "name": "Kurapika",
+        "image_url": "https://static.wikia.nocookie.net/hunterxhunter/images/d/d9/Kurapika_HCE_Portrait.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Kurta",
+        "hair_color": "Blond",
+        "weapon": "Chain",
+        "age": 17,
+        "height": 171,
+        "anime": "Hunter x Hunter",
+        "year": 2011,
+        "power": "Yes"
+    },
+    {
+        "name": "Leorio Paradinight",
+        "image_url": "https://static.wikia.nocookie.net/hunterxhunter/images/7/73/HxH2011_EP145_Leorio_Portrait.png",
+        "role": "Neutral",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "None",
+        "age": 19,
+        "height": 189,
+        "anime": "Hunter x Hunter",
+        "year": 2011,
+        "power": "No"
+    },
+    {
+        "name": "Hisoka Morow",
+        "image_url": "https://static.wikia.nocookie.net/hunterxhunter/images/2/29/Hisoka_Morow_YC_Portrait.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Red",
+        "weapon": "Cards",
+        "age": 28,
+        "height": 189,
+        "anime": "Hunter x Hunter",
+        "year": 2011,
+        "power": "Yes"
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "image_url": "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Blond",
+        "weapon": "Kunai",
+        "age": 12,
+        "height": 145,
+        "anime": "Naruto",
+        "year": 2002,
+        "power": "Yes"
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "image_url": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "Shuriken",
+        "age": 12,
+        "height": 150,
+        "anime": "Naruto",
+        "year": 2002,
+        "power": "Yes"
+    },
+    {
+        "name": "Sakura Haruno",
+        "image_url": "https://static.wikia.nocookie.net/naruto/images/6/64/Sakura_Part_1.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "Pink",
+        "weapon": "None",
+        "age": 12,
+        "height": 148,
+        "anime": "Naruto",
+        "year": 2002,
+        "power": "Yes"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "image_url": "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png",
+        "role": "Neutral",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Silver",
+        "weapon": "Kunai",
+        "age": 26,
+        "height": 181,
+        "anime": "Naruto",
+        "year": 2002,
+        "power": "Yes"
+    },
+    {
+        "name": "Hinata Hyūga",
+        "image_url": "https://static.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "Blue",
+        "weapon": "None",
+        "age": 12,
+        "height": 150,
+        "anime": "Naruto",
+        "year": 2002,
+        "power": "Yes"
+    },
+    {
+        "name": "Madara Uchiha",
+        "image_url": "https://static.wikia.nocookie.net/naruto/images/f/fd/Madara.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "None",
+        "age": 90,
+        "height": 179,
+        "anime": "Naruto",
+        "year": 2002,
+        "power": "Yes"
+    },
+    {
+        "name": "Orochimaru",
+        "image_url": "https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "Sword",
+        "age": 50,
+        "height": 174,
+        "anime": "Naruto",
+        "year": 2002,
+        "power": "Yes"
+    },
+    {
+        "name": "Zero Two",
+        "image_url": "https://static.wikia.nocookie.net/darling-in-the-franxx/images/9/95/Zerotwomain.jpg",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human;Klaxosaur Hybrid",
+        "hair_color": "Pink",
+        "weapon": "None",
+        "age": 15,
+        "height": 167,
+        "anime": "Darling in the Franxx",
+        "year": 2018,
+        "power": "Yes"
+    },
+    {
+        "name": "Ken Kaneki",
+        "image_url": "https://static.wikia.nocookie.net/tokyoghoul/images/1/10/Kaneki_Root_A_anime_design_front_view.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human;Ghoul",
+        "hair_color": "Black;White",
+        "weapon": "Kagune",
+        "age": 18,
+        "height": 169,
+        "anime": "Tokyo Ghoul",
+        "year": 2014,
+        "power": "Yes"
+    },
+    {
+        "name": "Touka Kirishima",
+        "image_url": "https://static.wikia.nocookie.net/tokyoghoul/images/4/4a/Touka%27s_appearance_in_the_re_anime.jpg",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Ghoul",
+        "hair_color": "Blue",
+        "weapon": "Kagune",
+        "age": 17,
+        "height": 160,
+        "anime": "Tokyo Ghoul",
+        "year": 2014,
+        "power": "Yes"
+    },
+    {
+        "name": "Juuzou Suzuya",
+        "image_url": "https://static.wikia.nocookie.net/tokyoghoul/images/1/17/Juuzou_anime_design_front_view.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "White",
+        "weapon": "Scalpel",
+        "age": 19,
+        "height": 168,
+        "anime": "Tokyo Ghoul",
+        "year": 2014,
+        "power": "No"
+    },
+    {
+        "name": "Eto Yoshimura",
+        "image_url": "https://static.wikia.nocookie.net/tokyoghoul/images/2/23/Eto_in_Cochlea.png",
+        "role": "Antagonist",
+        "gender": "Female",
+        "race": "Human;Ghoul",
+        "hair_color": "Green",
+        "weapon": "Kagune",
+        "age": 14,
+        "height": 160,
+        "anime": "Tokyo Ghoul",
+        "year": 2014,
+        "power": "Yes"
     }
 ]

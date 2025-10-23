@@ -40,6 +40,11 @@
         "type" : "equal"
     },
     {
+        "key" : "power",
+        "title" : "Power",
+        "type" : "equal"
+    },
+    {
         "key" : "anime",
         "title" : "Anime",
         "type" : "equal"
