@@ -5,17 +5,20 @@ import Findmode from "../components/findmode/findmode";
 import Dlemenubtn from "../components/dle/dlemenubtn";
 import Dle from "../components/dle/dle";
 import Dlemenu from "../components/dle/dlemenu";
+import { filterByField } from "../components/utils/getrandom";
 
 function Dragonball() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic" index={1} />,
-        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={2} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic-dragonball" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Technique"} desc={"Guess from an attack name"} logo="technique-dragonball" index={2} />,
+        <Dlemenubtn key={3} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture-dragonball" index={3} />
     ];
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the Dragon Ball character" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"dragonball"} mode="classic" data={data} fields={fields} first_tips={{ name: "First Arc", key: "first_arc" }} second_tips={{ name: "First Episode", key: "first_episode" }} />,
-        <Findmode key={'picutre'} name={"dragonball"} mode="picture" data={data} filter="image_url" />
+        <Classic key={'classic'} name={"dragonball"} mode="classic" desc={"Find the daily character"} data={data} fields={fields} first_tips={{ name: "First Arc", key: "first_arc" }} second_tips={{ name: "First Episode", key: "first_episode" }} />,
+        <Findmode key={'technique'} name={"dragonball"} mode="technique" desc={"Who is using this technique?"} data={filterByField(data, "attack")} filter="attack" />,
+        <Findmode key={'picture'} name={"dragonball"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
     ];
 
     return (

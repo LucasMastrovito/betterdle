@@ -10,7 +10,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Android_13",
     "height": 189,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": null
   },
   {
     "name": "Android 17",
@@ -23,7 +24,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Android_17",
     "height": 177,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Barrier"
   },
   {
     "name": "Android 19",
@@ -36,7 +38,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Android_19",
     "height": 170,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Android 16",
@@ -49,7 +52,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Android_16",
     "height": 200,
-    "height_class_10cm": "205 - 214 cm"
+    "height_class_10cm": "205 - 214 cm",
+    "attack": "Hell's Flash"
   },
   {
     "name": "Android 18",
@@ -62,7 +66,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Android_18",
     "height": 169,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": "Infinity Bullet"
   },
   {
     "name": "Appule",
@@ -75,7 +80,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Appule",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Babidi",
@@ -88,7 +94,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Babidi",
     "height": 120,
-    "height_class_10cm": "125 - 134 cm"
+    "height_class_10cm": "125 - 134 cm",
+    "attack": "Mind Control"
   },
   {
     "name": "Baby",
@@ -101,7 +108,8 @@
     "transformation_count": 3,
     "page_url": "https://dragonball.fandom.com/wiki/Baby",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Bardock",
@@ -114,7 +122,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Bardock",
     "height": 178,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Final Spirit Cannon"
   },
   {
     "name": "Belmod",
@@ -127,7 +136,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Belmod",
     "height": 180,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": null
   },
   {
     "name": "Beerus",
@@ -140,7 +150,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Beerus",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Hakai"
   },
   {
     "name": "Bibidi",
@@ -153,7 +164,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Bibidi",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Bojack",
@@ -166,7 +178,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Bojack",
     "height": 230,
-    "height_class_10cm": "235 - 244 cm"
+    "height_class_10cm": "235 - 244 cm",
+    "attack": "Galactic Buster"
   },
   {
     "name": "Broly",
@@ -179,7 +192,8 @@
     "transformation_count": 3,
     "page_url": "https://dragonball.fandom.com/wiki/Broly",
     "height": 250,
-    "height_class_10cm": "255 - 264 cm"
+    "height_class_10cm": "255 - 264 cm",
+    "attack": "Gigantic Meteor"
   },
   {
     "name": "Bulma",
@@ -192,7 +206,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Bulma",
     "height": 165,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Burter",
@@ -205,7 +220,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Burter",
     "height": 230,
-    "height_class_10cm": "235 - 244 cm"
+    "height_class_10cm": "235 - 244 cm",
+    "attack": "Blue Hurricane"
   },
   {
     "name": "Cabba",
@@ -218,7 +234,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Cabba",
     "height": 165,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Captain Ginyu",
@@ -231,7 +248,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Captain_Ginyu",
     "height": 196,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": "Body Change"
   },
   {
     "name": "Cell",
@@ -244,7 +262,8 @@
     "transformation_count": 4,
     "page_url": "https://dragonball.fandom.com/wiki/Cell",
     "height": 213,
-    "height_class_10cm": "215 - 224 cm"
+    "height_class_10cm": "215 - 224 cm",
+    "attack": "Cell Juniors"
   },
   {
     "name": "Champa",
@@ -257,7 +276,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Champa",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Caulifla",
@@ -270,7 +290,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Caulifla",
     "height": 162,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Chi-Chi",
@@ -283,7 +304,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Chi-Chi",
     "height": 163,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Chilled",
@@ -296,7 +318,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Chilled",
     "height": 160,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Chiaotzu",
@@ -309,7 +332,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Chiaotzu",
     "height": 138,
-    "height_class_10cm": "135 - 144 cm"
+    "height_class_10cm": "135 - 144 cm",
+    "attack": "Dodonpa"
   },
   {
     "name": "Cooler",
@@ -322,7 +346,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Cooler",
     "height": 198,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": "Supernova"
   },
   {
     "name": "Cui",
@@ -335,7 +360,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Cui",
     "height": 174,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Dabura",
@@ -348,7 +374,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Dabura",
     "height": 201,
-    "height_class_10cm": "205 - 214 cm"
+    "height_class_10cm": "205 - 214 cm",
+    "attack": "Stone Spit"
   },
   {
     "name": "Dende",
@@ -361,7 +388,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Dende",
     "height": 122,
-    "height_class_10cm": "125 - 134 cm"
+    "height_class_10cm": "125 - 134 cm",
+    "attack": null
   },
   {
     "name": "Dodoria",
@@ -374,7 +402,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Dodoria",
     "height": 220,
-    "height_class_10cm": "225 - 234 cm"
+    "height_class_10cm": "225 - 234 cm",
+    "attack": "Mouth Blast"
   },
   {
     "name": "Dr. Gero",
@@ -387,7 +416,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Dr._Gero",
     "height": 177,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Dyspo",
@@ -400,7 +430,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Dyspo",
     "height": 170,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Emperor Pilaf",
@@ -413,20 +444,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Emperor_Pilaf",
     "height": 100,
-    "height_class_10cm": "105 - 114 cm"
-  },
-  {
-    "name": "Evil Buu",
-    "aliases": "Boo",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/3a/MajinBuuEvilTheEvilOfMen01.png",
-    "first_arc_or_film": "Dragon Ball Z",
-    "gender": "Male",
-    "race": "Majin",
-    "allegiance": "",
-    "transformation_count": 0,
-    "page_url": "https://dragonball.fandom.com/wiki/Evil_Buu",
-    "height": 230,
-    "height_class_10cm": "235 - 244 cm"
+    "height_class_10cm": "105 - 114 cm",
+    "attack": null
   },
   {
     "name": "Fortuneteller Baba",
@@ -439,7 +458,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Fortuneteller_Baba",
     "height": 100,
-    "height_class_10cm": "105 - 114 cm"
+    "height_class_10cm": "105 - 114 cm",
+    "attack": null
   },
   {
     "name": "Frieza",
@@ -452,7 +472,8 @@
     "transformation_count": 8,
     "page_url": "https://dragonball.fandom.com/wiki/Frieza",
     "height": 158,
-    "height_class_10cm": "155 - 164 cm"
+    "height_class_10cm": "155 - 164 cm",
+    "attack": "Death Beam"
   },
   {
     "name": "Frost",
@@ -466,7 +487,8 @@
     "page_url": "https://dragonball.fandom.com/wiki/Frost",
     "height": 170,
     "height_class_10cm": "175 - 184 cm",
-    "transformation": "4"
+    "transformation": "4",
+    "attack": null
   },
   {
     "name": "Garlic",
@@ -480,7 +502,8 @@
     "page_url": "https://dragonball.fandom.com/wiki/Garlic",
     "height": 175,
     "height_class_10cm": "175 - 184 cm",
-    "transformation": "1"
+    "transformation": "1",
+    "attack": null
   },
   {
     "name": "Garlic Jr.",
@@ -493,7 +516,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Garlic_Jr.",
     "height": 122,
-    "height_class_10cm": "125 - 134 cm"
+    "height_class_10cm": "125 - 134 cm",
+    "attack": null
   },
   {
     "name": "Ginger",
@@ -506,7 +530,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Ginger",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Glorio",
@@ -519,7 +544,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Glorio",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Gohan",
@@ -532,7 +558,8 @@
     "transformation_count": 6,
     "page_url": "https://dragonball.fandom.com/wiki/Gohan",
     "height": 176,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Masenko"
   },
   {
     "name": "Goku",
@@ -545,7 +572,8 @@
     "transformation_count": 12,
     "page_url": "https://dragonball.fandom.com/wiki/Goku",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Kamehameha"
   },
   {
     "name": "Gogeta",
@@ -558,7 +586,8 @@
     "transformation_count": 3,
     "page_url": "https://dragonball.fandom.com/wiki/Gogeta",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Goku Black",
@@ -571,7 +600,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Goku_Black",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Grand Elder Guru",
@@ -584,7 +614,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Grand_Elder_Guru",
     "height": 230,
-    "height_class_10cm": "235 - 244 cm"
+    "height_class_10cm": "235 - 244 cm",
+    "attack": null
   },
   {
     "name": "Grand Minister",
@@ -597,7 +628,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Grand_Minister",
     "height": 195,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": null
   },
   {
     "name": "Goten",
@@ -610,7 +642,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Goten",
     "height": 123,
-    "height_class_10cm": "125 - 134 cm"
+    "height_class_10cm": "125 - 134 cm",
+    "attack": null
   },
   {
     "name": "Grand Supreme Kai",
@@ -623,7 +656,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Grand_Supreme_Kai",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Good Buu",
@@ -636,7 +670,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Good_Buu",
     "height": 180,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": null
   },
   {
     "name": "Gotenks",
@@ -644,12 +679,13 @@
     "image_url": "https://static.wikia.nocookie.net/dragonball/images/e/e3/Gotenks_DBZ_Episode_251.png",
     "first_arc_or_film": "Dragon Ball Z",
     "gender": "Male",
-    "race": "Saiyan;Human",
+    "race": "Saiyan;Human;Fusion",
     "allegiance": "Dragon Team",
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Gotenks",
     "height": 140,
-    "height_class_10cm": "145 - 154 cm"
+    "height_class_10cm": "145 - 154 cm",
+    "attack": "Super Ghost Kamikaze Attack"
   },
   {
     "name": "Grandpa Gohan",
@@ -662,7 +698,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Grandpa_Gohan",
     "height": 160,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Gregory",
@@ -675,7 +712,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Gregory",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Guldo",
@@ -688,7 +726,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Guldo",
     "height": 129,
-    "height_class_10cm": "125 - 134 cm"
+    "height_class_10cm": "125 - 134 cm",
+    "attack": "Time Freeze"
   },
   {
     "name": "Hirudegarn",
@@ -701,7 +740,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Hirudegarn",
     "height": 1000,
-    "height_class_10cm": "1005 - 1014 cm"
+    "height_class_10cm": "1005 - 1014 cm",
+    "attack": "Dark Mist Breath"
   },
   {
     "name": "Hit",
@@ -714,7 +754,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Hit",
     "height": 188,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": null
   },
   {
     "name": "Jaco",
@@ -727,7 +768,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Jaco",
     "height": 162,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Janemba",
@@ -740,7 +782,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Janemba",
     "height": 260,
-    "height_class_10cm": "265 - 274 cm"
+    "height_class_10cm": "265 - 274 cm",
+    "attack": "Dimension Sword Attack"
   },
   {
     "name": "Jeice",
@@ -753,7 +796,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Jeice",
     "height": 181,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": "Crusher Ball"
   },
   {
     "name": "Jiren",
@@ -766,7 +810,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Jiren",
     "height": 190,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": null
   },
   {
     "name": "Kale",
@@ -779,7 +824,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Kale",
     "height": 165,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Kami",
@@ -792,7 +838,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Kami",
     "height": 230,
-    "height_class_10cm": "235 - 244 cm"
+    "height_class_10cm": "235 - 244 cm",
+    "attack": null
   },
   {
     "name": "Kefla",
@@ -805,7 +852,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Kefla",
     "height": 170,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Kibito Kai",
@@ -818,7 +866,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Kibito_Kai",
     "height": 198,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": null
   },
   {
     "name": "Kibito",
@@ -831,7 +880,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Kibito",
     "height": 198,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": null
   },
   {
     "name": "King Cold",
@@ -844,20 +894,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/King_Cold",
     "height": 298,
-    "height_class_10cm": "295 - 304 cm"
-  },
-  {
-    "name": "Kid Buu",
-    "aliases": "Buu; Kid Boo",
-    "image_url": "https://static.wikia.nocookie.net/dragonball/images/b/b7/Kid_Buu_Dragon_Ball_Z_Episode_277.png",
-    "first_arc_or_film": "Dragon Ball Z",
-    "gender": "Male",
-    "race": "Majin",
-    "allegiance": "Organization of Babidi",
-    "transformation_count": 1,
-    "page_url": "https://dragonball.fandom.com/wiki/Kid_Buu",
-    "height": 130,
-    "height_class_10cm": "135 - 144 cm"
+    "height_class_10cm": "295 - 304 cm",
+    "attack": "Death Wave"
   },
   {
     "name": "King Kai",
@@ -870,7 +908,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/King_Kai",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "King Piccolo",
@@ -883,7 +922,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/King_Piccolo",
     "height": 260,
-    "height_class_10cm": "265 - 274 cm"
+    "height_class_10cm": "265 - 274 cm",
+    "attack": null
   },
   {
     "name": "King Yemma",
@@ -896,7 +936,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/King_Yemma",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "King Vegeta",
@@ -909,7 +950,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/King_Vegeta",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Korin",
@@ -922,7 +964,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Korin",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Krillin",
@@ -935,7 +978,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Krillin",
     "height": 153,
-    "height_class_10cm": "155 - 164 cm"
+    "height_class_10cm": "155 - 164 cm",
+    "attack": "Kienzan"
   },
   {
     "name": "Lord Slug",
@@ -948,7 +992,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Lord_Slug",
     "height": 240,
-    "height_class_10cm": "245 - 254 cm"
+    "height_class_10cm": "245 - 254 cm",
+    "attack": "Dark Eyes Beam"
   },
   {
     "name": "Mai",
@@ -961,7 +1006,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Mai",
     "height": 165,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Master Roshi",
@@ -974,7 +1020,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Master_Roshi",
     "height": 165,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": "Kamehameha Original"
   },
   {
     "name": "Meta-Cooler",
@@ -987,7 +1034,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Meta-Cooler",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Death Chaser"
   },
   {
     "name": "Mercenary Tao",
@@ -1000,7 +1048,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Mercenary_Tao",
     "height": 178,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Monaka",
@@ -1013,7 +1062,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Monaka",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Moro",
@@ -1026,7 +1076,8 @@
     "transformation_count": 3,
     "page_url": "https://dragonball.fandom.com/wiki/Moro",
     "height": 180,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": null
   },
   {
     "name": "Mr. Satan",
@@ -1039,7 +1090,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Mr._Satan",
     "height": 188,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": "Megaton Punch"
   },
   {
     "name": "Mr. Popo",
@@ -1052,7 +1104,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Mr._Popo",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Nail",
@@ -1065,7 +1118,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Nail",
     "height": 196,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": null
   },
   {
     "name": "Nappa",
@@ -1078,7 +1132,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Nappa",
     "height": 208,
-    "height_class_10cm": "205 - 214 cm"
+    "height_class_10cm": "205 - 214 cm",
+    "attack": "Break Cannon"
   },
   {
     "name": "Neva",
@@ -1091,7 +1146,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Neva",
     "height": 230,
-    "height_class_10cm": "235 - 244 cm"
+    "height_class_10cm": "235 - 244 cm",
+    "attack": null
   },
   {
     "name": "Old Kai",
@@ -1104,7 +1160,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Old_Kai",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Zenshin Kaiho"
   },
   {
     "name": "Oolong",
@@ -1117,7 +1174,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Oolong",
     "height": 121,
-    "height_class_10cm": "125 - 134 cm"
+    "height_class_10cm": "125 - 134 cm",
+    "attack": null
   },
   {
     "name": "Ox-King",
@@ -1130,7 +1188,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Ox-King",
     "height": 400,
-    "height_class_10cm": "405 - 414 cm"
+    "height_class_10cm": "405 - 414 cm",
+    "attack": null
   },
   {
     "name": "Panzy",
@@ -1143,7 +1202,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Panzy",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Pan",
@@ -1156,7 +1216,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Pan",
     "height": 110,
-    "height_class_10cm": "115 - 124 cm"
+    "height_class_10cm": "115 - 124 cm",
+    "attack": null
   },
   {
     "name": "Pikkon",
@@ -1169,7 +1230,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Pikkon",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Puar",
@@ -1181,8 +1243,9 @@
     "allegiance": "Dragon Team",
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Puar",
-    "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height": 37,
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Raditz",
@@ -1195,7 +1258,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Raditz",
     "height": 197,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": "Double Sunday"
   },
   {
     "name": "Recoome",
@@ -1208,7 +1272,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Recoome",
     "height": 213,
-    "height_class_10cm": "215 - 224 cm"
+    "height_class_10cm": "215 - 224 cm",
+    "attack": "Recoome Eraser Gun"
   },
   {
     "name": "Saibamen",
@@ -1221,7 +1286,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Saibamen",
     "height": 120,
-    "height_class_10cm": "125 - 134 cm"
+    "height_class_10cm": "125 - 134 cm",
+    "attack": null
   },
   {
     "name": "Shenron",
@@ -1234,7 +1300,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Shenron",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Shin",
@@ -1247,7 +1314,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Shin",
     "height": 168,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Shu",
@@ -1260,7 +1328,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Shu",
     "height": 110,
-    "height_class_10cm": "115 - 124 cm"
+    "height_class_10cm": "115 - 124 cm",
+    "attack": null
   },
   {
     "name": "Spopovich",
@@ -1273,20 +1342,22 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Spopovich",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
-    "name": "Super Buu",
+    "name": "Buu",
     "aliases": "Majin; Buu; Boo",
     "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/32/MajinBuuSuperVsGohan02.png",
     "first_arc_or_film": "Dragon Ball Z",
     "gender": "Male",
     "race": "Majin",
     "allegiance": "",
-    "transformation_count": 3,
+    "transformation_count": 5,
     "page_url": "https://dragonball.fandom.com/wiki/Super_Buu",
     "height": 250,
-    "height_class_10cm": "255 - 264 cm"
+    "height_class_10cm": "255 - 264 cm",
+    "attack": "Chocolate Beam"
   },
   {
     "name": "Syn Shenron",
@@ -1299,7 +1370,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Syn_Shenron",
     "height": 250,
-    "height_class_10cm": "255 - 264 cm"
+    "height_class_10cm": "255 - 264 cm",
+    "attack": null
   },
   {
     "name": "Tapion",
@@ -1312,7 +1384,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Tapion",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Brave Slash"
   },
   {
     "name": "Tarble",
@@ -1325,7 +1398,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Tarble",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Tien Shinhan",
@@ -1338,7 +1412,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Tien_Shinhan",
     "height": 187,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": "Shin Kikoho"
   },
   {
     "name": "Top",
@@ -1351,7 +1426,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Top",
     "height": 200,
-    "height_class_10cm": "205 - 214 cm"
+    "height_class_10cm": "205 - 214 cm",
+    "attack": null
   },
   {
     "name": "Trunks",
@@ -1364,7 +1440,8 @@
     "transformation_count": 3,
     "page_url": "https://dragonball.fandom.com/wiki/Trunks",
     "height": 170,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": "Burning Attack"
   },
   {
     "name": "Uub",
@@ -1377,7 +1454,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Uub",
     "height": 160,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": null
   },
   {
     "name": "Vegeta",
@@ -1390,7 +1468,8 @@
     "transformation_count": 9,
     "page_url": "https://dragonball.fandom.com/wiki/Vegeta",
     "height": 164,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": "Final Flash"
   },
   {
     "name": "Vegito",
@@ -1403,7 +1482,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Vegito",
     "height": 175,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Videl",
@@ -1416,7 +1496,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Videl",
     "height": 157,
-    "height_class_10cm": "155 - 164 cm"
+    "height_class_10cm": "155 - 164 cm",
+    "attack": "Videl Rush"
   },
   {
     "name": "Whis",
@@ -1429,7 +1510,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Whis",
     "height": 195,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": "Temporal Do-Over"
   },
   {
     "name": "Yamcha",
@@ -1442,7 +1524,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Yamcha",
     "height": 183,
-    "height_class_10cm": "185 - 194 cm"
+    "height_class_10cm": "185 - 194 cm",
+    "attack": "Sokidan"
   },
   {
     "name": "Yajirobe",
@@ -1455,7 +1538,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Yajirobe",
     "height": 165,
-    "height_class_10cm": "165 - 174 cm"
+    "height_class_10cm": "165 - 174 cm",
+    "attack": "Katana Slash"
   },
   {
     "name": "Zangya",
@@ -1468,7 +1552,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Zangya",
     "height": 170,
-    "height_class_10cm": "175 - 184 cm"
+    "height_class_10cm": "175 - 184 cm",
+    "attack": null
   },
   {
     "name": "Zamasu",
@@ -1481,7 +1566,8 @@
     "transformation_count": 2,
     "page_url": "https://dragonball.fandom.com/wiki/Zamasu",
     "height": 204,
-    "height_class_10cm": "205 - 214 cm"
+    "height_class_10cm": "205 - 214 cm",
+    "attack": null
   },
   {
     "name": "Zeno",
@@ -1494,7 +1580,8 @@
     "transformation_count": 0,
     "page_url": "https://dragonball.fandom.com/wiki/Zeno",
     "height": 100,
-    "height_class_10cm": "105 - 114 cm"
+    "height_class_10cm": "105 - 114 cm",
+    "attack": null
   },
   {
     "name": "Zarbon",
@@ -1507,7 +1594,8 @@
     "transformation_count": 1,
     "page_url": "https://dragonball.fandom.com/wiki/Zarbon",
     "height": 195,
-    "height_class_10cm": "195 - 204 cm"
+    "height_class_10cm": "195 - 204 cm",
+    "attack": "Elegant Blaster"
   },
   {
     "name": "Piccolo",
@@ -1520,6 +1608,7 @@
     "transformation_count": 3,
     "page_url": "https://dragonball.fandom.com/wiki/Piccolo",
     "height": 226,
-    "height_class_10cm": "225 - 234 cm"
+    "height_class_10cm": "225 - 234 cm",
+    "attack": "Makankosappo"
   }
 ]
