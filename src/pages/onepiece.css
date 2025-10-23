@@ -1,7 +1,45 @@
-.dle-onepiece {
-    background-image: radial-gradient(circle, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0) 70%), url("../assets/onepiece-bg.jpg");
+@font-face {
+    font-family: onepiece;
+    src: url("../assets/fonts/Merriweather-VariableFont_opsz\,wdth\,wght.ttf");
 }
 
-/* .card-onepiece {
-    background-color: rgba(25, 4, 116, 0.25);
-} */
+:root {
+    --beige: #daceba;
+    --brown: #8b5122;
+    --blue: #0b283d;
+    --darkblue: #2E63A4;
+}
+
+.dle-onepiece {
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 70%), url("../assets/onepiece-bg.jpg");
+    font-family: onepiece;
+}
+
+.card-onepiece {
+    background-color: #0b283d;
+}
+
+.submit-onepiece {
+    background-color: var(--beige);
+}
+.submit-onepiece:hover {
+    background-color: #e0d3ba;
+}
+
+.submit-onepiece input {
+    color: black;
+}
+
+.btn-onepiece {
+    background-color: var(--beige);
+    border-color: aliceblue;
+    color: black;
+}
+
+.btn-onepiece:hover {
+    background-color: #e9dbc4;
+}
+
+.img-container-onepiece {
+    border: 3px solid var(--darkblue);
+}

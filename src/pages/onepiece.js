@@ -17,9 +17,9 @@ function Onepiece() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily One Piece character" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"onepiece"} mode="classic" data={data} fields={fields} first_tips={{ name: "First Arc", key: "first_arc" }} second_tips={{ name: "First Episode", key: "first_episode" }} />,
-        <Findmode key={'fruit'} name={"onepiece"} mode="fruit" data={filterByField(data, "fruit_name")} filter="fruit_name" first_tips={{ name: "Fruit Type", key: "devil_fruit_type" }} second_tips={{ name: "Traduction", key: "english_name" }} />,
-        <Findmode key={'picture'} name={"onepiece"} mode="picture" data={data} filter="image_url" />
+        <Classic key={'classic'} name={"onepiece"} mode="classic" desc={"Find the daily character"} data={data} fields={fields} first_tips={{ name: "First Arc", key: "first_arc" }} second_tips={{ name: "First Episode", key: "first_episode" }} />,
+        <Findmode key={'fruit'} name={"onepiece"} mode="fruit" desc={"Who ate this devil fruit?"} data={filterByField(data, "fruit_name")} filter="fruit_name" first_tips={{ name: "Fruit Type", key: "devil_fruit_type" }} second_tips={{ name: "Traduction", key: "english_name" }} />,
+        <Findmode key={'picture'} name={"onepiece"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
     ];
 
     return (

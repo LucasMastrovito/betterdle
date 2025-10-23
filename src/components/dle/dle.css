@@ -59,6 +59,7 @@
 }
 
 .modebtn {
+  height: 100%;
   width: 15%;
   position: relative;
 }
@@ -72,6 +73,7 @@
   width: 100%;
   display: block;
   position: absolute;
+  top: 95%;
 }
 
 .dlebtn-border {
