@@ -5,7 +5,7 @@ import Win from "../dle/win";
 import CharacterRow from "./characterRow";
 import Tipscard from "../dle/tipscard";
 import "./findmode.css";
-import { getRandomCharacter } from "../utils/getrandom";
+import { getRandomCharacter, getYesterdayCharacter } from "../utils/getrandom";
 import { isImg } from "../utils/utils";
 
 function clamp(num, min, max) {
@@ -19,6 +19,7 @@ function clamp(num, min, max) {
 function Findmode(props) {
     const [loading, setLoading] = useState(true);
     const random = getRandomCharacter(props.data, props.mode);
+    const yesterday = getYesterdayCharacter(props.data, props.mode);
     const filter = Array.isArray(random[props.filter]) ? getRandomCharacter(random[props.filter], props.mode) : random[props.filter];
     const [data, setData] = useState(props.data);
     const [rows, setRows] = useState([]);
@@ -119,6 +120,7 @@ function Findmode(props) {
                 </div>
                 {rows}
             </div>
+            <h2 className="outline" style={{color: "white"}}>Yesterday, the character was <span style={{color: "#ffbc2aff", fontSize: "large"}}>{yesterday.name}</span> !</h2>
             {find ? <Win data={random} tries={tries} next={props.next} delay="1s"></Win> : <span></span>}
         </div>
     )

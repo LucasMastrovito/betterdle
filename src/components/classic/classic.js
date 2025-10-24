@@ -6,10 +6,11 @@ import Indicator from "../dle/indicator";
 import { getTries, saveTry } from "../utils/save";
 import Searchbar from "../dle/searchbar";
 import Tipscard from "../dle/tipscard";
-import { getRandomCharacter } from "../utils/getrandom";
+import { getRandomCharacter, getYesterdayCharacter } from "../utils/getrandom";
 
 function Classic(props) {
   const random = getRandomCharacter(props.data, props.mode);
+  const yesterday = getYesterdayCharacter(props.data, props.mode);
   const [data, setData] = useState(props.data);
   const fields = props.fields;
   const [rows, setRows] = useState([]);
@@ -92,6 +93,7 @@ function Classic(props) {
         </div>
         {rows}
       </div>
+      <h2 className="outline" style={{color: "white"}}>Yesterday, the character was <span style={{color: "#ffbc2aff", fontSize: "large"}}>{yesterday.name}</span> !</h2>
       <Indicator name={props.name} />
       {find ? <Win data={random} tries={tries} delay="5s"></Win> : <span></span>}
     </div>

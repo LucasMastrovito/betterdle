@@ -26,9 +26,21 @@ export function getRandomCharacter(data, modeSeed = "") {
   const today = new Date().toISOString().slice(0, 10);
   const combinedSeed = hashStringToNumber(today + modeSeed);
   const shuffled = seededShuffle(data, combinedSeed);
-  
+
   return shuffled[0];
 }
+
+export function getYesterdayCharacter(data, modeSeed = "") {
+  const yesterday = new Date();
+  yesterday.setDate(yesterday.getDate() - 1);
+  const formattedDate = yesterday.toISOString().slice(0, 10);
+
+  const combinedSeed = hashStringToNumber(formattedDate + modeSeed);
+  const shuffled = seededShuffle(data, combinedSeed);
+
+  return shuffled[0];
+}
+
 
 export function filterByField(arr, field) {
   return arr.filter(item => item[field] != null);
