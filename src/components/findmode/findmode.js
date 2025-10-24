@@ -27,18 +27,18 @@ function Findmode(props) {
     const [pic, setPic] = useState(false);
     //images
     const [grey, setGrey] = useState(true);
-    const [blur, setBlur] = useState("8px");
+    const [blur, setBlur] = useState("6px");
     const [activeBlur, setActiveBlur] = useState(true);
     const [zoom, setZoom] = useState(true);
-    const [scale, setScale] = useState("2");
+    const [scale, setScale] = useState("1.7");
 
     useEffect(() => {
         const loadGame = () => {
             const load = getTries(props.name, props.mode);
             const rowsBuffer = [];
             const dataBuffer = Object.assign([{}], props.data);
-            var blurBuffer = 8;
-            var scaleBuffer = 2;
+            var blurBuffer = 6;
+            var scaleBuffer = 1.7;
 
             load.forEach((el) => {
                 if (dataBuffer[el].name === random.name) {
