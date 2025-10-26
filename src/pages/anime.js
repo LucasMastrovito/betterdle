@@ -15,8 +15,8 @@ function Anime() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily anime character" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"anime"} mode="classic" data={data} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode key={'picture'} name={"anime"} mode="picture" data={data} filter="image_url" />
+        <Classic key={'classic'} name={"anime"} mode="classic" desc={"Find the daily anime character"} data={data} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
+        <Findmode key={'picture'} name={"anime"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
     ];
 
     return (
