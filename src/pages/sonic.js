@@ -15,8 +15,8 @@ function Sonic() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily anime character" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"sonic"} mode="classic" data={data} fields={fields} first_tips={{name: "Age", key: "age"}} second_tips={{name: "Affiliation", key: "affiliation"}} />,
-        <Findmode key={'picture'} name={"sonic"} mode="picture" data={data} filter="image_url" />
+        <Classic key={'classic'} name={"sonic"} mode="classic" desc={"Find the daily character"} data={data} fields={fields} first_tips={{name: "Age", key: "age"}} second_tips={{name: "Affiliation", key: "affiliation"}} />,
+        <Findmode key={'picture'} name={"sonic"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
     ];
 
     return (

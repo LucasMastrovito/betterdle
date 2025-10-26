@@ -32,7 +32,9 @@ function Dle(props) {
         <ModeContext.Provider value={{ changeMode }}>
             <div className={`dle dle-${props.name}`}>
                 <Homebtn />
-                <img alt="logo" className="scale logo" src={`/assets/${props.name}-logo.png`} onClick={(e) => changeMode(0)} />
+                <div style={{paddingBottom: "2vh"}}>
+                    <img alt="logo" className="scale logo" src={`/assets/${props.name}-logo.png`} onClick={(e) => changeMode(0)} />
+                </div>
                 <Dlemenu name={props.name} menu={false} current={current} buttons={props.buttons} />
                 {modes[current]}
             </div>

@@ -8,14 +8,14 @@ import Dlemenu from "../components/dle/dlemenu";
 
 function Sw() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic" index={1} />,
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily monster"} logo="classic" index={1} />,
         <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={2} />
     ];
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily monster" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"sw"} mode="classic" data={data} fields={fields} first_tips={{ name: "Type", key: "type" }} second_tips={{ name: "Family", key: "family" }} />,
-        <Findmode key={'picture'} name={"sw"} mode="picture" data={data} filter="image_url" />
+        <Classic key={'classic'} name={"sw"} mode="classic" desc={"Find the daily monster"} data={data} fields={fields} first_tips={{ name: "Type", key: "type" }} second_tips={{ name: "Family", key: "family" }} />,
+        <Findmode key={'picture'} name={"sw"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
     ];
 
     return (
