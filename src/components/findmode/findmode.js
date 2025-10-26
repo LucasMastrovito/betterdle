@@ -113,7 +113,7 @@ function Findmode(props) {
                         </div>
                     </div>
             }
-            <Searchbar data={data} submit={submit} name={props.name} />
+            <Searchbar data={data} submit={submit} name={props.name} find={find} />
             <div className="grid">
                 <div className="row">
                     <p className="field-name outline">Character</p>
