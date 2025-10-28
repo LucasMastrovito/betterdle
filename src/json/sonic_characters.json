@@ -9,7 +9,7 @@
     "skin": "Pink",
     "eyes": "Green",
     "affiliation": "Team Rose;Freedom Fighters",
-    "skills": "Piko Piko Hammer;Tarot Cards;Dowsing"
+    "skills": "Speed"
   },
   {
     "name": "Antoine D'Coolette",
@@ -21,7 +21,7 @@
     "skin": "Brown;Yellow",
     "eyes": "Blue",
     "affiliation": "Royal Guard;Freedom Fighters",
-    "skills": "Swordsmanship"
+    "skills": "Swordsmanship;Piloting"
   },
   {
     "name": "Big the Cat",
@@ -33,7 +33,7 @@
     "skin": "Purple",
     "eyes": "Yellow",
     "affiliation": "Team Rose",
-    "skills": "Excellent fisherman;Very Strong"
+    "skills": "Power"
   },
   {
     "name": "Blaze the Cat",
@@ -45,7 +45,7 @@
     "skin": "Violet;Yellow",
     "eyes": "Yellow",
     "affiliation": "Sol Empire;Team Vector",
-    "skills": "Pyrokinesis"
+    "skills": "Speed;Power"
   },
   {
     "name": "Bunnie D'Coolette",
@@ -57,7 +57,7 @@
     "skin": "Orange;White",
     "eyes": "Green",
     "affiliation": "Kingdom of Acorn;Egg Army",
-    "skills": "Super strength;Telescopic arm;Flight"
+    "skills": "Power;Flight"
   },
   {
     "name": "Chaos",
@@ -69,7 +69,7 @@
     "skin": "Blue",
     "eyes": "Green",
     "affiliation": "Eggman Empire",
-    "skills": "Harnessing;Immortality"
+    "skills": "Immortality"
   },
   {
     "name": "Charmy Bee",
@@ -93,7 +93,7 @@
     "skin": "Blue;Yellow;Pink",
     "eyes": "Blue",
     "affiliation": "Team Rose",
-    "skills": "Flight;Super speed;Enhanced strength;Shapeshifting"
+    "skills": "Flight;Speed;Shapeshifting"
   },
   {
     "name": "Chip",
@@ -114,7 +114,7 @@
     "age": 12,
     "species": "Human",
     "gender": "Male",
-    "skin": "Red",
+    "skin": "Beige",
     "eyes": "Blue",
     "affiliation": "Sonic Team",
     "skills": "None"
@@ -129,7 +129,7 @@
     "skin": "Green",
     "eyes": "Blue",
     "affiliation": "None",
-    "skills": "Plant Empathy;Enhanced Jump;Endurance;Agility;Piloting Skills"
+    "skills": "Plant Empathy;Power;Flight"
   },
   {
     "name": "Cream the Rabbit",
@@ -141,7 +141,7 @@
     "skin": "Cream",
     "eyes": "Brown",
     "affiliation": "Team Rose",
-    "skills": "Flight;Super Speed;Attacks with Cheese"
+    "skills": "Flight"
   },
   {
     "name": "Dr. Eggman",
@@ -153,7 +153,7 @@
     "skin": "Peach",
     "eyes": "Green",
     "affiliation": "Eggman Empire;Team Eggman",
-    "skills": "Cunning;Durability;Power;Intelligence"
+    "skills": "Intelligence"
   },
   {
     "name": "E-123 Omega",
@@ -165,7 +165,7 @@
     "skin": "Red;Black;Yellow",
     "eyes": "Red",
     "affiliation": "Eggman Empire;Team Dark;Resistance",
-    "skills": "Super strength;Limitless arsenal;Flight;Enhanced speed"
+    "skills": "Power;Flight"
   },
   {
     "name": "Eclipse the Darkling",
@@ -188,8 +188,8 @@
     "gender": "Male",
     "skin": "Purple",
     "eyes": "Gold",
-    "affiliation": "Chaotix Detective Agency;Team Chaotix;Resistance",
-    "skills": "Super speed;Enhanced strength;Enhanced durability;Camouflage"
+    "affiliation": "Team Chaotix;Resistance",
+    "skills": "Speed;Power;Camouflage"
   },
   {
     "name": "Infinite",
@@ -201,7 +201,7 @@
     "skin": "White;Yellow",
     "eyes": "Blue",
     "affiliation": "Eggman Empire",
-    "skills": "Virtual reality manipulation;Spatial manipulation;Enhanced agility;Enhanced durability"
+    "skills": "Power;Speed"
   },
   {
     "name": "Jet the Hawk",
@@ -213,7 +213,7 @@
     "skin": "Green",
     "eyes": "Blue",
     "affiliation": "Babylon Rogues",
-    "skills": "Extreme Gear skills"
+    "skills": "Piloting;Speed"
   },
   {
     "name": "Knuckles the Echidna",
@@ -225,7 +225,7 @@
     "skin": "Red",
     "eyes": "Purple",
     "affiliation": "Team Sonic",
-    "skills": "Super strength;Speed;Enhanced Durability;Wall Climbing"
+    "skills": "Power;Wall Climbing"
   },
   {
     "name": "Marine the Raccoon",
@@ -237,7 +237,7 @@
     "skin": "Brown;Yellow",
     "eyes": "Blue",
     "affiliation": "None",
-    "skills": "Sailing;Enhanced speed"
+    "skills": "Speed"
   },
   {
     "name": "Mephiles the Dark",
@@ -246,7 +246,7 @@
     "age": 10,
     "species": "Unknown",
     "gender": "Male",
-    "skin": "Gray;black;Green",
+    "skin": "Gray;Black;Green",
     "eyes": "Green",
     "affiliation": "None",
     "skills": "Speed"
@@ -260,8 +260,8 @@
     "gender": "None",
     "skin": "Blue",
     "eyes": "Red",
-    "affiliation": "Eggman Empire;Badnik;Team Eggman;Team Dark",
-    "skills": "Super speed;Super strength;Flight;Plasma beam projection"
+    "affiliation": "Eggman Empire",
+    "skills": "Speed;Power;Flight"
   },
   {
     "name": "Mighty the Armadillo",
@@ -273,7 +273,7 @@
     "skin": "Black;Yellow;Red",
     "eyes": "Blue",
     "affiliation": "Freedom Fighters",
-    "skills": "Speed;Super strength;Agility"
+    "skills": "Speed;Power"
   },
   {
     "name": "Miles \"Tails\" Prower",
@@ -285,7 +285,7 @@
     "skin": "Orange;Yellow",
     "eyes": "Sky Blue",
     "affiliation": "Team Sonic;Freedom Fighters",
-    "skills": "Flight;Machine Tinkering;Inventing;Big Brain"
+    "skills": "Flight;Piloting"
   },
   {
     "name": "Rouge the Bat",
@@ -296,8 +296,8 @@
     "gender": "Female",
     "skin": "White",
     "eyes": "Teal",
-    "affiliation": "United Federation;G.U.N.;Eggman Empire;Team Dark",
-    "skills": "Flight;Enhanced strength;Enhanced speed;Martial arts skills"
+    "affiliation": "G.U.N.;Eggman Empire;Team Dark",
+    "skills": "Flight;Power"
   },
   {
     "name": "Shadow the Hedgehog",
@@ -309,7 +309,7 @@
     "skin": "Black;Crimson",
     "eyes": "Red",
     "affiliation": "Eggman Empire;Team Dark;G.U.N.",
-    "skills": "Chaos Control;Chaos Spear;Chaos Blast;Super transformation"
+    "skills": "Chaos Control;Speed"
   },
   {
     "name": "Silver the Hedgehog",
@@ -321,7 +321,7 @@
     "skin": "Gray;Gold",
     "eyes": "Gold",
     "affiliation": "Resistance;Team Vector",
-    "skills": "Psychokinesis;Super speed;Enhanced durability;Enhanced jump"
+    "skills": "Psychokinesis;Speed"
   },
   {
     "name": "Sonic the Hedgehog",
@@ -343,9 +343,9 @@
     "species": "Albatross",
     "gender": "Male",
     "skin": "Gray",
-    "eyes": "Azzure",
+    "eyes": "Blue",
     "affiliation": "Babylon Rogues",
-    "skills": "Power"
+    "skills": "Power;Piloting"
   },
   {
     "name": "Tikal",
@@ -357,7 +357,7 @@
     "skin": "Peach;Orange",
     "eyes": "Blue",
     "affiliation": "Knuckles Clan",
-    "skills": "Glide;Spiritual powers;Harnessing chaos energy;Controlling the Master Emerald"
+    "skills": "Spiritual powers"
   },
   {
     "name": "Vanilla the Rabbit",
@@ -380,8 +380,8 @@
     "gender": "Male",
     "skin": "Green",
     "eyes": "Gold",
-    "affiliation": "Chaotix Detective Agency;Team Chaotix;Resistance;Team Vector",
-    "skills": "Super strength;Enhanced speed;Enhanced bite;Investigation skills"
+    "affiliation": "Team Chaotix;Resistance;Team Vector",
+    "skills": "Power"
   },
   {
     "name": "Wave the Swallow",
@@ -393,7 +393,7 @@
     "skin": "Purple",
     "eyes": "Blue",
     "affiliation": "Babylon Rogues",
-    "skills": "Big Brain;Grinding;Mechanical skills"
+    "skills": "Piloting"
   },
   {
     "name": "Zavok",
@@ -404,8 +404,8 @@
     "gender": "Male",
     "skin": "Teal",
     "eyes": "Yellow;Red",
-    "affiliation": "Deadly Six;-;Leader",
-    "skills": "Power"
+    "affiliation": "Deadly Six;Eggman Empire",
+    "skills": "Power;Magnetism"
   },
   {
     "name": "Zazz",
@@ -416,8 +416,8 @@
     "gender": "Male",
     "skin": "Purple",
     "eyes": "Yellow",
-    "affiliation": "Deadly Six;- Member",
-    "skills": "Speed"
+    "affiliation": "Deadly Six;Eggman Empire",
+    "skills": "Speed;Magnetism"
   },
   {
     "name": "Zeena",
@@ -428,8 +428,8 @@
     "gender": "Female",
     "skin": "Green",
     "eyes": "Blue;yellow sclera",
-    "affiliation": "Deadly Six",
-    "skills": "None"
+    "affiliation": "Deadly Six;Eggman Empire",
+    "skills": "Magnetism"
   },
   {
     "name": "Zor",
@@ -441,7 +441,7 @@
     "skin": "White;Black;Purple;Blue",
     "eyes": "Yellow",
     "affiliation": "Deadly Six;Eggman Empire",
-    "skills": "Magnetism manipulation;Super strength;Enhanced jump;Energy ball projection"
+    "skills": "Magnetism;Power"
   },
   {
     "name": "Zomom",
@@ -452,7 +452,7 @@
     "gender": "Male",
     "skin": "Yellow;Black",
     "eyes": "Yellow",
-    "affiliation": "Deadly Six",
-    "skills": "Super speed;Enhanced strength;Enhanced durability"
+    "affiliation": "Deadly Six;Eggman Empire",
+    "skills": "Magnetism;Speed;Power"
   }
 ]
