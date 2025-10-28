@@ -10,9 +10,9 @@ import { filterByField } from "../components/utils/getrandom";
 
 function Valorant() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily agent"} logo="classic" index={1} />,
-        <Dlemenubtn key={2} menu={true} name={"Name"} desc={"Guess the agent from his real name"} logo="classic" index={2} />,
-        <Dlemenubtn key={3} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={3} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily agent"} logo="classic-valorant" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Name"} desc={"Guess the agent from his real name"} logo="name-valorant" index={2} />,
+        <Dlemenubtn key={3} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture-valorant" index={3} />
     ];
 
     const modes = [
