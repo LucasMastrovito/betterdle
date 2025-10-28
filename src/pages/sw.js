@@ -8,8 +8,8 @@ import Dlemenu from "../components/dle/dlemenu";
 
 function Sw() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily monster"} logo="classic" index={1} />,
-        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={2} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily monster"} logo="classic-sw" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture-sw" index={2} />
     ];
 
     const modes = [

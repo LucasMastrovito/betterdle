@@ -1,3 +1,22 @@
+@font-face {
+    font-family: gacha;
+    src: url("../assets/fonts/zh-cn.ttf");
+}
+
 .dle-gacha {
     background-image: radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 70%), url("../assets/gacha-bg.jpg");
+    font-family: gacha;
+}
+
+.card-gacha {
+    background-color: #544f73;
+    border: #d7c7d9 2px solid;
+}
+
+.submit-gacha {
+    background-color: #d7c7d9;
+}
+
+.submit-gacha:hover {
+    background-color: #e7d6e9;
 }

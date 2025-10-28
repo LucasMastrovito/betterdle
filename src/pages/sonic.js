@@ -9,12 +9,12 @@ import Dle from "../components/dle/dle";
 
 function Sonic() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic" index={1} />,
-        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture" index={2} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily character"} logo="classic-sonic" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture-sonic" index={2} />
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} title="Guess the daily anime character" menu={true} buttons={buttons} />,
+        <Dlemenu key={'menu'} title="Guess the daily sonic character" menu={true} buttons={buttons} />,
         <Classic key={'classic'} name={"sonic"} mode="classic" desc={"Find the daily character"} data={data} fields={fields} first_tips={{name: "Age", key: "age"}} second_tips={{name: "Affiliation", key: "affiliation"}} />,
         <Findmode key={'picture'} name={"sonic"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
     ];
