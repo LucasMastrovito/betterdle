@@ -8,3 +8,15 @@
     background-size: cover;
     border: 3px black solid;
 }
+
+.dlemenubtn-anime {
+    background-image: url("../assets/card-anime.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px black solid;
+    color: black;
+}
+
+.dlemenubtn-text-anime p {
+    color: black;
+}

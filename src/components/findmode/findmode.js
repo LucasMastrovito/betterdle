@@ -107,8 +107,13 @@ function Findmode(props) {
                     :
                     <div style={{ display: "flex", flexDirection: "column", gap: "1em" }}>
                         <div className={`card card-${props.name}`}>
-                            <h3 className="margin-no outline" style={{marginBottom: '1em'}}>{props.desc}</h3>
-                            <h1 className="outline">{filter}</h1>
+                            <h3 className="margin-no outline" style={{ marginBottom: '1em' }}>{props.desc}</h3>
+                            <h1 className="outline">{props.array ?
+                                <div style={{display: "flex"}}>
+                                    {Array.from({ length: tries + 1}, (_, i) => (
+                                        <div key={i}>{random[props.filter][i]}</div>
+                                    ))}
+                                </div> : filter}</h1>
                             <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                         </div>
                     </div>
@@ -120,7 +125,7 @@ function Findmode(props) {
                 </div>
                 {rows}
             </div>
-            <h2 className="outline" style={{color: "white"}}>Yesterday, the character was <span style={{color: "#ffbc2aff", fontSize: "large"}}>{yesterday.name}</span> !</h2>
+            <h2 className="outline" style={{ color: "white" }}>Yesterday, the character was <span style={{ color: "#ffbc2aff", fontSize: "large" }}>{yesterday.name}</span> !</h2>
             {find ? <Win data={random} tries={tries} next={props.next} delay="1s"></Win> : <span></span>}
         </div>
     )

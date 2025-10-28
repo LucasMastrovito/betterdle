@@ -15,7 +15,7 @@ function Dragonball() {
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} title="Guess the Dragon Ball character" menu={true} buttons={buttons} />,
+        <Dlemenu key={'menu'} title="Guess the Dragon Ball character" name="dragonball" menu={true} buttons={buttons} />,
         <Classic key={'classic'} name={"dragonball"} mode="classic" desc={"Find the daily character"} data={data} fields={fields} first_tips={{ name: "First Arc", key: "first_arc" }} second_tips={{ name: "First Episode", key: "first_episode" }} />,
         <Findmode key={'technique'} name={"dragonball"} mode="technique" desc={"Who is using this technique?"} data={filterByField(data, "attack")} filter="attack" />,
         <Findmode key={'picture'} name={"dragonball"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />

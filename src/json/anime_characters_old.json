@@ -11,15 +11,7 @@
         "height": 172,
         "anime": "One Piece",
         "year": 1999,
-        "power": "Yes",
-        "emoji": [
-            "🍖",
-            "🏴‍☠️",
-            "🧢",
-            "🌀"
-        ],
-        "quote": "I'm gonna be King of the Pirates!",
-        "technique": "Gomu Gomu no Pistol"
+        "power": "Yes"
     },
     {
         "name": "Roronoa Zoro",
@@ -33,15 +25,7 @@
         "height": 178,
         "anime": "One Piece",
         "year": 1999,
-        "power": "Yes",
-        "emoji": [
-            "⚔️",
-            "🍶",
-            "🧭",
-            "💪"
-        ],
-        "quote": "Nothing happened.",
-        "technique": "Santoryu: Three-Sword Style"
+        "power": "Yes"
     },
     {
         "name": "Nami",
@@ -55,15 +39,7 @@
         "height": 169,
         "anime": "One Piece",
         "year": 1999,
-        "power": "No",
-        "emoji": [
-            "🌦️",
-            "💰",
-            "🧭",
-            "🍊"
-        ],
-        "quote": "I’ll map the entire world!",
-        "technique": "Mirage Tempo"
+        "power": "No"
     },
     {
         "name": "Sanji",
@@ -77,15 +53,7 @@
         "height": 177,
         "anime": "One Piece",
         "year": 1999,
-        "power": "Yes",
-        "emoji": [
-            "🔥",
-            "👞",
-            "🍳",
-            "💘"
-        ],
-        "quote": "A real man forgives a woman, no matter what she does.",
-        "technique": "Diable Jambe"
+        "power": "Yes"
     },
     {
         "name": "Marshall D. Teach",
@@ -99,15 +67,7 @@
         "height": 344,
         "anime": "One Piece",
         "year": 1999,
-        "power": "Yes",
-        "emoji": [
-            "☠️",
-            "🌑",
-            "🍷",
-            "😈"
-        ],
-        "quote": "People’s dreams... never end!",
-        "technique": "Black Hole"
+        "power": "Yes"
     },
     {
         "name": "Charlotte Linlin",
@@ -121,15 +81,7 @@
         "height": 880,
         "anime": "One Piece",
         "year": 1999,
-        "power": "Yes",
-        "emoji": [
-            "🍰",
-            "👑",
-            "💪",
-            "🏴‍☠️"
-        ],
-        "quote": "I want cake!!!",
-        "technique": "Life or death"
+        "power": "Yes"
     },
     {
         "name": "Satoru Gojo",
@@ -143,15 +95,7 @@
         "height": 191,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "😎",
-            "🌀",
-            "🗡️",
-            "♾️"
-        ],
-        "quote": "Throughout heaven and earth, I alone am the strongest.",
-        "technique": "Limitless"
+        "power": "Yes"
     },
     {
         "name": "Nobara Kugisaki",
@@ -165,15 +109,7 @@
         "height": 160,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "🔨",
-            "🩸",
-            "🪡",
-            "👗"
-        ],
-        "quote": "I will kill you, you curse!",
-        "technique": "Straw Doll Technique"
+        "power": "Yes"
     },
     {
         "name": "Ryomen Sukuna",
@@ -187,15 +123,7 @@
         "height": 173,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "😈",
-            "🩸",
-            "👹",
-            "🏺"
-        ],
-        "quote": "I am the King of Curses.",
-        "technique": "Malevolent Shrine"
+        "power": "Yes"
     },
     {
         "name": "Yuuji Itadori",
@@ -209,15 +137,7 @@
         "height": 173,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "🥊",
-            "😅",
-            "🍱",
-            "👊"
-        ],
-        "quote": "I’ll save everyone I can!",
-        "technique": "Divergent Fist"
+        "power": "Yes"
     },
     {
         "name": "Megumi Fushiguro",
@@ -231,15 +151,7 @@
         "height": 175,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "🐺",
-            "🗡️",
-            "🖤",
-            "🌪️"
-        ],
-        "quote": "I’ll protect those I care about.",
-        "technique": "Shikigami: Divine Dogs"
+        "power": "Yes"
     },
     {
         "name": "Jogo",
@@ -253,15 +165,7 @@
         "height": 180,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "🌋",
-            "🔥",
-            "😡",
-            "💨"
-        ],
-        "quote": "The world is a fiery playground.",
-        "technique": "Cursed Fire"
+        "power": "Yes"
     },
     {
         "name": "Mahito",
@@ -275,37 +179,21 @@
         "height": 180,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "🪞",
-            "😈",
-            "💀",
-            "🖐️"
-        ],
-        "quote": "Bodies are just clay to shape.",
-        "technique": "Idle Death"
+        "power": "Yes"
     },
     {
         "name": "Suguru Geto",
         "image_url": "https://www.animecharactersdatabase.com/images%20of/Suguru%20Geto/from/Jujutsu%20Kaisen/uploads/chars/67712-1574612181.png",
         "role": "Antagonist",
         "gender": "Male",
-        "race": "Human;Curse",
+        "race": "Human Curse",
         "hair_color": "Black",
         "weapon": "None",
         "age": 28,
         "height": 190,
         "anime": "Jujutsu Kaisen",
         "year": 2020,
-        "power": "Yes",
-        "emoji": [
-            "🕷️",
-            "🎭",
-            "🖤",
-            "💀"
-        ],
-        "quote": "Curses are the future of humanity.",
-        "technique": "Cursed Spirit Manipulation"
+        "power": "Yes"
     },
     {
         "name": "Kamado Tanjirou",
@@ -319,15 +207,7 @@
         "height": 165,
         "anime": "Demon Slayer",
         "year": 2019,
-        "power": "No",
-        "emoji": [
-            "🔥",
-            "⚔️",
-            "💧",
-            "🦋"
-        ],
-        "quote": "I will protect my sister at all costs.",
-        "technique": "Water Breathing"
+        "power": "No"
     },
     {
         "name": "Kamado Nezuko",
@@ -341,15 +221,7 @@
         "height": 153,
         "anime": "Demon Slayer",
         "year": 2019,
-        "power": "Yes",
-        "emoji": [
-            "🩸",
-            "🌿",
-            "👹",
-            "🌙"
-        ],
-        "quote": "I’ll protect humans, even as a demon.",
-        "technique": "Blood Demon Art: Exploding Blood"
+        "power": "Yes"
     },
     {
         "name": "Inosuke Hashibira",
@@ -363,15 +235,7 @@
         "height": 164,
         "anime": "Demon Slayer",
         "year": 2019,
-        "power": "No",
-        "emoji": [
-            "🐗",
-            "⚔️",
-            "💪",
-            "🦊"
-        ],
-        "quote": "I’ll show you the power of a beast!",
-        "technique": "Beast Breathing"
+        "power": "No"
     },
     {
         "name": "Zenitsu Agatsuma",
@@ -385,15 +249,7 @@
         "height": 165,
         "anime": "Demon Slayer",
         "year": 2019,
-        "power": "No",
-        "emoji": [
-            "⚡",
-            "😱",
-            "🛌",
-            "💛"
-        ],
-        "quote": "Even if I’m scared, I won’t back down!",
-        "technique": "Thunder Breathing"
+        "power": "No"
     },
     {
         "name": "Muzan Kibutsuji",
@@ -407,15 +263,7 @@
         "height": 179,
         "anime": "Demon Slayer",
         "year": 2019,
-        "power": "Yes",
-        "emoji": [
-            "🩸",
-            "🦇",
-            "🧛",
-            "🎩"
-        ],
-        "quote": "I am the beginning and the end of demons.",
-        "technique": "Demon Blood Manipulation"
+        "power": "Yes"
     },
     {
         "name": "Goku",
@@ -429,15 +277,7 @@
         "height": 175,
         "anime": "Dragon Ball",
         "year": 1986,
-        "power": "Yes",
-        "emoji": [
-            "☀️",
-            "🥋",
-            "🐉",
-            "⚡"
-        ],
-        "quote": "I am the protector of Earth!",
-        "technique": "Kamehameha"
+        "power": "Yes"
     },
     {
         "name": "Krillin",
@@ -451,15 +291,7 @@
         "height": 153,
         "anime": "Dragon Ball",
         "year": 1986,
-        "power": "Yes",
-        "emoji": [
-            "🥋",
-            "🪔",
-            "👊",
-            "👨‍🦲"
-        ],
-        "quote": "Goku, Gohan and Vegeta couldn’t even beat this monster, so what chance do I have against him? But if I don’t try… then there’s no one left to protect my friends!",
-        "technique": "Kienzan"
+        "power": "Yes"
     },
     {
         "name": "Master Roshi",
@@ -473,15 +305,7 @@
         "height": 165,
         "anime": "Dragon Ball",
         "year": 1986,
-        "power": "Yes",
-        "emoji": [
-            "🥋",
-            "🕶️",
-            "🐢",
-            "💨"
-        ],
-        "quote": "A martial artist’s heart is everything.",
-        "technique": "Kamehameha Originel"
+        "power": "Yes"
     },
     {
         "name": "Cell",
@@ -495,15 +319,7 @@
         "height": 213,
         "anime": "Dragon Ball",
         "year": 1986,
-        "power": "Yes",
-        "emoji": [
-            "🟢",
-            "🧬",
-            "💀",
-            "⚡"
-        ],
-        "quote": "I am the perfect being!",
-        "technique": "Solar Kamehameha"
+        "power": "Yes"
     },
     {
         "name": "Frieza",
@@ -517,15 +333,7 @@
         "height": 158,
         "anime": "Dragon Ball",
         "year": 1986,
-        "power": "Yes",
-        "emoji": [
-            "❄️",
-            "👑",
-            "💀",
-            "👽"
-        ],
-        "quote": "I am the strongest in the universe.",
-        "technique": "Death Beam"
+        "power": "Yes"
     },
     {
         "name": "Buu",
@@ -539,15 +347,7 @@
         "height": 250,
         "anime": "Dragon Ball",
         "year": 1986,
-        "power": "Yes",
-        "emoji": [
-            "🍫",
-            "💪",
-            "😈",
-            "Ⓜ️"
-        ],
-        "quote": "Now Buu maaad!",
-        "technique": "Chocolate Beam"
+        "power": "Yes"
     },
     {
         "name": "Yugi Muto",
@@ -561,15 +361,7 @@
         "height": 153,
         "anime": "Yu-gi-oh",
         "year": 2000,
-        "power": "No",
-        "emoji": [
-            "🃏",
-            "🧩",
-            "🧠",
-            "🎲"
-        ],
-        "quote": "I summon the heart of the cards!",
-        "technique": "Dark Magician"
+        "power": "No"
     },
     {
         "name": "Seto Kaiba",
@@ -583,15 +375,7 @@
         "height": 186,
         "anime": "Yu-gi-oh",
         "year": 2000,
-        "power": "No",
-        "emoji": [
-            "💰",
-            "🃏",
-            "🐉",
-            "🏢"
-        ],
-        "quote": "Exodia! It's not possible! No one's ever been able to call him!",
-        "technique": "Blue-Eyes White Dragon"
+        "power": "No"
     },
     {
         "name": "Light Yagami",
@@ -605,15 +389,7 @@
         "height": 179,
         "anime": "Death Note",
         "year": 2006,
-        "power": "No",
-        "emoji": [
-            "📓",
-            "✒️",
-            "🕵️‍♂️",
-            "💀"
-        ],
-        "quote": "I am justice.",
-        "technique": "Death Note"
+        "power": "No"
     },
     {
         "name": "L",
@@ -627,15 +403,7 @@
         "height": 179,
         "anime": "Death Note",
         "year": 2006,
-        "power": "No",
-        "emoji": [
-            "🕵️",
-            "🍰",
-            "🖤",
-            "💡"
-        ],
-        "quote": "I solve mysteries that others cannot.",
-        "technique": "Deduction Mastery"
+        "power": "No"
     },
     {
         "name": "Ryuk",
@@ -649,15 +417,7 @@
         "height": 200,
         "anime": "Death Note",
         "year": 2006,
-        "power": "Yes",
-        "emoji": [
-            "💀",
-            "🍎",
-            "😈",
-            "🪶"
-        ],
-        "quote": "Humans are so interesting.",
-        "technique": "Shinigami Death Note"
+        "power": "Yes"
     },
     {
         "name": "Izuku Midoriya",
@@ -671,15 +431,7 @@
         "height": 166,
         "anime": "My Hero Academia",
         "year": 2016,
-        "power": "Yes",
-        "emoji": [
-            "💪",
-            "🍀",
-            "🦸‍♂️",
-            "⚡"
-        ],
-        "quote": "I want to be a hero like All Might!",
-        "technique": "One For All"
+        "power": "Yes"
     },
     {
         "name": "Katsuki Bakugo",
@@ -693,15 +445,7 @@
         "height": 172,
         "anime": "My Hero Academia",
         "year": 2016,
-        "power": "Yes",
-        "emoji": [
-            "💥",
-            "😡",
-            "🧨",
-            "🔥"
-        ],
-        "quote": "I’ll surpass everyone!",
-        "technique": "Explosion Quirk"
+        "power": "Yes"
     },
     {
         "name": "Ochaco Uraraka",
@@ -715,15 +459,7 @@
         "height": 156,
         "anime": "My Hero Academia",
         "year": 2016,
-        "power": "Yes",
-        "emoji": [
-            "🌌",
-            "💫",
-            "🤸‍♀️",
-            "💛"
-        ],
-        "quote": "I want to save people with a smile!",
-        "technique": "Zero Gravity"
+        "power": "Yes"
     },
     {
         "name": "Tomura Shigaraki",
@@ -737,15 +473,7 @@
         "height": 175,
         "anime": "My Hero Academia",
         "year": 2016,
-        "power": "Yes",
-        "emoji": [
-            "☠️",
-            "🤲",
-            "💀",
-            "🖤"
-        ],
-        "quote": "Everything must be destroyed.",
-        "technique": "Decay Quirk"
+        "power": "Yes"
     },
     {
         "name": "All Might",
@@ -759,15 +487,7 @@
         "height": 220,
         "anime": "My Hero Academia",
         "year": 2016,
-        "power": "Yes",
-        "emoji": [
-            "💪",
-            "⭐",
-            "🏆",
-            "🦸‍♂️"
-        ],
-        "quote": "I am here!",
-        "technique": "One For All: Full Cowl"
+        "power": "Yes"
     },
     {
         "name": "All For One",
@@ -781,15 +501,7 @@
         "height": 210,
         "anime": "My Hero Academia",
         "year": 2016,
-        "power": "Yes",
-        "emoji": [
-            "🖤",
-            "😈",
-            "⚡",
-            "🧬"
-        ],
-        "quote": "I am the ultimate villain.",
-        "technique": "All For One Quirk"
+        "power": "Yes"
     },
     {
         "name": "Shoto Todoroki",
@@ -803,15 +515,7 @@
         "height": 176,
         "anime": "My Hero Academia",
         "year": 2016,
-        "power": "Yes",
-        "emoji": [
-            "❄️",
-            "🔥",
-            "🧊",
-            "💥"
-        ],
-        "quote": "I’ll fight with both fire and ice.",
-        "technique": "Flashfreeze Heatwave"
+        "power": "Yes"
     },
     {
         "name": "Denji",
@@ -825,15 +529,7 @@
         "height": 170,
         "anime": "Chainsaw Man",
         "year": 2022,
-        "power": "Yes",
-        "emoji": [
-            "🪚",
-            "🩸",
-            "⛓️",
-            "😈"
-        ],
-        "quote": "I’ll become the Chainsaw Man!",
-        "technique": "Chainsaw Transformation"
+        "power": "Yes"
     },
     {
         "name": "Makima",
@@ -847,15 +543,7 @@
         "height": 165,
         "anime": "Chainsaw Man",
         "year": 2022,
-        "power": "Yes",
-        "emoji": [
-            "🩸",
-            "👠",
-            "👁️",
-            "🖤"
-        ],
-        "quote": "Control is everything.",
-        "technique": "Control Devil Powers"
+        "power": "Yes"
     },
     {
         "name": "Aki Hayakawa",
@@ -869,15 +557,7 @@
         "height": 175,
         "anime": "Chainsaw Man",
         "year": 2022,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "🦊",
-            "👁️",
-            "😈"
-        ],
-        "quote": "Turn into a devil, and show me what you can do.",
-        "technique": "Kon"
+        "power": "Yes"
     },
     {
         "name": "Power",
@@ -891,15 +571,7 @@
         "height": 158,
         "anime": "Chainsaw Man",
         "year": 2022,
-        "power": "Yes",
-        "emoji": [
-            "🩸",
-            "🦷",
-            "😈",
-            "💪"
-        ],
-        "quote": "I’ll eat anyone who gets in my way!",
-        "technique": "Blood Hammer"
+        "power": "Yes"
     },
     {
         "name": "Reze",
@@ -913,15 +585,7 @@
         "height": 160,
         "anime": "Chainsaw Man",
         "year": 2022,
-        "power": "Yes",
-        "emoji": [
-            "💜",
-            "💣",
-            "😈",
-            "🔥"
-        ],
-        "quote": "Love can be deadly.",
-        "technique": "Boom"
+        "power": "Yes"
     },
     {
         "name": "Momo Ayase",
@@ -935,15 +599,7 @@
         "height": 158,
         "anime": "Dan Da Dan",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "🤛",
-            "🔮",
-            "👻",
-            "🦸‍♀️"
-        ],
-        "quote": "I told you my grandma's a spirit medium.",
-        "technique": null
+        "power": "Yes"
     },
     {
         "name": "Ken 'Okarun' Takakura",
@@ -957,15 +613,7 @@
         "height": 170,
         "anime": "Dan Da Dan",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "👻",
-            "🛸",
-            "🦵",
-            "🧠"
-        ],
-        "quote": "My balls are gone!",
-        "technique": null
+        "power": "Yes"
     },
     {
         "name": "Seiko Ayase",
@@ -979,15 +627,7 @@
         "height": 165,
         "anime": "Dan Da Dan",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "🔮",
-            "🏏",
-            "👻",
-            "👵"
-        ],
-        "quote": "If you have your chi out, you won't get hurt or sick.",
-        "technique": null
+        "power": "Yes"
     },
     {
         "name": "Aira Shiratori",
@@ -1001,15 +641,7 @@
         "height": 160,
         "anime": "Dan Da Dan",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "👻",
-            "👩‍🦰",
-            "🦵",
-            "🩷"
-        ],
-        "quote": "Spirits don’t scare me; I scare them.",
-        "technique": null
+        "power": "Yes"
     },
     {
         "name": "Jin 'Jiji' Enjoji",
@@ -1023,15 +655,7 @@
         "height": 172,
         "anime": "Dan Da Dan",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "👹",
-            "👦",
-            "🧿",
-            "⚽"
-        ],
-        "quote": "Such a shweety!",
-        "technique": "Fire Spirit Strike"
+        "power": "Yes"
     },
     {
         "name": "Eren Yeager",
@@ -1045,15 +669,7 @@
         "height": 170,
         "anime": "Attack on Titan",
         "year": 2013,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "🧱",
-            "🆙",
-            "⏳"
-        ],
-        "quote": "I’ll exterminate every last Titan!",
-        "technique": "Attack Titan Transformation"
+        "power": "Yes"
     },
     {
         "name": "Mikasa Ackerman",
@@ -1067,15 +683,7 @@
         "height": 170,
         "anime": "Attack on Titan",
         "year": 2013,
-        "power": "None",
-        "emoji": [
-            "⚔️",
-            "🪢",
-            "🖤",
-            "🧣"
-        ],
-        "quote": "Annie… Fall.",
-        "technique": null
+        "power": "None"
     },
     {
         "name": "Armin Arlert",
@@ -1089,15 +697,7 @@
         "height": 163,
         "anime": "Attack on Titan",
         "year": 2013,
-        "power": "Yes",
-        "emoji": [
-            "🧠",
-            "🗺️",
-            "🧱",
-            "🆙"
-        ],
-        "quote": "Strategy wins wars, not strength alone.",
-        "technique": "Colossal Titan Transformation"
+        "power": "Yes"
     },
     {
         "name": "Levi Ackerman",
@@ -1111,15 +711,7 @@
         "height": 160,
         "anime": "Attack on Titan",
         "year": 2013,
-        "power": "None",
-        "emoji": [
-            "⚔️",
-            "🧹",
-            "🧵",
-            "🧱"
-        ],
-        "quote": "I Choose The Hell Of Humans Killing Each Other Over The Hell Of Being Eaten.",
-        "technique": null
+        "power": "None"
     },
     {
         "name": "Gon Freecss",
@@ -1133,15 +725,7 @@
         "height": 154,
         "anime": "Hunter x Hunter",
         "year": 2011,
-        "power": "Yes",
-        "emoji": [
-            "🎣",
-            "💥",
-            "🦊",
-            "🌲"
-        ],
-        "quote": "I’ll find my own way, no matter what!",
-        "technique": "Jajanken"
+        "power": "Yes"
     },
     {
         "name": "Killua Zoldyck",
@@ -1155,15 +739,7 @@
         "height": 158,
         "anime": "Hunter x Hunter",
         "year": 2011,
-        "power": "Yes",
-        "emoji": [
-            "⚡",
-            "🤺",
-            "🕵️‍♂️",
-            "🍫"
-        ],
-        "quote": "I’m not afraid of anything… except losing friends.",
-        "technique": "Godspeed"
+        "power": "Yes"
     },
     {
         "name": "Kurapika",
@@ -1177,15 +753,7 @@
         "height": 171,
         "anime": "Hunter x Hunter",
         "year": 2011,
-        "power": "Yes",
-        "emoji": [
-            "⛓️",
-            "🩸",
-            "👁️",
-            "📜"
-        ],
-        "quote": "I’ll avenge my clan, no matter the cost.",
-        "technique": "Chain Jail / Emperor Time"
+        "power": "Yes"
     },
     {
         "name": "Leorio Paradinight",
@@ -1199,15 +767,7 @@
         "height": 189,
         "anime": "Hunter x Hunter",
         "year": 2011,
-        "power": "No",
-        "emoji": [
-            "💉",
-            "💼",
-            "🤝",
-            "🏥"
-        ],
-        "quote": "I’ll become a doctor to save lives.",
-        "technique": null
+        "power": "No"
     },
     {
         "name": "Hisoka Morow",
@@ -1221,15 +781,7 @@
         "height": 189,
         "anime": "Hunter x Hunter",
         "year": 2011,
-        "power": "Yes",
-        "emoji": [
-            "🃏",
-            "🔪",
-            "🩸",
-            "🤡"
-        ],
-        "quote": "I live for the thrill of a strong opponent.",
-        "technique": "Bungee Gum"
+        "power": "Yes"
     },
     {
         "name": "Naruto Uzumaki",
@@ -1243,15 +795,7 @@
         "height": 145,
         "anime": "Naruto",
         "year": 2002,
-        "power": "Yes",
-        "emoji": [
-            "🍥",
-            "🌀",
-            "🦊",
-            "🔥"
-        ],
-        "quote": "I won’t run away anymore! I’ll become Hokage!",
-        "technique": "Rasengan"
+        "power": "Yes"
     },
     {
         "name": "Sasuke Uchiha",
@@ -1265,15 +809,7 @@
         "height": 150,
         "anime": "Naruto",
         "year": 2002,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "🩸",
-            "🌑",
-            "🕷️"
-        ],
-        "quote": "I hate a lot, but I will protect what’s important to me.",
-        "technique": "Chidori"
+        "power": "Yes"
     },
     {
         "name": "Sakura Haruno",
@@ -1287,15 +823,7 @@
         "height": 148,
         "anime": "Naruto",
         "year": 2002,
-        "power": "Yes",
-        "emoji": [
-            "💪",
-            "🌸",
-            "🩸",
-            "🧠"
-        ],
-        "quote": "Come to think of it, didn't Naruto flunk that part?",
-        "technique": null
+        "power": "Yes"
     },
     {
         "name": "Kakashi Hatake",
@@ -1309,15 +837,7 @@
         "height": 181,
         "anime": "Naruto",
         "year": 2002,
-        "power": "Yes",
-        "emoji": [
-            "👁️",
-            "🌀",
-            "🗡️",
-            "📚"
-        ],
-        "quote": "Those who break the rules are scum, but those who abandon their friends are worse.",
-        "technique": "Sharingan"
+        "power": "Yes"
     },
     {
         "name": "Hinata Hyūga",
@@ -1331,15 +851,7 @@
         "height": 150,
         "anime": "Naruto",
         "year": 2002,
-        "power": "Yes",
-        "emoji": [
-            "👁️",
-            "🌀",
-            "💠",
-            "🕊️"
-        ],
-        "quote": "I will never go back on my word. I love you, Naruto.",
-        "technique": "Byakugan"
+        "power": "Yes"
     },
     {
         "name": "Madara Uchiha",
@@ -1353,15 +865,7 @@
         "height": 179,
         "anime": "Naruto",
         "year": 2002,
-        "power": "Yes",
-        "emoji": [
-            "🔥",
-            "🌑",
-            "🗡️",
-            "👁️"
-        ],
-        "quote": "Wake up to reality! Nothing ever goes as you plan in this world.",
-        "technique": "Eternal Mangekyō Sharingan"
+        "power": "Yes"
     },
     {
         "name": "Orochimaru",
@@ -1375,15 +879,7 @@
         "height": 174,
         "anime": "Naruto",
         "year": 2002,
-        "power": "Yes",
-        "emoji": [
-            "🐍",
-            "🗡️",
-            "🧬",
-            "🩸"
-        ],
-        "quote": "The moment people come to know love, they run the risk of carrying hate.",
-        "technique": "Snake Techniques / Reanimation Jutsu"
+        "power": "Yes"
     },
     {
         "name": "Zero Two",
@@ -1397,15 +893,7 @@
         "height": 167,
         "anime": "Darling in the Franxx",
         "year": 2018,
-        "power": "Yes",
-        "emoji": [
-            "🌸",
-            "👽",
-            "🚀",
-            "🩸"
-        ],
-        "quote": "Darling, I’ll always be with you, even if it kills me.",
-        "technique": null
+        "power": "Yes"
     },
     {
         "name": "Ken Kaneki",
@@ -1419,15 +907,7 @@
         "height": 169,
         "anime": "Tokyo Ghoul",
         "year": 2014,
-        "power": "Yes",
-        "emoji": [
-            "🩸",
-            "👁️",
-            "🧟",
-            "🗡️"
-        ],
-        "quote": "I’m not the protagonist of a novel or anything… I’m a college student.",
-        "technique": "Kagune"
+        "power": "Yes"
     },
     {
         "name": "Touka Kirishima",
@@ -1441,15 +921,7 @@
         "height": 160,
         "anime": "Tokyo Ghoul",
         "year": 2014,
-        "power": "Yes",
-        "emoji": [
-            "🩸",
-            "🕊️",
-            "🌆",
-            "🧟"
-        ],
-        "quote": "Such is a ghoul's hunger, and our destiny.",
-        "technique": "Kagune: Ukaku Type"
+        "power": "Yes"
     },
     {
         "name": "Juuzou Suzuya",
@@ -1463,15 +935,7 @@
         "height": 168,
         "anime": "Tokyo Ghoul",
         "year": 2014,
-        "power": "No",
-        "emoji": [
-            "🪡",
-            "🔪",
-            "🩸",
-            "🎭"
-        ],
-        "quote": "Pain is just another way to enjoy life.",
-        "technique": "Custom Quinque Techniques"
+        "power": "No"
     },
     {
         "name": "Eto Yoshimura",
@@ -1485,15 +949,7 @@
         "height": 160,
         "anime": "Tokyo Ghoul",
         "year": 2014,
-        "power": "Yes",
-        "emoji": [
-            "🩸",
-            "📗",
-            "🐍",
-            "🎤"
-        ],
-        "quote": "Humans and ghouls will never coexist. That’s reality.",
-        "technique": "Kagune: Rinkaku Type"
+        "power": "Yes"
     },
     {
         "name": "Saitama",
@@ -1507,15 +963,7 @@
         "height": 175,
         "anime": "One Punch Man",
         "year": 2015,
-        "power": "Yes",
-        "emoji": [
-            "🥊",
-            "💥",
-            "🦸‍♂️",
-            "🍌"
-        ],
-        "quote": "I’m just a hero for fun, nothing more.",
-        "technique": "One Punch"
+        "power": "Yes"
     },
     {
         "name": "Natsu Dragneel",
@@ -1529,15 +977,7 @@
         "height": 172,
         "anime": "Fairy Tail",
         "year": 2009,
-        "power": "Yes",
-        "emoji": [
-            "🔥",
-            "🐉",
-            "🧭",
-            "🥊"
-        ],
-        "quote": "I’m not alone. My friends are my power!",
-        "technique": "Fire Dragon Slayer Magic"
+        "power": "Yes"
     },
     {
         "name": "Lucy Heartfilia",
@@ -1551,15 +991,7 @@
         "height": 165,
         "anime": "Fairy Tail",
         "year": 2009,
-        "power": "Yes",
-        "emoji": [
-            "🔑",
-            "🌟",
-            "📖",
-            "💫"
-        ],
-        "quote": "I'll protect my friends with my own magic!",
-        "technique": "Celestial Spirit Magic"
+        "power": "Yes"
     },
     {
         "name": "Gray Fullbuster",
@@ -1573,15 +1005,7 @@
         "height": 180,
         "anime": "Fairy Tail",
         "year": 2009,
-        "power": "Yes",
-        "emoji": [
-            "❄️",
-            "💎",
-            "🥶",
-            "💪"
-        ],
-        "quote": "Ice and fury will crush my enemies.",
-        "technique": "Ice-Make Magic"
+        "power": "Yes"
     },
     {
         "name": "Erza Scarlet",
@@ -1595,15 +1019,7 @@
         "height": 175,
         "anime": "Fairy Tail",
         "year": 2009,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "🛡️",
-            "🔥",
-            "❤️"
-        ],
-        "quote": "I’ll never let anyone harm my guild!",
-        "technique": "Requip: The Knight"
+        "power": "Yes"
     },
     {
         "name": "Zeref Dragneel",
@@ -1617,15 +1033,7 @@
         "height": 173,
         "anime": "Fairy Tail",
         "year": 2009,
-        "power": "Yes",
-        "emoji": [
-            "⚫",
-            "💀",
-            "🌑",
-            "🖤"
-        ],
-        "quote": "Life and death are meaningless to me.",
-        "technique": "Ankhseram Black Magic"
+        "power": "Yes"
     },
     {
         "name": "Kirito",
@@ -1639,15 +1047,7 @@
         "height": 172,
         "anime": "Sword Art Online",
         "year": 2012,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "🗡️",
-            "🎮",
-            "⚡"
-        ],
-        "quote": "Levels are just numbers.",
-        "technique": "Dual Blades"
+        "power": "Yes"
     },
     {
         "name": "Asuna Yuuki",
@@ -1661,15 +1061,7 @@
         "height": 160,
         "anime": "Sword Art Online",
         "year": 2012,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "🎮",
-            "💛",
-            "🛡️"
-        ],
-        "quote": "If we make it back to the real world, I'll find you. And fall in love with you all over again.",
-        "technique": "Knights of the Blood Flash"
+        "power": "Yes"
     },
     {
         "name": "Sinon",
@@ -1683,15 +1075,7 @@
         "height": 161,
         "anime": "Sword Art Online",
         "year": 2012,
-        "power": "No",
-        "emoji": [
-            "🔫",
-            "🎯",
-            "🎮",
-            "👓"
-        ],
-        "quote": "I Can’t Shoot",
-        "technique": null
+        "power": "No"
     },
     {
         "name": "Saber",
@@ -1705,15 +1089,7 @@
         "height": 154,
         "anime": "Fate/stay night",
         "year": 2006,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "👑",
-            "♀️",
-            "🛡️"
-        ],
-        "quote": "I am the bone of my sword.",
-        "technique": "Excalibur"
+        "power": "Yes"
     },
     {
         "name": "Archer",
@@ -1727,15 +1103,7 @@
         "height": 187,
         "anime": "Fate/stay night",
         "year": 2006,
-        "power": "Yes",
-        "emoji": [
-            "🏹",
-            "🗡️",
-            "♂️",
-            "🎯"
-        ],
-        "quote": "I fight for the future that cannot exist.",
-        "technique": "Unlimited Blade Works"
+        "power": "Yes"
     },
     {
         "name": "Sung Jinwoo",
@@ -1749,15 +1117,7 @@
         "height": 180,
         "anime": "Solo Leveling",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "🗡️",
-            "🎮",
-            "👤",
-            "💀"
-        ],
-        "quote": "Arise.",
-        "technique": "Shadow Extraction"
+        "power": "Yes"
     },
     {
         "name": "Cha Hae-In",
@@ -1771,15 +1131,7 @@
         "height": 170,
         "anime": "Solo Leveling",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "⚔️",
-            "⚡",
-            "♀️",
-            "🎮"
-        ],
-        "quote": "I don't see him. Did he quit mining work?",
-        "technique": "Mana Smell"
+        "power": "Yes"
     },
     {
         "name": "Beru",
@@ -1793,14 +1145,6 @@
         "height": 250,
         "anime": "Solo Leveling",
         "year": 2024,
-        "power": "Yes",
-        "emoji": [
-            "🦗",
-            "💀",
-            "⚔️",
-            "🕷️"
-        ],
-        "quote": "I exist only to follow my master's command.",
-        "technique": null
+        "power": "Yes"
     }
 ]
