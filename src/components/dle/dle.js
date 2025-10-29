@@ -17,6 +17,7 @@ function Dle(props) {
     const [data, setData] = useState(null);
     const [baseData, setBaseData] = useState(null);
     const [filter, setFilter] = useState("all");
+    const [fieldFilter, setFieldFilter] = useState("");
     const [language, setLanguage] = useState("en");
     const [current, setCurrent] = useState(0);
 
@@ -27,12 +28,12 @@ function Dle(props) {
     useEffect(() => {
         import(`../../json/${props.name}_characters_${language}.json`)
             .then(module => {
-                setData(module.default);
+                setData(filter === "all" ? module.default : filterByExactField(module.default, fieldFilter, filter));
                 setBaseData(module.default);
                 setKey(prev => prev + 1);
             })
             .catch(err => console.error("Erreur de chargement JSON :", err));
-    }, [language, props.name]);
+    }, [language, props.name, fieldFilter, filter]);
 
     const changeMode = (index) => {
         if (index === -1) {
@@ -55,8 +56,10 @@ function Dle(props) {
     const applyFilter = (field, value) => {
         setData(value === "all" ? baseData : filterByExactField(baseData, field, value));
         setFilter(value);
+        setFieldFilter(field);
         setKey(prev => prev + 1);
     }
+
     return (
         <ModeContext.Provider value={{ changeMode }}>
             <div className={`dle dle-${props.name}`}>
