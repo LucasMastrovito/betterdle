@@ -11,9 +11,11 @@ function Datafilter(props) {
     return (
         <Dropdown
             name={props.filter}
-            options={options.map((option, index) =>
-                <option key={index} className="option" value={option}>{option}</option>
-            )}
+            options={[
+                <option key={"all"} className="option" value="all">All</option>,
+                ...options.map((option, index) =>
+                    <option key={index} className="option" value={option}>{option}</option>
+                )]}
             change={change} />
     )
 }

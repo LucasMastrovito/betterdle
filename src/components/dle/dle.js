@@ -52,7 +52,7 @@ function Dle(props) {
     };
 
     const applyFilter = (field, value) => {
-        setData(filterByExactField(baseData, field, value));
+        setData(value === "all" ? baseData : filterByExactField(baseData, field, value));
         setKey(prev => prev + 1);
     }
 
