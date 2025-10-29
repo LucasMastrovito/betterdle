@@ -6,7 +6,7 @@ import CharacterRow from "./characterRow";
 import Tipscard from "../dle/tipscard";
 import "./findmode.css";
 import { getRandomCharacter, getYesterdayCharacter } from "../utils/getrandom";
-import { isImg } from "../utils/utils";
+import { isImg, isSound } from "../utils/utils";
 
 function clamp(num, min, max) {
     return num <= min
@@ -26,6 +26,7 @@ function Findmode(props) {
     const [tries, setTries] = useState(0);
     const [find, setFind] = useState(false);
     const [pic, setPic] = useState(false);
+    const [sound, setSound] = useState(false);
     //images
     const [grey, setGrey] = useState(true);
     const [blur, setBlur] = useState("6px");
@@ -61,6 +62,7 @@ function Findmode(props) {
             loadGame();
         }
         setPic(isImg(filter));
+        setSound(isSound(filter));
     }, [loading, random, props.name, props.data, props.mode, data, filter]);
 
     const submit = (index) => {
@@ -105,18 +107,27 @@ function Findmode(props) {
                         </div>
                     </span>
                     :
-                    <div style={{ display: "flex", flexDirection: "column", gap: "1em" }}>
+                    sound ?
                         <div className={`card card-${props.name}`}>
                             <h3 className="margin-no outline" style={{ marginBottom: '1em' }}>{props.desc}</h3>
-                            <h1 className="outline">{props.array ?
-                                <div style={{display: "flex"}}>
-                                    {Array.from({ length: tries + 1}, (_, i) => (
-                                        <div key={i}>{random[props.filter][i]}</div>
-                                    ))}
-                                </div> : filter}</h1>
+                            <audio controls className={`audio-${props.name}`}>
+                                <source src={filter} type="audio/ogg"></source>
+                            </audio>
                             <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
                         </div>
-                    </div>
+                        :
+                        <div style={{ display: "flex", flexDirection: "column", gap: "1em" }}>
+                            <div className={`card card-${props.name}`}>
+                                <h3 className="margin-no outline" style={{ marginBottom: '1em' }}>{props.desc}</h3>
+                                <h1 className="outline">{props.array ?
+                                    <div style={{ display: "flex" }}>
+                                        {Array.from({ length: tries + 1 }, (_, i) => (
+                                            <div key={i}>{random[props.filter][i]}</div>
+                                        ))}
+                                    </div> : filter}</h1>
+                                <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
+                            </div>
+                        </div>
             }
             <Searchbar data={data} submit={submit} name={props.name} find={find} />
             <div className="grid">

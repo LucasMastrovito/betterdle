@@ -10,13 +10,15 @@
 
 /* Taille de base responsive */
 html {
-  font-size: clamp(10px, 1vw, 14px); /* min 10px, max 14px, fluide */
+  font-size: clamp(10px, 1vw, 14px);
+  /* min 10px, max 14px, fluide */
 }
 
 /* Police globale */
 body {
   font-family: 'Inter', sans-serif;
-  font-size: 1rem; /* 1rem = font-size du html */
+  font-size: 1rem;
+  /* 1rem = font-size du html */
   line-height: 1.4;
   margin: 0;
   padding: 0;
@@ -25,23 +27,30 @@ body {
 
 /* Titres plus raisonnables */
 h1 {
-  font-size: clamp(1.5rem, 3vw, 2rem); /* ~24px max */
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  /* ~24px max */
   margin: 1rem 0;
 }
 
 h2 {
-  font-size: clamp(1.25rem, 2.5vw, 1.5rem); /* ~20px max */
+  font-size: clamp(1.25rem, 2.5vw, 1.5rem);
+  /* ~20px max */
   margin: 0.8rem 0;
 }
 
 h3 {
-  font-size: clamp(1.1rem, 2vw, 1.25rem); /* ~16px max */
+  font-size: clamp(1.1rem, 2vw, 1.25rem);
+  /* ~16px max */
   margin: 0.5rem 0;
 }
 
 /* Paragraphes et texte normal */
-p, span, li, a {
-  font-size: 1rem; /* suit la base du html */
+p,
+span,
+li,
+a {
+  font-size: 1rem;
+  /* suit la base du html */
 }
 
 /* Pour très petits écrans */
@@ -52,7 +61,8 @@ p, span, li, a {
 }
 
 
-header, body {
+header,
+body {
   background-color: #282c34;
 }
 
@@ -69,10 +79,12 @@ p {
 
 .card {
   position: relative;
+  align-self: center;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  max-width: 1000px;
   min-width: 25%;
   background-color: #33415eb7;
   backdrop-filter: blur(8px);
@@ -83,22 +95,22 @@ p {
 }
 
 .modal {
-    background-color: rgb(209, 212, 214);
-    padding: 0.5rem;
-    border: 2px solid black;
-    border-radius: 8px;
-    width: 20vw;
-    max-width: 90%;
-    max-height: 90%;
-    box-shadow: 0 4px 10px rgba(109, 109, 109, 0.3);
-    overflow-y: auto;
+  background-color: rgb(209, 212, 214);
+  padding: 0.5rem;
+  border: 2px solid black;
+  border-radius: 8px;
+  width: 20vw;
+  max-width: 90%;
+  max-height: 90%;
+  box-shadow: 0 4px 10px rgba(109, 109, 109, 0.3);
+  overflow-y: auto;
 }
 
 @media (max-width: 1000px) {
   .modal {
-        width: 50vw;
-    }
-  
+    width: 50vw;
+  }
+
   .card {
     max-width: 90%;
   }
@@ -141,10 +153,10 @@ button:hover {
 
 .outline {
   text-shadow:
-    -1px -1px 0 black,  
-     1px -1px 0 black,
-    -1px  1px 0 black,
-     1px  1px 0 black;
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
 }
 
 .logo {
@@ -160,80 +172,77 @@ button:hover {
   overflow: hidden;
 }
 
-::-webkit-scrollbar-track
-{
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-	border-radius: 10px;
-	background-color: #F5F5F5;
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: #F5F5F5;
 }
 
-::-webkit-scrollbar
-{
-	width: 12px;
-	background-color: #f5f5f500;
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: #f5f5f500;
 }
 
-::-webkit-scrollbar-thumb
-{
-	border-radius: 10px;
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-	background-color: #555;
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+  background-color: #555;
 }
 
-/* From Uiverse.io by TimTrayler */ 
+/* From Uiverse.io by TimTrayler */
 .switch {
- --secondary-container: #394b4a;
- --primary: #84dacc;
- font-size: 17px;
- position: relative;
- display: inline-block;
- width: 3.7em;
- height: 1.8em;
+  --secondary-container: #394b4a;
+  --primary: #84dacc;
+  font-size: 17px;
+  position: relative;
+  display: inline-block;
+  width: 3.7em;
+  height: 1.8em;
 }
 
 .switch input {
- display: none;
- opacity: 0;
- width: 0;
- height: 0;
+  display: none;
+  opacity: 0;
+  width: 0;
+  height: 0;
 }
 
 .slider {
- position: absolute;
- cursor: pointer;
- top: 0;
- left: 0;
- right: 0;
- bottom: 0;
- background-color: #313033;
- transition: .2s;
- border-radius: 30px;
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #313033;
+  transition: .2s;
+  border-radius: 30px;
 }
 
 .slider:before {
- position: absolute;
- content: "";
- height: 80%;
- width: 50%;
- border-radius: 20px;
- left: 0.2em;
- bottom: 0.2em;
- background-color: #aeaaae;
- transition: .4s;
+  position: absolute;
+  content: "";
+  height: 80%;
+  width: 50%;
+  border-radius: 20px;
+  left: 0.2em;
+  bottom: 0.2em;
+  background-color: #aeaaae;
+  transition: .4s;
 }
 
-input:checked + .slider::before {
- background-color: var(--primary);
+input:checked+.slider::before {
+  background-color: var(--primary);
 }
 
-input:checked + .slider {
- background-color: var(--secondary-container);
+input:checked+.slider {
+  background-color: var(--secondary-container);
 }
 
-input:focus + .slider {
- box-shadow: 0 0 1px var(--secondary-container);
+input:focus+.slider {
+  box-shadow: 0 0 1px var(--secondary-container);
 }
 
-input:checked + .slider:before {
- transform: translateX(1.9em);
+input:checked+.slider:before {
+  transform: translateX(1.9em);
 }

@@ -1,0 +1,39 @@
+[
+    {
+        "key" : "image_url",
+        "title" : "Pokemon",
+        "type" : "none"
+    },
+    {
+        "key" : "gen",
+        "title" : "Gen",
+        "type" : "order",
+        "order": [ "1G", "2G", "3G", "4G", "5G", "6G", "7G", "8G", "9G"]
+    },
+    {
+        "key" : "types",
+        "title" : "Types",
+        "type" : "equal"
+    },
+    {
+        "key" : "evolution_stage",
+        "title" : "Stage",
+        "type" : "order",
+        "order": [ "Base", "1", "2"]
+    },
+    {
+        "key" : "colors",
+        "title" : "Colors",
+        "type" : "equal"
+    },
+    {
+        "key" : "weight",
+        "title" : "Weight",
+        "type" : "number"
+    },
+    {
+        "key" : "height",
+        "title" : "Height",
+        "type" : "number"
+    }
+]

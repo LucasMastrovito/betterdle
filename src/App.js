@@ -10,6 +10,7 @@ import Lol from './pages/lol';
 import Gacha from './pages/gacha';
 import Sonic from './pages/sonic';
 import Valorant from './pages/valorant';
+import Pokemon from './pages/pokemon';
 
 function App() {
   useEffect(() => {
@@ -36,6 +37,7 @@ function App() {
           <Route path='/sw' element={<Sw />} />
           <Route path='/gacha' element={<Gacha />} />
           <Route path='/sonic' element={<Sonic />} />
+          <Route path='/pokemon' element={<Pokemon />} />
         </Routes>
       </BrowserRouter>
     </div>

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: pokemon;
+    src: url("../assets/fonts/Minecraftia-Regular.ttf");
+}
+
+:root {
+    --pkm-bg: #F8F6D7;
+    --pkm-btn: #E0E0E0;
+    --pkm-border: #484848;
+}
+
+.dle-pokemon {
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 70%), url("../assets/pokemon-bg.jpg");
+    font-family: pokemon;
+}
+
+.audio-pokemon::-webkit-media-controls-panel {
+  background-color: #E0E0E0;
+}
+
+.card-pokemon {
+    background-color: var(--pkm-bg);
+    border: 6px solid var(--pkm-border);
+    border-radius: 0%;
+}
+
+.submit-pokemon {
+    background-color: var(--pkm-bg);
+}
+.submit-pokemon:hover {
+    background-color: #ececec;
+}
+
+.submit-pokemon input {
+    color: black;
+}
+
+.btn-pokemon {
+    background-color: var(--pkm-btn);
+    border-color: var(--pkm-border);
+    color: black;
+}
+
+.btn-pokemon:hover {
+    background-color: #d0d0d0;
+}
+
+.img-container-pokemon {
+    border: 3px solid var(--pkm-border);
+}

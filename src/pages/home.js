@@ -18,11 +18,12 @@ function Home() {
                 <Dlelist
                     name="videogames"
                     buttons={[
-                        <Dlebtn key={1} link={'/lol'} logo='lol' />,
-                        <Dlebtn key={2} link={'/valorant'} logo='valorant' />,
-                        <Dlebtn key={3} link={'/sw'} logo='sw' />,
-                        <Dlebtn key={4} link={'/gacha'} logo='gacha' />,
-                        <Dlebtn key={5} link={'/sonic'} logo='sonic' />
+                        <Dlebtn key={1} link={'/pokemon'} logo='pokemon' />,
+                        <Dlebtn key={2} link={'/lol'} logo='lol' />,
+                        <Dlebtn key={3} link={'/valorant'} logo='valorant' />,
+                        <Dlebtn key={4} link={'/sw'} logo='sw' />,
+                        <Dlebtn key={5} link={'/gacha'} logo='gacha' />,
+                        <Dlebtn key={6} link={'/sonic'} logo='sonic' />
                     ]}
                 />
             </div>
