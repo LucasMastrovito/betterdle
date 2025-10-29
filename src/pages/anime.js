@@ -20,9 +20,9 @@ function Anime() {
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily anime character" name="anime" menu={true} buttons={buttons} />,
         <Classic key={'classic'} name={"anime"} mode="classic" desc={"Find the daily anime character"} data={data} fields={fields} first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
-        <Findmode key={'technique'} name={"anime"} mode="technique" desc={"Who uses this technique?"} data={filterByField(data, "technique")} filter="technique" />,
-        <Findmode key={'emoji'} name={"anime"} mode="emoji" desc={"Guess from emojis"} data={data} filter="emoji" array={true} />,
-        <Findmode key={'quote'} name={"anime"} mode="quote" desc={"Who said that?"} data={data} filter="quote" />,
+        <Findmode key={'technique'} name={"anime"} mode="technique" desc={"Who uses this technique?"} data={filterByField(data, "technique")} filter="technique" first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
+        <Findmode key={'emoji'} name={"anime"} mode="emoji" desc={"Guess from emojis"} data={data} filter="emoji" array={true} first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
+        <Findmode key={'quote'} name={"anime"} mode="quote" desc={"Who said that?"} data={data} filter="quote" first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
         <Findmode key={'picture'} name={"anime"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
     ];
 
