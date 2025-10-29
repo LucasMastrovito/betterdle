@@ -4,7 +4,8 @@
 }
 
 :root {
-    --pkm-bg: #F8F6D7;
+    --pkm-bg: #FF0000;
+    --pkm-submit: #F8F6D7;
     --pkm-btn: #E0E0E0;
     --pkm-border: #484848;
 }
@@ -25,7 +26,7 @@
 }
 
 .submit-pokemon {
-    background-color: var(--pkm-bg);
+    background-color: var(--pkm-submit);
 }
 .submit-pokemon:hover {
     background-color: #ececec;
