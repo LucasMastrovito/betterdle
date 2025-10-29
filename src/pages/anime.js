@@ -1,11 +1,9 @@
-import data from "../json/anime_characters.json";
 import fields from "../json/anime_fields.json";
 import Classic from "../components/classic/classic";
 import Findmode from "../components/findmode/findmode";
 import Dlemenu from "../components/dle/dlemenu";
 import Dlemenubtn from "../components/dle/dlemenubtn";
 import Dle from "../components/dle/dle";
-import { filterByField } from "../components/utils/getrandom";
 
 
 function Anime() {
@@ -19,11 +17,11 @@ function Anime() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily anime character" name="anime" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"anime"} mode="classic" desc={"Find the daily anime character"} data={data} fields={fields} first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
-        <Findmode key={'technique'} name={"anime"} mode="technique" desc={"Who uses this technique?"} data={filterByField(data, "technique")} filter="technique" first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
-        <Findmode key={'emoji'} name={"anime"} mode="emoji" desc={"Guess from emojis"} data={data} filter="emoji" array={true} first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
-        <Findmode key={'quote'} name={"anime"} mode="quote" desc={"Who said that?"} data={data} filter="quote" first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
-        <Findmode key={'picture'} name={"anime"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
+        <Classic key={'classic'} name={"anime"} mode="classic" desc={"Find the daily anime character"} fields={fields} first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
+        <Findmode key={'technique'} name={"anime"} mode="technique" desc={"Who uses this technique?"} filter="technique" first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
+        <Findmode key={'emoji'} name={"anime"} mode="emoji" desc={"Guess from emojis"} filter="emoji" array={true} first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
+        <Findmode key={'quote'} name={"anime"} mode="quote" desc={"Who said that?"} filter="quote" first_tips={{name: "Year", key: "year"}} second_tips={{name: "Anime", key: "anime"}} />,
+        <Findmode key={'picture'} name={"anime"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
     return (

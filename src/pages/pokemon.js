@@ -1,4 +1,3 @@
-import data from "../json/pokemon_characters.json";
 import fields from "../json/pokemon_fields.json";
 import Classic from "../components/classic/classic";
 import Findmode from "../components/findmode/findmode";
@@ -16,11 +15,11 @@ function Pokemon() {
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} title="Guess the daily anime character" name="anime" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"pokemon"} mode="classic" desc={"Find the daily Pokemon"} data={data} fields={fields} first_tips={{ name: "Year", key: "year" }} second_tips={{ name: "Anime", key: "anime" }} />,
-        <Findmode key={'description'} name={"pokemon"} mode="description" desc={"Guess from the Pokedex description"} data={data} filter="description" />,
-        <Findmode key={'cries'} name={"pokemon"} mode="cries" desc={"Guess from the Pokemon's cries"} data={data} filter="cry" first_tips={{ name: "Types", key: "types" }} second_tips={{ name: "", key: "anime" }} />,
-        <Findmode key={'picture'} name={"pokemon"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
+        <Dlemenu key={'menu'} title="Guess the daily anime character" name="pokemon" menu={true} buttons={buttons} />,
+        <Classic key={'classic'} name={"pokemon"} mode="classic" desc={"Find the daily Pokemon"} fields={fields} first_tips={{ name: "Year", key: "year" }} second_tips={{ name: "Anime", key: "anime" }} />,
+        <Findmode key={'description'} name={"pokemon"} mode="description" desc={"Guess from the Pokedex description"} filter="description" />,
+        <Findmode key={'cries'} name={"pokemon"} mode="cries" desc={"Guess from the Pokemon's cries"} filter="cry" first_tips={{ name: "Types", key: "types" }} second_tips={{ name: "", key: "anime" }} />,
+        <Findmode key={'picture'} name={"pokemon"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
     return (

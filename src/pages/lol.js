@@ -1,4 +1,3 @@
-import data from "../json/lol_characters.json";
 import fields from "../json/lol_fields.json";
 import Classic from "../components/classic/classic";
 import Findmode from "../components/findmode/findmode";
@@ -17,11 +16,11 @@ function Lol() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily champion" name="lol" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"lol"} mode="classic" desc={"Find the daily champion"} data={data} fields={fields} first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
-        <Findmode key={'title'} name={"lol"} mode="title" desc={"Which champion holds this title?"} data={data} filter="title" first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
-        <Findmode key={'ability'} name={"lol"} mode="ability" desc={"Which champion has this ability?"} data={data} filter="abilities" />,
-        <Findmode key={'quote'} name={"lol"} mode="quote" desc={"Which champion said this quote?"} data={data} filter="quotes" first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
-        <Findmode key={'picture'} name={"lol"} mode="picture" desc={"Which champion does this skin belong to?"} data={data} filter="skins" />
+        <Classic key={'classic'} name={"lol"} mode="classic" desc={"Find the daily champion"} fields={fields} first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
+        <Findmode key={'title'} name={"lol"} mode="title" desc={"Which champion holds this title?"} filter="title" first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
+        <Findmode key={'ability'} name={"lol"} mode="ability" desc={"Which champion has this ability?"} filter="abilities" />,
+        <Findmode key={'quote'} name={"lol"} mode="quote" desc={"Which champion said this quote?"} filter="quotes" first_tips={{ name: "Class", key: "class" }} second_tips={{ name: "Regions", key: "regions" }} />,
+        <Findmode key={'picture'} name={"lol"} mode="picture" desc={"Which champion does this skin belong to?"} filter="skins" />
     ];
 
     return (

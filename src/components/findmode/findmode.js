@@ -58,11 +58,12 @@ function Findmode(props) {
             setLoading(false);
             setData(dataBuffer);
         }
-        if (loading && random) {
+        if (data && loading && random) {
+            console.log(props.filter)
+            setPic(isImg(filter));
+            setSound(isSound(filter));
             loadGame();
         }
-        setPic(isImg(filter));
-        setSound(isSound(filter));
     }, [loading, random, props.name, props.data, props.mode, data, filter]);
 
     const submit = (index) => {

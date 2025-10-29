@@ -55,7 +55,7 @@ function Classic(props) {
       setLoading(false);
       setData(dataBuffer);
     }
-    if (loading && random) {
+    if (data && loading && random) {
       loadGame();
     }
   }, [loading, random, props.name, props.data, props.mode, data, fields]);
@@ -93,7 +93,7 @@ function Classic(props) {
         </div>
         {rows}
       </div>
-      <h2 className="outline" style={{color: "white"}}>Yesterday, the character was <span style={{color: "#ffbc2aff", fontSize: "large"}}>{yesterday.name}</span> !</h2>
+      <h2 className="outline" style={{ color: "white" }}>Yesterday, the character was <span style={{ color: "#ffbc2aff", fontSize: "large" }}>{yesterday.name}</span> !</h2>
       <Indicator name={props.name} />
       {find ? <Win data={random} tries={tries} delay="5s"></Win> : <span></span>}
     </div>

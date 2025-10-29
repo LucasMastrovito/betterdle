@@ -5,6 +5,11 @@
         "type" : "none"
     },
     {
+        "key" : "id",
+        "title" : "N°",
+        "type" : "number"
+    },
+    {
         "key" : "gen",
         "title" : "Gen",
         "type" : "order",

@@ -1,4 +1,3 @@
-import data from "../json/sw_characters.json";
 import fields from "../json/sw_fields.json";
 import Classic from "../components/classic/classic";
 import Findmode from "../components/findmode/findmode";
@@ -13,9 +12,9 @@ function Sw() {
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} title="Guess the daily monster" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"sw"} mode="classic" desc={"Find the daily monster"} data={data} fields={fields} first_tips={{ name: "Type", key: "type" }} second_tips={{ name: "Family", key: "family" }} />,
-        <Findmode key={'picture'} name={"sw"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
+        <Dlemenu key={'menu'} title="Guess the daily monster" name="sw" menu={true} buttons={buttons} />,
+        <Classic key={'classic'} name={"sw"} mode="classic" desc={"Find the daily monster"} fields={fields} first_tips={{ name: "Type", key: "type" }} second_tips={{ name: "Family", key: "family" }} />,
+        <Findmode key={'picture'} name={"sw"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
     return (

@@ -1,4 +1,3 @@
-import data from "../json/sonic_characters.json";
 import fields from "../json/sonic_fields.json";
 import Classic from "../components/classic/classic";
 import Findmode from "../components/findmode/findmode";
@@ -14,9 +13,9 @@ function Sonic() {
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} title="Guess the daily sonic character" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"sonic"} mode="classic" desc={"Find the daily character"} data={data} fields={fields} first_tips={{name: "Age", key: "age"}} second_tips={{name: "Affiliation", key: "affiliation"}} />,
-        <Findmode key={'picture'} name={"sonic"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
+        <Dlemenu key={'menu'} title="Guess the daily sonic character" name="sonic" menu={true} buttons={buttons} />,
+        <Classic key={'classic'} name={"sonic"} mode="classic" desc={"Find the daily character"} fields={fields} first_tips={{name: "Age", key: "age"}} second_tips={{name: "Affiliation", key: "affiliation"}} />,
+        <Findmode key={'picture'} name={"sonic"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
     return (

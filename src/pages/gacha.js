@@ -1,4 +1,3 @@
-import data from "../json/gacha_characters.json";
 import fields from "../json/gacha_fields.json";
 import Classic from "../components/classic/classic";
 import Findmode from "../components/findmode/findmode";
@@ -14,9 +13,9 @@ function Gacha() {
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} title="Guess the daily gacha character" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"gacha"} mode="classic" desc={"Find the daily character"} data={data} fields={fields} first_tips={{name: "Release Date", key: "release_date"}} second_tips={{name: "Region", key: "region"}} />,
-        <Findmode key={'picture'} name={"gacha"} mode="picture" desc={"Guess from a filtered image"} data={data} filter="image_url" />
+        <Dlemenu key={'menu'} title="Guess the daily gacha character" name="gacha" menu={true} buttons={buttons} />,
+        <Classic key={'classic'} name={"gacha"} mode="classic" desc={"Find the daily character"} fields={fields} first_tips={{name: "Release Date", key: "release_date"}} second_tips={{name: "Region", key: "region"}} />,
+        <Findmode key={'picture'} name={"gacha"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
     return (
