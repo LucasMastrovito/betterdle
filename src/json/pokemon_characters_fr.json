@@ -2295,7 +2295,7 @@
     "height": 2,
     "weight": 20,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
-    "description": "Il mange des cactus en prenant soin d’éviter les bourgeons et les épines. Il ne tient pas en place. ",
+    "description": "Il mange des cactus en prenant soin d’éviter les bourgeons et les épines. Il ne tient pas en place.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/177.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -2321,7 +2321,7 @@
     "height": 6,
     "weight": 78,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
-    "description": "Sa laine fournie enfle lorsqu’il accumule de l’électricité statique. Son contact peut choquer. ",
+    "description": "Sa laine fournie enfle lorsqu’il accumule de l’électricité statique. Son contact peut choquer.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/179.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -11681,7 +11681,7 @@
     "height": 18,
     "weight": 951,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-    "description": null,
+    "description": "Les orbes noirs brillent d'une lumière étrange lorsque le Pokémon érige des barrières invisibles. La fourrure laissée par sa barbe retient bien la chaleur et constitue un matériau très utile pour les vêtements d'hiver.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/899.ogg",
     "colors": "Gris",
     "evolution_stage": "1"
@@ -11694,7 +11694,7 @@
     "height": 18,
     "weight": 890,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
-    "description": null,
+    "description": "Une créature violente qui abat des arbres imposants avec ses haches rudimentaires et se protège avec de la pierre dure. Si l'on tombe par hasard sur ce Pokémon dans la nature, le seul recours est de fuir.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/900.ogg",
     "colors": "Marron",
     "evolution_stage": "1"
@@ -11707,7 +11707,7 @@
     "height": 24,
     "weight": 2900,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-    "description": null,
+    "description": "Je crois que c'est le terrain marécageux d'Hisui qui a donné à Ursaking son physique robuste et sa nouvelle capacité à manipuler la tourbe à volonté.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/901.ogg",
     "colors": "Marron",
     "evolution_stage": "2"
@@ -11720,7 +11720,7 @@
     "height": 30,
     "weight": 1100,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-    "description": null,
+    "description": "S'habille de l'âme des camarades qui ont péri avant d'avoir atteint leur objectif de voyage en amont. Aucune autre espèce dans toutes les rivières d'Hisui n'est égale à Paragruel.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/902.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -11733,7 +11733,7 @@
     "height": 13,
     "weight": 430,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
-    "description": null,
+    "description": "En raison du poison virulent de Farfurex et de ses prouesses physiques redoutables, aucune autre espèce ne pouvait espérer le battre sur les hautes terres gelées. Préférant la solitude, cette espèce ne forme pas de meute.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/903.ogg",
     "colors": "Gris",
     "evolution_stage": "1"
@@ -11746,7 +11746,7 @@
     "height": 25,
     "weight": 605,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
-    "description": null,
+    "description": "Ses pointes en forme de lance et son tempérament sauvage lui ont valu le surnom de « démon de la mer ». Il aspire du poison pour se nourrir.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/904.ogg",
     "colors": "Noir",
     "evolution_stage": "1"
@@ -11759,7 +11759,7 @@
     "height": 16,
     "weight": 480,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
-    "description": null,
+    "description": "Lorsqu’il vole vers cette terre depuis l’autre côté de la mer, l’hiver rigoureux touche à sa fin. Selon la légende, l'amour de ce Pokémon donne naissance à une nouvelle vie à travers Hisui.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/905.ogg",
     "colors": "Rose",
     "evolution_stage": "Base"
@@ -11772,7 +11772,7 @@
     "height": 4,
     "weight": 41,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
-    "description": null,
+    "description": "Sa fourrure duveteuse est de composition similaire à celle des plantes. Ce Pokémon se lave fréquemment le visage pour l'empêcher de se dessécher.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/906.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -11785,7 +11785,7 @@
     "height": 9,
     "weight": 122,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-    "description": null,
+    "description": "Floragato manie adroitement la vigne cachée sous sa longue fourrure, frappant le bouton floral dur contre ses adversaires.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/907.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -11798,7 +11798,7 @@
     "height": 15,
     "weight": 312,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
-    "description": null,
+    "description": "Ce Pokémon utilise la fourrure réfléchissante qui recouvre sa cape pour camoufler la tige de sa fleur, créant l'illusion que la fleur flotte.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/908.ogg",
     "colors": "Vert",
     "evolution_stage": "2"
@@ -11811,7 +11811,7 @@
     "height": 4,
     "weight": 98,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
-    "description": null,
+    "description": "Il repose sur des roches chaudes et utilise la chaleur absorbée par ses écailles carrées pour créer de l'énergie du feu.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/909.ogg",
     "colors": "Rouge",
     "evolution_stage": "Base"
@@ -11824,7 +11824,7 @@
     "height": 10,
     "weight": 307,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
-    "description": null,
+    "description": "La combinaison de l’énergie du feu de Crocalor et de sa vitalité débordante a fait apparaître une boule de feu en forme d’œuf sur la tête du Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/910.ogg",
     "colors": "Rouge",
     "evolution_stage": "1"
@@ -11837,7 +11837,7 @@
     "height": 16,
     "weight": 3265,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
-    "description": null,
+    "description": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/911.ogg",
     "colors": "Rouge",
     "evolution_stage": "2"
@@ -11850,7 +11850,7 @@
     "height": 5,
     "weight": 61,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
-    "description": null,
+    "description": "Ce Pokémon a migré vers Paldea depuis des terres lointaines il y a longtemps. Le gel sécrété par ses plumes repousse l'eau et la crasse.\"",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/912.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -11863,7 +11863,7 @@
     "height": 12,
     "weight": 215,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-    "description": null,
+    "description": "Ces Pokémon courent constamment dans des eaux peu profondes pour entraîner leurs jambes, puis s'affrontent pour voir lequel d'entre eux donne le plus de coups de pied.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/913.ogg",
     "colors": "Bleu",
     "evolution_stage": "1"
@@ -11876,7 +11876,7 @@
     "height": 18,
     "weight": 619,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-    "description": null,
+    "description": "Un simple coup de pied d'un Quaquaval peut faire rouler un camion. Ce Pokémon utilise ses pattes puissantes pour exécuter des danses saisissantes venues de contrées lointaines.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/914.ogg",
     "colors": "Bleu",
     "evolution_stage": "2"
@@ -11889,7 +11889,7 @@
     "height": 5,
     "weight": 102,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
-    "description": null,
+    "description": "Il cherche de la nourriture toute la journée. Il possède un odorat aiguisé mais ne l’utilise que pour se nourrir.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/915.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -11902,7 +11902,7 @@
     "height": 10,
     "weight": 1200,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-    "description": null,
+    "description": "Oinkologne est fière de sa peau fine et brillante. Il dégage une odeur concentrée du bout de sa queue.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/916.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -11915,7 +11915,7 @@
     "height": 3,
     "weight": 40,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
-    "description": null,
+    "description": "La pelote de fils enroulée autour de son corps est suffisamment élastique pour dévier les faux de Scyther, l'ennemi naturel de ce Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/917.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -11928,7 +11928,7 @@
     "height": 10,
     "weight": 165,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-    "description": null,
+    "description": "Il s'accroche aux branches et aux plafonds grâce à ses fils et se déplace sans bruit. Il élimine sa proie avant même qu’elle ne s’en aperçoive.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/918.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -11941,7 +11941,7 @@
     "height": 2,
     "weight": 10,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-    "description": null,
+    "description": "Il a sa troisième paire de pattes repliées. Lorsqu’il se trouve dans une situation difficile, ce Pokémon saute à plus de 9 mètres en utilisant la force de ses pattes.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/919.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -11954,7 +11954,7 @@
     "height": 10,
     "weight": 175,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
-    "description": null,
+    "description": "Lorsqu'il décide de se battre à fond, il se tient sur ses jambes préalablement repliées pour passer en mode Showdown. Il neutralise ses ennemis en peu de temps.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/920.ogg",
     "colors": "Gris",
     "evolution_stage": "1"
@@ -11967,7 +11967,7 @@
     "height": 3,
     "weight": 25,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
-    "description": null,
+    "description": "Il a des sacs électriques sous-développés sur ses joues. Ces sacs ne peuvent produire de l'électricité que si Pawmi les frotte furieusement avec les coussinets de ses pattes antérieures.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/921.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -11980,7 +11980,7 @@
     "height": 4,
     "weight": 65,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
-    "description": null,
+    "description": "Lorsque son groupe est attaqué, Pawmo est le premier à se lancer dans la bataille, battant les ennemis grâce à une technique de combat utilisant des décharges électriques.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/922.ogg",
     "colors": "Jaune",
     "evolution_stage": "1"
@@ -11993,7 +11993,7 @@
     "height": 9,
     "weight": 410,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-    "description": null,
+    "description": "Ce Pokémon est normalement lent à réagir, mais une fois entré en combat, il frappera ses ennemis avec des mouvements ultra-rapides.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/923.ogg",
     "colors": "Jaune",
     "evolution_stage": "2"
@@ -12006,7 +12006,7 @@
     "height": 3,
     "weight": 18,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
-    "description": null,
+    "description": "Faisant preuve d'un excellent travail d'équipe, ils utilisent leurs incisives pour découper des morceaux de tout matériau susceptible d'être utile pour un nid, puis s'enfuient avec eux.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/924.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -12019,7 +12019,7 @@
     "height": 3,
     "weight": 23,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
-    "description": null,
+    "description": "Les deux petits sont apparus un jour. Le groupe pourrait être une famille de Pokémon apparentés, mais personne ne le sait avec certitude.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/925.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -12032,7 +12032,7 @@
     "height": 3,
     "weight": 109,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
-    "description": null,
+    "description": "Ce Pokémon est lisse et humide au toucher. La levure présente dans l'haleine de Fidough induit une fermentation à proximité du Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/926.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -12045,7 +12045,7 @@
     "height": 5,
     "weight": 149,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
-    "description": null,
+    "description": "L'arôme agréable qui émane du corps de ce Pokémon aide le blé à pousser, c'est pourquoi Dachsbun est un trésor apprécié des villages agricoles.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/927.ogg",
     "colors": "Marron",
     "evolution_stage": "1"
@@ -12058,7 +12058,7 @@
     "height": 3,
     "weight": 65,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
-    "description": null,
+    "description": "Il se protège des ennemis en émettant de l'huile du fruit sur sa tête. Cette huile est suffisamment amère et astringente pour faire tressaillir quelqu’un.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/928.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -12071,7 +12071,7 @@
     "height": 6,
     "weight": 119,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
-    "description": null,
+    "description": "Dolliv partage son huile savoureuse et fraîchement parfumée avec d'autres. Cette espèce coexiste avec les humains depuis des temps anciens.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/929.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -12084,7 +12084,7 @@
     "height": 14,
     "weight": 482,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
-    "description": null,
+    "description": "Ce Pokémon calme est très compatissant. Il partagera sa délicieuse huile riche en nutriments avec les Pokémon affaiblis.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/930.ogg",
     "colors": "Vert",
     "evolution_stage": "2"
@@ -12097,7 +12097,7 @@
     "height": 6,
     "weight": 24,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
-    "description": null,
+    "description": "Ces Pokémon préfèrent vivre en ville. Ils forment des troupeaux en fonction de la couleur de leurs plumes et se battent pour le territoire.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/931.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -12110,7 +12110,7 @@
     "height": 4,
     "weight": 160,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
-    "description": null,
+    "description": "Il est né dans une couche de sel gemme profondément sous terre. Cette espèce était particulièrement appréciée autrefois, car elle partageait un précieux sel.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/932.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -12123,7 +12123,7 @@
     "height": 6,
     "weight": 1050,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
-    "description": null,
+    "description": "Ce Pokémon guérit à sec ses proies en les aspergeant de sel. Le processus de guérison enlève l’eau présente dans le corps de la proie.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/933.ogg",
     "colors": "Marron",
     "evolution_stage": "1"
@@ -12136,7 +12136,7 @@
     "height": 23,
     "weight": 2400,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
-    "description": null,
+    "description": "Garganacl frottera le bout de ses doigts et saupoudrera de sel les Pokémon blessés. Même les blessures graves guérissent rapidement par la suite.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/934.ogg",
     "colors": "Marron",
     "evolution_stage": "2"
@@ -12149,7 +12149,7 @@
     "height": 6,
     "weight": 105,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
-    "description": null,
+    "description": "Le charbon de bois brûlé a pris vie et est devenu un Pokémon. Possédant un esprit combatif fougueux, Charcadet affrontera même des adversaires coriaces.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/935.ogg",
     "colors": "Rouge",
     "evolution_stage": "Base"
@@ -12162,7 +12162,7 @@
     "height": 15,
     "weight": 850,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-    "description": null,
+    "description": "Armarouge a évolué grâce à l'utilisation d'un ensemble d'armures ayant appartenu à un guerrier distingué. Ce Pokémon est incroyablement fidèle.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/936.ogg",
     "colors": "Rouge",
     "evolution_stage": "1"
@@ -12175,7 +12175,7 @@
     "height": 16,
     "weight": 620,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-    "description": null,
+    "description": "Les lames enflammées sur ses bras brûlent férocement du ressentiment persistant d'un porteur d'épée qui est tombé avant d'avoir atteint son objectif.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/937.ogg",
     "colors": "Bleu",
     "evolution_stage": "1"
@@ -12188,7 +12188,7 @@
     "height": 3,
     "weight": 4,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
-    "description": null,
+    "description": "Tadbulb secoue sa queue pour produire de l'électricité. S'il détecte un danger, il fera clignoter sa tête pour alerter ses alliés.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/938.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -12201,7 +12201,7 @@
     "height": 12,
     "weight": 1130,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-    "description": null,
+    "description": "Lorsque ce Pokémon dilate et contracte son corps bancal, la dynamo du nombril située dans son estomac produit une énorme quantité d'électricité.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/939.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -12214,7 +12214,7 @@
     "height": 4,
     "weight": 36,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
-    "description": null,
+    "description": "Lorsque ses ailes captent le vent, les os qu’il contient produisent de l’électricité. Ce Pokémon plonge dans l'océan et attrape ses proies en les électrocutant.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/940.ogg",
     "colors": "Noir",
     "evolution_stage": "Base"
@@ -12227,7 +12227,7 @@
     "height": 14,
     "weight": 386,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
-    "description": null,
+    "description": "Kilowattrel gonfle son sac de gorge pour amplifier son électricité. En chevauchant le vent, ce Pokémon peut parcourir plus de 430 milles en une journée.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/941.ogg",
     "colors": "Jaune",
     "evolution_stage": "1"
@@ -12240,7 +12240,7 @@
     "height": 5,
     "weight": 160,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
-    "description": null,
+    "description": "Il se renfrogne toujours pour tenter de convaincre ses adversaires de le prendre au sérieux, mais même les enfants qui pleurent éclateront de rire en voyant le visage de Maschiff.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/942.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -12253,7 +12253,7 @@
     "height": 11,
     "weight": 610,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
-    "description": null,
+    "description": "Ce Pokémon peut stocker de l'énergie dans son grand fanon. Mabosstiff libère cette énergie d'un seul coup pour faire exploser les ennemis.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/943.ogg",
     "colors": "Gris",
     "evolution_stage": "1"
@@ -12266,7 +12266,7 @@
     "height": 2,
     "weight": 7,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
-    "description": null,
+    "description": "Bien qu'il soit généralement un Pokémon doux, il enfoncera ses dents de devant acérées et imbibées de poison dans tous ceux qui le mettent en colère, provoquant la paralysie de l'objet de sa colère.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/944.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12279,7 +12279,7 @@
     "height": 7,
     "weight": 272,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
-    "description": null,
+    "description": "La couleur de la salive venimeuse dépend de ce que mange le Pokémon. Grafaiai se couvre les doigts de sa salive et dessine des motifs sur les arbres des forêts.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/945.ogg",
     "colors": "Gris",
     "evolution_stage": "1"
@@ -12292,7 +12292,7 @@
     "height": 6,
     "weight": 6,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-    "description": null,
+    "description": "Une âme incapable de passer à l'au-delà a été emportée par le vent jusqu'à ce qu'elle s'emmêle dans l'herbe séchée et devienne un Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/946.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -12305,7 +12305,7 @@
     "height": 12,
     "weight": 60,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
-    "description": null,
+    "description": "Il ouvrira les branches de sa tête pour envelopper sa proie. Une fois qu’il a absorbé toute l’énergie vitale dont il a besoin, il expulse la proie et la rejette.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/947.ogg",
     "colors": "Marron",
     "evolution_stage": "1"
@@ -12318,7 +12318,7 @@
     "height": 9,
     "weight": 330,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-    "description": null,
+    "description": "Toedscool vit dans les forêts humides. Les lambeaux qui tombent de son corps sont moelleux et très délicieux.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/948.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -12331,7 +12331,7 @@
     "height": 19,
     "weight": 580,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
-    "description": null,
+    "description": "Ces Pokémon se rassemblent en groupes et forment des colonies au cœur des forêts. Ils détestent absolument que des étrangers approchent.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/949.ogg",
     "colors": "Noir",
     "evolution_stage": "1"
@@ -12344,7 +12344,7 @@
     "height": 13,
     "weight": 790,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
-    "description": null,
+    "description": "Klawf est suspendu la tête en bas aux falaises, attendant sa proie. Mais Klawf ne peut pas rester longtemps dans cette position car son sang lui monte à la tête.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/950.ogg",
     "colors": "Rouge",
     "evolution_stage": "Base"
@@ -12357,7 +12357,7 @@
     "height": 3,
     "weight": 30,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
-    "description": null,
+    "description": "Plus ce Pokémon baigne dans la lumière du soleil, plus son corps produit de produits chimiques épicés, et donc plus ses mouvements deviennent épicés.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/951.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -12370,7 +12370,7 @@
     "height": 9,
     "weight": 150,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
-    "description": null,
+    "description": "La tête rouge convertit les produits chimiques épicés en énergie de feu et fait exploser la zone environnante avec un jet de flammes super épicé.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/952.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -12383,7 +12383,7 @@
     "height": 2,
     "weight": 10,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
-    "description": null,
+    "description": "Ce Pokémon crée une boule de boue en mélangeant du sable et de la terre avec de l'énergie psychique. Il chérit sa boule de boue plus que sa propre vie.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/953.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -12396,7 +12396,7 @@
     "height": 3,
     "weight": 35,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
-    "description": null,
+    "description": "Le corps qui supporte le ballon bouge à peine. On pense donc que le véritable corps de ce Pokémon se trouve en réalité à l’intérieur de la balle.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/954.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -12409,7 +12409,7 @@
     "height": 2,
     "weight": 15,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
-    "description": null,
+    "description": "Les orteils de Flittle lévitent à environ un demi-pouce au-dessus du sol en raison du pouvoir psychique émis par les volants sur le ventre du Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/955.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -12422,7 +12422,7 @@
     "height": 19,
     "weight": 900,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
-    "description": null,
+    "description": "Il immobilise ses adversaires en les baignant dans le pouvoir psychique de ses grands yeux. Malgré son apparence, il possède un tempérament vicieux.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/956.ogg",
     "colors": "Jaune",
     "evolution_stage": "1"
@@ -12435,7 +12435,7 @@
     "height": 4,
     "weight": 89,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
-    "description": null,
+    "description": "Il fait tourner son marteau fait main pour se protéger, mais le marteau est souvent volé par des Pokémon qui mangent du métal.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/957.ogg",
     "colors": "Rose",
     "evolution_stage": "Base"
@@ -12448,7 +12448,7 @@
     "height": 7,
     "weight": 591,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
-    "description": null,
+    "description": "Ce Pokémon attaquera des groupes de Pawniard et Bisharp, en récupérant du métal afin de créer un marteau large et robuste.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/958.ogg",
     "colors": "Rose",
     "evolution_stage": "1"
@@ -12461,7 +12461,7 @@
     "height": 7,
     "weight": 1128,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-    "description": null,
+    "description": "Ce Pokémon intelligent a un caractère très audacieux. Il fait tomber des pierres dans le ciel avec son marteau, visant à faire voler Corvaillus.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/959.ogg",
     "colors": "Rose",
     "evolution_stage": "2"
@@ -12474,7 +12474,7 @@
     "height": 12,
     "weight": 18,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
-    "description": null,
+    "description": "Ce Pokémon peut capter l'odeur d'un Veluza à un peu plus de 20 mètres et se cachera dans le sable.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/960.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -12487,7 +12487,7 @@
     "height": 12,
     "weight": 54,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
-    "description": null,
+    "description": "Il possède un tempérament vicieux, contrairement à ce que son apparence peut laisser croire. Il enroule son long corps autour de sa proie, puis l'entraîne dans sa tanière.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/961.ogg",
     "colors": "Rouge",
     "evolution_stage": "1"
@@ -12500,7 +12500,7 @@
     "height": 15,
     "weight": 429,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
-    "description": null,
+    "description": "Il rassemble des objets dans un tablier fait de plumes ajoutées aux plumes de la poitrine du Pokémon, puis les laisse tomber depuis des endroits élevés pour s'amuser.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/962.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -12513,7 +12513,7 @@
     "height": 13,
     "weight": 602,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
-    "description": null,
+    "description": "Il aime jouer avec d’autres de son espèce en utilisant l’anneau d’eau sur sa queue. Il utilise des ondes ultrasonores pour ressentir les émotions d’autres créatures vivantes.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/963.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -12526,7 +12526,7 @@
     "height": 13,
     "weight": 602,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
-    "description": null,
+    "description": "Ce Pokémon change d'apparence s'il entend ses alliés appeler à l'aide. Palafin ne montrera jamais à personne son moment de transformation.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/964.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -12539,7 +12539,7 @@
     "height": 10,
     "weight": 350,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-    "description": null,
+    "description": "On dit que ce Pokémon est né lorsqu'un Pokémon venimeux inconnu est entré et a inspiré un moteur laissé dans une usine de traitement de ferraille.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/965.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12552,7 +12552,7 @@
     "height": 18,
     "weight": 1200,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
-    "description": null,
+    "description": "Il crée un gaz à partir du poison et des minéraux des roches. Il fait ensuite exploser le gaz contenu dans ses cylindres, désormais au nombre de huit, pour générer de l'énergie.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/966.ogg",
     "colors": "Gris",
     "evolution_stage": "1"
@@ -12565,7 +12565,7 @@
     "height": 16,
     "weight": 630,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
-    "description": null,
+    "description": "Apparemment, Cyclizar permet aux gens de monter sur son dos depuis l'Antiquité. Des représentations de ceci ont été trouvées sur des peintures murales vieilles de 10 000 ans.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/967.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -12578,7 +12578,7 @@
     "height": 25,
     "weight": 3100,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
-    "description": null,
+    "description": "Lorsqu'il est attaqué, ce Pokémon brandira les vrilles de son corps comme des poings et frappera l'adversaire avec une tempête de coups de poing.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/968.ogg",
     "colors": "Rose",
     "evolution_stage": "Base"
@@ -12591,7 +12591,7 @@
     "height": 7,
     "weight": 80,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
-    "description": null,
+    "description": "Il absorbe les nutriments des parois des grottes. Les pétales qu'il porte sont constitués de poison cristallisé.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/969.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -12604,7 +12604,7 @@
     "height": 15,
     "weight": 450,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
-    "description": null,
+    "description": "Lorsque ce Pokémon détecte un danger, il ouvre ses pétales cristallins et lance des rayons de feu depuis son corps conique.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/970.ogg",
     "colors": "Bleu",
     "evolution_stage": "1"
@@ -12617,7 +12617,7 @@
     "height": 6,
     "weight": 350,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
-    "description": null,
+    "description": "On dit qu'un Pokémon chien mort dans la nature sans jamais interagir avec un humain est né de nouveau sous le nom de ce Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/971.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -12630,7 +12630,7 @@
     "height": 20,
     "weight": 150,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
-    "description": null,
+    "description": "Houndstone passe la plupart de son temps à dormir dans les cimetières. Parmi tous les Pokémon chiens, celui-ci est le plus fidèle à son maître.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/972.ogg",
     "colors": "Blanc",
     "evolution_stage": "1"
@@ -12643,7 +12643,7 @@
     "height": 16,
     "weight": 370,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
-    "description": null,
+    "description": "Ce Pokémon attache apparemment la base de son cou pour que l'énergie stockée dans son ventre ne s'échappe pas de son bec.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/973.ogg",
     "colors": "Rose",
     "evolution_stage": "Base"
@@ -12656,7 +12656,7 @@
     "height": 12,
     "weight": 450,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
-    "description": null,
+    "description": "Cette espèce a quitté l’océan et a commencé à vivre sur terre il y a très longtemps. Cela semble être étroitement lié à Wailmer.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/974.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -12669,7 +12669,7 @@
     "height": 45,
     "weight": 7000,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-    "description": null,
+    "description": "Ce Pokémon erre dans les zones enneigées et glacées. Il protège son corps grâce à des muscles puissants et une épaisse couche de graisse sous la peau.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/975.ogg",
     "colors": "Blanc",
     "evolution_stage": "1"
@@ -12682,7 +12682,7 @@
     "height": 25,
     "weight": 900,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
-    "description": null,
+    "description": "Lorsque Veluza se débarrasse de la chair inutile, son esprit s'affine et son pouvoir psychique augmente. La chair restante a une saveur douce mais délicieuse.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/976.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12695,7 +12695,7 @@
     "height": 120,
     "weight": 2200,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
-    "description": null,
+    "description": "Ce Pokémon est un glouton, mais il est mauvais pour se nourrir. Il fait équipe avec un Tatsugiri pour attraper des proies.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/977.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -12708,7 +12708,7 @@
     "height": 3,
     "weight": 80,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
-    "description": null,
+    "description": "C'est un petit Pokémon dragon. Il vit à l’intérieur de l’embouchure du Dondozo pour se protéger des ennemis extérieurs.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/978.ogg",
     "colors": "Rose",
     "evolution_stage": "Base"
@@ -12721,7 +12721,7 @@
     "height": 12,
     "weight": 560,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
-    "description": null,
+    "description": "Lorsque sa colère a dépassé un point critique, ce Pokémon a acquis un pouvoir qui n'est pas entravé par les limites de son corps physique.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/979.ogg",
     "colors": "Gris",
     "evolution_stage": "2"
@@ -12734,7 +12734,7 @@
     "height": 18,
     "weight": 2230,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
-    "description": null,
+    "description": "Lorsqu'il est attaqué, ce Pokémon riposte en sortant d'épaisses épines de son corps. C’est une démarche risquée qui met tout en jeu.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/980.ogg",
     "colors": "Marron",
     "evolution_stage": "1"
@@ -12747,7 +12747,7 @@
     "height": 32,
     "weight": 1600,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
-    "description": null,
+    "description": "Maintenant que les ondes cérébrales de la tête et de la queue sont synchronisées, le pouvoir psychique de ce Pokémon est 10 fois plus puissant que celui de Girafarig.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/981.ogg",
     "colors": "Marron",
     "evolution_stage": "1"
@@ -12760,7 +12760,7 @@
     "height": 36,
     "weight": 392,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
-    "description": null,
+    "description": "Ce Pokémon utilise sa queue dure pour faire son nid en creusant des trous dans le substrat rocheux en profondeur. Le nid peut atteindre des longueurs de plus de six milles.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/982.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -12773,7 +12773,7 @@
     "height": 20,
     "weight": 1200,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
-    "description": null,
+    "description": "Seul un Bisharp qui se démarque de tous les autres dans sa vaste armée peut évoluer vers Kingambit.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/983.ogg",
     "colors": "Noir",
     "evolution_stage": "2"
@@ -12786,7 +12786,7 @@
     "height": 22,
     "weight": 3200,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-    "description": null,
+    "description": "Des observations de ce Pokémon ont eu lieu ces dernières années. Le nom Great Tusk vient d’une créature répertoriée dans un certain livre.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/984.ogg",
     "colors": "Violet",
     "evolution_stage": "Base"
@@ -12799,7 +12799,7 @@
     "height": 12,
     "weight": 80,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
-    "description": null,
+    "description": "Une seule observation de ce Pokémon a été signalée. Cela ressemble à une créature mystérieuse représentée dans un vieux journal d’expédition.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/985.ogg",
     "colors": "Rose",
     "evolution_stage": "Base"
@@ -12812,7 +12812,7 @@
     "height": 12,
     "weight": 210,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
-    "description": null,
+    "description": "Il est possible que la créature répertoriée comme Brute Bonnet dans un certain livre soit en réalité ce Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/986.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12825,7 +12825,7 @@
     "height": 14,
     "weight": 40,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
-    "description": null,
+    "description": "Ce Pokémon a des caractéristiques similaires à celles de Flutter Mane, une créature mentionnée dans un certain livre.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/987.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12838,7 +12838,7 @@
     "height": 32,
     "weight": 920,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
-    "description": null,
+    "description": "Ce mystérieux Pokémon présente certaines similitudes avec une créature présentée dans un vieux livre sous le nom de Slither Wing.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/988.ogg",
     "colors": "Rouge",
     "evolution_stage": "Base"
@@ -12851,7 +12851,7 @@
     "height": 23,
     "weight": 600,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
-    "description": null,
+    "description": "Il n'existe aucune trace de la capture de ce Pokémon. Les données manquent, mais les traits du Pokémon correspondent à ceux d’une créature présentée dans un journal d’expédition.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/989.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12864,7 +12864,7 @@
     "height": 9,
     "weight": 2400,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
-    "description": null,
+    "description": "Ce Pokémon ressemble beaucoup à une arme scientifique qui, selon un magazine paranormal, aurait été envoyée sur cette planète par des extraterrestres.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/990.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12877,7 +12877,7 @@
     "height": 6,
     "weight": 110,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
-    "description": null,
+    "description": "Sa forme est similaire à celle d'un robot présenté dans un article de magazine paranormal. Le robot aurait été créé par une civilisation ancienne.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/991.ogg",
     "colors": "Rouge",
     "evolution_stage": "Base"
@@ -12890,7 +12890,7 @@
     "height": 18,
     "weight": 3807,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
-    "description": null,
+    "description": "Il ressemble beaucoup à un cyborg couvert exclusivement par un magazine paranormal. On disait que le cyborg était la forme modifiée d'un certain athlète.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/992.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12903,7 +12903,7 @@
     "height": 13,
     "weight": 1110,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-    "description": null,
+    "description": "Il ressemble à un certain Pokémon présenté dans un magazine paranormal, décrit comme la progéniture d'un Hydreigon tombé amoureux d'un robot.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/993.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -12916,7 +12916,7 @@
     "height": 12,
     "weight": 360,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
-    "description": null,
+    "description": "Ce Pokémon ressemble à un objet inconnu décrit dans un magazine paranormal comme un OVNI envoyé pour observer l'humanité.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/994.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -12929,7 +12929,7 @@
     "height": 16,
     "weight": 3030,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
-    "description": null,
+    "description": "Il présente certaines similitudes avec un Pokémon présenté dans un magazine douteux comme un Tyranocif venant d'un milliard d'années dans le futur.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/995.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -12942,7 +12942,7 @@
     "height": 5,
     "weight": 170,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
-    "description": null,
+    "description": "Frigibax absorbe la chaleur par sa nageoire dorsale et la convertit en énergie glacée. Plus la température est élevée, plus Frigibax stocke d’énergie.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/996.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -12955,7 +12955,7 @@
     "height": 8,
     "weight": 300,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
-    "description": null,
+    "description": "Arctibax gèle l'air qui l'entoure, protégeant son visage avec un masque de glace et transformant sa nageoire dorsale en lame de glace.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/997.ogg",
     "colors": "Gris",
     "evolution_stage": "1"
@@ -12968,7 +12968,7 @@
     "height": 21,
     "weight": 2100,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
-    "description": null,
+    "description": "Ce Pokémon projette de l'air cryogénique par sa bouche. Cet air peut geler instantanément même la lave chaude.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/998.ogg",
     "colors": "Gris",
     "evolution_stage": "2"
@@ -12981,7 +12981,7 @@
     "height": 3,
     "weight": 50,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
-    "description": null,
+    "description": "Ce Pokémon est né dans un coffre au trésor il y a environ 1 500 ans. Il aspire la force vitale des scélérats qui tentent de voler le trésor.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/999.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -12994,7 +12994,7 @@
     "height": 12,
     "weight": 300,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
-    "description": null,
+    "description": "Son corps semble être composé de 1 000 pièces. Ce Pokémon s'entend bien avec les autres et se lie rapidement d'amitié avec n'importe qui.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1000.ogg",
     "colors": "Jaune",
     "evolution_stage": "1"
@@ -13007,7 +13007,7 @@
     "height": 15,
     "weight": 742,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
-    "description": null,
+    "description": "La rancune d’une personne punie pour avoir écrit les mauvaises actions du roi sur des tablettes de bois s’est recouverte de feuilles mortes pour devenir un Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1001.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -13020,7 +13020,7 @@
     "height": 19,
     "weight": 1522,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
-    "description": null,
+    "description": "Ce Pokémon peut contrôler 100 tonnes de neige tombée. Il joue innocemment en sautant dans et hors des avalanches qu'il a provoquées.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1002.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -13033,7 +13033,7 @@
     "height": 27,
     "weight": 6997,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
-    "description": null,
+    "description": "La peur déversée dans un ancien récipient rituel s'est recouverte de roches et de terre pour devenir un Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1003.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -13046,7 +13046,7 @@
     "height": 4,
     "weight": 49,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-    "description": null,
+    "description": "Il contrôle les flammes brûlant à plus de 5 400 degrés Fahrenheit. Il nage nonchalamment dans la mer de lave qu'il crée en faisant fondre la roche et le sable.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1004.ogg",
     "colors": "Rouge",
     "evolution_stage": "Base"
@@ -13059,7 +13059,7 @@
     "height": 20,
     "weight": 3800,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
-    "description": null,
+    "description": "Il est possible qu'il s'agisse de la créature répertoriée sous le nom de Roaring Moon dans un journal d'expédition qui recèle encore de nombreux mystères.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1005.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -13072,7 +13072,7 @@
     "height": 14,
     "weight": 350,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
-    "description": null,
+    "description": "Il présente certaines similitudes avec l’invention d’un savant fou couverte par un magazine paranormal.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1006.ogg",
     "colors": "Blanc",
     "evolution_stage": "Base"
@@ -13085,7 +13085,7 @@
     "height": 25,
     "weight": 3030,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
-    "description": null,
+    "description": "Il semble qu'il s'agisse du Roi Ailé ​​mentionné dans un vieux journal d'expédition. Il aurait fendu le pays à poings nus.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1007.ogg",
     "colors": "Rouge",
     "evolution_stage": "Base"
@@ -13098,7 +13098,7 @@
     "height": 35,
     "weight": 2400,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
-    "description": null,
+    "description": "Beaucoup de choses restent inconnues sur cette créature. Il ressemble à Cyclizar, mais il est bien plus impitoyable et puissant.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1008.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -13111,7 +13111,7 @@
     "height": 35,
     "weight": 2800,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
-    "description": null,
+    "description": "Cette créature féroce est entourée de mystère. Il porte le nom d'un monstre aquatique mentionné dans un ancien journal d'expédition.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1009.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -13124,7 +13124,7 @@
     "height": 15,
     "weight": 1250,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
-    "description": null,
+    "description": "Beaucoup de ses caractéristiques physiques correspondent à celles d'un Virizion du futur couvert dans un magazine paranormal.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1010.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -13137,7 +13137,7 @@
     "height": 4,
     "weight": 97,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
-    "description": null,
+    "description": "Dipplin, c'est deux créatures en un seul Pokémon. Son évolution a été déclenchée par une pomme spéciale cultivée à un seul endroit.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1011.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -13150,7 +13150,7 @@
     "height": 1,
     "weight": 11,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
-    "description": null,
+    "description": "Apparemment, les regrets d'un maître de la cérémonie du thé décédé avant de perfectionner son art se sont attardés dans du matcha et sont devenus un Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1012.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -13163,7 +13163,7 @@
     "height": 2,
     "weight": 22,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-    "description": null,
+    "description": "Il prétend être du thé, essayant de tromper les gens pour qu'ils le boivent afin qu'il puisse drainer leur force vitale. Sa ruse échoue généralement.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1013.ogg",
     "colors": "Vert",
     "evolution_stage": "1"
@@ -13176,7 +13176,7 @@
     "height": 18,
     "weight": 922,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-    "description": null,
+    "description": "Après que tous ses muscles aient été stimulés par la chaîne toxique autour de son cou, Okidogi s'est transformé et a acquis un physique puissant.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1014.ogg",
     "colors": "Noir",
     "evolution_stage": "Base"
@@ -13189,7 +13189,7 @@
     "height": 10,
     "weight": 122,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
-    "description": null,
+    "description": "La chaîne est composée de toxines qui améliorent les capacités. Cela a stimulé le cerveau de Munkidori et fait fleurir les pouvoirs psychiques du Pokémon.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1015.ogg",
     "colors": "Noir",
     "evolution_stage": "Base"
@@ -13202,7 +13202,7 @@
     "height": 14,
     "weight": 301,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-    "description": null,
+    "description": "Fezandipiti doit sa belle apparence et sa jolie voix aux stimulants toxiques émanant de la chaîne enroulée autour de son corps.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1016.ogg",
     "colors": "Noir",
     "evolution_stage": "Base"
@@ -13215,7 +13215,7 @@
     "height": 12,
     "weight": 398,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
-    "description": null,
+    "description": "Le type de ce Pokémon change en fonction du masque qu'il porte. Il confond ses ennemis avec des mouvements et des coups de pied agiles.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1017.ogg",
     "colors": "Vert",
     "evolution_stage": "Base"
@@ -13228,7 +13228,7 @@
     "height": 20,
     "weight": 600,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
-    "description": null,
+    "description": "Il récupère l’électricité statique de son environnement. Les faisceaux qu’il lance à quatre pattes sont extrêmement puissants.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1018.ogg",
     "colors": "Blanc",
     "evolution_stage": "1"
@@ -13241,7 +13241,7 @@
     "height": 18,
     "weight": 930,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
-    "description": null,
+    "description": "Sept serpents vivent dans une pomme faite de sirop. Le serpent au centre est le commandant.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1019.ogg",
     "colors": "Vert",
     "evolution_stage": "2"
@@ -13254,7 +13254,7 @@
     "height": 35,
     "weight": 5900,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
-    "description": null,
+    "description": "Il existe peu de rapports faisant état d’observations de cette créature. Une courte vidéo le montre en train de se déchaîner et de jaillir des piliers de flammes.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1020.ogg",
     "colors": "Marron",
     "evolution_stage": "Base"
@@ -13267,7 +13267,7 @@
     "height": 52,
     "weight": 4800,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
-    "description": null,
+    "description": "On dit qu'il incinère tout ce qui l'entoure avec des éclairs lancés depuis sa fourrure. On sait très peu de choses sur cette créature.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1021.ogg",
     "colors": "Jaune",
     "evolution_stage": "Base"
@@ -13280,7 +13280,7 @@
     "height": 15,
     "weight": 1625,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
-    "description": null,
+    "description": "Il ressemble à un Pokémon décrit dans un magazine douteux comme un Terrakion modifié par une organisation maléfique.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1022.ogg",
     "colors": "Gris",
     "evolution_stage": "Base"
@@ -13293,7 +13293,7 @@
     "height": 16,
     "weight": 1560,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
-    "description": null,
+    "description": "Cela ressemble à un objet mystérieux présenté dans un magazine paranormal comme une arme de pointe en forme de Cobaltium.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1023.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -13306,7 +13306,7 @@
     "height": 2,
     "weight": 65,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
-    "description": null,
+    "description": "Terapagos se protège en utilisant son pouvoir pour transformer l'énergie en cristaux durs. Ce Pokémon est à l'origine du phénomène Terastal.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1024.ogg",
     "colors": "Bleu",
     "evolution_stage": "Base"
@@ -13319,7 +13319,7 @@
     "height": 3,
     "weight": 3,
     "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
-    "description": null,
+    "description": "Il nourrit d’autres mochi toxiques qui font ressortir les désirs et les capacités. Ceux qui mangent le mochi tombent sous le contrôle de Pecharunt, enchaînés à sa volonté.",
     "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/1025.ogg",
     "colors": "Violet",
     "evolution_stage": "Base"

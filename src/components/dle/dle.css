@@ -231,6 +231,12 @@
   border-radius: 8px;
 }
 
+.settings {
+  margin-bottom: 2em;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
 @media (max-width: 1000px) {
   .searchbar-container {
     width: 100%;

@@ -45,3 +45,7 @@ export function getYesterdayCharacter(data, modeSeed = "") {
 export function filterByField(arr, field) {
   return arr.filter(item => item[field] != null);
 }
+
+export function filterByExactField(arr, field, value) {
+  return arr.filter(item => item[field] === value);
+}

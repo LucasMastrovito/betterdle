@@ -59,7 +59,6 @@ function Findmode(props) {
             setData(dataBuffer);
         }
         if (data && loading && random) {
-            console.log(props.filter)
             setPic(isImg(filter));
             setSound(isSound(filter));
             loadGame();

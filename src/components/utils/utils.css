@@ -41,6 +41,50 @@
     color: white;
 }
 
+.dropdown {
+    width: 30%;
+}
+
+.select {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background: rgb(236, 236, 236);
+    border: #242424 3px solid;
+    border-radius: 5px;
+    color: black;
+    width: 100%;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+.option {
+    padding: 0 30px 0 10px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    background: rgb(236, 236, 236);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    pointer-events: none;
+    order: 2;
+    z-index: 1;
+    box-sizing: border-box;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+.option:hover {
+    background: #666;
+}
+
+.select:focus .option {
+    position: relative;
+    pointer-events: all;
+}
+
 @media (max-width: 1000px) {
     .home-btn {
         margin: 1em;

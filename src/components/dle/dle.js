@@ -5,6 +5,9 @@ import React, { useEffect, useState } from "react";
 import { ModeContext } from "../utils/modesContext";
 import Homebtn from "../utils/homebtn";
 import Dlemenu from "./dlemenu";
+import Dropdown from "../utils/dropdown";
+import Datafilter from "../utils/datafilter";
+import { filterByExactField } from "../utils/getrandom";
 
 function Dle(props) {
     const navigate = useNavigate();
@@ -12,6 +15,7 @@ function Dle(props) {
     const maxModes = modes.length;
     const [key, setKey] = useState(0);
     const [data, setData] = useState(null);
+    const [baseData, setBaseData] = useState(null);
     const [language, setLanguage] = useState("en");
     const [current, setCurrent] = useState(0);
 
@@ -23,10 +27,11 @@ function Dle(props) {
         import(`../../json/${props.name}_characters_${language}.json`)
             .then(module => {
                 setData(module.default);
+                setBaseData(module.default);
                 setKey(prev => prev + 1);
             })
             .catch(err => console.error("Erreur de chargement JSON :", err));
-    }, [language]);
+    }, [language, props.name]);
 
     const changeMode = (index) => {
         if (index === -1) {
@@ -42,6 +47,15 @@ function Dle(props) {
         }
     };
 
+    const changeLanguage = (value) => {
+        setLanguage(value);
+    };
+
+    const applyFilter = (field, value) => {
+        setData(filterByExactField(baseData, field, value));
+        setKey(prev => prev + 1);
+    }
+
     return (
         <ModeContext.Provider value={{ changeMode }}>
             <div className={`dle dle-${props.name}`}>
@@ -49,13 +63,21 @@ function Dle(props) {
                 <div style={{ paddingBottom: "2vh" }}>
                     <img alt="logo" className="scale logo" src={`/assets/${props.name}-logo.png`} onClick={(e) => changeMode(0)} />
                 </div>
-                {/* <div className="card">
-                    <label htmlFor="lang"></label>
-                    <select name="lang" id="lang" onChange={(e) => setLanguage(e.target.value)}>
-                        <option value="en">English</option>
-                        <option value="fr">Français</option>
-                    </select>
-                </div> */}
+                <div className={`card card-${props.name} settings`} style={{ display: props.settings || props.lang ? "flex" : "none" }}>
+                    {props.lang ?
+                        <Dropdown name="lang" options={props.lang} change={changeLanguage} />
+                        :
+                        <span />
+                    }
+                    {data && props.filters ?
+                        props.filters.map((field, index) =>
+                            <Datafilter key={index} data={baseData} filter={field} change={applyFilter} />
+                        )
+                        :
+                        <span />
+                    }
+                    {props.settings}
+                </div>
                 <Dlemenu name={props.name} menu={false} current={current} buttons={props.buttons} />
                 {
                     React.cloneElement(modes[current], {
