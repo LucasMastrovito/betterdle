@@ -16,6 +16,7 @@ function Dle(props) {
     const [key, setKey] = useState(0);
     const [data, setData] = useState(null);
     const [baseData, setBaseData] = useState(null);
+    const [filter, setFilter] = useState("all");
     const [language, setLanguage] = useState("en");
     const [current, setCurrent] = useState(0);
 
@@ -53,9 +54,9 @@ function Dle(props) {
 
     const applyFilter = (field, value) => {
         setData(value === "all" ? baseData : filterByExactField(baseData, field, value));
+        setFilter(value);
         setKey(prev => prev + 1);
     }
-
     return (
         <ModeContext.Provider value={{ changeMode }}>
             <div className={`dle dle-${props.name}`}>
@@ -82,6 +83,7 @@ function Dle(props) {
                 {
                     React.cloneElement(modes[current], {
                         data: data,
+                        modeFilter: filter,
                         key: key
                     })
                 }

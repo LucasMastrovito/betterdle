@@ -36,7 +36,7 @@ function Findmode(props) {
 
     useEffect(() => {
         const loadGame = () => {
-            const load = getTries(props.name, props.mode);
+            const load = getTries(props.name, props.mode, props.modeFilter);
             const rowsBuffer = [];
             const dataBuffer = Object.assign([{}], props.data);
             var blurBuffer = 6;
@@ -63,13 +63,13 @@ function Findmode(props) {
             setSound(isSound(filter));
             loadGame();
         }
-    }, [loading, random, props.name, props.data, props.mode, data, filter]);
+    }, [loading, random, props.name, props.data, props.mode, props.modeFilter, data, filter]);
 
     const submit = (index) => {
         if (data[index].name === random.name) {
             setFind(true);
         }
-        saveTry(props.name, props.mode, index);
+        saveTry(props.name, props.mode, props.modeFilter, index);
         setBlur(`${clamp(parseFloat(blur) - 1, 0, 10)}px`);
         setScale(`${clamp(parseFloat(scale) - 0.1, 1, 5)}`);
         setRows([<CharacterRow key={data[index].name} class={data[index].name === random.name ? 'match' : 'wrong'} name={data[index].name} img={data[index].image_url} />, ...rows]);

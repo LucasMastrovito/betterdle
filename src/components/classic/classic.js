@@ -33,7 +33,7 @@ function Classic(props) {
 
   useEffect(() => {
     const loadGame = () => {
-      const load = getTries(props.name, props.mode);
+      const load = getTries(props.name, props.mode, props.modeFilter);
       const rowsBuffer = [];
       const dataBuffer = Object.assign([{}], props.data);
 
@@ -58,7 +58,7 @@ function Classic(props) {
     if (data && loading && random) {
       loadGame();
     }
-  }, [loading, random, props.name, props.data, props.mode, data, fields]);
+  }, [loading, random, props.name, props.data, props.mode, props.modeFilter, data, fields]);
 
   const submit = (index) => {
     const newObj = {};
@@ -72,7 +72,7 @@ function Classic(props) {
         newObj[key.key] = data[index][key.key];
       }
     });
-    saveTry(props.name, props.mode, index);
+    saveTry(props.name, props.mode, props.modeFilter, index);
     setRows([<Row key={data[index].name} character={data[index].name} data={newObj} field={fields} random={random} />, ...rows]);
     setTries(tries + 1);
     data.splice(index, 1);
