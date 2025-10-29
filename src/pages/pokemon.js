@@ -16,9 +16,9 @@ function Pokemon() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily anime character" name="pokemon" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"pokemon"} mode="classic" desc={"Find the daily Pokemon"} fields={fields} first_tips={{ name: "Year", key: "year" }} second_tips={{ name: "Anime", key: "anime" }} />,
-        <Findmode key={'description'} name={"pokemon"} mode="description" desc={"Guess from the Pokedex description"} filter="description" />,
-        <Findmode key={'cries'} name={"pokemon"} mode="cries" desc={"Guess from the Pokemon's cries"} filter="cry" first_tips={{ name: "Types", key: "types" }} second_tips={{ name: "", key: "anime" }} />,
+        <Classic key={'classic'} name={"pokemon"} mode="classic" desc={"Find the daily Pokemon"} fields={fields} first_tips={{ name: "N°", key: "id" }} second_tips={{ name: "Types", key: "types" }} />,
+        <Findmode key={'description'} name={"pokemon"} mode="description" desc={"Guess from the Pokedex description"} filter="description" first_tips={{ name: "N°", key: "id" }} second_tips={{ name: "Types", key: "types" }} />,
+        <Findmode key={'cries'} name={"pokemon"} mode="cries" desc={"Guess from the Pokemon's cries"} filter="cry" first_tips={{ name: "N°", key: "id" }} second_tips={{ name: "Types", key: "types" }} />,
         <Findmode key={'picture'} name={"pokemon"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
@@ -30,7 +30,8 @@ function Pokemon() {
                 modes={modes}
                 lang={[
                     <option key={1} className="option" value="en">English</option>,
-                    <option key={2} className="option" value="fr">Français</option>
+                    <option key={2} className="option
+                    " value="fr">Français</option>
                 ]}
                 filters={[
                     "gen"
