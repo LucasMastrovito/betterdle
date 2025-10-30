@@ -5,7 +5,7 @@ import Win from "../dle/win";
 import CharacterRow from "./characterRow";
 import Tipscard from "../dle/tipscard";
 import "./findmode.css";
-import { getRandomCharacter, getYesterdayCharacter } from "../utils/getrandom";
+import { filterByField, getRandomCharacter, getYesterdayCharacter } from "../utils/getrandom";
 import { isImg, isSound } from "../utils/utils";
 
 function clamp(num, min, max) {
@@ -18,10 +18,10 @@ function clamp(num, min, max) {
 
 function Findmode(props) {
     const [loading, setLoading] = useState(true);
-    const random = getRandomCharacter(props.data, props.mode);
+    const random = getRandomCharacter(filterByField(props.data, props.filter), props.mode);
     const yesterday = getYesterdayCharacter(props.data, props.mode);
     const filter = Array.isArray(random[props.filter]) ? getRandomCharacter(random[props.filter], props.mode) : random[props.filter];
-    const [data, setData] = useState(props.data);
+    const [data, setData] = useState(filterByField(props.data, props.filter));
     const [rows, setRows] = useState([]);
     const [tries, setTries] = useState(0);
     const [find, setFind] = useState(false);
@@ -38,7 +38,7 @@ function Findmode(props) {
         const loadGame = () => {
             const load = getTries(props.name, props.mode, props.modeFilter);
             const rowsBuffer = [];
-            const dataBuffer = Object.assign([{}], props.data);
+            const dataBuffer = Object.assign([{}], filterByField(props.data, props.filter));
             var blurBuffer = 6;
             var scaleBuffer = 1.7;
 
@@ -63,7 +63,7 @@ function Findmode(props) {
             setSound(isSound(filter));
             loadGame();
         }
-    }, [loading, random, props.name, props.data, props.mode, props.modeFilter, data, filter]);
+    }, [loading, random, props.name, props.data, props.mode, props.filter, props.modeFilter, data, filter]);
 
     const submit = (index) => {
         if (data[index].name === random.name) {
