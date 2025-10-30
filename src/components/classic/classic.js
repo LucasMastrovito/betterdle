@@ -9,8 +9,8 @@ import Tipscard from "../dle/tipscard";
 import { getRandomCharacter, getYesterdayCharacter } from "../utils/getrandom";
 
 function Classic(props) {
-  const random = getRandomCharacter(props.data, props.mode);
-  const yesterday = getYesterdayCharacter(props.data, props.mode);
+  const random = getRandomCharacter(props.data, props.mode + props.modeFilter);
+  const yesterday = getYesterdayCharacter(props.data, props.mode + props.modeFilter);
   const [data, setData] = useState(props.data);
   const fields = props.fields;
   const [rows, setRows] = useState([]);

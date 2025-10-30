@@ -18,8 +18,8 @@ function clamp(num, min, max) {
 
 function Findmode(props) {
     const [loading, setLoading] = useState(true);
-    const random = getRandomCharacter(filterByField(props.data, props.filter), props.mode);
-    const yesterday = getYesterdayCharacter(props.data, props.mode);
+    const random = getRandomCharacter(filterByField(props.data, props.filter), props.mode + props.modeFilter);
+    const yesterday = getYesterdayCharacter(props.data, props.mode + props.modeFilter);
     const filter = Array.isArray(random[props.filter]) ? getRandomCharacter(random[props.filter], props.mode) : random[props.filter];
     const [data, setData] = useState(filterByField(props.data, props.filter));
     const [rows, setRows] = useState([]);
