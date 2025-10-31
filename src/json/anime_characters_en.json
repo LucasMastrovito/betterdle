@@ -1805,7 +1805,7 @@
     },
     {
         "name": "Ichigo Kurosaki",
-        "image_url": "https://static.wikia.nocookie.net/manga-encyclopedie/images/4/4b/Ichigo_hell_verse.png",
+        "image_url": "https://static.wikia.nocookie.net/characterprofile/images/a/a2/Ichigo_Kurosaki.png",
         "role": "Protagonist",
         "gender": "Male",
         "race": "Human;Shinigami;Hollow",
@@ -1827,7 +1827,7 @@
     },
     {
         "name": "Rukia Kuchiki",
-        "image_url": "https://static.wikia.nocookie.net/bleach/images/2/23/NBFHRukia_profile.png",
+        "image_url": "https://www.nautiljon.com/images/perso/00/06/kuchiki_rukia_360.webp",
         "role": "Protagonist",
         "gender": "Female",
         "race": "Shinigami",
@@ -1849,7 +1849,7 @@
     },
     {
         "name": "Renji Abarai",
-        "image_url": "https://static.wikia.nocookie.net/bleach/images/6/65/685Renji_profile.png",
+        "image_url": "https://static.wikia.nocookie.net/characterprofile/images/9/9d/Renji_Abarai.png",
         "role": "Protagonist",
         "gender": "Male",
         "race": "Shinigami",
@@ -1871,7 +1871,7 @@
     },
     {
         "name": "Byakuya Kuchiki",
-        "image_url": "https://static.wikia.nocookie.net/bleach/images/f/f2/686Byakuya_profile.png",
+        "image_url": "https://www.nautiljon.com/images/perso/00/14/kuchiki_byakuya_541.webp",
         "role": "Neutral",
         "gender": "Male",
         "race": "Shinigami",
@@ -1893,7 +1893,7 @@
     },
     {
         "name": "Sōsuke Aizen",
-        "image_url": "https://static.wikia.nocookie.net/bleach/images/a/af/Ep215AizenProfile.png",
+        "image_url": "https://www.nautiljon.com/images/manga_persos/00/08/180.webp",
         "role": "Antagonist",
         "gender": "Male",
         "race": "Shinigami",
