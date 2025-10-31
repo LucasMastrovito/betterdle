@@ -34,7 +34,7 @@ function Anime() {
                 buttons={buttons}
                 modes={modes}
                 settings={
-                    <Setting name="Animes List" content={getUniqueValues(data, "anime").map(el => <h3 className="outline">{el}</h3>)} />
+                    <Setting name="Animes List" content={getUniqueValues(data, "anime").map(el => <h3 key={el} className="outline">{el}</h3>)} />
                 }
             />
         </div>
