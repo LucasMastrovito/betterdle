@@ -85,6 +85,12 @@
     pointer-events: all;
 }
 
+.setting-content {
+    flex-direction: column;
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
 @media (max-width: 1000px) {
     .home-btn {
         margin: 1em;

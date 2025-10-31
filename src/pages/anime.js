@@ -4,6 +4,9 @@ import Findmode from "../components/findmode/findmode";
 import Dlemenu from "../components/dle/dlemenu";
 import Dlemenubtn from "../components/dle/dlemenubtn";
 import Dle from "../components/dle/dle";
+import Setting from "../components/utils/setting";
+import data from "../json/anime_characters_en.json";
+import { getUniqueValues } from "../components/utils/utils";
 
 
 function Anime() {
@@ -30,6 +33,9 @@ function Anime() {
                 name="anime"
                 buttons={buttons}
                 modes={modes}
+                settings={
+                    <Setting name="Animes List" content={getUniqueValues(data, "anime").map(el => <h3 className="outline">{el}</h3>)} />
+                }
             />
         </div>
     )

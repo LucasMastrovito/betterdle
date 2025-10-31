@@ -71,14 +71,14 @@ function Dle(props) {
                     {props.lang ?
                         <Dropdown name="lang" options={props.lang} change={changeLanguage} />
                         :
-                        <span />
+                        <span style={{display: "none"}} />
                     }
                     {data && props.filters ?
                         props.filters.map((field, index) =>
                             <Datafilter key={index} data={baseData} filter={field} change={applyFilter} />
                         )
                         :
-                        <span />
+                        <span style={{display: "none"}} />
                     }
                     {props.settings}
                 </div>
