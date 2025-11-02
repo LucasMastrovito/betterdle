@@ -24,6 +24,9 @@ function Gacha() {
                 name="gacha"
                 buttons={buttons}
                 modes={modes}
+                filters={[
+                    "game"
+                ]}
             />
         </div>
     )

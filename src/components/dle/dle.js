@@ -59,7 +59,7 @@ function Dle(props) {
         setFieldFilter(field);
         setKey(prev => prev + 1);
     }
-
+    console.log(props.filters)
     return (
         <ModeContext.Provider value={{ changeMode }}>
             <div className={`dle dle-${props.name}`}>
@@ -67,7 +67,7 @@ function Dle(props) {
                 <div style={{ paddingBottom: "2vh" }}>
                     <img alt="logo" className="scale logo" src={`/assets/${props.name}-logo.png`} onClick={(e) => changeMode(0)} />
                 </div>
-                <div className={`card card-${props.name} settings`} style={{ display: props.settings || props.lang ? "flex" : "none" }}>
+                <div className={`card card-${props.name} settings`} style={{ display: props.settings || props.lang || props.filters ? "flex" : "none" }}>
                     {props.lang ?
                         <Dropdown name="lang" options={props.lang} change={changeLanguage} />
                         :
