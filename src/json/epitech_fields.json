@@ -1,0 +1,32 @@
+[
+    {
+        "key": "name",
+        "title": "Nom",
+        "type": "equal"
+    },
+    {
+        "key": "genre",
+        "title": "Genre",
+        "type": "equal"
+    },
+    {
+        "key": "anciennete",
+        "title": "Ancienneté",
+        "type": "number"
+    },
+    {
+        "key": "poste",
+        "title": "Poste",
+        "type": "equal"
+    },
+    {
+        "key": "ville",
+        "title": "Ville",
+        "type": "equal"
+    },
+    {
+        "key": "ville_origine",
+        "title": "Origine",
+        "type": "equal"
+    }
+]
