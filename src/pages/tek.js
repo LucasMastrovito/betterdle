@@ -6,11 +6,11 @@ import Dlemenu from "../components/dle/dlemenu";
 
 function Tek() {
     const buttons = [
-        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily person"} logo="classic" index={1} />
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Trouve la personne du jour"} logo="classic" index={1} />
     ];
 
     const modes = [
-        <Dlemenu key={'menu'} title="Guess the daily person" name="epitech" menu={true} buttons={buttons} />,
+        <Dlemenu key={'menu'} title="Trouve la personne du jour" name="epitech" menu={true} buttons={buttons} />,
         <Classic key={'classic'} name={"epitech"} mode="classic" desc={"Trouve la personne du jour"} fields={fields} />
     ];
 
