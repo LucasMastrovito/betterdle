@@ -10,6 +10,11 @@
         "type": "equal"
     },
     {
+        "key": "en_poste",
+        "title": "En poste",
+        "type": "equal"
+    },
+    {
         "key": "anciennete",
         "title": "Ancienneté",
         "type": "number"

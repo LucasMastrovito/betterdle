@@ -4,7 +4,7 @@
         "genre": "Femme",
         "anciennete": 2,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "N/A"
     },
@@ -13,7 +13,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "N/A"
     },
@@ -22,7 +22,7 @@
         "genre": "Homme",
         "anciennete": 19,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "Toulouse"
     },
@@ -31,7 +31,7 @@
         "genre": "Homme",
         "anciennete": 3,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -40,7 +40,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -49,7 +49,7 @@
         "genre": "Femme",
         "anciennete": 5,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -58,7 +58,7 @@
         "genre": "Femme",
         "anciennete": 8,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -67,7 +67,7 @@
         "genre": "Homme",
         "anciennete": 4,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Paris"
     },
@@ -76,7 +76,7 @@
         "genre": "Homme",
         "anciennete": 1,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Strasbourg"
     },
@@ -85,7 +85,7 @@
         "genre": "Homme",
         "anciennete": 6,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "Strasbourg"
     },
@@ -94,7 +94,7 @@
         "genre": "Femme",
         "anciennete": 2,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -103,7 +103,7 @@
         "genre": "Homme",
         "anciennete": 5,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "Lyon"
     },
@@ -112,7 +112,7 @@
         "genre": "Homme",
         "anciennete": 0,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -121,7 +121,7 @@
         "genre": "Homme",
         "anciennete": 3,
         "poste": "Directeur",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Natio",
         "ville_origine": "Lyon"
     },
@@ -130,7 +130,7 @@
         "genre": "Femme",
         "anciennete": 5,
         "poste": "Directeur",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -139,7 +139,7 @@
         "genre": "Femme",
         "anciennete": 4,
         "poste": "Dev",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -148,7 +148,7 @@
         "genre": "Femme",
         "anciennete": 5,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -157,7 +157,7 @@
         "genre": "Femme",
         "anciennete": 3,
         "poste": "Dev",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -166,7 +166,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "Lyon"
     },
@@ -175,7 +175,7 @@
         "genre": "Homme",
         "anciennete": 5,
         "poste": "Directeur",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Natio",
         "ville_origine": "N/A"
     },
@@ -184,7 +184,7 @@
         "genre": "Homme",
         "anciennete": 3,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -193,7 +193,7 @@
         "genre": "Homme",
         "anciennete": 4,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -202,7 +202,7 @@
         "genre": "Homme",
         "anciennete": 3,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -211,7 +211,7 @@
         "genre": "Homme",
         "anciennete": 16,
         "poste": "Directeur",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Paris"
     },
@@ -220,7 +220,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "Dev",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -229,7 +229,7 @@
         "genre": "Homme",
         "anciennete": 15,
         "poste": "Directeur",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Natio",
         "ville_origine": "N/A"
     },
@@ -238,7 +238,7 @@
         "genre": "Femme",
         "anciennete": 2,
         "poste": "Dev",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -247,7 +247,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "APE",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -256,7 +256,7 @@
         "genre": "Homme",
         "anciennete": 5,
         "poste": "APE",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -265,7 +265,7 @@
         "genre": "Homme",
         "anciennete": 4,
         "poste": "APE",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -274,7 +274,7 @@
         "genre": "Homme",
         "anciennete": 3,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -283,7 +283,7 @@
         "genre": "Homme",
         "anciennete": 5,
         "poste": "Ddos",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "Lyon"
     },
@@ -292,7 +292,7 @@
         "genre": "Homme",
         "anciennete": 3,
         "poste": "APE",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -301,7 +301,7 @@
         "genre": "Homme",
         "anciennete": 1,
         "poste": "Directeur",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -310,7 +310,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lille"
     },
@@ -319,7 +319,7 @@
         "genre": "Homme",
         "anciennete": 1,
         "poste": "APE",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -328,7 +328,7 @@
         "genre": "Femme",
         "anciennete": 2,
         "poste": "AER",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -337,7 +337,7 @@
         "genre": "Homme",
         "anciennete": 4,
         "poste": "AER",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -346,7 +346,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "Dev",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -355,7 +355,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "Dev",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -364,7 +364,7 @@
         "genre": "Femme",
         "anciennete": 0,
         "poste": "ADM",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -373,7 +373,7 @@
         "genre": "Femme",
         "anciennete": 2,
         "poste": "Dev",
-        "en_poste": false,
+        "en_poste": "Non",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -382,7 +382,7 @@
         "genre": "Homme",
         "anciennete": 2,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Lyon",
         "ville_origine": "Lyon"
     },
@@ -391,7 +391,7 @@
         "genre": "Homme",
         "anciennete": 10,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Moulins",
         "ville_origine": "Lyon"
     },
@@ -400,7 +400,7 @@
         "genre": "Homme",
         "anciennete": 3,
         "poste": "Bocal",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "N/A"
     },
@@ -409,7 +409,7 @@
         "genre": "Homme",
         "anciennete": 10,
         "poste": "Directeur",
-        "en_poste": true,
+        "en_poste": "Oui",
         "ville": "Natio",
         "ville_origine": "Strasbourg"
     }
