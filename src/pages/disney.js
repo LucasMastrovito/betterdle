@@ -1,53 +1,36 @@
-import Classic from "../components/classic";
-import data from "../json/anime_characters.json";
-import fields from "../json/anime_fields.json";
-import bg from "../assets/anime-bg.jpg";
-import logo from "../assets/anime-logo.png";
-import Findmode from "../components/findmode";
-import Modemenu from "../components/modemenu";
-import { useState } from "react";
-import Modebtn from "../components/modebtn";
-import { getRandomCharacter } from "../components/getrandom";
-import { useNavigate } from "react-router-dom";
-import Homebtn from "../components/homebtn";
+import fields from "../json/disney_fields.json";
+import Classic from "../components/classic/classic";
+import Findmode from "../components/findmode/findmode";
+import Dlemenu from "../components/dle/dlemenu";
+import Dlemenubtn from "../components/dle/dlemenubtn";
+import Dle from "../components/dle/dle";
 
 
-function Anime() {
-    const navigate = useNavigate();
-    const random = [getRandomCharacter(data, "classic"), getRandomCharacter(data, "picture")];
-    const [current, setCurrent] = useState(0);
-    const [remount, setRemount] = useState(0);
-    const maxModes = 2;
-    const changeMode = (index) => {
-        if (index === -1) {
-            if (current + 1 >= maxModes) {
-                navigate('/');
-            } else {
-                setCurrent(current + 1);
-            }
-        } else {
-            setRemount(remount + 1);
-            setCurrent(index);
-        }
-    };
+function Disney() {
+    const buttons = [
+        <Dlemenubtn key={1} menu={true} name={"Classic"} desc={"Find the daily Disney character"} logo="classic-disney" index={1} />,
+        <Dlemenubtn key={2} menu={true} name={"Picture"} desc={"Guess from a filtered image"} logo="picture-disney" index={2} />
+    ];
+
     const modes = [
-        <Classic key={'classic-' + remount} name={"anime"} mode="classic" data={data} random={random[0]} next={changeMode} fields={fields} first_tips={{name: "First Arc", key: "first_arc"}} second_tips={{name: "First Episode", key: "first_episode"}} />,
-        <Findmode key={'picture-' + remount} name={"anime"} mode="picture" data={data} random={random[1]} next={changeMode} filter="image_url" />
+        <Dlemenu key={'menu'} title="Guess the daily Disney character" name="disney" menu={true} buttons={buttons} />,
+        <Classic key={'classic'} name={"disney"} mode="classic" desc={"Find the daily character"} fields={fields} first_tips={{ name: "Year", key: "year" }} second_tips={{ name: "Movie", key: "first_film" }} />,
+        <Findmode key={'picture'} name={"disney"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
     return (
-        <div className="dle" style={{backgroundImage: `url(${bg})`}}>
-            <Homebtn />
-            <img alt="logo" className="scale logo" src={logo} />
-            {modes[current]}
-            <Modemenu
-                buttons={[
-                    <Modebtn key={1} name="Classic" index={0} click={changeMode} />,
-                    <Modebtn key={2} name="Picture" index={1} click={changeMode} />
+        <div>
+            <Dle
+                name="disney"
+                buttons={buttons}
+                modes={modes}
+                lang={[
+                    <option key={1} className="option" value="en">English</option>,
+                    <option key={2} className="option" value="fr">Français</option>
                 ]}
             />
         </div>
     )
 }
 
-export default Anime;
+export default Disney;

@@ -5,7 +5,7 @@ function Dropdown(props) {
 
     return (
         <div className="dropdown">
-            <label htmlFor={props.name}></label>
+            <label htmlFor={props.name} className="outline">{props.name.toUpperCase()}</label>
             <select className="select" name={props.name} onChange={change}>
                 {props.options}
             </select>

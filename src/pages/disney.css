@@ -1,0 +1,24 @@
+@font-face {
+    font-family: disney;
+    src: url("../assets/fonts/waltographUI.ttf");
+}
+
+.dle-disney {
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 70%), url("../assets/disney-bg.jpg");
+    font-family: disney;
+}
+
+.card-disney {
+    background-image: url("../assets/card-disney.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px black solid;
+}
+
+.dlemenubtn-disney {
+    background-image: url("../assets/card-disney.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px black solid;
+    color: black;
+}

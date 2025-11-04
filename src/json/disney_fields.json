@@ -1,0 +1,37 @@
+[
+    {
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
+    },
+    {
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
+    },
+    {
+        "key": "side",
+        "title": "Side",
+        "type": "equal"
+    },
+    {
+        "key": "species",
+        "title": "Species",
+        "type": "equal"
+    },
+    {
+        "key": "first_film",
+        "title": "Movie",
+        "type": "equal"
+    },
+    {
+        "key": "year",
+        "title": "Year",
+        "type": "number"
+    },
+    {
+        "key": "studio",
+        "title": "Studio",
+        "type": "equal"
+    }
+]
