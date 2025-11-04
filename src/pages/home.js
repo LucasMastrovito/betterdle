@@ -8,7 +8,7 @@ function Home() {
             <img alt="title" src="/title.png" style={{ maxWidth: "50vw", maxHeight: "30vh", margin: "3em" }} />
             <div className="dlebtn-container">
                 <Dlelist
-                    name="animesmanga"
+                    name="Animes / Manga"
                     buttons={[
                         <Dlebtn key={1} link={'/anime'} logo='anime' />,
                         <Dlebtn key={2} link={'/onepiece'} logo='onepiece' />,
@@ -16,7 +16,7 @@ function Home() {
                     ]}
                 />
                 <Dlelist
-                    name="videogames"
+                    name="Video Games"
                     buttons={[
                         <Dlebtn key={1} link={'/pokemon'} logo='pokemon' />,
                         <Dlebtn key={2} link={'/lol'} logo='lol' />,
@@ -27,7 +27,7 @@ function Home() {
                     ]}
                 />
                 <Dlelist
-                    name="cinema"
+                    name="Cinema"
                     buttons={[
                         <Dlebtn key={1} link={'/disney'} logo='disney' />
                     ]}
