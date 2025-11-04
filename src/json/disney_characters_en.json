@@ -4554,28 +4554,6 @@
     "aliases": "Steamboat Willie"
   },
   {
-    "name": "Horace Horsecollar",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/d/df/Horace_Horsecollar_ADHAM.png",
-    "gender": "Male",
-    "side": "Hero",
-    "first_film": "The Plowboy",
-    "year": 1929,
-    "species": "Horse",
-    "studio": "Disney",
-    "aliases": "The Plowboy"
-  },
-  {
-    "name": "Pete",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/7/7e/Pete.png",
-    "gender": "Male",
-    "side": "Villain",
-    "first_film": "Alice Solves the Puzzle",
-    "year": 1925,
-    "species": "Cat / Human-like",
-    "studio": "Disney",
-    "aliases": "Alice Solves the Puzzle"
-  },
-  {
     "name": "Scrooge McDuck",
     "image_url": "https://static.wikia.nocookie.net/disney/images/5/54/Scrooge_McDuck.png",
     "gender": "Male",
