@@ -4,11 +4,28 @@
 }
 
 .dle-games {
-    background-image: radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 70%), url("../assets/games-bg.png");
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 70%), url("../assets/games-bg.png");
     font-family: games;
 }
 
 .card-games {
+    background-color: #330076;
+    border: #ffffff 3px solid;
+}
+
+.submit-games p, input {
+    color: white;
+}
+
+.submit-games {
+    background-color: #4800a7;
+}
+
+.submit-games:hover {
+    background-color: #5b02ce;
+}
+
+.dlemenubtn-games {
     background-color: #330076;
     border: #ffffff 3px solid;
 }
