@@ -2770,5 +2770,93 @@
         ],
         "quote": "Cooking is a battlefield; only the sharpest survive.",
         "technique": null
+    },
+    {
+        "name": "Guts",
+        "image_url": "https://static.wikia.nocookie.net/berserk/images/4/40/Manga_V38_Guts.png",
+        "role": "Protagonist",
+        "gender": "Male",
+        "race": "Human",
+        "hair_color": "Black",
+        "weapon": "Sword",
+        "age": 24,
+        "height": 204,
+        "anime": "Berserk",
+        "year": 1997,
+        "power": "Yes",
+        "emoji": [
+            "⚔️",
+            "🩸",
+            "😠",
+            "🐺"
+        ],
+        "quote": "There is no paradise for you to escape to.",
+        "technique": "Berserker Armor Surge"
+    },
+    {
+        "name": "Griffith",
+        "image_url": "https://static.wikia.nocookie.net/berserk/images/b/b0/BTCG_Griffith_Holding_Sabre.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Human;Apostle",
+        "hair_color": "White",
+        "weapon": "Sword",
+        "age": 24,
+        "height": 178,
+        "anime": "Berserk",
+        "year": 1997,
+        "power": "Yes",
+        "emoji": [
+            "👑",
+            "🕊️",
+            "🌙",
+            "💀"
+        ],
+        "quote": "To achieve my dream, I am prepared to crush anything that stands in my way..",
+        "technique": "Noble escrime"
+    },
+    {
+        "name": "Casca",
+        "image_url": "https://static.wikia.nocookie.net/berserk/images/d/d0/BTCG_Casca_and_Puck.png",
+        "role": "Protagonist",
+        "gender": "Female",
+        "race": "Human",
+        "hair_color": "Brown",
+        "weapon": "Sword",
+        "age": 23,
+        "height": 165,
+        "anime": "Berserk",
+        "year": 1997,
+        "power": "No",
+        "emoji": [
+            "🗡️",
+            "🔥",
+            "🦅",
+            "😭"
+        ],
+        "quote": "I fight for my own heart, not to live in someone’s shadow.",
+        "technique": "Shortsword proficiency"
+    },
+    {
+        "name": "Nosferatu Zodd",
+        "image_url": "https://static.wikia.nocookie.net/berserk/images/c/c0/BTCG_Zodd_Full_Body.png",
+        "role": "Antagonist",
+        "gender": "Male",
+        "race": "Apostle;Demon",
+        "hair_color": "Brown",
+        "weapon": "Sword",
+        "age": 300,
+        "height": 220,
+        "anime": "Berserk",
+        "year": 1997,
+        "power": "Yes",
+        "emoji": [
+            "💀",
+            "🐂",
+            "👹",
+            "🩸"
+        ],
+        "quote": "Only those who survive may stand upon the battlefield.",
+        "technique": "Apostle transformation"
     }
 ]
