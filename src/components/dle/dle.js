@@ -59,7 +59,6 @@ function Dle(props) {
         setFieldFilter(field);
         setKey(prev => prev + 1);
     }
-    console.log(props.filters)
     return (
         <ModeContext.Provider value={{ changeMode }}>
             <div className={`dle dle-${props.name}`}>
@@ -71,14 +70,14 @@ function Dle(props) {
                     {props.lang ?
                         <Dropdown name="lang" options={props.lang} change={changeLanguage} />
                         :
-                        <span style={{display: "none"}} />
+                        <span style={{ display: "none" }} />
                     }
                     {data && props.filters ?
                         props.filters.map((field, index) =>
                             <Datafilter key={index} data={baseData} filter={field} change={applyFilter} />
                         )
                         :
-                        <span style={{display: "none"}} />
+                        <span style={{ display: "none" }} />
                     }
                     {props.settings}
                 </div>

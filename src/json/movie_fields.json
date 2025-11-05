@@ -1,0 +1,47 @@
+[
+    {
+        "key" : "image_url",
+        "title" : "Movie",
+        "type" : "none"
+    },
+    {
+        "key" : "name",
+        "title" : "Title",
+        "type" : "equal"
+    },
+    {
+        "key" : "year",
+        "title" : "Year",
+        "type" : "number"
+    },
+    {
+        "key" : "genre",
+        "title" : "Genres",
+        "type" : "equal"
+    },
+    {
+        "key" : "director",
+        "title" : "Director",
+        "type" : "equal"
+    },
+    {
+        "key" : "star",
+        "title" : "Star",
+        "type" : "equal"
+    },
+    {
+        "key" : "runtime",
+        "title" : "Runtime",
+        "type" : "number"
+    },
+    {
+        "key" : "rating",
+        "title" : "Rating",
+        "type" : "number"
+    },
+    {
+        "key" : "gross",
+        "title" : "Gross",
+        "type" : "number"
+    }
+]

@@ -13,6 +13,7 @@ import Valorant from './pages/valorant';
 import Pokemon from './pages/pokemon';
 import Tek from './pages/tek';
 import Disney from './pages/disney';
+import Movie from './pages/movie';
 
 function App() {
   useEffect(() => {
@@ -42,6 +43,7 @@ function App() {
           <Route path='/pokemon' element={<Pokemon />} />
           <Route path='/epitech' element={<Tek />} />
           <Route path='/disney' element={<Disney />} />
+          <Route path='/movie' element={<Movie />} />
         </Routes>
       </BrowserRouter>
     </div>

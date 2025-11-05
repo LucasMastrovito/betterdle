@@ -29,7 +29,8 @@ function Home() {
                 <Dlelist
                     name="Cinema"
                     buttons={[
-                        <Dlebtn key={1} link={'/disney'} logo='disney' />
+                        <Dlebtn key={1} link={'/movie'} logo='movie' />,
+                        <Dlebtn key={2} link={'/disney'} logo='disney' />
                     ]}
                 />
             </div>

@@ -5,35 +5,36 @@ function getIndexByName(data, name) {
   return data.findIndex((item) => item.name === name);
 }
 
-function filterByNameOrAlias(arr, search) {
+function filterByNameOrAlias(arr, search, limit = 200) {
   const lowerSearch = search.toLowerCase();
+  const results = [];
 
-  return arr
-    .map(item => {
-      const matches = [];
+  for (const item of arr) {
+    if (results.length >= limit) break;
 
-      if (item.name && item.name.toLowerCase().includes(lowerSearch)) {
-        matches.push(item.name);
-      }
+    const matches = [];
 
-      if (
-        item.aliases &&
-        item.aliases.toLowerCase().includes(lowerSearch)
-      ) {
-        matches.push(item.name);
-      }
+    if (item.name && item.name.toLowerCase().includes(lowerSearch)) {
+      matches.push(item.name);
+    }
 
-      return matches.length > 0 ? { ...item, matches } : null;
-    })
-    .filter(Boolean)
-    .sort((a, b) => {
-      const aStarts = a.name.toLowerCase().startsWith(lowerSearch);
-      const bStarts = b.name.toLowerCase().startsWith(lowerSearch);
-      if (aStarts && !bStarts) return -1;
-      if (!aStarts && bStarts) return 1;
+    if (item.aliases && item.aliases.toLowerCase().includes(lowerSearch)) {
+      matches.push(item.name);
+    }
 
-      return a.name.localeCompare(b.name);
-    });
+    if (matches.length > 0) {
+      results.push({ ...item, matches });
+    }
+  }
+
+  return results.sort((a, b) => {
+    const aStarts = a.name.toLowerCase().startsWith(lowerSearch);
+    const bStarts = b.name.toLowerCase().startsWith(lowerSearch);
+    if (aStarts && !bStarts) return -1;
+    if (!aStarts && bStarts) return 1;
+
+    return a.name.localeCompare(b.name);
+  });
 }
 
 function Searchbar(props) {
