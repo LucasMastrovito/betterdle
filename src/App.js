@@ -15,6 +15,7 @@ import Tek from './pages/tek';
 import Disney from './pages/disney';
 import Movie from './pages/movie';
 import Games from './pages/games';
+import Toons from './pages/toons';
 
 function App() {
   useEffect(() => {
@@ -46,6 +47,7 @@ function App() {
           <Route path='/disney' element={<Disney />} />
           <Route path='/movie' element={<Movie />} />
           <Route path='/games' element={<Games />} />
+          <Route path='/toons' element={<Toons />} />
         </Routes>
       </BrowserRouter>
     </div>
