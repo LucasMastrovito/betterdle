@@ -28,6 +28,9 @@ function Disney() {
                     <option key={1} className="option" value="en">English</option>,
                     <option key={2} className="option" value="fr">Français</option>
                 ]}
+                filters={[
+                    "studio"
+                ]}
             />
         </div>
     )
