@@ -1090,7 +1090,7 @@
   },
   {
     "name": "Roquefort",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/1/16/Roquefort-Profile-Image.png",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/1/16/Roquefort-Profile-Image.png.png",
     "gender": "Masculin",
     "side": "Héros",
     "first_film": "Les Aristochats",
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "Scat Cat",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/4/4c/Scat_Cat_AristoCats.jpg",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/4/4c/Scat_Cat_Aristocats.jpg",
     "gender": "Masculin",
     "side": "Héros",
     "first_film": "Les Aristochats",
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "Zeus",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/4/43/Zeus_Hercule_97.jpg",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/4/43/Zeus_Hercules_97.jpg",
     "gender": "Masculin",
     "side": "Héros",
     "first_film": "Hercule",
@@ -3323,7 +3323,7 @@
   },
   {
     "name": "Yokai / Professeur Callaghan",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/0/00/Yokai_Big_Heros_6_Profile.jpg",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/0/00/Yokai_Big_Hero_6_Profile.jpg",
     "gender": "Masculin",
     "side": "Villain",
     "first_film": "Big Héros 6",
