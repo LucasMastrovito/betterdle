@@ -14,6 +14,7 @@ import Pokemon from './pages/pokemon';
 import Tek from './pages/tek';
 import Disney from './pages/disney';
 import Movie from './pages/movie';
+import Games from './pages/games';
 
 function App() {
   useEffect(() => {
@@ -44,6 +45,7 @@ function App() {
           <Route path='/epitech' element={<Tek />} />
           <Route path='/disney' element={<Disney />} />
           <Route path='/movie' element={<Movie />} />
+          <Route path='/games' element={<Games />} />
         </Routes>
       </BrowserRouter>
     </div>

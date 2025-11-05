@@ -1,0 +1,42 @@
+[
+    {
+        "key" : "name",
+        "title" : "Title",
+        "type" : "equal"
+    },
+    {
+        "key" : "year",
+        "title" : "Year",
+        "type" : "number"
+    },
+    {
+        "key" : "genres",
+        "title" : "Genres",
+        "type" : "equal"
+    },
+    {
+        "key" : "platforms",
+        "title" : "Platforms",
+        "type" : "equal"
+    },
+    {
+        "key" : "developer",
+        "title" : "Developper",
+        "type" : "equal"
+    },
+    {
+        "key" : "publisher",
+        "title" : "Publisher",
+        "type" : "equal"
+    },
+    {
+        "key" : "metascore",
+        "title" : "Metascore",
+        "type" : "number"
+    },
+    {
+        "key" : "rating",
+        "title" : "Rating",
+        "type" : "equal"
+    }
+]
