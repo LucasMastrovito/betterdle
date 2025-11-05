@@ -1,6 +1,6 @@
 @font-face {
     font-family: games;
-    src: url("../assets/fonts/Cinematografica-Heavy-trial.ttf");
+    src: url("../assets/fonts/BoldPixels.ttf");
 }
 
 .dle-games {
@@ -9,6 +9,6 @@
 }
 
 .card-games {
-    background-color: #c10000;
+    background-color: #330076;
     border: #ffffff 3px solid;
 }
