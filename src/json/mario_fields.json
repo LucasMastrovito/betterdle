@@ -1,0 +1,42 @@
+[
+    {
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
+    },
+    {
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
+    },
+    {
+        "key": "side",
+        "title": "Side",
+        "type": "equal"
+    },
+    {
+        "key": "species",
+        "title": "Species",
+        "type": "equal"
+    },
+    {
+        "key": "colors",
+        "title": "Colors",
+        "type": "equal"
+    },
+    {
+        "key": "occupation",
+        "title": "Occupation",
+        "type": "equal"
+    },
+    {
+        "key": "first_appearance",
+        "title": "First Appearance",
+        "type": "equal"
+    },
+    {
+        "key": "year",
+        "title": "Year",
+        "type": "number"
+    }
+]

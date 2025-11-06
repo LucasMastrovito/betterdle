@@ -24,7 +24,8 @@ function Home() {
                         <Dlebtn key={4} link={'/valorant'} logo='valorant' />,
                         <Dlebtn key={5} link={'/sw'} logo='sw' />,
                         <Dlebtn key={6} link={'/gacha'} logo='gacha' />,
-                        <Dlebtn key={7} link={'/sonic'} logo='sonic' />
+                        <Dlebtn key={7} link={'/sonic'} logo='sonic' />,
+                        <Dlebtn key={8} link={'/mario'} logo='mario' />
                     ]}
                 />
                 <Dlelist
