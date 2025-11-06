@@ -15,7 +15,7 @@
         "type" : "number"
     },
     {
-        "key" : "genre",
+        "key" : "genres",
         "title" : "Genres",
         "type" : "equal"
     },
@@ -30,18 +30,23 @@
         "type" : "equal"
     },
     {
-        "key" : "runtime",
-        "title" : "Runtime",
+        "key" : "countries",
+        "title" : "Countries",
+        "type" : "equal"
+    },
+    {
+        "key" : "production",
+        "title" : "Studio",
+        "type" : "equal"
+    },
+    {
+        "key" : "gross rank",
+        "title" : "Gross Rank",
         "type" : "number"
     },
     {
-        "key" : "rating",
+        "key" : "vote",
         "title" : "Rating",
-        "type" : "number"
-    },
-    {
-        "key" : "gross",
-        "title" : "Gross",
         "type" : "number"
     }
 ]
