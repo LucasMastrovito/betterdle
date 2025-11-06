@@ -583,5 +583,18 @@
         "quote": "(principalement silencieux, utilise gestes et son sac magique pour communiquer)",
         "colors": "Noir;Blanc",
         "side": "Héros"
+    },
+    {
+        "name": "Michigan J. Frog",
+        "image_url": "https://static.wikia.nocookie.net/looneytunes/images/e/ed/Michigan_J._Frog.png",
+        "franchise": "Looney Tunes",
+        "first_appearance": "One Froggy Evening",
+        "year": 1955,
+        "description": "Une grenouille chantante et dansante du cartoon culte 'One Froggy Evening'. Connue pour sa voix de crooner et son comportement muet lorsqu’elle n’est pas sur scène. Symbole du gag ironique typique de Warner Bros.",
+        "gender": "Mâle",
+        "species": "Grenouille",
+        "quote": "Hello! Ma baby, hello! Ma honey, hello! Ma ragtime gal!",
+        "colors": "Vert;Jaune",
+        "side": "Neutre"
     }
 ]

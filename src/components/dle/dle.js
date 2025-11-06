@@ -68,7 +68,7 @@ function Dle(props) {
                 </div>
                 <div className={`card card-${props.name} settings`} style={{ display: props.settings || props.lang || props.filters ? "flex" : "none" }}>
                     {props.lang ?
-                        <Dropdown name="lang" options={props.lang} change={changeLanguage} />
+                        <Dropdown name="language" options={props.lang} change={changeLanguage} />
                         :
                         <span style={{ display: "none" }} />
                     }

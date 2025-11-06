@@ -583,5 +583,18 @@
         "quote": "(mostly silent, uses gestures and his bag of tricks to communicate)",
         "colors": "Black;White",
         "side": "Hero"
+    },
+    {
+        "name": "Michigan J. Frog",
+        "image_url": "https://static.wikia.nocookie.net/looneytunes/images/e/ed/Michigan_J._Frog.png",
+        "franchise": "Looney Tunes",
+        "first_appearance": "One Froggy Evening",
+        "year": 1955,
+        "description": "A singing and dancing frog from the classic cartoon 'One Froggy Evening'. Known for his deep crooner voice and his tendency to go silent whenever others are watching. A perfect example of Warner Bros. ironic humor.",
+        "gender": "Male",
+        "species": "Frog",
+        "quote": "Hello! Ma baby, hello! Ma honey, hello! Ma ragtime gal!",
+        "colors": "Green;Yellow",
+        "side": "Neutral"
     }
 ]
