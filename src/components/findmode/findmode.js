@@ -84,6 +84,7 @@ function Findmode(props) {
                     <span style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "2em" }}>
                         <div className={`card card-${props.name}`}>
                             <h2 className="margin-no outline">{props.desc}</h2>
+                            <h2 className="outline">Each try unblurs and zooms out the image</h2>
                             <div className={`img-container img-container-${props.name}`}>
                                 <img alt="img" src={filter} className="img-to-find" style={{ filter: `grayscale(${grey ? '1' : '0'}) ${activeBlur ? `blur(${blur})` : ''}`, transform: `scale(${zoom ? scale : 1})` }} />
                             </div>

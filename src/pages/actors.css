@@ -1,0 +1,13 @@
+.dle-actors {
+    background-image: radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 70%), url("../assets/actors-bg.jpg");
+}
+
+.card-actors {
+    background-color: rgb(178, 178, 178);
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.dlemenubtn-actors {
+    background-color: rgb(178, 178, 178);
+    border: 2px solid rgb(255, 255, 255);
+}

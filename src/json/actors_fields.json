@@ -1,0 +1,37 @@
+[
+    {
+        "key" : "image_url",
+        "title" : "Agent",
+        "type" : "none"
+    },
+    {
+        "key" : "name",
+        "title" : "Name",
+        "type" : "equal"
+    },
+    {
+        "key" : "date of birth",
+        "title" : "Birth",
+        "type" : "number"
+    },
+    {
+        "key" : "place of birth",
+        "title" : "Place",
+        "type" : "equal"
+    },
+    {
+        "key" : "oscars",
+        "title" : "Oscars",
+        "type" : "number"
+    },
+    {
+        "key" : "bafta",
+        "title" : "Bafta",
+        "type" : "number"
+    },
+    {
+        "key" : "golden globes",
+        "title" : "Golden Globes",
+        "type" : "number"
+    }
+]

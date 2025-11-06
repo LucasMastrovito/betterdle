@@ -31,8 +31,9 @@ function Home() {
                     name="Cinema"
                     buttons={[
                         <Dlebtn key={1} link={'/movie'} logo='movie' />,
-                        <Dlebtn key={2} link={'/disney'} logo='disney' />,
-                        <Dlebtn key={3} link={'/toons'} logo='toons' />
+                        <Dlebtn key={2} link={'/actors'} logo='actors' />,
+                        <Dlebtn key={3} link={'/disney'} logo='disney' />,
+                        <Dlebtn key={4} link={'/toons'} logo='toons' />
                     ]}
                 />
             </div>

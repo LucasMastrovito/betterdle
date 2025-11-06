@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Al Pacino",
+        "date of birth": 1940,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 2,
+        "golden globes": 4,
+        "greatest performances": "Serpico;Scent of a Woman;Dog Day Afternoon;The Godfather: Part II",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIk0y7FuVy3KFxhqpUX8bxh9nALcTvee7lDAbp75IHULD8sl_Hhsn5SwzMug&s.png"
+    },
+    {
+        "name": "Alan Arkin",
+        "date of birth": 1934,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Argo;Little Miss Sunshine;The Heart Is a Lonely Hunter",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSybprgpeqjAEVkn98v4S9YIiL02FEUrp4x8zIKVypsmr0zb4Ocqrg-9v7NhW0&s.png"
+    },
+    {
+        "name": "Alan Rickman",
+        "date of birth": 1946,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Michael Collins;Truly Madly Deeply;Sense and Sensibility",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUfbARJAXeogHtV87gwmVFemmSioIjdVbeXEQxTyiLsiam0kkaFwws-5p4u8&s.png"
+    },
+    {
+        "name": "Albert Finney",
+        "date of birth": 1936,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 2,
+        "golden globes": 2,
+        "greatest performances": "The Murder on the orient Express;The Dresser;Under the Volcano",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-B3BlSKC2gAbDYG-oSxkYlCJXKMxzb606V6VYFtG06xgoN_Wyxqf8D030A&s.png"
+    },
+    {
+        "name": "Alec Guinness",
+        "date of birth": 1914,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 3,
+        "golden globes": 1,
+        "greatest performances": "Star Wars;Little Dorrit;The Bridge on the River Kwai",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxDlofkkIZTbGon6CwHwa0lppYuNJ0YqS0n3E0O_WCibKgBWJovyw3MEQCB_M&s.png"
+    },
+    {
+        "name": "Anthony Hopkins",
+        "date of birth": 1937,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 3,
+        "golden globes": 0,
+        "greatest performances": "The Silence of the Lambs;Nixon;The Remains of the Day",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlV5cQXq0bAhO8AuR9ITeiv6BiJ3pSySFRy76owuMVLICaO5aH0W3p8FSmgo&s.png"
+    },
+    {
+        "name": "Anthony Quinn",
+        "date of birth": 1915,
+        "place of birth": "Mexico",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Lust for Life;Viva Zapata!;Alexis Zorbas",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSRMn3qjIWra70GHTB6jqO4Y8MiB82M0e0VH0ZrGoSnsr2Te4scVKSpwqxHt0&s.png"
+    },
+    {
+        "name": "Ben Kingsley",
+        "date of birth": 1943,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 2,
+        "golden globes": 2,
+        "greatest performances": "Gandhi;Sexy Beast;House of Sand and Fog",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8nImEI2NCIMkNgkZ0r712SMQc5zXDogD5SYaLDqq7YcxlG4zgpC3CeVevA&s.png"
+    },
+    {
+        "name": "Benicio Del Toro",
+        "date of birth": 1967,
+        "place of birth": "Puerto Rico",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Traffic;21 Grams;The Pledge",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtf5t7nLsQRBYN3ki2yXG8yI4TEsvFNs0PHwB-KFp6Pt_2ZNyHQapg5eaog&s.png"
+    },
+    {
+        "name": "Bill Murray",
+        "date of birth": 1950,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Rushmore;Lost in Translation;Hyde Park on Hudson",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpqSSezQd-7xlWzpOByfsz-uUp1AvkSYuarkOak4f-hyoGbYBR3LH5HuWWOI&s.png"
+    },
+    {
+        "name": "Brad Pitt",
+        "date of birth": 1963,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "The Curious Case of Benjamin Button;Moneyball;Twelve Monkeys",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SlVP7JcmDLWrySlvq1aRivC57M7yp84poUDOMLW5MxwpD1Z-Wyl7zgpgwiI&s.png"
+    },
+    {
+        "name": "Burt Lancaster",
+        "date of birth": 1913,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 2,
+        "golden globes": 1,
+        "greatest performances": "Atlantic City;Elmer Gantry;From Here to Eternity",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWl-J-2ggdy68mqVhSxoTEBpbz75hniJvyerFEPVH6JO4DjR6IrVNc76Mgoh4&s.png"
+    },
+    {
+        "name": "Cary Grant",
+        "date of birth": 1904,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Charade;Penny Serenade;Not But the Lonely Heart",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgi24bCpVprPy1LR4aZsFKN7qnJisAl2HP7X5oeUZye-VL5wldUXtDSSd7qQ&s.png"
+    },
+    {
+        "name": "Charles Chaplin",
+        "date of birth": 1889,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "The Great Dictator;City Lights;Modern Times",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8ksUaRId4PM_5t5UU7wUNvYXiZgJmd6QleOdF6xVReoUhXprmGWZ6qIcKg&s.png"
+    },
+    {
+        "name": "Charles Laughton",
+        "date of birth": 1899,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Mutiny on the Bounty;Witness for the Prosecution;The Private Life of Henry VIII",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9atT4S-roS3RxJMi7_1O0_vSJ2s9K0T0TK9jl6lHRl7Yxif67P70In_RtQ&s.png"
+    },
+    {
+        "name": "Charlton Heston",
+        "date of birth": 1923,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Ben-Hur;The Ten Commandments;The Pigeon That Took Rome",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpAGQdSgxiSqK5hhDMppN_9vcPSqjuEppcOhGe6QAoC-NVHRjY1PeDwNNbjo&s.png"
+    },
+    {
+        "name": "Christian Bale",
+        "date of birth": 1974,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "The Fighter;The Dark Knight;American Hustle",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9U1AJyTFNN2hq3RfR-uXgY49pBRr8_jEUNO3RD02qTeNRmnmgqjjcCokG2s&s.png"
+    },
+    {
+        "name": "Christoph Waltz",
+        "date of birth": 1956,
+        "place of birth": "Austria",
+        "oscars": 2,
+        "bafta": 2,
+        "golden globes": 2,
+        "greatest performances": "Carnage;Django Unchained;Inglourious Bastards",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7Vx47ziudlvS4al4yeK8r2dhmi9jCOWfT9Sm9nYIB97VyVVxBOwwS6iEtg&s.png"
+    },
+    {
+        "name": "Christopher Plummer",
+        "date of birth": 1929,
+        "place of birth": "Canada",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Beginners;The Last Station;The Sound of Music",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vENCXPgh_eg_iGkePxnIGhbM81hzveStfIwpdJSaz94x6aZjfq2Q0nMUdAE&s.png"
+    },
+    {
+        "name": "Christopher Walken",
+        "date of birth": 1943,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 0,
+        "greatest performances": "Hairspray;The Deer Hunter;King of New York;Catch Me If You Can",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1tv8MnhQ1l699bjXPhi7R_exXGIne-Pyr8Y4qtgQ2WSTHUs60u1ofb50I_Co&s.png"
+    },
+    {
+        "name": "Clark Gable",
+        "date of birth": 1901,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Gone with the Wind;Mutiny on the Bounty;It Happened One Night",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2kogjqi8br2FqhqBAtGBb4d1zO-NZfcMol9INBj0O0OYzGdtGLX9g2HoAV4&s.png"
+    },
+    {
+        "name": "Clint Eastwood",
+        "date of birth": 1930,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 3,
+        "greatest performances": "Million Dollar Baby;Unforgiven;Million Dollar Baby;The Good;the Bad;and the Ugly",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQavkwDDe6KePzmsbMFQEJPGvl9Vpp_tQ1fKFktOEEaDx6HUYI1mPMVvngfog&s.png"
+    },
+    {
+        "name": "Colin Firth",
+        "date of birth": 1960,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 2,
+        "golden globes": 1,
+        "greatest performances": "A Single Man;The King's Speech;Tinker Tailor Soldier Spy",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8zzzZbWhNgLwFHZUnBwEe5QeQdpVxOrv_Fe9J7Sj77LEZt0jEf688pMlyA&s.png"
+    },
+    {
+        "name": "Daniel Day-Lewis",
+        "date of birth": 1957,
+        "place of birth": "United Kingdom",
+        "oscars": 3,
+        "bafta": 4,
+        "golden globes": 2,
+        "greatest performances": "There Will Be Blood;Lincoln;My Left Foot",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5UwlkP9F3B2xq52z_mIE_xqs7Da4hPdaAExsqYGOqRbXzLWufBuoPb7_Jg&s.png"
+    },
+    {
+        "name": "Denzel Washington",
+        "date of birth": 1954,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 2,
+        "greatest performances": "Fences;Glory;Malcolm X;Training Day",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJW9kueN8AjSKBu4c4oubScmmz5BA6KrOfsD-KUOd8sodJ70uvtDsEloSm-o&s.png"
+    },
+    {
+        "name": "Don Cheadle",
+        "date of birth": 1964,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 2,
+        "greatest performances": "The Rat Pack;House of Lies;Hotel Rwanda",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsKL6pbhWIB2wvFWiXvO8C3QyJttFn2A2wF75AM6C4Gxi11l8D2QSiDp30ik&s.png"
+    },
+    {
+        "name": "Dustin Hoffman",
+        "date of birth": 1937,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 4,
+        "golden globes": 5,
+        "greatest performances": "Tootsie;Rain Man;Midnight Cowboy;Kramer vs. Kramer",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-K9PHUJQTeKIx-j9NJ6p_s1zDY2KTPPrmCRc8FYjG_b76DH-33Phz8r6pkmA&s.png"
+    },
+    {
+        "name": "Edward Norton",
+        "date of birth": 1969,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Primal Fear;American History X;Everyone Says I Love You",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyP-KrDBAy_5MhoY1dq7Iy-GJ09kv3xetrij9VmTx9lYA-0iCqFhcDgo-ya0&s.png"
+    },
+    {
+        "name": "Gary Cooper",
+        "date of birth": 1901,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "High Noon;Sergeant York;Mr. Deeds Goes to Town",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7GGY64vFAf-Xo_PxQd6TmzS5vHm-UGZsu7cccNULa5dzeirsrm2GEsUI1A&s.png"
+    },
+    {
+        "name": "Gary Oldman",
+        "date of birth": 1958,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 0,
+        "greatest performances": "Prick Up Your Ears;Leon: The Professional;Tinker Tailor Soldier Spy",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbQA559unkdjQrzKqAOJJ95UKNettDJU08dhl9Ca8HreZDKFN-WHA5FaevUA&s.png"
+    },
+    {
+        "name": "Gene Hackman",
+        "date of birth": 1930,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 3,
+        "golden globes": 3,
+        "greatest performances": "Unforgiven;Mississippi Burning;The French Connection",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo65gXvK_KJ5gQFy2S_0ofDEjbH6ffGB1w4TkF8bO0mJvA9HWgeX-1su-MZAU&s.png"
+    },
+    {
+        "name": "Gene Kelly",
+        "date of birth": 1912,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Hello;Dolly!;Anchors Aweigh;An American in Paris",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WBPQFdT78Ju0jQjDF0dEdDho_Nr9Cz3j93RC0vTubWtZUusYaDryFI7_4g&s.png"
+    },
+    {
+        "name": "Geoffrey Rush",
+        "date of birth": 1951,
+        "place of birth": "Australia",
+        "oscars": 1,
+        "bafta": 3,
+        "golden globes": 2,
+        "greatest performances": "Shine;Quills;The King's Speech",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjVbSlhk6PoI5sgmuz0sIfH9tKAsGci4DBuo8h0Fia_ejvmc3jPHLN9F_mw&s.png"
+    },
+    {
+        "name": "George C. Scott",
+        "date of birth": 1927,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 2,
+        "greatest performances": "Patton;The Hustler;The Hospital",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDR3aPnt0oJ7ogFpVF0vN6n4TU6QWAXKdtPkNmDFC2xiKHD-Ut9Cy_R8Inw&s.png"
+    },
+    {
+        "name": "Gregory Peck",
+        "date of birth": 1916,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 3,
+        "greatest performances": "To Kill a Mockingbird;The Boys from Brazil;Gentleman's Agreement",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBXxj1i96EF4MgosoSfXYStT7nRyD6TcY9fF3l04vuBwgmpfN8lm2aQOnLw&s.png"
+    },
+    {
+        "name": "Harrison Ford",
+        "date of birth": 1942,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Witness;Star Wars;The Fugitive",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6DUV8CUa9w_CteohOMcCpU2VSYIH84X6oK8GsV3GhG095iUPqoM7VIHofKw&s.png"
+    },
+    {
+        "name": "Heath Ledger",
+        "date of birth": 1979,
+        "place of birth": "Australia",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Candy;The Dark Knight;Brokeback Mountain",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGvx-dy6MReNVzk2qaHjp_boglZ-f1dszwhcl4MMHB2CGEhHeGD73UcDGUA&s.png"
+    },
+    {
+        "name": "Henry Fonda",
+        "date of birth": 1905,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "12 Angry Men;On Golden Pond;The Grapes of Wrath",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNR1GWQ-kLoe3uLfrbXIQjHKnipQHj9qPcrT7N7TOLiXEEyApyyE1xn-8Wg&s.png"
+    },
+    {
+        "name": "Hugh Jackman",
+        "date of birth": 1968,
+        "place of birth": "Australia",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Logan;The Fountain;Les Miserables;Kate & Leopold",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUkULNQIQJKdLnBigvWG0P9zkYcaeN2bA1wCVmqyuFAtLBSHFB-hb533Frw&s.png"
+    },
+    {
+        "name": "Humphrey Bogart",
+        "date of birth": 1899,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Casablanca;The Caine Mutiny;The African Queen",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg9nUtjCogaVTmX3uDyQnnS-Ado4rLVZIVmjUYOCQVD8BSsrY8dda_y9mx0Sw&s.png"
+    },
+    {
+        "name": "Ian McKellen",
+        "date of birth": 1939,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "The Lord of the Rings: The Fellowship of the Ring;Richard III;Gods and Monsters",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmJHnmGyZLhbvuDCOP-lFFMX0S0wYe-9eKys4P4LdxRy6Cg41b04NQ7UnXXo&s.png"
+    },
+    {
+        "name": "Jack Lemmon",
+        "date of birth": 1925,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 2,
+        "golden globes": 4,
+        "greatest performances": "The Apartment;Mister Roberts;Save the Tiger;Some Like It Hot",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiZ7TRjYuVNOFWnmxbXvo-ZQR3s-aNTz5mt4duxCY2rvSJvXEvTt3iojSL_w&s.png"
+    },
+    {
+        "name": "Jack Nicholson",
+        "date of birth": 1937,
+        "place of birth": "United States",
+        "oscars": 3,
+        "bafta": 4,
+        "golden globes": 6,
+        "greatest performances": "The Shining;Chinatown;As Good as It Gets;One Flew Over The Cuckoo's Nest",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgQLmf1wtp84VMIaUzxA44WmKYh6ncRcnmMc9kqp1SuDufBPsKSf1xGp6EQI&s.png"
+    },
+    {
+        "name": "James Cagney",
+        "date of birth": 1899,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Love Me or Leave Me;Yankee Doodle Dandy;Angles with Dirty Faces",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKfddDPhSJnVhQGqUJCGbSIZ2CPCkPf4Mw-tsct41S3ZJcLPu_FVQHtY1kg&s.png"
+    },
+    {
+        "name": "James Dean",
+        "date of birth": 1931,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Giant;East of Eden;Rebel Without a Cause",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZeNobsajS2Vz7xOBh5hs5KE0oELApINyFspzPjrJaMhaEbqO1Au8ves6UA&s.png"
+    },
+    {
+        "name": "James Stewart",
+        "date of birth": 1908,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Anatomy of a Murder;It's a Wonderful Life;A Philadelphia Story;Mr. Smith Goes to Washington",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacrAvhzNZwT6q7bSNlwSJu9_PIXV2rzYDxHnzsFhoMNDqT_3SOCx1OBFRNco&s.png"
+    },
+    {
+        "name": "Jamie Foxx",
+        "date of birth": 1967,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Ray;Django Unchained;Collateral",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaUEbS-xOm7f-CQIoxGT-Vwf0MP09w54I-GHtzLi3Au9dnMOCxCRrVDvFIow&s.png"
+    },
+    {
+        "name": "Jason Robards",
+        "date of birth": 1922,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Julia;Melvin and Howard;All the President's Men",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1oYrZ3PWMfQKS7XiJO5Fwv7MbV6PQWWnJkJ4rmlmc2tTjmGnQdjhDPwoKkgc&s.png"
+    },
+    {
+        "name": "Javier Bardem",
+        "date of birth": 1969,
+        "place of birth": "Spain",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 4,
+        "greatest performances": "Biutiful;Before Night Falls;No Country for Old Men",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2h_q4wdrsXwy5W0Jk_62rc_C30tILps7sRGQmO5x8bXp_QvFOS9rQJxqR3P4&s.png"
+    },
+    {
+        "name": "Jeff Bridges",
+        "date of birth": 1949,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "The Big Lebowski;Starman;True Grit;Crazy Heart",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXk68F2ofNi1KGQMeAMrTbLrCyFaP-C7tmLAOZIFkOzFk1UcUqbcFPTYEkVkI&s.png"
+    },
+    {
+        "name": "Jeremy Irons",
+        "date of birth": 1948,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 2,
+        "greatest performances": "Dead Ringers;Reversal of Fortune;aBrideshead Revisited",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToI-MJOYHQgr6YCbXTXIzi7CPamj8W-CgBmcIMnKgWwE4Yl4u53LK9MhuoQ&s.png"
+    },
+    {
+        "name": "Jim Carrey",
+        "date of birth": 1962,
+        "place of birth": "Canada",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 2,
+        "greatest performances": "Man on the Moon;The Truman Show;Eternal Sunshine of the Spotless Mind",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWIk864bQVatg9Nk2lB06sNk85Xck9KeuynJWIrW_FPIwm3EVbCnT5YXelQA&s.png"
+    },
+    {
+        "name": "Joaquin Phoenix",
+        "date of birth": 1974,
+        "place of birth": "Puerto Rico",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Her;The Master;Walk the Line",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwr20ug-wZ1Bzj_OvVitthWRSvWVzGYKGOT756REGK3FUORw_rbNimr4jnzk&s.png"
+    },
+    {
+        "name": "Joe Pesci",
+        "date of birth": 1943,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 0,
+        "greatest performances": "Casino;Goodfellas;Raging Bull",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrfTGzqQ3_2hnc9FnUdlzqciMhSMMdGCF7QltF10fuXdQK48kVm8CBo2QPCRU&s.png"
+    },
+    {
+        "name": "John Goodman",
+        "date of birth": 1952,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Flight;Barton Fink;The Big Lebowski",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjdrchnC_BkLqWzDpxo6GjmtkZEGx7Ajr63yrz3_QCxXgk2Gb1nDSLIvqiA&s.png"
+    },
+    {
+        "name": "John Travolta",
+        "date of birth": 1954,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Saturday Night Fever;Pulp Fiction;Grease",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTbxvrtSJ0tvXbrynKs-wYWTGKL2A02XVPrg1NxVEh5SHh8K-a9TkLveI1K8&s.png"
+    },
+    {
+        "name": "John Wayne",
+        "date of birth": 1907,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "True Grit;The Alamo;Sands of Iwo Jima",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrsWAI4Mjb7C4Xjp-4PnbG7Iqd3SXxxzAaJAY2ouJ_ylAhkEBXlDR-AK32vq4&s.png"
+    },
+    {
+        "name": "Johnny Depp",
+        "date of birth": 1963,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Ed Wood;Donnie Brasco;Edward Scissorhands",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIlgrOePMe_4dRaLUs5RVx16xyLGhYHL0yM2TDxBB12GOh_DbSoymgVDb_9g&s.png"
+    },
+    {
+        "name": "Jon Voight",
+        "date of birth": 1938,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 3,
+        "greatest performances": "Coming Home;Runaway Train;Midnight Cowboy",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb_2R2EiRmuPY_7WCEi_e0SdPDg6xov-_dE1O_tO7tzLIhxmlwMnO6H6b2Ys0&s.png"
+    },
+    {
+        "name": "Kevin Spacey",
+        "date of birth": 1959,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "The Usual Suspects;L.A. Confidential;Se7en;American Beauty",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQ-wC65PtjXhInrszyfeOC4dYDYrqR0ecO8aKJT2-Ye16jQcbb-uXLC5R8qw&s.png"
+    },
+    {
+        "name": "Kirk Douglas",
+        "date of birth": 1916,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Spartacus;Champion;Lust for Life;The Bad and the Beautiful",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjw-cckD4-pkdTaR2dbV6_CqdZ3DadlPWYO4tCjUEnWCRHxzdmNkI1aTsp4vk&s.png"
+    },
+    {
+        "name": "Laurence Olivier",
+        "date of birth": 1907,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 2,
+        "golden globes": 2,
+        "greatest performances": "Sleuth;Hamlet;Rebecca;Spartacus",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhebA5qo2xvUphsMcCBg3X3XkBf5BPc0pvNBuw27Vcvu7i2-QByAAyJsuxA&s.png"
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "date of birth": 1974,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 2,
+        "greatest performances": "Titanic;Inception;The Revenant;The Wolf of Wall Street;What's Eating Gilbert Grape",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4mDI-AMq17M9_RNYqlf4j96tBKbp5rEznF6TamEBO_gRLEAsWrSCfK8r0g0&s.png"
+    },
+    {
+        "name": "Liam Neeson",
+        "date of birth": 1952,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Kinsey;Michael Collins;Schindler's List",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTMr3nqAIrigaErZhvA7pVSXnduG0ysxIAUM5yc6H-XmciwhWMX45WjH82-U&s.png"
+    },
+    {
+        "name": "Marlon Brando",
+        "date of birth": 1924,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 3,
+        "golden globes": 2,
+        "greatest performances": "The Godfather;Apocalypse Now;On the Waterfront;A Street Car Named Desire",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQIedvPgYL6EgEP3KD1kqqqMlA1EGqxEueGzz85eQbMD0UhsCarD934aNJw&s.png"
+    },
+    {
+        "name": "Martin Sheen",
+        "date of birth": 1940,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Kennedy;Apocalypse Now;The Subject Wad Roses",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbVVBYDWSSGaPVtdJFouIl24w4Miu2twEPtoVgHMsetvCEtpmL0V7twHFcHEo&s.png"
+    },
+    {
+        "name": "Matt Damon",
+        "date of birth": 1970,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Invictus;Good Will Hunting;The Talented Mr. Ripley",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPqSP43Q--jUGCiU6g5Malfap_cVVSi3QpjbZI8Qq4Aeb5j4FgZ8_HvkEXg&s.png"
+    },
+    {
+        "name": "Matthew McConaughey",
+        "date of birth": 1969,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Killer Joe;True Detective;Dallas Buyers Club",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2f90t97DO_EXo5ra-rCUnet7c0tHIfvVfAtArYhKnvuHJaj6Oe7N5Cl3JzQ&s.png"
+    },
+    {
+        "name": "Mel Gibson",
+        "date of birth": 1956,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Ransom;Braveheart;What Women Want",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFRO8HfoPKX1zMjvOJsG_T0dwnkjK6B6WNGJ-qjvoFZZJmBX5gNrz1gZ24g&s.png"
+    },
+    {
+        "name": "Michael Caine",
+        "date of birth": 1933,
+        "place of birth": "United Kingdom",
+        "oscars": 2,
+        "bafta": 1,
+        "golden globes": 3,
+        "greatest performances": "The Dark Knight;Educated Rita;The Cider House Rules;Hannah and Her Sisters",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduXKVNu-G42SejblPTV95SFgHOUuP0A-dz2d1NMtyhQAJ8cntqxTluUDtpw&s.png"
+    },
+    {
+        "name": "Michael Douglas",
+        "date of birth": 1944,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Behind the Candelabra;Wall Street;Wonder Boys;Fatal Attraction",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4aEsJKckzld-bt4k-0L4Hdujk-mmYkp30XTFbqhRPabKwQkFSmWADkb04Vg&s.png"
+    },
+    {
+        "name": "Morgan Freeman",
+        "date of birth": 1937,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "The Shawshank Redemption;Se7en;Glory;Million Dollar Baby",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgFYcoy7aoVqkMVZQwjoY_ro-ntbcwghNbYtz0yH-9yDqbYRMjy4d2No0S4A&s.png"
+    },
+    {
+        "name": "Nicolas Cage",
+        "date of birth": 1964,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Valley Girl;Leaving Las Vegas;Adaptation",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjQNcSwXX01v1weyIH84FgW_rZgGN8xYWhMyVjZ1z6iRWP4ijAOL21YAawA&s.png"
+    },
+    {
+        "name": "Orson Welles",
+        "date of birth": 1915,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Butterfly;Citizen Kane;Chimes at Midnight",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDsZFsEkk64zBK2VE5hhpQA7Mnh3wEdxMFC3DtsQ8FeA4ABuVygyJT7hh3g&s.png"
+    },
+    {
+        "name": "Paul Newman",
+        "date of birth": 1925,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 3,
+        "greatest performances": "The Hustler;The Verdict;Road to Perdition;The Color of Money",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVUTZQ9XdD5hyq-m5-0i0VIF84scEGLCOtwcu6NGS7aAY8rkrnN2TM3S_eQ&s.png"
+    },
+    {
+        "name": "Peter Finch",
+        "date of birth": 1916,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 5,
+        "golden globes": 1,
+        "greatest performances": "Network;Sunday Bloody Sunday;The Flight of the Phoenix",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZylku3bFW90B5J_zpIMsSqop9o_5NJ-agHWEuaJo2gy8GXH8NV_9vjUOFQ&s.png"
+    },
+    {
+        "name": "Peter O'Toole",
+        "date of birth": 1932,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 4,
+        "greatest performances": "Lawrence of Arabia;Becket;The Lion in Winter",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChOQEobFXhzPLeA1k8A9Yo83d3I77RyXgmwhBEX9Ba-NMmJnHzNLqMFC5ig&s.png"
+    },
+    {
+        "name": "Peter Sellers",
+        "date of birth": 1925,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Being There;The Running;Jumping & Standing Still Film;Doctor Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIS0A_NeoXBAnVDS5zIWygZoJ1FNqTMr3-sNqj3ip7-5Cn4zqyFZWPeCnmhA&s.png"
+    },
+    {
+        "name": "Philip Seymour Hoffman",
+        "date of birth": 1967,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Capote;Doubt;The Master",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRTuBuZX351Dj1svNXSISV8gUr7KpVMUsyVA1oY9a3Dq-29zWHw4auz3oGZE&s.png"
+    },
+    {
+        "name": "Ralph Fiennes",
+        "date of birth": 1962,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 0,
+        "greatest performances": "The Grand Budapest Hotel;Schindler's List;The English Patient",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ351Ln0j-arqMt-oG9GXLlxYIvX6FGSQzFiieYVKYU0M6fuHEirDC2vAII1w&s.png"
+    },
+    {
+        "name": "Richard Burton",
+        "date of birth": 1925,
+        "place of birth": "United Kingdom",
+        "oscars": 0,
+        "bafta": 2,
+        "golden globes": 2,
+        "greatest performances": "Equus;My Cousin Rachel;Who's Afraid of Virginia Woolf?",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7MjIrkp9MRgsOJTxvxtPD72Zn7OCqmrRs5Ugn7yfozGBKDEx-MN0qJqQKoY&s.png"
+    },
+    {
+        "name": "Robert De Niro",
+        "date of birth": 1943,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Raging Bull;The Deer Hunter;The Godfather: Part II;Goodfellas;Taxi Driver",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWCVWA7M39hNBnVeqYWAFG5YR-oOHicgPgGI2PbICJJ2o2xqhNo1XVSGzRj4&s.png"
+    },
+    {
+        "name": "Robert Downey Jr.",
+        "date of birth": 1965,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 3,
+        "greatest performances": "Chaplin;Tropic Thunder;Sherlock Homes",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWRlmcCJH0K_owssHhw1jrz6ZcMVUwa-HPG15tAZrIzhwaNaSyMVBFnVdDCw&s.png"
+    },
+    {
+        "name": "Robert Duvall",
+        "date of birth": 1931,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 4,
+        "greatest performances": "The Apostle;Tender Mercies;Lonesome Dove",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsUSqMfb1w0YMGzf5KgzBzMxI3r4X-KmHyr0MpkP0WsCEoRLeVqvC1Uqx4w&s.png"
+    },
+    {
+        "name": "Robert Mitchum",
+        "date of birth": 1917,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Story of G.I. Joe;The Longest Day;Heaven Knows;Mr. Allison",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnfuFarldYrAYl1YYx9t8uezfx_TlVso1a46X1-kaLZs5hk8ndlkcd0sPu3E&s.png"
+    },
+    {
+        "name": "Robert Redford",
+        "date of birth": 1936,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 3,
+        "golden globes": 2,
+        "greatest performances": "The String;Downhill Racer;Tell Them Willie Boy Is Here",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_qLIwVskbJ5vmbGTRtmh2VxltOYWsUAkqghbQL9WiaKfM96oZuH6dnB4rgY&s.png"
+    },
+    {
+        "name": "Robin Williams",
+        "date of birth": 1951,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 4,
+        "greatest performances": "Mrs. Doubtfire;The Fisher King;Good Will Hunting;Dead Poets Society",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_7MZD2WgVZA4qV7w3mAOx9VSVywXK_paM1U7FjKUvcerqYG38oT-GSakowI&s.png"
+    },
+    {
+        "name": "Russell Crowe",
+        "date of birth": 1964,
+        "place of birth": "New Zealand",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Gladiator;The Insider;A Beautiful Mind;Les Mis\u00e9rables",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3Xw1OJemEkjsQmPCZWwqkN_ivmK7INzcAnT9fkiBxfhQlTgKBnXxgcq4FQ&s.png"
+    },
+    {
+        "name": "Samuel L. Jackson",
+        "date of birth": 1948,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 1,
+        "golden globes": 0,
+        "greatest performances": "Pulp Fiction;Jackie Brown;A Time to Kill",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJsHSnMAi0Kq9mVRCOGp5wcQ8wQQSxltORMYd-VPzzABL0W9GWwYt8lMGsg&s.png"
+    },
+    {
+        "name": "Sean Connery",
+        "date of birth": 1930,
+        "place of birth": "United Kingdom",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "The Untouchables;The Russia House;The Family Business",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxMY_tx9fIZ0BaY6ae9TGlCXfwYYNdnqKUNE9nJFZ4nR4UDYpvHqHDOYMeQ&s.png"
+    },
+    {
+        "name": "Sean Penn",
+        "date of birth": 1960,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "Milk;I Am Sam;Mystic River",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEfiwnBBE4kU8IM3Njh6Uc79FivjGwqkZZLpkVlgDNZcUop0KF012Y0SkaA&s.png"
+    },
+    {
+        "name": "Sidney Poitier",
+        "date of birth": 1927,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Guess Who's Coming to Dinner;Lilies of the Field;The Defiant Ones;In the Heat of the Night",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ00RBR2acm1tDixPd2WZbClugg7sA6Trx_fewyzuE23lz8liCmcCShLG0YKE&s.png"
+    },
+    {
+        "name": "Spencer Tracy",
+        "date of birth": 1900,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 1,
+        "golden globes": 1,
+        "greatest performances": "Guess Who's Coming to Dinner;Boys Town;Captains Courageous;Judgement at Nuremberg",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5SbPhjpQiVPSpa8cRq1LZLuZx-LjAgyFsg7__k39XetcvX47RSS_5JAYmQ&s.png"
+    },
+    {
+        "name": "Steve McQueen",
+        "date of birth": 1930,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Papillon;The Sand Pebbles;Love with the Proper Stranger",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeq7JIVMLwgGtMg54DStfAFGL5aKqKZPUoiZZ8ONbIV5m4a2tHCpkw07DSAw&s.png"
+    },
+    {
+        "name": "Tom Cruise",
+        "date of birth": 1962,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Top Gun;Magnolia;Jerry Maguire;Born on the Fourth of July",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgUSNFZrg67RNAsm5ubiSyjMRrJagZwSvY9LAjZ25RJF5veYD_7k63ChXEdtc&s.png"
+    },
+    {
+        "name": "Tom Hanks",
+        "date of birth": 1956,
+        "place of birth": "United States",
+        "oscars": 2,
+        "bafta": 0,
+        "golden globes": 4,
+        "greatest performances": "Cast Away;Forrest Gump;Philadelphia;Saving Private Ryan",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT1JA2XGfIiU3NyNcRAeFeZwnb0-I2ezgRpJQEkkVU1ABd_i3yJBwtpCTzRQ&s.png"
+    },
+    {
+        "name": "Tommy Lee Jones",
+        "date of birth": 1946,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 1,
+        "greatest performances": "In the Valley of Elah;Lincoln;The Fugitive",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55GAe_PfkksQgUs-Xdfl_zLJD9yDj4_AsBlVrHylMh5e_B2Qz4stv5OSTBQ&s.png"
+    },
+    {
+        "name": "Will Smith",
+        "date of birth": 1968,
+        "place of birth": "United States",
+        "oscars": 0,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "The Pursuit of Happiness;Ali;Concussion",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJm5eD8citn95-hMCvZ_DvHhcXcIcTNXLN1I5QMMzDZQA0SxUebA-Dj6O1FI4&s.png"
+    },
+    {
+        "name": "William Holden",
+        "date of birth": 1918,
+        "place of birth": "United States",
+        "oscars": 1,
+        "bafta": 0,
+        "golden globes": 0,
+        "greatest performances": "Network;Stalag 17;Sunset Blvd.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdfG_cW8MDioqKbiPpSQRxcvZvwS6Oac3ow73ltYzacIWLulEYiXnB33jK7o&s.png"
+    },
+    {
+        "name": "Woody Allen",
+        "date of birth": 1935,
+        "place of birth": "Mount Eden Hospital",
+        "oscars": 4,
+        "bafta": 9,
+        "golden globes": 2,
+        "greatest performances": "Annie Hall;Manhattan;Take the Money and Run",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDVRVv9KjZj0ipa3I3N5O4FN53gYy-9uVy8jm_RyyDnS-PkBGeKbtOj5cYA&s.png"
+    }
+]
