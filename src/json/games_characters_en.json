@@ -3401,7 +3401,7 @@
     {
         "name": "Half-Life: Alyx",
         "year": 2020,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "FPS",
         "description": [
             "Half-Life: Alyx is",
@@ -3530,7 +3530,7 @@
     {
         "name": "Divinity: Original Sin II",
         "year": 2017,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Western RPG",
         "description": [
             "Master deep, tactical",
@@ -5222,7 +5222,7 @@
     {
         "name": "Undertale",
         "year": 2015,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "JRPG",
         "description": [
             "Welcome to UNDERTALE.",
@@ -6699,7 +6699,7 @@
     {
         "name": "Disco Elysium",
         "year": 2019,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Western RPG",
         "description": [
             "Disco Elysium is",
@@ -7896,7 +7896,7 @@
     {
         "name": "Dota 2",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "MOBA",
         "description": [
             "Dota 2 features",
@@ -8228,7 +8228,7 @@
     {
         "name": "The Walking Dead: A Telltale Games Series",
         "year": 2012,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Point-and-Click",
         "description": [
             "Based on Robert",
@@ -8846,7 +8846,7 @@
     {
         "name": "Cyberpunk 2077: Phantom Liberty",
         "year": 2023,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Action RPG",
         "description": [
             "Phantom Liberty is",
@@ -10385,7 +10385,7 @@
     {
         "name": "Torchlight II",
         "year": 2012,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Action RPG",
         "description": [
             "Beyond the town",
@@ -10871,7 +10871,7 @@
     {
         "name": "The Stanley Parable",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "First-Person Adventure",
         "description": [
             "The Stanley Parable",
@@ -11281,7 +11281,7 @@
     {
         "name": "World of Warcraft: Legion",
         "year": 2016,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "MMORPG",
         "description": [
             "The Tomb of",
@@ -13261,7 +13261,7 @@
     {
         "name": "Gone Home",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "First-Person Adventure",
         "description": [
             "The eldest daughter",
@@ -14348,7 +14348,7 @@
     {
         "name": "Forza Horizon 2",
         "year": 2014,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Auto Racing Sim",
         "description": [
             "Race through a",
@@ -14704,7 +14704,7 @@
     {
         "name": "Path of Exile",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Action RPG",
         "description": [
             "Path of Exile",
@@ -16198,7 +16198,7 @@
     {
         "name": "Papers; Please",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Adventure",
         "description": [
             "The communist state",
@@ -16717,7 +16717,7 @@
     {
         "name": "Darkest Dungeon",
         "year": 2015,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "RPG",
         "description": [
             "Darkest Dungeon is",
@@ -17171,7 +17171,7 @@
     {
         "name": "Black Mesa",
         "year": 2012,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "FPS",
         "description": [
             "Black Mesa is",
@@ -17410,7 +17410,7 @@
     {
         "name": "Anomaly Agent",
         "year": 2024,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "2D Platformer",
         "description": [
             "ANOMALY AGENT is",
@@ -17438,7 +17438,7 @@
     {
         "name": "The Binding of Isaac",
         "year": 2011,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Top-Down Shoot-'Em-Up",
         "description": [
             "Isaac is a",
@@ -17893,7 +17893,7 @@
     {
         "name": "This War of Mine",
         "year": 2014,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Board",
         "description": [
             "In This War",
@@ -17934,7 +17934,7 @@
     {
         "name": "The Forest (2014)",
         "year": 2018,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Survival",
         "description": [
             "As the lone",
@@ -18977,7 +18977,7 @@
     {
         "name": "Hearts of Iron IV",
         "year": 2016,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Real-Time Strategy",
         "description": [
             "Hearts of Iron",
@@ -19384,7 +19384,7 @@
     {
         "name": "Tom Clancy's The Division 2",
         "year": 2019,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Tactical Third Person Shooter",
         "description": [
             "Set in Washington",
@@ -20383,7 +20383,7 @@
     {
         "name": "To the Moon",
         "year": 2011,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Adventure",
         "description": [
             "Join Dr. Rosalene",
@@ -20774,7 +20774,7 @@
     {
         "name": "Firewatch",
         "year": 2016,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "First-Person Adventure",
         "description": [
             "In Firewatch you",
@@ -23107,7 +23107,7 @@
     {
         "name": "Euro Truck Simulator 2",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Vehicle Sim",
         "description": [
             "Travel across Europe",
@@ -23754,7 +23754,7 @@
     {
         "name": "Chivalry: Medieval Warfare",
         "year": 2012,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "3D Beat-'Em-Up",
         "description": [
             "CHIVALRY: Medieval Warfare",
@@ -23905,7 +23905,7 @@
             "saga through a",
             "series of intense",
             "four-player missions. Fight",
-            "back against Null",
+            "back against "Unknown"",
             "Sector, uncover the",
             "motives behind the",
             "omnic attacks, and",
@@ -23941,7 +23941,7 @@
     {
         "name": "Tom Clancy's The Division 2: Warlords of New York",
         "year": 2020,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Tactical Third Person Shooter",
         "description": [
             "While The Division",
@@ -24376,7 +24376,7 @@
     {
         "name": "Doki Doki Literature Club!",
         "year": 2017,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Visual Novel",
         "description": [
             "Hi, Monika here!",
@@ -24440,7 +24440,7 @@
     {
         "name": "Stellaris",
         "year": 2016,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Real-Time Strategy",
         "description": [
             "Featuring deep strategic",
@@ -24788,7 +24788,7 @@
     {
         "name": "Five Nights at Freddy's",
         "year": 2014,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Survival",
         "description": [
             "Welcome to your",
@@ -25547,7 +25547,7 @@
     {
         "name": "Shadowrun Returns",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Turn-Based Tactics",
         "description": [
             "Jordan Weisman, the",
@@ -26892,7 +26892,7 @@
     {
         "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
         "year": 2024,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "FPS",
         "description": [
             "It\u2019s a unique",
@@ -27519,7 +27519,7 @@
     {
         "name": "Amnesia: A Machine for Pigs",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Survival",
         "description": [
             "Amnesia: A Machine",
@@ -28651,7 +28651,7 @@
     {
         "name": "Game Dev Tycoon",
         "year": 2013,
-        "rating": null,
+        "rating": "Unknown",
         "genres": "Tycoon",
         "description": [
             "Game Dev Tycoon",
