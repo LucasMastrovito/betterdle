@@ -1,0 +1,42 @@
+[
+    {
+        "key" : "image_url",
+        "title" : "Toon",
+        "type" : "none"
+    },
+    {
+        "key" : "side",
+        "title" : "Side",
+        "type" : "equal"
+    },
+    {
+        "key" : "gender",
+        "title" : "Gender",
+        "type" : "equal"
+    },
+    {
+        "key" : "species",
+        "title" : "Species",
+        "type" : "equal"
+    },
+    {
+        "key" : "colors",
+        "title" : "Colors",
+        "type" : "equal"
+    },
+    {
+        "key" : "franchise",
+        "title" : "Franchise",
+        "type" : "equal"
+    },
+    {
+        "key" : "first_appearance",
+        "title" : "First Appearance",
+        "type" : "equal"
+    },
+    {
+        "key" : "year",
+        "title" : "Year",
+        "type" : "number"
+    }
+]
