@@ -2,6 +2,7 @@
     position: relative;
     display: flex;
     width: 30%;
+    height: 40px;
     padding: 0.5em;
     border: 2px solid whitesmoke;
     border-radius: 5px;
@@ -35,4 +36,10 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+}
+
+@media (max-width: 1000px) {
+    .characterrow {
+        width: 80%;
+    }
 }
