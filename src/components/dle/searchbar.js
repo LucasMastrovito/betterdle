@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Submit from "./submit";
+import { removeAccents } from "../utils/utils";
 
 function getIndexByName(data, name) {
   return data.findIndex((item) => item.name === name);
@@ -14,11 +15,11 @@ function filterByNameOrAlias(arr, search, limit = 200) {
 
     const matches = [];
 
-    if (item.name && item.name.toLowerCase().includes(lowerSearch)) {
+    if (item.name && removeAccents(item.name.toLowerCase()).includes(lowerSearch)) {
       matches.push(item.name);
     }
 
-    if (item.aliases && item.aliases.toLowerCase().includes(lowerSearch)) {
+    if (item.aliases && removeAccents(item.aliases.toLowerCase()).includes(lowerSearch)) {
       matches.push(item.name);
     }
 
@@ -43,7 +44,7 @@ function Searchbar(props) {
   const [btns, setBtns] = useState([]);
 
   const update = (e) => {
-    const results = filterByNameOrAlias(data, e.target.value);
+    const results = filterByNameOrAlias(data, removeAccents(e.target.value));
 
     setSearch(e.target.value);
     if (e.target.value !== "") {
