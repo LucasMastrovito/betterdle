@@ -1,33 +1,53 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Agent",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Agent",
+        "type": "none"
     },
     {
-        "key" : "gender",
-        "title" : "Gender",
-        "type" : "equal"
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
     },
     {
-        "key" : "role",
-        "title" : "Role",
-        "type" : "equal"
+        "key": "role",
+        "title": "Role",
+        "type": "equal"
     },
     {
-        "key" : "race",
-        "title" : "Race",
-        "type" : "equal"
+        "key": "race",
+        "title": "Race",
+        "type": "equal"
     },
     {
-        "key" : "origin",
-        "title" : "Origin",
-        "type" : "equal"
+        "key": "origin",
+        "title": "Origin",
+        "type": "equal"
     },
     {
-        "key" : "release_patch",
-        "title" : "Patch",
-        "type" : "order",
-        "order" : ["Beta", "1.0", "1.05", "1.11", "2.0", "2.04", "3.0", "3.10", "4.0", "4.08", "5.08", "6.04", "7.0", "7.09", "8.05", "9.04", "10.00", "10.04", "11.07b"]
+        "key": "release_patch",
+        "title": "Patch",
+        "type": "order",
+        "order": [
+            "Beta",
+            "1.0",
+            "1.05",
+            "1.11",
+            "2.0",
+            "2.04",
+            "3.0",
+            "3.10",
+            "4.0",
+            "4.08",
+            "5.08",
+            "6.04",
+            "7.0",
+            "7.09",
+            "8.05",
+            "9.04",
+            "10.00",
+            "10.04",
+            "11.07b"
+        ]
     }
 ]

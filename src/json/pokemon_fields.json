@@ -1,44 +1,70 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Pokemon",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Pokemon",
+        "type": "none"
     },
     {
-        "key" : "id",
-        "title" : "N°",
-        "type" : "number"
+        "key": "id",
+        "title": "N°",
+        "type": "number"
     },
     {
-        "key" : "gen",
-        "title" : "Gen",
-        "type" : "order",
-        "order": [ "1G", "2G", "3G", "4G", "5G", "6G", "7G", "8G", "9G"]
+        "key": "gen",
+        "title": "Gen",
+        "type": "order",
+        "order": [
+            "1G",
+            "2G",
+            "3G",
+            "4G",
+            "5G",
+            "6G",
+            "7G",
+            "8G",
+            "9G"
+        ]
     },
     {
-        "key" : "types",
-        "title" : "Types",
-        "type" : "equal"
+        "key": "types",
+        "title": "Types",
+        "type": "equal"
     },
     {
-        "key" : "evolution_stage",
-        "title" : "Stage",
-        "type" : "order",
-        "order": [ "Base", "1", "2"]
+        "key": "evolution_stage",
+        "title": "Stage",
+        "type": "order",
+        "order": [
+            "Base",
+            "1",
+            "2"
+        ]
     },
     {
-        "key" : "colors",
-        "title" : "Colors",
-        "type" : "equal"
+        "key": "colors",
+        "title": "Colors",
+        "type": "equal"
     },
     {
-        "key" : "weight",
-        "title" : "Weight",
-        "type" : "number"
+        "key": "weight",
+        "title": "Weight",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 10,
+            "suffix": " kg",
+            "decimals": 1
+        }
     },
     {
-        "key" : "height",
-        "title" : "Height",
-        "type" : "number"
+        "key": "height",
+        "title": "Height",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 10,
+            "suffix": " m",
+            "decimals": 1
+        }
     }
 ]

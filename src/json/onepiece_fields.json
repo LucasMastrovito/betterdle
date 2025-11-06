@@ -1,48 +1,93 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Character",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
     },
     {
-        "key" : "sex",
-        "title" : "Gender",
-        "type" : "equal"
+        "key": "sex",
+        "title": "Gender",
+        "type": "equal"
     },
     {
-        "key" : "affiliation",
-        "title" : "Affiliation",
-        "type" : "equal"
+        "key": "affiliation",
+        "title": "Affiliation",
+        "type": "equal"
     },
     {
-        "key" : "devil_fruit_type",
-        "title" : "Fruit",
-        "type" : "equal"
+        "key": "devil_fruit_type",
+        "title": "Fruit",
+        "type": "equal"
     },
     {
-        "key" : "haki",
-        "title" : "Haki",
-        "type" : "equal"
+        "key": "haki",
+        "title": "Haki",
+        "type": "equal"
     },
     {
-        "key" : "height",
-        "title" : "Height",
-        "type" : "number"
+        "key": "height",
+        "title": "Height",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 100,
+            "suffix": " m",
+            "decimals": 2
+        }
     },
     {
-        "key" : "bounty",
-        "title" : "Bounty",
-        "type" : "number"
+        "key": "bounty",
+        "title": "Bounty",
+        "type": "number",
+        "format": {
+            "style": "space",
+            "suffix": " $",
+            "decimals": 0
+        }
     },
     {
-        "key" : "origin",
-        "title" : "Origin",
-        "type" : "equal"
+        "key": "origin",
+        "title": "Origin",
+        "type": "equal"
     },
     {
-        "key" : "first_arc",
-        "title" : "First Arc",
-        "type" : "order",
-        "order" : [ "Romance Dawn", "Orange Town", "Syrup Village", "Baratie", "Arlong Park", "Loguetown", "Reverse Mountain", "Whisky Peak", "Little Garden", "Drum Island", "Arabasta", "Jaya", "Skypiea", "Long Ring Long Land", "Water 7", "Enies Lobby", "Post-Enies Lobby", "Thriller Bark", "Sabaody Archipelago", "Amazon Lily", "Impel Down", "Marineford", "Post-War", "Return to Sabaody", "Fish-Man Island", "Punk Hazard", "Dressrosa", "Zou", "Whole Cake Island", "Levely", "Wano Country", "Egghead", "Erbaf" ]
+        "key": "first_arc",
+        "title": "First Arc",
+        "type": "order",
+        "order": [
+            "Romance Dawn",
+            "Orange Town",
+            "Syrup Village",
+            "Baratie",
+            "Arlong Park",
+            "Loguetown",
+            "Reverse Mountain",
+            "Whisky Peak",
+            "Little Garden",
+            "Drum Island",
+            "Arabasta",
+            "Jaya",
+            "Skypiea",
+            "Long Ring Long Land",
+            "Water 7",
+            "Enies Lobby",
+            "Post-Enies Lobby",
+            "Thriller Bark",
+            "Sabaody Archipelago",
+            "Amazon Lily",
+            "Impel Down",
+            "Marineford",
+            "Post-War",
+            "Return to Sabaody",
+            "Fish-Man Island",
+            "Punk Hazard",
+            "Dressrosa",
+            "Zou",
+            "Whole Cake Island",
+            "Levely",
+            "Wano Country",
+            "Egghead",
+            "Erbaf"
+        ]
     }
 ]

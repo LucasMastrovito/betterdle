@@ -1,42 +1,42 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Character",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
     },
     {
-        "key" : "game",
-        "title" : "Game",
-        "type" : "equal"
+        "key": "game",
+        "title": "Game",
+        "type": "equal"
     },
     {
-        "key" : "gender",
-        "title" : "Gender",
-        "type" : "equal"
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
     },
     {
-        "key" : "rarity",
-        "title" : "Rarity",
-        "type" : "number"
+        "key": "rarity",
+        "title": "Rarity",
+        "type": "number"
     },
     {
-        "key" : "weapon",
-        "title" : "Weapon",
-        "type" : "equal"
+        "key": "weapon",
+        "title": "Weapon",
+        "type": "equal"
     },
     {
-        "key" : "element",
-        "title" : "Element",
-        "type" : "equal"
+        "key": "element",
+        "title": "Element",
+        "type": "equal"
     },
     {
-        "key" : "region",
-        "title" : "Region",
-        "type" : "equal"
+        "key": "region",
+        "title": "Region",
+        "type": "equal"
     },
     {
-        "key" : "release_date",
-        "title" : "Release Date",
-        "type" : "number"
+        "key": "release_date",
+        "title": "Release Date",
+        "type": "number"
     }
 ]

@@ -1,37 +1,43 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Character",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
     },
     {
-        "key" : "gender",
-        "title" : "Gender",
-        "type" : "equal"
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
     },
     {
-        "key" : "allegiance",
-        "title" : "Affiliation",
-        "type" : "equal"
+        "key": "allegiance",
+        "title": "Affiliation",
+        "type": "equal"
     },
     {
-        "key" : "race",
-        "title" : "Race",
-        "type" : "equal"
+        "key": "race",
+        "title": "Race",
+        "type": "equal"
     },
     {
-        "key" : "height",
-        "title" : "Height",
-        "type" : "number"
+        "key": "height",
+        "title": "Height",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 100,
+            "suffix": " m",
+            "decimals": 2
+        }
     },
     {
-        "key" : "transformation_count",
-        "title" : "Transformations",
-        "type" : "number"
+        "key": "transformation_count",
+        "title": "Transformations",
+        "type": "number"
     },
     {
-        "key" : "first_arc_or_film",
-        "title" : "First Appearance",
-        "type" : "equal"
+        "key": "first_arc_or_film",
+        "title": "First Appearance",
+        "type": "equal"
     }
 ]

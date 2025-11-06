@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { isImg } from "../utils/utils";
+import { formatValue, isImg } from "../utils/utils";
 
 function getMatchStatus(type, guessValue, answerValue, order) {
   if (type === "none") {
@@ -30,7 +30,7 @@ function getMatchStatus(type, guessValue, answerValue, order) {
 }
 
 function Field(props) {
-  const text = typeof (props.name) === "string" ? props.name.replace(/;/g, ", ") : props.name !== null ? props.name : "Unknown";
+  const text = typeof (props.name) === "string" ? props.name.replace(/;/g, ", ") : props.name !== null ? formatValue(props.name, props.field) : "Unknown";
   const [name, setName] = useState(false);
 
   const displayName = (e) => {

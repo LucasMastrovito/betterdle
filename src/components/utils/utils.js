@@ -17,3 +17,35 @@ export function getUniqueValues(array, field) {
 export function removeAccents(str) {
     return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
+
+export function formatWithSpaces(num) {
+    const [intPart, decPart] = num.toString().split(".");
+    const formattedInt = intPart.replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+    return decPart ? `${formattedInt}.${decPart}` : formattedInt;
+}
+
+export function formatValue(value, field) {
+    if (!field.format) return value;
+
+    let result = value;
+
+    if (field.format.divider) {
+        result = result / field.format.divider;
+    }
+
+    if (typeof field.format.decimals === "number") {
+        result = result.toFixed(field.format.decimals);
+    }
+
+    if (field.format.style === "space") {
+        result = result.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+    } else if (field.format.style === "locale") {
+        result = Number(result).toLocaleString("fr-FR");
+    }
+
+    if (field.format.suffix) {
+        result += field.format.suffix;
+    }
+
+    return result;
+}

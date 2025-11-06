@@ -1,52 +1,52 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Movie",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Movie",
+        "type": "none"
     },
     {
-        "key" : "name",
-        "title" : "Title",
-        "type" : "equal"
+        "key": "name",
+        "title": "Title",
+        "type": "equal"
     },
     {
-        "key" : "year",
-        "title" : "Year",
-        "type" : "number"
+        "key": "year",
+        "title": "Year",
+        "type": "number"
     },
     {
-        "key" : "genres",
-        "title" : "Genres",
-        "type" : "equal"
+        "key": "genres",
+        "title": "Genres",
+        "type": "equal"
     },
     {
-        "key" : "director",
-        "title" : "Director",
-        "type" : "equal"
+        "key": "director",
+        "title": "Director",
+        "type": "equal"
     },
     {
-        "key" : "star",
-        "title" : "Star",
-        "type" : "equal"
+        "key": "star",
+        "title": "Star",
+        "type": "equal"
     },
     {
-        "key" : "countries",
-        "title" : "Countries",
-        "type" : "equal"
+        "key": "countries",
+        "title": "Countries",
+        "type": "equal"
     },
     {
-        "key" : "production",
-        "title" : "Studio",
-        "type" : "equal"
+        "key": "production",
+        "title": "Studio",
+        "type": "equal"
     },
     {
-        "key" : "gross rank",
-        "title" : "Gross Rank",
-        "type" : "number"
+        "key": "gross rank",
+        "title": "Gross Rank",
+        "type": "number"
     },
     {
-        "key" : "vote",
-        "title" : "Rating",
-        "type" : "number"
+        "key": "vote",
+        "title": "Rating",
+        "type": "number"
     }
 ]

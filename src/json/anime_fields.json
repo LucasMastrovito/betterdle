@@ -1,57 +1,68 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Character",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
     },
     {
-        "key" : "role",
-        "title" : "Role",
-        "type" : "equal"
+        "key": "role",
+        "title": "Role",
+        "type": "equal"
     },
     {
-        "key" : "gender",
-        "title" : "Gender",
-        "type" : "equal"
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
     },
     {
-        "key" : "age",
-        "title" : "Age",
-        "type" : "number"
+        "key": "age",
+        "title": "Age",
+        "type": "number",
+        "format": {
+            "style": "space",
+            "suffix": "",
+            "decimals": 0
+        }
     },
     {
-        "key" : "race",
-        "title" : "Race",
-        "type" : "equal"
+        "key": "race",
+        "title": "Race",
+        "type": "equal"
     },
     {
-        "key" : "hair_color",
-        "title" : "Hair Color",
-        "type" : "equal"
+        "key": "hair_color",
+        "title": "Hair Color",
+        "type": "equal"
     },
     {
-        "key" : "height",
-        "title" : "Height",
-        "type" : "number"
+        "key": "height",
+        "title": "Height",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 100,
+            "suffix": " m",
+            "decimals": 2
+        }
     },
     {
-        "key" : "weapon",
-        "title" : "Weapon",
-        "type" : "equal"
+        "key": "weapon",
+        "title": "Weapon",
+        "type": "equal"
     },
     {
-        "key" : "power",
-        "title" : "Power",
-        "type" : "equal"
+        "key": "power",
+        "title": "Power",
+        "type": "equal"
     },
     {
-        "key" : "anime",
-        "title" : "Anime",
-        "type" : "equal"
+        "key": "anime",
+        "title": "Anime",
+        "type": "equal"
     },
     {
-        "key" : "year",
-        "title" : "Year",
-        "type" : "number"
+        "key": "year",
+        "title": "Year",
+        "type": "number"
     }
 ]
