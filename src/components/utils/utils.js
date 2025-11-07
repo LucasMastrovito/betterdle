@@ -45,7 +45,7 @@ export function formatValue(value, field, int = false) {
         result += field.format.suffix;
     }
 
-    return int ? parseFloat(result) : result;
+    return int ? parseFloat(result.replaceAll(" ", "")) : result;
 }
 
 function getDecimalPlaces(num) {
@@ -55,10 +55,10 @@ function getDecimalPlaces(num) {
 }
 
 function digitsBeforeDecimal(num) {
-  if (typeof num !== "number" || isNaN(num)) return 0;
-  // Prend la partie entière absolue et la convertit en string
-  const intPart = Math.floor(Math.abs(num));
-  return intPart.toString().length;
+    if (typeof num !== "number" || isNaN(num)) return 0;
+    // Prend la partie entière absolue et la convertit en string
+    const intPart = Math.floor(Math.abs(num));
+    return intPart.toString().length;
 }
 
 export function areNumbersClose(a, b) {
@@ -93,14 +93,10 @@ export function areNumbersClose(a, b) {
         return diff <= 2;
     }
 
-    if (avg > 1e9) {
-        return diff <= 1000 * 60 * 60 * 24;
+    if (avg > 100000) {
+        return diff <= avg * .1;
     }
 
-    if (a % 1 !== 0 || b % 1 !== 0) {
-        console.log(a)
-        return diff <= avg * 0.05;
-    }
     return diff <= 5;
 }
 
