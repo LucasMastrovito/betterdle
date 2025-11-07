@@ -232,7 +232,7 @@
   },
   {
     "name": "Timothée",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/5/5a/Profile_-_Timothy_Q._Souris.jpg",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/5/5a/Profile_-_Timothy_Q._Mouse.jpg",
     "gender": "Masculin",
     "side": "Héros",
     "first_film": "Dumbo",
@@ -1288,7 +1288,7 @@
   },
   {
     "name": "Chef",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/0/0f/Renard-and-the-hound-disneyscreencaps.com-817.jpg",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/0/0f/Fox-and-the-hound-disneyscreencaps.com-817.jpg",
     "gender": "Masculin",
     "side": "Neutre",
     "first_film": "Rox et Rouky",
@@ -1937,7 +1937,7 @@
   },
   {
     "name": "Hercule",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/7/70/Profile_-_Hercule.jpeg",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/7/70/Profile_-_Hercules.jpeg",
     "gender": "Masculin",
     "side": "Héros",
     "first_film": "Hercule",
@@ -2575,7 +2575,7 @@
   },
   {
     "name": "Chick Hicks",
-    "image_url": "https://static.wikia.nocookie.net/disney/images/d/d9/Chick_Cars_3.png",
+    "image_url": "https://static.wikia.nocookie.net/disney/images/d/d9/Chick_Cars_3.PNG",
     "gender": "Masculin",
     "side": "Méchant",
     "first_film": "Cars",

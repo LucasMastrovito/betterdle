@@ -8,6 +8,7 @@ import Dlemenu from "./dlemenu";
 import Dropdown from "../utils/dropdown";
 import Datafilter from "../utils/datafilter";
 import { filterByExactField } from "../utils/getrandom";
+import { getLang, saveLang } from "../utils/save";
 
 function Dle(props) {
     const navigate = useNavigate();
@@ -23,6 +24,7 @@ function Dle(props) {
 
     useEffect(() => {
         import(`../../pages/${props.name}.css`);
+        setLanguage(getLang(props.name));
     }, [props.name]);
 
     useEffect(() => {
@@ -51,6 +53,7 @@ function Dle(props) {
 
     const changeLanguage = (value) => {
         setLanguage(value);
+        saveLang(props.name, value);
     };
 
     const applyFilter = (field, value) => {
@@ -68,7 +71,7 @@ function Dle(props) {
                 </div>
                 <div className={`card card-${props.name} settings`} style={{ display: props.settings || props.lang || props.filters ? "flex" : "none" }}>
                     {props.lang ?
-                        <Dropdown name="language" options={props.lang} change={changeLanguage} />
+                        <Dropdown name="language" options={props.lang} default={language} change={changeLanguage} />
                         :
                         <span style={{ display: "none" }} />
                     }
