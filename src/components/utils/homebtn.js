@@ -3,7 +3,7 @@ import icon from "../../assets/home.png";
 
 function Homebtn() {
     const navigate = useNavigate();
-    
+
     const home = (e) => {
         navigate('/');
     };
