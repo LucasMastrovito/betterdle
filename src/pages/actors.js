@@ -13,7 +13,7 @@ function Actors() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily actor" name="actors" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"actors"} mode="classic" desc={"Find the daily monster"} fields={fields} first_tips={{ name: "Place", key: "place of birth" }} second_tips={{ name: "Greatest Performances", key: "greatest performances" }} />,
+        <Classic key={'classic'} name={"actors"} mode="classic" desc={"Find the daily actor"} fields={fields} first_tips={{ name: "Place", key: "place of birth" }} second_tips={{ name: "Greatest Performances", key: "greatest performances" }} />,
         <Findmode key={'picture'} name={"actors"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
