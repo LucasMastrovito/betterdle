@@ -14,7 +14,7 @@ function Gacha() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily gacha character" name="gacha" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"gacha"} mode="classic" desc={"Find the daily character"} fields={fields} first_tips={{name: "Release Date", key: "release_date"}} second_tips={{name: "Region", key: "region"}} />,
+        <Classic key={'classic'} name={"gacha"} mode="classic" desc={"Find the daily character"} fields={fields} first_tips={{ name: "Release Date", key: "release_date" }} second_tips={{ name: "Region", key: "region" }} />,
         <Findmode key={'picture'} name={"gacha"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
@@ -24,6 +24,10 @@ function Gacha() {
                 name="gacha"
                 buttons={buttons}
                 modes={modes}
+                lang={[
+                    <option key={1} className="option" value="en">English</option>,
+                    <option key={2} className="option" value="fr">Français</option>
+                ]}
                 filters={[
                     "game"
                 ]}
