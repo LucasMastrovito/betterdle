@@ -1,32 +1,169 @@
 [
     {
-        "key" : "image_url",
-        "title" : "Agent",
-        "type" : "none"
+        "key": "image_url",
+        "title": "Flag",
+        "type": "none"
     },
     {
-        "key" : "region",
-        "title" : "Region",
-        "type" : "equal"
+        "key": "name",
+        "title": "Country",
+        "type": "equal"
     },
     {
-        "key" : "area",
-        "title" : "Area",
-        "type" : "number"
+        "key": "region",
+        "title": "Region",
+        "type": "equal"
     },
     {
-        "key" : "population",
-        "title" : "Population",
-        "type" : "number"
+        "key": "population",
+        "title": "Population",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "suffix": " M",
+            "decimals": 0
+        }
     },
     {
-        "key" : "pop density",
-        "title" : "Pop. Density",
-        "type" : "number"
+        "key": "pop density",
+        "title": "Population Density",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " /km²",
+            "decimals": 1
+        }
     },
     {
-        "key" : "area",
-        "title" : "Area",
-        "type" : "number"
+        "key": "area",
+        "title": "Area",
+        "type": "number",
+        "format": {
+            "style": "space",
+            "divider": 0,
+            "suffix": " km²",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "coastline (coast/area ratio)",
+        "title": "Coastline Ratio",
+        "type": "number"
+    },
+    {
+        "key": "net migration",
+        "title": "Migration",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "infant mortality (per 1000 births)",
+        "title": "Infant Mortality",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " ‰",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "gdp ($ per capita)",
+        "title": "GDP per Capita",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " $",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "literacy (%)",
+        "title": "Literacy",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "arable (%)",
+        "title": "Arable Land",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "crops (%)",
+        "title": "Crops Land",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "other (%)",
+        "title": "Other Land",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "birthrate",
+        "title": "Birthrate",
+        "type": "number"
+    },
+    {
+        "key": "agriculture",
+        "title": "Agriculture GDP",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "industry",
+        "title": "Industry GDP",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
+    },
+    {
+        "key": "service",
+        "title": "Service GDP",
+        "type": "number",
+        "format": {
+            "style": "decimal",
+            "divider": 0,
+            "suffix": " %",
+            "decimals": 1
+        }
     }
 ]

@@ -1,6 +1,5 @@
 import Dlebtn from "../components/home/dlebtn.js";
 import Dlelist from "../components/home/dlelist.js";
-import Footer from "../components/home/footer.js";
 import "./home.css";
 
 function Home() {
