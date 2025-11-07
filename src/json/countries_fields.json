@@ -2,7 +2,7 @@
     {
         "key": "image_url",
         "title": "Flag",
-        "type": "none"
+        "type": "img"
     },
     {
         "key": "name",

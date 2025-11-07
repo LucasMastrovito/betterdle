@@ -19,7 +19,7 @@ function Classic(props) {
   const [loading, setLoading] = useState(true);
   const rowRef = useRef(null);
   const [hasScroll, setHasScroll] = useState(false);
-
+  console.log(random)
   useEffect(() => {
     const checkScroll = () => {
       const el = rowRef.current;

@@ -190,13 +190,11 @@
 }
 
 .superior {
-  background-color: red;
   background-image: url("../../assets/down-arrow.png");
   background-size: contain;
 }
 
 .inferior {
-  background-color: red;
   background-image: url("../../assets/up-arrow.png");
   background-size: contain;
 }
