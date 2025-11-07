@@ -22,10 +22,10 @@ function Home() {
                         <Dlebtn key={2} link={'/pokemon'} logo='pokemon' />,
                         <Dlebtn key={3} link={'/lol'} logo='lol' />,
                         <Dlebtn key={4} link={'/valorant'} logo='valorant' />,
-                        <Dlebtn key={5} link={'/sw'} logo='sw' />,
-                        <Dlebtn key={6} link={'/gacha'} logo='gacha' />,
-                        <Dlebtn key={7} link={'/sonic'} logo='sonic' />,
-                        <Dlebtn key={8} link={'/mario'} logo='mario' />
+                        <Dlebtn key={5} link={'/mario'} logo='mario' />,
+                        <Dlebtn key={6} link={'/sonic'} logo='sonic' />,
+                        <Dlebtn key={7} link={'/sw'} logo='sw' />,
+                        <Dlebtn key={8} link={'/gacha'} logo='gacha' />
                     ]}
                 />
                 <Dlelist
