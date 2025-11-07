@@ -257,4 +257,8 @@
   .dlemenubtn-icon {
     width: 20%;
   }
+
+  .settings {
+    width: 80%;
+  }
 }
