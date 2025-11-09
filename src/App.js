@@ -27,7 +27,7 @@ function App() {
     const lastReset = localStorage.getItem("lastReset");
 
     if (lastReset !== today) {
-      localStorage.clear();
+      localStorage.removeItem("dleData");
       localStorage.setItem("lastReset", today);
       window.location.reload();
     }
