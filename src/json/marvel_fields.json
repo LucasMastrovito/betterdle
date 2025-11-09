@@ -43,5 +43,10 @@
         "key": "year",
         "title": "First Appearance",
         "type": "number"
+    },
+    {
+        "key": "relations",
+        "title": "Relations",
+        "type": "equal"
     }
 ]
