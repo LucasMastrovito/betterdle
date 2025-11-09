@@ -56,7 +56,6 @@ function getDecimalPlaces(num) {
 
 function digitsBeforeDecimal(num) {
     if (typeof num !== "number" || isNaN(num)) return 0;
-    // Prend la partie entière absolue et la convertit en string
     const intPart = Math.floor(Math.abs(num));
     return intPart.toString().length;
 }

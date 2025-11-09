@@ -1,0 +1,47 @@
+[
+    {
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
+    },
+    {
+        "key": "affiliations",
+        "title": "Affiliation",
+        "type": "equal"
+    },
+    {
+        "key": "side",
+        "title": "Side",
+        "type": "equal"
+    },
+    {
+        "key": "gender",
+        "title": "Gender",
+        "type": "equal"
+    },
+    {
+        "key": "nationality",
+        "title": "Nationality",
+        "type": "equal"
+    },
+    {
+        "key": "species",
+        "title": "Species",
+        "type": "equal"
+    },
+    {
+        "key": "powers",
+        "title": "Powers",
+        "type": "equal"
+    },
+    {
+        "key": "identity",
+        "title": "Identity",
+        "type": "equal"
+    },
+    {
+        "key": "year",
+        "title": "First Appearance",
+        "type": "number"
+    }
+]
