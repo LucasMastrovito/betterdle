@@ -19,7 +19,8 @@
             "🌀"
         ],
         "quote": "I'm gonna be King of the Pirates!",
-        "technique": "Gomu Gomu no Pistol"
+        "technique": "Gomu Gomu no Pistol",
+        "aliases": "One Piece"
     },
     {
         "name": "Roronoa Zoro",
@@ -41,7 +42,8 @@
             "💪"
         ],
         "quote": "Nothing happened.",
-        "technique": "Santoryu: Three-Sword Style"
+        "technique": "Santoryu: Three-Sword Style",
+        "aliases": "One Piece"
     },
     {
         "name": "Nami",
@@ -63,7 +65,8 @@
             "🍊"
         ],
         "quote": "I’ll map the entire world!",
-        "technique": "Mirage Tempo"
+        "technique": "Mirage Tempo",
+        "aliases": "One Piece"
     },
     {
         "name": "Sanji",
@@ -85,7 +88,8 @@
             "💘"
         ],
         "quote": "A real man forgives a woman, no matter what she does.",
-        "technique": "Diable Jambe"
+        "technique": "Diable Jambe",
+        "aliases": "One Piece"
     },
     {
         "name": "Marshall D. Teach",
@@ -107,7 +111,8 @@
             "😈"
         ],
         "quote": "People’s dreams... never end!",
-        "technique": "Black Hole"
+        "technique": "Black Hole",
+        "aliases": "One Piece"
     },
     {
         "name": "Charlotte Linlin",
@@ -129,7 +134,8 @@
             "🏴‍☠️"
         ],
         "quote": "I want cake!!!",
-        "technique": "Life or death"
+        "technique": "Life or death",
+        "aliases": "One Piece"
     },
     {
         "name": "Satoru Gojo",
@@ -151,7 +157,8 @@
             "♾️"
         ],
         "quote": "Throughout heaven and earth, I alone am the strongest.",
-        "technique": "Limitless"
+        "technique": "Limitless",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Nobara Kugisaki",
@@ -173,7 +180,8 @@
             "👗"
         ],
         "quote": "I will kill you, you curse!",
-        "technique": "Straw Doll Technique"
+        "technique": "Straw Doll Technique",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Ryomen Sukuna",
@@ -195,7 +203,8 @@
             "🏺"
         ],
         "quote": "I am the King of Curses.",
-        "technique": "Malevolent Shrine"
+        "technique": "Malevolent Shrine",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Yuuji Itadori",
@@ -217,7 +226,8 @@
             "👊"
         ],
         "quote": "I’ll save everyone I can!",
-        "technique": "Divergent Fist"
+        "technique": "Divergent Fist",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Megumi Fushiguro",
@@ -239,7 +249,8 @@
             "🌪️"
         ],
         "quote": "I’ll protect those I care about.",
-        "technique": "Shikigami: Divine Dogs"
+        "technique": "Shikigami: Divine Dogs",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Jogo",
@@ -261,7 +272,8 @@
             "💨"
         ],
         "quote": "The world is a fiery playground.",
-        "technique": "Cursed Fire"
+        "technique": "Cursed Fire",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Mahito",
@@ -283,7 +295,8 @@
             "🖐️"
         ],
         "quote": "Bodies are just clay to shape.",
-        "technique": "Idle Death"
+        "technique": "Idle Death",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Suguru Geto",
@@ -305,7 +318,8 @@
             "💀"
         ],
         "quote": "Curses are the future of humanity.",
-        "technique": "Cursed Spirit Manipulation"
+        "technique": "Cursed Spirit Manipulation",
+        "aliases": "Jujutsu Kaisen"
     },
     {
         "name": "Kamado Tanjirou",
@@ -327,7 +341,8 @@
             "🦋"
         ],
         "quote": "I will protect my sister at all costs.",
-        "technique": "Water Breathing"
+        "technique": "Water Breathing",
+        "aliases": "Demon Slayer"
     },
     {
         "name": "Kamado Nezuko",
@@ -349,7 +364,8 @@
             "🌙"
         ],
         "quote": "I’ll protect humans, even as a demon.",
-        "technique": "Blood Demon Art: Exploding Blood"
+        "technique": "Blood Demon Art: Exploding Blood",
+        "aliases": "Demon Slayer"
     },
     {
         "name": "Inosuke Hashibira",
@@ -371,7 +387,8 @@
             "🦊"
         ],
         "quote": "I’ll show you the power of a beast!",
-        "technique": "Beast Breathing"
+        "technique": "Beast Breathing",
+        "aliases": "Demon Slayer"
     },
     {
         "name": "Zenitsu Agatsuma",
@@ -393,7 +410,8 @@
             "💛"
         ],
         "quote": "Even if I’m scared, I won’t back down!",
-        "technique": "Thunder Breathing"
+        "technique": "Thunder Breathing",
+        "aliases": "Demon Slayer"
     },
     {
         "name": "Muzan Kibutsuji",
@@ -415,7 +433,8 @@
             "🎩"
         ],
         "quote": "I am the beginning and the end of demons.",
-        "technique": "Demon Blood Manipulation"
+        "technique": "Demon Blood Manipulation",
+        "aliases": "Demon Slayer"
     },
     {
         "name": "Goku",
@@ -437,7 +456,8 @@
             "⚡"
         ],
         "quote": "I am the protector of Earth!",
-        "technique": "Kamehameha"
+        "technique": "Kamehameha",
+        "aliases": "Dragon Ball"
     },
     {
         "name": "Krillin",
@@ -459,7 +479,8 @@
             "👨‍🦲"
         ],
         "quote": "Goku, Gohan and Vegeta couldn’t even beat this monster, so what chance do I have against him? But if I don’t try… then there’s no one left to protect my friends!",
-        "technique": "Kienzan"
+        "technique": "Kienzan",
+        "aliases": "Dragon Ball"
     },
     {
         "name": "Master Roshi",
@@ -481,7 +502,8 @@
             "💨"
         ],
         "quote": "A martial artist’s heart is everything.",
-        "technique": "Kamehameha Originel"
+        "technique": "Kamehameha Originel",
+        "aliases": "Dragon Ball"
     },
     {
         "name": "Cell",
@@ -503,7 +525,8 @@
             "⚡"
         ],
         "quote": "I am the perfect being!",
-        "technique": "Solar Kamehameha"
+        "technique": "Solar Kamehameha",
+        "aliases": "Dragon Ball"
     },
     {
         "name": "Frieza",
@@ -525,7 +548,8 @@
             "👽"
         ],
         "quote": "I am the strongest in the universe.",
-        "technique": "Death Beam"
+        "technique": "Death Beam",
+        "aliases": "Dragon Ball"
     },
     {
         "name": "Buu",
@@ -547,7 +571,8 @@
             "Ⓜ️"
         ],
         "quote": "Now Buu maaad!",
-        "technique": "Chocolate Beam"
+        "technique": "Chocolate Beam",
+        "aliases": "Dragon Ball"
     },
     {
         "name": "Yugi Muto",
@@ -569,7 +594,8 @@
             "🎲"
         ],
         "quote": "I summon the heart of the cards!",
-        "technique": "Dark Magician"
+        "technique": "Dark Magician",
+        "aliases": "Yu-gi-oh"
     },
     {
         "name": "Seto Kaiba",
@@ -591,7 +617,8 @@
             "🏢"
         ],
         "quote": "Exodia! It's not possible! No one's ever been able to call him!",
-        "technique": "Blue-Eyes White Dragon"
+        "technique": "Blue-Eyes White Dragon",
+        "aliases": "Yu-gi-oh"
     },
     {
         "name": "Light Yagami",
@@ -613,7 +640,8 @@
             "💀"
         ],
         "quote": "I am justice.",
-        "technique": "Death Note"
+        "technique": "Death Note",
+        "aliases": "Death Note"
     },
     {
         "name": "L",
@@ -635,7 +663,8 @@
             "💡"
         ],
         "quote": "I solve mysteries that others cannot.",
-        "technique": "Deduction Mastery"
+        "technique": "Deduction Mastery",
+        "aliases": "Death Note"
     },
     {
         "name": "Ryuk",
@@ -657,7 +686,8 @@
             "🪶"
         ],
         "quote": "Humans are so interesting.",
-        "technique": "Shinigami Death Note"
+        "technique": "Shinigami Death Note",
+        "aliases": "Death Note"
     },
     {
         "name": "Izuku Midoriya",
@@ -679,7 +709,8 @@
             "⚡"
         ],
         "quote": "I want to be a hero like All Might!",
-        "technique": "One For All"
+        "technique": "One For All",
+        "aliases": "My Hero Academia"
     },
     {
         "name": "Katsuki Bakugo",
@@ -701,7 +732,8 @@
             "🔥"
         ],
         "quote": "I’ll surpass everyone!",
-        "technique": "Explosion Quirk"
+        "technique": "Explosion Quirk",
+        "aliases": "My Hero Academia"
     },
     {
         "name": "Ochaco Uraraka",
@@ -723,7 +755,8 @@
             "💛"
         ],
         "quote": "I want to save people with a smile!",
-        "technique": "Zero Gravity"
+        "technique": "Zero Gravity",
+        "aliases": "My Hero Academia"
     },
     {
         "name": "Tomura Shigaraki",
@@ -745,7 +778,8 @@
             "🖤"
         ],
         "quote": "Everything must be destroyed.",
-        "technique": "Decay Quirk"
+        "technique": "Decay Quirk",
+        "aliases": "My Hero Academia"
     },
     {
         "name": "All Might",
@@ -767,7 +801,8 @@
             "🦸‍♂️"
         ],
         "quote": "I am here!",
-        "technique": "One For All: Full Cowl"
+        "technique": "One For All: Full Cowl",
+        "aliases": "My Hero Academia"
     },
     {
         "name": "All For One",
@@ -789,7 +824,8 @@
             "🧬"
         ],
         "quote": "I am the ultimate villain.",
-        "technique": "All For One Quirk"
+        "technique": "All For One Quirk",
+        "aliases": "My Hero Academia"
     },
     {
         "name": "Shoto Todoroki",
@@ -811,7 +847,8 @@
             "💥"
         ],
         "quote": "I’ll fight with both fire and ice.",
-        "technique": "Flashfreeze Heatwave"
+        "technique": "Flashfreeze Heatwave",
+        "aliases": "My Hero Academia"
     },
     {
         "name": "Denji",
@@ -833,7 +870,8 @@
             "😈"
         ],
         "quote": "I’ll become the Chainsaw Man!",
-        "technique": "Chainsaw Transformation"
+        "technique": "Chainsaw Transformation",
+        "aliases": "Chainsaw Man"
     },
     {
         "name": "Makima",
@@ -855,7 +893,8 @@
             "🖤"
         ],
         "quote": "Control is everything.",
-        "technique": "Control Devil Powers"
+        "technique": "Control Devil Powers",
+        "aliases": "Chainsaw Man"
     },
     {
         "name": "Aki Hayakawa",
@@ -877,7 +916,8 @@
             "😈"
         ],
         "quote": "Turn into a devil, and show me what you can do.",
-        "technique": "Kon"
+        "technique": "Kon",
+        "aliases": "Chainsaw Man"
     },
     {
         "name": "Power",
@@ -899,7 +939,8 @@
             "💪"
         ],
         "quote": "I’ll eat anyone who gets in my way!",
-        "technique": "Blood Hammer"
+        "technique": "Blood Hammer",
+        "aliases": "Chainsaw Man"
     },
     {
         "name": "Reze",
@@ -921,7 +962,8 @@
             "🔥"
         ],
         "quote": "Love can be deadly.",
-        "technique": "Boom"
+        "technique": "Boom",
+        "aliases": "Chainsaw Man"
     },
     {
         "name": "Momo Ayase",
@@ -943,7 +985,8 @@
             "🦸‍♀️"
         ],
         "quote": "I told you my grandma's a spirit medium.",
-        "technique": null
+        "technique": null,
+        "aliases": "Dan Da Dan"
     },
     {
         "name": "Ken 'Okarun' Takakura",
@@ -965,7 +1008,8 @@
             "🧠"
         ],
         "quote": "My balls are gone!",
-        "technique": null
+        "technique": null,
+        "aliases": "Dan Da Dan"
     },
     {
         "name": "Seiko Ayase",
@@ -987,7 +1031,8 @@
             "👵"
         ],
         "quote": "If you have your chi out, you won't get hurt or sick.",
-        "technique": null
+        "technique": null,
+        "aliases": "Dan Da Dan"
     },
     {
         "name": "Aira Shiratori",
@@ -1009,7 +1054,8 @@
             "🩷"
         ],
         "quote": "Spirits don’t scare me; I scare them.",
-        "technique": null
+        "technique": null,
+        "aliases": "Dan Da Dan"
     },
     {
         "name": "Jin 'Jiji' Enjoji",
@@ -1031,7 +1077,8 @@
             "⚽"
         ],
         "quote": "Such a shweety!",
-        "technique": "Fire Spirit Strike"
+        "technique": "Fire Spirit Strike",
+        "aliases": "Dan Da Dan"
     },
     {
         "name": "Eren Yeager",
@@ -1053,7 +1100,8 @@
             "⏳"
         ],
         "quote": "I’ll exterminate every last Titan!",
-        "technique": "Attack Titan Transformation"
+        "technique": "Attack Titan Transformation",
+        "aliases": "Attack on Titan"
     },
     {
         "name": "Mikasa Ackerman",
@@ -1075,7 +1123,8 @@
             "🧣"
         ],
         "quote": "Annie… Fall.",
-        "technique": null
+        "technique": null,
+        "aliases": "Attack on Titan"
     },
     {
         "name": "Armin Arlert",
@@ -1097,7 +1146,8 @@
             "🆙"
         ],
         "quote": "Strategy wins wars, not strength alone.",
-        "technique": "Colossal Titan Transformation"
+        "technique": "Colossal Titan Transformation",
+        "aliases": "Attack on Titan"
     },
     {
         "name": "Levi Ackerman",
@@ -1119,7 +1169,8 @@
             "🧱"
         ],
         "quote": "I Choose The Hell Of Humans Killing Each Other Over The Hell Of Being Eaten.",
-        "technique": null
+        "technique": null,
+        "aliases": "Attack on Titan"
     },
     {
         "name": "Gon Freecss",
@@ -1141,7 +1192,8 @@
             "🌲"
         ],
         "quote": "I’ll find my own way, no matter what!",
-        "technique": "Jajanken"
+        "technique": "Jajanken",
+        "aliases": "Hunter x Hunter"
     },
     {
         "name": "Killua Zoldyck",
@@ -1163,7 +1215,8 @@
             "🍫"
         ],
         "quote": "I’m not afraid of anything… except losing friends.",
-        "technique": "Godspeed"
+        "technique": "Godspeed",
+        "aliases": "Hunter x Hunter"
     },
     {
         "name": "Kurapika",
@@ -1185,7 +1238,8 @@
             "📜"
         ],
         "quote": "I’ll avenge my clan, no matter the cost.",
-        "technique": "Chain Jail / Emperor Time"
+        "technique": "Chain Jail / Emperor Time",
+        "aliases": "Hunter x Hunter"
     },
     {
         "name": "Leorio Paradinight",
@@ -1207,7 +1261,8 @@
             "🏥"
         ],
         "quote": "I’ll become a doctor to save lives.",
-        "technique": null
+        "technique": null,
+        "aliases": "Hunter x Hunter"
     },
     {
         "name": "Hisoka Morow",
@@ -1229,7 +1284,8 @@
             "🤡"
         ],
         "quote": "I live for the thrill of a strong opponent.",
-        "technique": "Bungee Gum"
+        "technique": "Bungee Gum",
+        "aliases": "Hunter x Hunter"
     },
     {
         "name": "Naruto Uzumaki",
@@ -1251,7 +1307,8 @@
             "🔥"
         ],
         "quote": "I won’t run away anymore! I’ll become Hokage!",
-        "technique": "Rasengan"
+        "technique": "Rasengan",
+        "aliases": "Naruto"
     },
     {
         "name": "Sasuke Uchiha",
@@ -1273,7 +1330,8 @@
             "🕷️"
         ],
         "quote": "I hate a lot, but I will protect what’s important to me.",
-        "technique": "Chidori"
+        "technique": "Chidori",
+        "aliases": "Naruto"
     },
     {
         "name": "Sakura Haruno",
@@ -1295,7 +1353,8 @@
             "🧠"
         ],
         "quote": "Come to think of it, didn't Naruto flunk that part?",
-        "technique": null
+        "technique": null,
+        "aliases": "Naruto"
     },
     {
         "name": "Kakashi Hatake",
@@ -1317,7 +1376,8 @@
             "📚"
         ],
         "quote": "Those who break the rules are scum, but those who abandon their friends are worse.",
-        "technique": "Sharingan"
+        "technique": "Sharingan",
+        "aliases": "Naruto"
     },
     {
         "name": "Hinata Hyūga",
@@ -1339,7 +1399,8 @@
             "🕊️"
         ],
         "quote": "I will never go back on my word. I love you, Naruto.",
-        "technique": "Byakugan"
+        "technique": "Byakugan",
+        "aliases": "Naruto"
     },
     {
         "name": "Madara Uchiha",
@@ -1361,7 +1422,8 @@
             "👁️"
         ],
         "quote": "Wake up to reality! Nothing ever goes as you plan in this world.",
-        "technique": "Eternal Mangekyō Sharingan"
+        "technique": "Eternal Mangekyō Sharingan",
+        "aliases": "Naruto"
     },
     {
         "name": "Orochimaru",
@@ -1383,7 +1445,8 @@
             "🩸"
         ],
         "quote": "The moment people come to know love, they run the risk of carrying hate.",
-        "technique": "Snake Techniques / Reanimation Jutsu"
+        "technique": "Snake Techniques / Reanimation Jutsu",
+        "aliases": "Naruto"
     },
     {
         "name": "Zero Two",
@@ -1405,7 +1468,8 @@
             "🩸"
         ],
         "quote": "Darling, I’ll always be with you, even if it kills me.",
-        "technique": null
+        "technique": null,
+        "aliases": "Darling in the Franxx"
     },
     {
         "name": "Ken Kaneki",
@@ -1427,7 +1491,8 @@
             "🗡️"
         ],
         "quote": "I’m not the protagonist of a novel or anything… I’m a college student.",
-        "technique": "Kagune"
+        "technique": "Kagune",
+        "aliases": "Tokyo Ghoul"
     },
     {
         "name": "Touka Kirishima",
@@ -1449,7 +1514,8 @@
             "🧟"
         ],
         "quote": "Such is a ghoul's hunger, and our destiny.",
-        "technique": "Kagune: Ukaku Type"
+        "technique": "Kagune: Ukaku Type",
+        "aliases": "Tokyo Ghoul"
     },
     {
         "name": "Juuzou Suzuya",
@@ -1471,7 +1537,8 @@
             "🎭"
         ],
         "quote": "Pain is just another way to enjoy life.",
-        "technique": "Custom Quinque Techniques"
+        "technique": "Custom Quinque Techniques",
+        "aliases": "Tokyo Ghoul"
     },
     {
         "name": "Eto Yoshimura",
@@ -1493,7 +1560,8 @@
             "🎤"
         ],
         "quote": "Humans and ghouls will never coexist. That’s reality.",
-        "technique": "Kagune: Rinkaku Type"
+        "technique": "Kagune: Rinkaku Type",
+        "aliases": "Tokyo Ghoul"
     },
     {
         "name": "Saitama",
@@ -1515,7 +1583,8 @@
             "🍌"
         ],
         "quote": "I’m just a hero for fun, nothing more.",
-        "technique": "One Punch"
+        "technique": "One Punch",
+        "aliases": "One Punch Man"
     },
     {
         "name": "Natsu Dragneel",
@@ -1537,7 +1606,8 @@
             "🥊"
         ],
         "quote": "I’m not alone. My friends are my power!",
-        "technique": "Fire Dragon Slayer Magic"
+        "technique": "Fire Dragon Slayer Magic",
+        "aliases": "Fairy Tail"
     },
     {
         "name": "Lucy Heartfilia",
@@ -1559,7 +1629,8 @@
             "💫"
         ],
         "quote": "I'll protect my friends with my own magic!",
-        "technique": "Celestial Spirit Magic"
+        "technique": "Celestial Spirit Magic",
+        "aliases": "Fairy Tail"
     },
     {
         "name": "Gray Fullbuster",
@@ -1581,7 +1652,8 @@
             "💪"
         ],
         "quote": "Ice and fury will crush my enemies.",
-        "technique": "Ice-Make Magic"
+        "technique": "Ice-Make Magic",
+        "aliases": "Fairy Tail"
     },
     {
         "name": "Erza Scarlet",
@@ -1603,7 +1675,8 @@
             "❤️"
         ],
         "quote": "I’ll never let anyone harm my guild!",
-        "technique": "Requip: The Knight"
+        "technique": "Requip: The Knight",
+        "aliases": "Fairy Tail"
     },
     {
         "name": "Zeref Dragneel",
@@ -1625,7 +1698,8 @@
             "🖤"
         ],
         "quote": "Life and death are meaningless to me.",
-        "technique": "Ankhseram Black Magic"
+        "technique": "Ankhseram Black Magic",
+        "aliases": "Fairy Tail"
     },
     {
         "name": "Kirito",
@@ -1647,7 +1721,8 @@
             "⚡"
         ],
         "quote": "Levels are just numbers.",
-        "technique": "Dual Blades"
+        "technique": "Dual Blades",
+        "aliases": "Sword Art Online"
     },
     {
         "name": "Asuna Yuuki",
@@ -1669,7 +1744,8 @@
             "🛡️"
         ],
         "quote": "If we make it back to the real world, I'll find you. And fall in love with you all over again.",
-        "technique": "Knights of the Blood Flash"
+        "technique": "Knights of the Blood Flash",
+        "aliases": "Sword Art Online"
     },
     {
         "name": "Sinon",
@@ -1691,7 +1767,8 @@
             "👓"
         ],
         "quote": "I Can’t Shoot",
-        "technique": null
+        "technique": null,
+        "aliases": "Sword Art Online"
     },
     {
         "name": "Saber",
@@ -1713,7 +1790,8 @@
             "🛡️"
         ],
         "quote": "I am the bone of my sword.",
-        "technique": "Excalibur"
+        "technique": "Excalibur",
+        "aliases": "Fate/stay night"
     },
     {
         "name": "Archer",
@@ -1735,7 +1813,8 @@
             "🎯"
         ],
         "quote": "I fight for the future that cannot exist.",
-        "technique": "Unlimited Blade Works"
+        "technique": "Unlimited Blade Works",
+        "aliases": "Fate/stay night"
     },
     {
         "name": "Sung Jinwoo",
@@ -1757,7 +1836,8 @@
             "💀"
         ],
         "quote": "Arise.",
-        "technique": "Shadow Extraction"
+        "technique": "Shadow Extraction",
+        "aliases": "Solo Leveling"
     },
     {
         "name": "Cha Hae-In",
@@ -1779,7 +1859,8 @@
             "🎮"
         ],
         "quote": "I don't see him. Did he quit mining work?",
-        "technique": "Mana Smell"
+        "technique": "Mana Smell",
+        "aliases": "Solo Leveling"
     },
     {
         "name": "Beru",
@@ -1801,7 +1882,8 @@
             "🕷️"
         ],
         "quote": "I exist only to follow my master's command.",
-        "technique": null
+        "technique": null,
+        "aliases": "Solo Leveling"
     },
     {
         "name": "Ichigo Kurosaki",
@@ -1823,7 +1905,8 @@
             "😠"
         ],
         "quote": "If fate is a millstone, then we are the ones that make it turn.",
-        "technique": "Getsuga Tenshō"
+        "technique": "Getsuga Tenshō",
+        "aliases": "Bleach"
     },
     {
         "name": "Rukia Kuchiki",
@@ -1845,7 +1928,8 @@
             "💙"
         ],
         "quote": "We are all like fireworks: we climb, shine, and then go our separate ways.",
-        "technique": "Sode no Shirayuki"
+        "technique": "Sode no Shirayuki",
+        "aliases": "Bleach"
     },
     {
         "name": "Renji Abarai",
@@ -1867,7 +1951,8 @@
             "🔥"
         ],
         "quote": "I won't let you touch Rukia, no matter what!",
-        "technique": "Zabimaru"
+        "technique": "Zabimaru",
+        "aliases": "Bleach"
     },
     {
         "name": "Byakuya Kuchiki",
@@ -1889,7 +1974,8 @@
             "👑"
         ],
         "quote": "A captain should never lose his composure.",
-        "technique": "Senbonzakura Kageyoshi"
+        "technique": "Senbonzakura Kageyoshi",
+        "aliases": "Bleach"
     },
     {
         "name": "Sōsuke Aizen",
@@ -1911,7 +1997,8 @@
             "🌀"
         ],
         "quote": "Do not fear me. You fear your own weakness.",
-        "technique": "Kyōka Suigetsu"
+        "technique": "Kyōka Suigetsu",
+        "aliases": "Bleach"
     },
     {
         "name": "Twenty-Fifth Bam",
@@ -1933,7 +2020,8 @@
             "🧒"
         ],
         "quote": "I'm climbing the Tower to see Rachel again.",
-        "technique": "Shinsu Manipulation"
+        "technique": "Shinsu Manipulation",
+        "aliases": "Tower of God"
     },
     {
         "name": "Khun Aguero Agnis",
@@ -1955,7 +2043,8 @@
             "😏"
         ],
         "quote": "A good plan is worth more than a thousand fights.",
-        "technique": "Ice Shinsu Control"
+        "technique": "Ice Shinsu Control",
+        "aliases": "Tower of God"
     },
     {
         "name": "Rak Wraithraiser",
@@ -1977,7 +2066,8 @@
             "🍫"
         ],
         "quote": "You are all turtles!",
-        "technique": null
+        "technique": null,
+        "aliases": "Tower of God"
     },
     {
         "name": "Rachel",
@@ -1999,7 +2089,8 @@
             "💔"
         ],
         "quote": "I just wanted to see the stars.",
-        "technique": null
+        "technique": null,
+        "aliases": "Tower of God"
     },
     {
         "name": "Androssi Zahard",
@@ -2021,7 +2112,8 @@
             "😏"
         ],
         "quote": "In this Tower, you either step on others or get stepped on.",
-        "technique": null
+        "technique": null,
+        "aliases": "Tower of God"
     },
     {
         "name": "Edward Elric",
@@ -2043,7 +2135,8 @@
             "💛"
         ],
         "quote": "A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something in return.",
-        "technique": "Alchemy"
+        "technique": "Alchemy",
+        "aliases": "Fullmetal Alchemist"
     },
     {
         "name": "Alphonse Elric",
@@ -2065,7 +2158,8 @@
             "😇"
         ],
         "quote": "Humankind cannot gain anything without first giving something in return.",
-        "technique": "Soul Binding"
+        "technique": "Soul Binding",
+        "aliases": "Fullmetal Alchemist"
     },
     {
         "name": "Roy Mustang",
@@ -2087,7 +2181,8 @@
             "🇦🇷"
         ],
         "quote": "It's a terrible day for rain.",
-        "technique": "Flame Alchemy"
+        "technique": "Flame Alchemy",
+        "aliases": "Fullmetal Alchemist"
     },
     {
         "name": "Scar",
@@ -2109,7 +2204,8 @@
             "✋"
         ],
         "quote": "The world runs on power. Those who cannot wield it are left to die.",
-        "technique": "Destruction Alchemy"
+        "technique": "Destruction Alchemy",
+        "aliases": "Fullmetal Alchemist"
     },
     {
         "name": "Envy",
@@ -2131,7 +2227,8 @@
             "🌀"
         ],
         "quote": "Humans are so fragile, yet so full of pride. How disgusting.",
-        "technique": "Shapeshifting"
+        "technique": "Shapeshifting",
+        "aliases": "Fullmetal Alchemist"
     },
     {
         "name": "Ainz Ooal Gown",
@@ -2153,7 +2250,8 @@
             "🕯️"
         ],
         "quote": "I am Ainz Ooal Gown, the master of death!",
-        "technique": "Super-Tier Magic"
+        "technique": "Super-Tier Magic",
+        "aliases": "Overlord"
     },
     {
         "name": "Albedo",
@@ -2175,7 +2273,8 @@
             "💋"
         ],
         "quote": "My love for Lord Ainz is eternal!",
-        "technique": "Guardian Command"
+        "technique": "Guardian Command",
+        "aliases": "Overlord"
     },
     {
         "name": "Shalltear Bloodfallen",
@@ -2197,7 +2296,8 @@
             "💀"
         ],
         "quote": "I live only to serve you, Lord Ainz!",
-        "technique": "Blood Frenzy"
+        "technique": "Blood Frenzy",
+        "aliases": "Overlord"
     },
     {
         "name": "Sebas Tian",
@@ -2219,7 +2319,8 @@
             "💥"
         ],
         "quote": "Mercy is not weakness. It’s strength under control.",
-        "technique": null
+        "technique": null,
+        "aliases": "Overlord"
     },
     {
         "name": "Akame",
@@ -2241,7 +2342,8 @@
             "👁️"
         ],
         "quote": "Those who are weak have no choice but to be destroyed.",
-        "technique": "Murasame – One-Cut Kill"
+        "technique": "Murasame – One-Cut Kill",
+        "aliases": "Akame ga Kill!"
     },
     {
         "name": "Esdeath",
@@ -2263,7 +2365,8 @@
             "⚔️"
         ],
         "quote": "The strong survive and the weak die — that is the rule of the world.",
-        "technique": "Mahapadma (Time Freeze)"
+        "technique": "Mahapadma (Time Freeze)",
+        "aliases": "Akame ga Kill!"
     },
     {
         "name": "Koro-sensei",
@@ -2285,7 +2388,8 @@
             "💨"
         ],
         "quote": "The difference between the novice and the master is that the master has failed more times than the novice has tried.",
-        "technique": "Mach 20 Speed"
+        "technique": "Mach 20 Speed",
+        "aliases": "Assassination Classroom"
     },
     {
         "name": "Nagisa Shiota",
@@ -2307,7 +2411,8 @@
             "🎯"
         ],
         "quote": "It’s not about how you fight, but how you finish it.",
-        "technique": "Assassination Technique – Calm Stance"
+        "technique": "Assassination Technique – Calm Stance",
+        "aliases": "Assassination Classroom"
     },
     {
         "name": "Karma Akabane",
@@ -2329,7 +2434,8 @@
             "🧠"
         ],
         "quote": "Rules exist so you can break them.",
-        "technique": "Deceptive Counterattack"
+        "technique": "Deceptive Counterattack",
+        "aliases": "Assassination Classroom"
     },
     {
         "name": "Loid Forger",
@@ -2351,7 +2457,8 @@
             "😎"
         ],
         "quote": "I must keep my mission a secret, no matter what.",
-        "technique": null
+        "technique": null,
+        "aliases": "Spy x Family"
     },
     {
         "name": "Yor Forger",
@@ -2373,7 +2480,8 @@
             "😈"
         ],
         "quote": "I kill to protect those I love.",
-        "technique": null
+        "technique": null,
+        "aliases": "Spy x Family"
     },
     {
         "name": "Anya Forger",
@@ -2395,7 +2503,8 @@
             "😜"
         ],
         "quote": "I know what everyone is thinking!",
-        "technique": "Telepathy"
+        "technique": "Telepathy",
+        "aliases": "Spy x Family"
     },
     {
         "name": "Frieren",
@@ -2417,7 +2526,8 @@
             "📚"
         ],
         "quote": "Time moves differently for elves, but memories linger longer than years.",
-        "technique": null
+        "technique": null,
+        "aliases": "Frieren: Beyond Journey’s End"
     },
     {
         "name": "Himmel",
@@ -2439,7 +2549,8 @@
             "🌿"
         ],
         "quote": "We live on by remembering those who walked before us.",
-        "technique": null
+        "technique": null,
+        "aliases": "Frieren: Beyond Journey’s End"
     },
     {
         "name": "Fern",
@@ -2461,7 +2572,8 @@
             "🪄"
         ],
         "quote": "Magic is more than power; it is the mark of memories we carry.",
-        "technique": null
+        "technique": null,
+        "aliases": "Frieren: Beyond Journey’s End"
     },
     {
         "name": "Shinra Kusakabe",
@@ -2483,7 +2595,8 @@
             "🚒"
         ],
         "quote": "Devil’s Footprints, ignite!",
-        "technique": "Ignition Ability – Flame Feet"
+        "technique": "Ignition Ability – Flame Feet",
+        "aliases": "Fire Force"
     },
     {
         "name": "Arthur Boyle",
@@ -2505,7 +2618,8 @@
             "🤴"
         ],
         "quote": "I am the true knight!",
-        "technique": "Plasma Sword Manipulation"
+        "technique": "Plasma Sword Manipulation",
+        "aliases": "Fire Force"
     },
     {
         "name": "Maki Oze",
@@ -2527,7 +2641,8 @@
             "🚒"
         ],
         "quote": "I fight not just with fire, but with my heart!",
-        "technique": "Flame Manipulation"
+        "technique": "Flame Manipulation",
+        "aliases": "Fire Force"
     },
     {
         "name": "Joker",
@@ -2549,7 +2664,8 @@
             "😈"
         ],
         "quote": "Chaos is the flame that reveals the truth.",
-        "technique": null
+        "technique": null,
+        "aliases": "Fire Force"
     },
     {
         "name": "Violet Evergarden",
@@ -2571,7 +2687,8 @@
             "🖋️"
         ],
         "quote": "I want to know what 'I love you' means.",
-        "technique": null
+        "technique": null,
+        "aliases": "Violet Evergarden"
     },
     {
         "name": "Senku Ishigami",
@@ -2593,7 +2710,8 @@
             "🧑‍🔬"
         ],
         "quote": "Science will save us, no matter what!",
-        "technique": null
+        "technique": null,
+        "aliases": "Dr. Stone"
     },
     {
         "name": "Yuzuriha Ogawa",
@@ -2615,7 +2733,8 @@
             "🧵"
         ],
         "quote": "Even in a stone world, love can bloom.",
-        "technique": null
+        "technique": null,
+        "aliases": "Dr. Stone"
     },
     {
         "name": "Tsukasa Shishio",
@@ -2637,7 +2756,8 @@
             "🌪️"
         ],
         "quote": "Only the strong should rule the new world.",
-        "technique": null
+        "technique": null,
+        "aliases": "Dr. Stone"
     },
     {
         "name": "Rin Okumura",
@@ -2659,7 +2779,8 @@
             "💙"
         ],
         "quote": "I’m Rin Okumura, son of Satan. I’ll protect those I care about!",
-        "technique": "Blue Flames"
+        "technique": "Blue Flames",
+        "aliases": "Blue Exorcist"
     },
     {
         "name": "Yukio Okumura",
@@ -2681,7 +2802,8 @@
             "😈"
         ],
         "quote": "Even if I can’t use the flames, I’ll fight with all I have.",
-        "technique": null
+        "technique": null,
+        "aliases": "Blue Exorcist"
     },
     {
         "name": "Soma Yukihira",
@@ -2703,7 +2825,8 @@
             "😎"
         ],
         "quote": "Cooking is not just about ingredients, it’s about heart and creativity!",
-        "technique": null
+        "technique": null,
+        "aliases": "Food Wars!"
     },
     {
         "name": "Erina Nakiri",
@@ -2725,7 +2848,8 @@
             "😤"
         ],
         "quote": "The taste of food should be felt in the soul!",
-        "technique": null
+        "technique": null,
+        "aliases": "Food Wars!"
     },
     {
         "name": "Megumi Tadokoro",
@@ -2747,7 +2871,8 @@
             "😊"
         ],
         "quote": "Cooking isn’t just a skill; it’s sharing your feelings with others.",
-        "technique": null
+        "technique": null,
+        "aliases": "Food Wars!"
     },
     {
         "name": "Ryo Kurokiba",
@@ -2769,7 +2894,8 @@
             "🖤"
         ],
         "quote": "Cooking is a battlefield; only the sharpest survive.",
-        "technique": null
+        "technique": null,
+        "aliases": "Food Wars!"
     },
     {
         "name": "Guts",
@@ -2791,7 +2917,8 @@
             "🐺"
         ],
         "quote": "There is no paradise for you to escape to.",
-        "technique": "Berserker Armor Surge"
+        "technique": "Berserker Armor Surge",
+        "aliases": "Berserk"
     },
     {
         "name": "Griffith",
@@ -2813,7 +2940,8 @@
             "💀"
         ],
         "quote": "To achieve my dream, I am prepared to crush anything that stands in my way..",
-        "technique": "Noble escrime"
+        "technique": "Noble escrime",
+        "aliases": "Berserk"
     },
     {
         "name": "Casca",
@@ -2835,7 +2963,8 @@
             "😭"
         ],
         "quote": "I fight for my own heart, not to live in someone’s shadow.",
-        "technique": "Shortsword proficiency"
+        "technique": "Shortsword proficiency",
+        "aliases": "Berserk"
     },
     {
         "name": "Nosferatu Zodd",
@@ -2857,6 +2986,7 @@
             "🩸"
         ],
         "quote": "Only those who survive may stand upon the battlefield.",
-        "technique": "Apostle transformation"
+        "technique": "Apostle transformation",
+        "aliases": "Berserk"
     }
 ]

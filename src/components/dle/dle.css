@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   background-size: cover;
+  background-position: center;
   height: 100vh;
   padding: 1vh;
   overflow: auto;
@@ -190,13 +191,11 @@
 }
 
 .superior {
-  background-color: red;
   background-image: url("../../assets/down-arrow.png");
   background-size: contain;
 }
 
 .inferior {
-  background-color: red;
   background-image: url("../../assets/up-arrow.png");
   background-size: contain;
 }

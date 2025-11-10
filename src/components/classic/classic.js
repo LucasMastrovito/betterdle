@@ -7,6 +7,7 @@ import { getTries, saveTry } from "../utils/save";
 import Searchbar from "../dle/searchbar";
 import Tipscard from "../dle/tipscard";
 import { getRandomCharacter, getYesterdayCharacter } from "../utils/getrandom";
+import { getUniqueValues } from "../utils/utils";
 
 function Classic(props) {
   const random = getRandomCharacter(props.data, props.mode + props.modeFilter);
@@ -19,7 +20,7 @@ function Classic(props) {
   const [loading, setLoading] = useState(true);
   const rowRef = useRef(null);
   const [hasScroll, setHasScroll] = useState(false);
-
+console.log(getUniqueValues(data, "name"))
   useEffect(() => {
     const checkScroll = () => {
       const el = rowRef.current;

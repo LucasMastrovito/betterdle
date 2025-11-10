@@ -1,0 +1,33 @@
+@font-face {
+    font-family: marvel;
+    src: url("../assets/fonts/Marvel-Regular.ttf");
+}
+
+.dle-marvel {
+    background-image: radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 70%), url("../assets/marvel-bg.jpg");
+    font-family: marvel;
+}
+
+.card-marvel {
+    background-color: rgb(218, 14, 14);
+    border: 3px white solid;
+}
+
+.card-marvel {
+    background-image: url("../assets/card-anime.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px black solid;
+}
+
+.dlemenubtn-marvel {
+    background-image: url("../assets/card-anime.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 3px black solid;
+    color: black;
+}
+
+.dlemenubtn-text-marvel p {
+    color: black;
+}

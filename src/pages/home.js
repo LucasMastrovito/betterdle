@@ -37,6 +37,12 @@ function Home() {
                         <Dlebtn key={4} link={'/toons'} logo='toons' />
                     ]}
                 />
+                <Dlelist
+                    name="Comics"
+                    buttons={[
+                        <Dlebtn key={1} link={'/marvel'} logo='marvel' />
+                    ]}
+                />
                 {/* <Dlelist
                     name="Geography"
                     buttons={[

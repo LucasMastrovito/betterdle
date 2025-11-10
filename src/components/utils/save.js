@@ -26,18 +26,18 @@ export function getTries(game, mode, filter) {
 }
 
 export function saveLang(game, langValue) {
-  const stored = localStorage.getItem("dleData");
+  const stored = localStorage.getItem("dleLang");
   let data = stored ? JSON.parse(stored) : {};
 
   if (!data[game]) {
     data[game] = {};
   }
   data[game]["lang"] = { lang: langValue };
-  localStorage.setItem("dleData", JSON.stringify(data));
+  localStorage.setItem("dleLang", JSON.stringify(data));
 }
 
 export function getLang(game) {
-  const stored = localStorage.getItem("dleData");
+  const stored = localStorage.getItem("dleLang");
   if (!stored) return "en";
 
   const data = JSON.parse(stored);
