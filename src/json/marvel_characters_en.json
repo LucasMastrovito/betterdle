@@ -1505,14 +1505,14 @@
         "image_url": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8041788-captain_america_vol_9_13_bring_on_the_bad_guys_variant_textless.jpg",
         "aliases": "Red Skull",
         "gender": "Male",
-        "species": "Human",
+        "species": "Modified Human",
         "affiliations": "Hydra;A.I.M.",
         "side": "Villain",
         "powers": "Tactical genius;Leadership;Chemistry",
         "year": 1941,
         "identity": "Public",
         "nationality": "German",
-        "relations": "Baron Zemo;Crossbones;Hitler"
+        "relations": "Baron Zemo;Crossbones;Hydra"
     },
     {
         "name": "M.O.D.O.K",
