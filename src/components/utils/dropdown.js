@@ -18,9 +18,15 @@ function Dropdown(props) {
     return (
         <div className="dropdown">
             <label htmlFor={props.name} className="outline">{props.name.toUpperCase()}</label>
-            <select className="select" name={props.name} onChange={change} value={props.options[selected].props.value}>
-                {props.options}
-            </select>
+            {props.name === "language" ?
+                <select className="select" name={props.name} onChange={change} value={props.options[selected].props.value}>
+                    {props.options}
+                </select>
+                :
+                <select className="select" name={props.name} onChange={change}>
+                    {props.options}
+                </select>
+            }
         </div>
     )
 }
