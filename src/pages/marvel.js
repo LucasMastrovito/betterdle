@@ -15,7 +15,7 @@ function Marvel() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily Marvel character" name="marvel" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"marvel"} mode="classic" desc={"Find the daily character"} fields={fields} first_tips={{name: "", key: ""}} second_tips={{name: "", key: ""}} />,
+        <Classic key={'classic'} name={"marvel"} mode="classic" desc={"Find the daily character"} fields={fields} first_tips={{name: "Affiliations", key: "affiliations"}} second_tips={{name: "Relations", key: "relations"}} />,
         <Findmode key={'name'} name={"marvel"} mode="name" desc={"Guess from the real name"} filter="real_name" />,
         <Findmode key={'picture'} name={"marvel"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
