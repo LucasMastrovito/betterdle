@@ -1,0 +1,42 @@
+[
+    {
+        "key": "image_url",
+        "title": "Character",
+        "type": "none"
+    },
+    {
+        "key": "Gender",
+        "title": "Gender",
+        "type": "equal"
+    },
+    {
+        "key": "House",
+        "title": "House",
+        "type": "equal"
+    },
+    {
+        "key": "Species",
+        "title": "Species",
+        "type": "equal"
+    },
+    {
+        "key": "Job",
+        "title": "Job",
+        "type": "equal"
+    },
+    {
+        "key": "age",
+        "title": "Age",
+        "type": "number"
+    },
+    {
+        "key": "Death",
+        "title": "Status",
+        "type": "equal"
+    },
+    {
+        "key": "Blood status",
+        "title": "Blood",
+        "type": "equal"
+    }
+]

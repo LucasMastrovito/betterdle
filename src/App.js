@@ -20,6 +20,7 @@ import Actors from './pages/actors';
 import Mario from './pages/mario';
 import Countries from './pages/countries';
 import Marvel from './pages/marvel';
+import Hp from './pages/hp';
 
 function App() {
   useEffect(() => {
@@ -56,6 +57,7 @@ function App() {
           <Route path='/mario' element={<Mario />} />
           <Route path='/countries' element={<Countries />} />
           <Route path='/marvel' element={<Marvel />} />
+          <Route path='/hp' element={<Hp />} />
         </Routes>
       </BrowserRouter>
     </div>
