@@ -1,4 +1,5 @@
 export function isImg(str) {
+    str = str.toLowerCase();
     return str.includes(".png") || str.includes(".jpg") || str.includes(".jpeg") || str.includes(".webp") || str.includes(".gif") || str.includes(".svg")
 }
 

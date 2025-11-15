@@ -1,7 +1,22 @@
-.dle-sw {
-    background-image: radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 70%), url("../assets/sw-bg.jpg");
+@font-face {
+    font-family: hp;
+    src: url("../assets/fonts/HARRYP__.TTF");
 }
 
-.card-sw {
-    background-color: rgba(255, 228, 196, 0.5);
+.dle-hp {
+    background-image: radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 70%), url("../assets/hp-bg.png");
+    font-family: hp;
+}
+
+.dle-hp h2 {
+    font-size: clamp(2.25rem, 2.5vw, 2.5rem);
+}
+
+.dle-hp h3 {
+    font-size: clamp(2.1rem, 2vw, 2.25rem);
+}
+
+.card-hp {
+    background-color: #0e1a40;
+    border: 2px #aaaaaa solid;
 }

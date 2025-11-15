@@ -5,23 +5,13 @@
         "type": "none"
     },
     {
-        "key": "Gender",
+        "key": "gender",
         "title": "Gender",
         "type": "equal"
     },
     {
-        "key": "House",
-        "title": "House",
-        "type": "equal"
-    },
-    {
-        "key": "Species",
+        "key": "species",
         "title": "Species",
-        "type": "equal"
-    },
-    {
-        "key": "Job",
-        "title": "Job",
         "type": "equal"
     },
     {
@@ -30,13 +20,33 @@
         "type": "number"
     },
     {
-        "key": "Death",
+        "key": "death",
         "title": "Status",
         "type": "equal"
     },
     {
-        "key": "Blood status",
+        "key": "blood",
         "title": "Blood",
+        "type": "equal"
+    },
+    {
+        "key": "job",
+        "title": "Job",
+        "type": "equal"
+    },
+    {
+        "key": "house",
+        "title": "House",
+        "type": "equal"
+    },
+    {
+        "key": "loyalty",
+        "title": "Affiliations",
+        "type": "equal"
+    },
+    {
+        "key": "patronus",
+        "title": "Patronus",
         "type": "equal"
     }
 ]
