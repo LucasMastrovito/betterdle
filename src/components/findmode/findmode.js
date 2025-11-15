@@ -123,7 +123,9 @@ function Findmode(props) {
                                 <h1 className="outline">{props.array ?
                                     <div style={{ display: "flex" }}>
                                         {Array.from({ length: tries + 1 }, (_, i) => (
-                                            random[props.filter][i] + " "
+                                            random[props.filter][i] !== undefined
+                                                ? random[props.filter][i] + " "
+                                                : ""
                                         ))}
                                     </div> : filter}</h1>
                                 <Tipscard name={props.name} random={random} tries={tries} first_tips={props.first_tips} second_tips={props.second_tips} />
