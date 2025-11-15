@@ -25,6 +25,10 @@ function Hp() {
                 name="hp"
                 buttons={buttons}
                 modes={modes}
+                lang={[
+                    <option key={1} className="option" value="en">English</option>,
+                    <option key={2} className="option" value="fr">Français</option>
+                ]}
             />
         </div>
     )

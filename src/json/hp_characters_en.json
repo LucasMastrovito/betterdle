@@ -380,7 +380,7 @@
   {
     "name": "Arthur Weasley",
     "gender": "Male",
-    "job": "Head of the Misuse of Muggle Artefacts Office",
+    "job": "Employee of the Ministry of Magic",
     "house": "Gryffindor",
     "patronus": "Weasel",
     "species": "Human",
@@ -591,7 +591,7 @@
   {
     "name": "Dolores Jane Umbridge",
     "gender": "Female",
-    "job": "Professor;Department of Magical Law Enforcement",
+    "job": "Professor;Employee of the Ministry of Magic",
     "house": "Slytherin",
     "patronus": "Cat",
     "species": "Human",
@@ -619,7 +619,7 @@
   {
     "name": "Lucius Malfoy",
     "gender": "Male",
-    "job": "School Governor",
+    "job": "Employee of the Ministry of Magic",
     "house": "Slytherin",
     "patronus": "Unknown",
     "species": "Human",
@@ -638,7 +638,7 @@
     "patronus": "Unknown",
     "species": "Human",
     "blood": "Pure-blood",
-    "loyalty": "Malfoy Family;Lord Voldemort;Death Eaters",
+    "loyalty": "Malfoy Family;Lord Voldemort;Death Eaters;House of Black",
     "death": "Alive",
     "image_url": "https://static.wikia.nocookie.net/harrypotter/images/7/78/Narcissa_Malfoy.png",
     "actor": "Helen McCrory",
@@ -956,7 +956,7 @@
   {
     "name": "Corban Yaxley",
     "gender": "Male",
-    "job": "Head of the Department of Magical Law Enforcement",
+    "job": "Employee of the Ministry of Magic",
     "house": "Slytherin",
     "patronus": "None",
     "species": "Human",
@@ -1040,7 +1040,7 @@
   {
     "name": "Rufus Scrimgeour",
     "gender": "Male",
-    "job": "Head of Auror Office;Minister for Magic",
+    "job": "Minister for Magic",
     "house": "None",
     "patronus": "Non-corporeal",
     "species": "Human",
@@ -1082,7 +1082,7 @@
   {
     "name": "Amos Diggory",
     "gender": "Male",
-    "job": "Employee of the Department for the Regulation and Control of Magical Creatures",
+    "job": "Employee of the Ministry of Magic",
     "house": "None",
     "patronus": "Non-corporeal",
     "species": "Human",
@@ -1096,7 +1096,7 @@
   {
     "name": "Elphias Doge",
     "gender": "Male",
-    "job": "Special Advisor to the Wizengamot",
+    "job": "Employee of the Ministry of Magic;Special Advisor to the Wizengamot",
     "house": "None",
     "patronus": "Non-corporeal",
     "species": "Human",
@@ -1343,6 +1343,20 @@
     "death": "Alive",
     "image_url": "https://static.wikia.nocookie.net/harrypotter/images/d/d4/Kreacher_HPE.jpg",
     "actor": "Timothy Bateson",
+    "age": null
+  },
+  {
+    "name": "Griphook",
+    "gender": "Male",
+    "job": "Gringotts Employee",
+    "house": "None",
+    "patronus": "Unknown",
+    "species": "Goblin",
+    "blood": "Goblin",
+    "loyalty": "Gringotts",
+    "death": "Dead",
+    "image_url": "https://static.wikia.nocookie.net/harrypotter/images/5/53/Griphook_TDH_SF.png",
+    "actor": "Verne Troyer",
     "age": null
   }
 ]
