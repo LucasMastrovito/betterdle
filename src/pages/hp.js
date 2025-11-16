@@ -14,8 +14,8 @@ function Hp() {
 
     const modes = [
         <Dlemenu key={'menu'} title="Guess the daily wizard" name="hp" menu={true} buttons={buttons} />,
-        <Classic key={'classic'} name={"hp"} mode="classic" desc={"Find the daily wizard"} fields={fields} first_tips={{ name: "Type", key: "type" }} second_tips={{ name: "Family", key: "family" }} />,
-        <Findmode key={'actor'} name={"hp"} mode="actor" desc={"Guess from the actor"} filter="actor" />,
+        <Classic key={'classic'} name={"hp"} mode="classic" desc={"Find the daily wizard"} fields={fields} first_tips={{ name: "Affiliations", key: "loyalty" }} second_tips={{ name: "Patronus", key: "patronus" }} />,
+        <Findmode key={'actor'} name={"hp"} mode="actor" desc={"Guess from the actor"} filter="actor" first_tips={{ name: "Affiliations", key: "loyalty" }} second_tips={{ name: "Patronus", key: "patronus" }} />,
         <Findmode key={'picture'} name={"hp"} mode="picture" desc={"Guess from a filtered image"} filter="image_url" />
     ];
 
