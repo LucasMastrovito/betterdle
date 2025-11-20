@@ -1358,5 +1358,33 @@
     "image_url": "https://static.wikia.nocookie.net/harrypotter/images/5/53/Griphook_TDH_SF.png",
     "actor": "Verne Troyer",
     "age": null
+  },
+  {
+    "name": "Rita Skeeter",
+    "gender": "Female",
+    "job": "Gossip Correspondant",
+    "house": "None",
+    "patronus": "Non-corporeal",
+    "species": "Human",
+    "blood": "Unknown",
+    "loyalty": "Daily Prophet",
+    "death": "Alive",
+    "image_url": "https://static.wikia.nocookie.net/harrypotter/images/c/c3/Harry-potter-goblet-of-fire_rita_camera_man.jpg",
+    "actor": "Miranda Richardson",
+    "age": 47
+  },
+  {
+    "name": "Xenophilius Lovegood",
+    "gender": "Male",
+    "job": "Editor of The Quibbler",
+    "house": "Ravenclaw",
+    "patronus": "Non-corporeal",
+    "species": "Human",
+    "blood": "Unknown",
+    "loyalty": "Harry Potter;The Quibbler;Order of the Phoenix",
+    "death": "Alive",
+    "image_url": "https://static.wikia.nocookie.net/harrypotter/images/5/54/Xenophilius_Lovegood_Promo_Shot.jpg",
+    "actor": "Rhys Ifans",
+    "age": 34
   }
 ]
